@@ -1,0 +1,16 @@
+#!/bin/sh
+# Pre-push hook: runs next build before every push.
+# If the build fails, the push is blocked.
+
+echo "🔨 Running build check before push..."
+npm run build
+
+if [ $? -ne 0 ]; then
+  echo ""
+  echo "❌ Build failed — push blocked."
+  echo "   Fix the errors above, then try again."
+  exit 1
+fi
+
+echo "✅ Build passed — pushing."
+exit 0

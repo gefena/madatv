@@ -4,9 +4,9 @@ import { I18nProvider } from "@/lib/i18n";
 import { Header } from "@/components/layout/Header";
 
 export const metadata: Metadata = {
-  title: "Life — How the Human Body Works",
+  title: "MadaTV — Science TV for Kids",
   description:
-    "Watch the Life documentary series and test your knowledge with interactive quizzes. Available in English and Hebrew.",
+    "Watch educational science series, learn key concepts, and test your knowledge with interactive quizzes. Available in English and Hebrew.",
 };
 
 export default function RootLayout({
@@ -23,7 +23,7 @@ export default function RootLayout({
             <main className="flex-1">{children}</main>
             <footer className="border-t-2 border-indigo-100 bg-white py-8 px-4 text-center space-y-2">
               <p className="text-sm font-black text-indigo-400">
-                🧬 Life Series — Educational Platform · Made with ❤️ for curious minds
+                🔬 MadaTV — Science TV for Kids · Made with ❤️ for curious minds
               </p>
               <p className="text-xs font-semibold text-gray-400 max-w-2xl mx-auto">
                 📺 All video content is streamed directly from{" "}

@@ -33,6 +33,7 @@ export function VideoPlayer({ youtubeId, videoSources, episodeId, onWatched }: V
       autoplay: 0,
       modestbranding: 1,
       rel: 0,
+      origin: typeof window !== "undefined" ? window.location.origin : "",
     },
   };
 
