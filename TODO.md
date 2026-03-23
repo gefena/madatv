@@ -4,7 +4,17 @@
 
 ## 🔴 High Priority
 
-*(nothing — all high priority items done!)*
+- [ ] **SEO basics**
+  Add `robots.txt`, `sitemap.xml`, and per-page Open Graph meta tags (title, description, og:image). Without these the site is essentially invisible to search engines and won't preview correctly when shared on WhatsApp/social.
+
+- [ ] **Custom 404 page**
+  `app/not-found.tsx` with a friendly message and link back to home. Currently Next.js shows a plain default 404.
+
+- [ ] **Error boundaries**
+  Wrap the quiz and video player in React error boundaries so a crash in one component doesn't blank the entire page.
+
+- [ ] **Loading states / skeletons**
+  Series and episode pages fetch content client-side with no loading indicator. Add skeletons so the UI doesn't flash empty on slow connections.
 
 ---
 
@@ -25,6 +35,15 @@
 - [ ] **Accessibility audit**
   Keyboard navigation, ARIA labels, screen reader testing for LTR (EN) and RTL (HE).
 
+- [ ] **Analytics**
+  Add privacy-friendly analytics (e.g. Plausible or Umami) to see which episodes and series get the most engagement.
+
+- [ ] **Content Security Policy headers**
+  Add CSP, X-Frame-Options, and other security headers via `next.config.ts` headers. The YouTube iframe requires a specific `frame-src` allowlist.
+
+- [ ] **Web App Manifest**
+  `public/manifest.json` + icons so the site is installable on mobile home screens and shows a proper icon when bookmarked.
+
 ---
 
 ## 🟢 Nice to Have
@@ -43,6 +62,15 @@
 
 - [ ] **Audio pronunciation**
   🔊 button on terminology cards using Web Speech API.
+
+- [ ] **Structured data (JSON-LD)**
+  Add `VideoObject` + `Course` schema markup so Google can surface episodes as rich results in search.
+
+- [ ] **Privacy policy page**
+  Required if analytics are added; also good practice for a site aimed at children.
+
+- [ ] **`lang` / `dir` attribute sync**
+  Currently `<html lang="en" dir="ltr">` is hardcoded in `layout.tsx`. It should update dynamically when the user switches to Hebrew so assistive technologies and browsers behave correctly.
 
 ---
 

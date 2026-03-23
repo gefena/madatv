@@ -9,7 +9,7 @@
   },
   "summary": {
     "en": "This episode explores the endocrine system and the chemical messengers called hormones that regulate virtually every function of the human body. It introduces the major hormone-producing glands — including the pituitary, thyroid, adrenal glands, and pancreas — and explains how each secretes specific hormones into the bloodstream. The episode explains how hormones travel to distant target organs and trigger precise physiological responses, from controlling growth and metabolism to regulating sleep, stress, and reproduction. It highlights the delicate feedback loops that keep hormone levels in balance.",
-    "he": "פרק זה חוקר את מערכת האנדוקרין ואת המסרים הכימיים הנקראים הורמונים המווסתים כמעט כל תפקוד של גוף האדם. הוא מציג את בלוטות ייצור ההורמונים העיקריות — כולל יותרת המוח, בלוטת התריס, בלוטות יותרת הכליה והלבלב — ומסביר כיצד כל אחת מפרישה הורמונים ספציפיים לזרם הדם. הפרק מסביר כיצד הורמונים מגיעים לאיברי יעד רחוקים ומפעילים תגובות פיזיולוגיות מדויקות, משליטה על צמיחה ומטבוליזם ועד לוויסות שינה, לחץ ורבייה. הוא מדגיש את לולאות המשוב העדינות השומרות על רמות ההורמונים באיזון."
+    "he": "פרק זה חוקר את המערכת האנדוקרינית ואת המסרים הכימיים הנקראים הורמונים המווסתים כמעט כל תפקוד של גוף האדם. הוא מציג את בלוטות ייצור ההורמונים העיקריות — כולל יותרת המוח, בלוטת התריס, בלוטות יותרת הכליה והלבלב — ומסביר כיצד כל אחת מפרישה הורמונים ספציפיים לזרם הדם. הפרק מסביר כיצד הורמונים מגיעים לאיברי יעד רחוקים ומפעילים תגובות פיזיולוגיות מדויקות, משליטה על צמיחה ומטבוליזם ועד לוויסות שינה, לחץ ורבייה. הוא מדגיש את לולאות המשוב העדינות השומרות על רמות ההורמונים באיזון."
   },
   "thumbnail": "https://img.youtube.com/vi/yKSKpouY7yU/maxresdefault.jpg",
   "durationMinutes": 25,
@@ -77,7 +77,7 @@
     },
     {
       "id": "t20-07",
-      "term": { "en": "Endocrine System", "he": "מערכת האנדוקרין" },
+      "term": { "en": "Endocrine System", "he": "המערכת האנדוקרינית" },
       "definition": {
         "en": "The collection of glands that produce and secrete hormones directly into the bloodstream to regulate body functions.",
         "he": "אוסף הבלוטות המייצרות ומפרישות הורמונים ישירות לזרם הדם לוויסות תפקודי הגוף."
@@ -116,7 +116,7 @@
       "term": { "en": "Hypothalamus", "he": "היפותלמוס" },
       "definition": {
         "en": "A brain region that acts as the link between the nervous system and the endocrine system; it releases hormones that control the pituitary gland and regulates hunger, thirst, and body temperature.",
-        "he": "אזור במוח הפועל כחוליית קישור בין מערכת העצבים למערכת האנדוקרין; הוא משחרר הורמונים השולטים ביותרת המוח ומווסת רעב, צמא וטמפרטורת גוף."
+        "he": "אזור במוח הפועל כחוליית קישור בין מערכת העצבים להמערכת האנדוקרינית; הוא משחרר הורמונים השולטים ביותרת המוח ומווסת רעב, צמא וטמפרטורת גוף."
       },
       "category": "anatomy"
     },
@@ -162,7 +162,7 @@
       "id": "q20-01",
       "question": {
         "en": "Which gland is often called the 'master gland' of the endocrine system?",
-        "he": "איזו בלוטה מכונה לרוב 'הבלוטה הראשית' של מערכת האנדוקרין?"
+        "he": "איזו בלוטה מכונה לרוב 'הבלוטה הראשית' של המערכת האנדוקרינית?"
       },
       "choices": [
         { "id": "a", "text": { "en": "Thyroid gland", "he": "בלוטת התריס" } },
@@ -227,7 +227,7 @@
       "correctChoice": "b",
       "explanation": {
         "en": "The endocrine system uses negative feedback: when a hormone reaches adequate levels, it signals the gland (directly or via the pituitary/hypothalamus) to reduce production. This prevents overproduction and maintains hormonal balance.",
-        "he": "מערכת האנדוקרין משתמשת במשוב שלילי: כאשר הורמון מגיע לרמות מספקות, הוא מאותת לבלוטה (ישירות או דרך יותרת המוח/ההיפותלמוס) להפחית ייצור. זה מונע ייצור יתר ושומר על איזון הורמונלי."
+        "he": "המערכת האנדוקרינית משתמשת במשוב שלילי: כאשר הורמון מגיע לרמות מספקות, הוא מאותת לבלוטה (ישירות או דרך יותרת המוח/ההיפותלמוס) להפחית ייצור. זה מונע ייצור יתר ושומר על איזון הורמונלי."
       }
     },
     {
@@ -306,11 +306,11 @@
       "id": "q20-09",
       "question": {
         "en": "What is the role of the hypothalamus in the endocrine system?",
-        "he": "מה תפקיד ההיפותלמוס במערכת האנדוקרין?"
+        "he": "מה תפקיד ההיפותלמוס בהמערכת האנדוקרינית?"
       },
       "choices": [
         { "id": "a", "text": { "en": "It produces insulin and glucagon", "he": "הוא מייצר אינסולין וגלוקגון" } },
-        { "id": "b", "text": { "en": "It acts as the bridge between the brain and the pituitary gland, controlling most of the endocrine system", "he": "הוא פועל כגשר בין המוח ליותרת המוח, ושולט ברוב מערכת האנדוקרין" } },
+        { "id": "b", "text": { "en": "It acts as the bridge between the brain and the pituitary gland, controlling most of the endocrine system", "he": "הוא פועל כגשר בין המוח ליותרת המוח, ושולט ברוב המערכת האנדוקרינית" } },
         { "id": "c", "text": { "en": "It filters blood hormones in the kidneys", "he": "הוא מסנן הורמוני דם בכליות" } },
         { "id": "d", "text": { "en": "It stores hormones for later use", "he": "הוא אוחסן הורמונים לשימוש מאוחר" } }
       ],

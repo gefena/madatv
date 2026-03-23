@@ -5,7 +5,7 @@
   "videoSources": ["R5DupUCybB8", "WS7UOO4OdCQ"],
   "title": {
     "en": "The Immune System",
-    "he": "החיסון"
+    "he": "מערכת החיסון"
   },
   "summary": {
     "en": "This episode provides a comprehensive look at the immune system — the body's sophisticated defence against disease. It distinguishes between innate immunity (the immediate, non-specific first line of defence) and adaptive immunity (the targeted response that learns from each encounter with a pathogen). The episode explains how B cells produce Y-shaped antibodies that neutralise specific pathogens, and how cytotoxic T cells directly destroy infected or cancerous cells while helper T cells coordinate the entire immune response. It also covers how immunological memory allows the body to mount a dramatically faster and stronger response upon re-exposure to the same pathogen — the principle behind vaccination — and examines the consequences when the immune system malfunctions, producing autoimmune diseases or allergic reactions.",
@@ -97,7 +97,7 @@
       "id": "t22-07",
       "term": {
         "en": "Vaccine",
-        "he": "חיסון (וקצינה)"
+        "he": "חיסון (ווקסין)"
       },
       "definition": {
         "en": "A preparation of weakened, killed, or partial pathogens (or their proteins) that stimulates the immune system to produce memory cells without causing disease.",

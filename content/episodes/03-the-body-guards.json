@@ -47,7 +47,7 @@
       "id": "t03-03",
       "term": {
         "en": "Macrophage",
-        "he": "מקרופאג'"
+        "he": "מקרופאג"
       },
       "definition": {
         "en": "A large, long-lived white blood cell that engulfs pathogens, dead cells, and debris — a process called phagocytosis. Macrophages also display pathogen fragments on their surface to alert T cells, making them a crucial bridge between innate and adaptive immunity.",
@@ -159,7 +159,7 @@
       },
       "definition": {
         "en": "A large white blood cell that circulates in the blood and, upon entering tissues, matures into a macrophage. Monocytes are important for cleaning up cellular debris and are among the first cells to respond to infection.",
-        "he": "כדורית דם לבנה גדולה המסתובבת בדם ובכניסתה לרקמות מבשילה למקרופאג'. מונוציטים חשובים לניקוי פסולת תאית והם בין התאים הראשונים להגיב לזיהום."
+        "he": "כדורית דם לבנה גדולה המסתובבת בדם ובכניסתה לרקמות מבשילה למקרופאג. מונוציטים חשובים לניקוי פסולת תאית והם בין התאים הראשונים להגיב לזיהום."
       },
       "category": "immune cell"
     },

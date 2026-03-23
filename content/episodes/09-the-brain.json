@@ -8,7 +8,7 @@
   },
   "summary": {
     "en": "This episode delves into the human brain — the body's command center that controls thought, emotion, movement, and all vital functions. It introduces the major regions of the brain: the cerebrum, cerebellum, and brainstem, explaining the distinct role each plays. The episode shows how the brain processes sensory information, generates responses, stores memories, and regulates unconscious functions like breathing and heartbeat. It also highlights the incredible complexity of the brain's roughly 86 billion neurons and their trillions of connections, and explores how the blood-brain barrier protects this vital organ while allowing glucose and essential nutrients to pass through. Although the brain makes up only about 2% of body weight, it consumes approximately 20% of the body's total energy, underscoring how metabolically demanding consciousness and cognition truly are.",
-    "he": "פרק זה מתעמק במוח האנושי — מרכז הפיקוד של הגוף השולט במחשבה, רגשות, תנועה וכל הפונקציות החיוניות. הוא מציג את האזורים העיקריים של המוח: הקורטקס, המוחון וגזע המוח, ומסביר את התפקיד הייחודי שכל אחד ממלא. הפרק מראה כיצד המוח מעבד מידע חושי, מייצר תגובות, מאחסן זיכרונות ומווסת תפקודים לא מודעים כמו נשימה ופעימות לב. הוא גם מדגיש את המורכבות המדהימה של כ-86 מיליארד הנוירונים של המוח וטריליוני החיבורים שלהם, ובוחן כיצד מחסום הדם-מוח מגן על איבר חיוני זה תוך מעבר גלוקוז וחומרי מזון חיוניים. למרות שהמוח מהווה רק כ-2% ממשקל הגוף, הוא צורך כ-20% מסך האנרגיה של הגוף, וזה מדגיש עד כמה דורשות תודעה וקוגניציה ממטבוליות."
+    "he": "פרק זה מתעמק במוח האנושי — מרכז הפיקוד של הגוף השולט במחשבה, רגשות, תנועה וכל התפקודים החיוניים. הוא מציג את האזורים העיקריים של המוח: המוח הגדול, המוחון וגזע המוח, ומסביר את התפקיד הייחודי שכל אחד ממלא. הפרק מראה כיצד המוח מעבד מידע חושי, מייצר תגובות, מאחסן זיכרונות ומווסת תפקודים לא מודעים כמו נשימה ופעימות לב. הוא גם מדגיש את המורכבות המדהימה של כ-86 מיליארד הנוירונים של המוח וטריליוני החיבורים שלהם, ובוחן כיצד מחסום הדם-מוח מגן על איבר חיוני זה תוך מעבר גלוקוז וחומרי מזון חיוניים. למרות שהמוח מהווה רק כ-2% ממשקל הגוף, הוא צורך כ-20% מסך האנרגיה של הגוף — עדות למידת התביעתיות המטבולית של תודעה וקוגניציה."
   },
   "thumbnail": "https://img.youtube.com/vi/Fz6dEIEYNLw/maxresdefault.jpg",
   "durationMinutes": 26,
@@ -24,7 +24,7 @@
       "id": "t09-01",
       "term": {
         "en": "Cerebrum",
-        "he": "קורטקס (המוח הגדול)"
+        "he": "המוח הגדול"
       },
       "definition": {
         "en": "The largest part of the brain, divided into two hemispheres, responsible for thinking, memory, language, voluntary movement, and sensory processing. The cerebrum is covered by the cerebral cortex — a folded outer layer that massively increases the brain's computational surface area.",
@@ -52,7 +52,7 @@
       },
       "definition": {
         "en": "The lower part of the brain connecting it to the spinal cord; it controls vital automatic functions like breathing, heart rate, and blood pressure. The brainstem comprises the midbrain, pons, and medulla oblongata, and it remains active even during deep sleep.",
-        "he": "החלק התחתון של המוח המחבר אותו לחוט השדרה; הוא שולט בפונקציות אוטומטיות חיוניות כמו נשימה, קצב לב ולחץ דם. גזע המוח כולל את המוח התיכון, הגשר והמדולה אובלונגטה, והוא נשאר פעיל אפילו בשינה עמוקה."
+        "he": "החלק התחתון של המוח המחבר אותו לחוט השדרה; הוא שולט בתפקודים אוטומטיים חיוניים כמו נשימה, קצב לב ולחץ דם. גזע המוח כולל את המוח התיכון, הגשר והמדולה אובלונגטה, והוא נשאר פעיל אפילו בשינה עמוקה."
       },
       "category": "anatomy"
     },
