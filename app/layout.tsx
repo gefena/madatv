@@ -1,5 +1,6 @@
 import type { Metadata, Viewport } from "next";
 import "./globals.css";
+import { Analytics } from "@vercel/analytics/next";
 import { I18nProvider } from "@/lib/i18n";
 import { Header } from "@/components/layout/Header";
 
@@ -50,6 +51,7 @@ export default function RootLayout({
             </footer>
           </div>
         </I18nProvider>
+        <Analytics />
       </body>
     </html>
   );
