@@ -5,7 +5,7 @@ import Image from "next/image";
 import { useEffect, useState } from "react";
 import { useI18n, useBilingual } from "@/lib/i18n";
 import { getEpisodeProgress } from "@/lib/progress";
-import { EPISODE_TOPIC_IMAGES } from "@/lib/episodeImages";
+import { SERIES_BG_IMAGES } from "@/lib/episodeImages";
 import { getEpisodeColor } from "@/lib/episodeColors";
 import { cn } from "@/components/ui/cn";
 import type { EpisodeListItem } from "@/types/content";
@@ -13,9 +13,10 @@ import type { EpisodeListItem } from "@/types/content";
 interface EpisodeCardProps {
   episode: EpisodeListItem;
   seriesId: string;
+  seriesImage?: string;
 }
 
-export function EpisodeCard({ episode, seriesId }: EpisodeCardProps) {
+export function EpisodeCard({ episode, seriesId, seriesImage }: EpisodeCardProps) {
   const { t } = useI18n();
   const pick = useBilingual();
   const [watched, setWatched] = useState(false);
@@ -39,43 +40,56 @@ export function EpisodeCard({ episode, seriesId }: EpisodeCardProps) {
         color.glow
       )}
     >
-      {/* Colorful image header */}
+      {/* Image header with series background + large episode emoji */}
       <div className={cn("relative overflow-hidden", "aspect-video")}>
-        {/* Gradient overlay always visible at bottom */}
-        <div className={cn("absolute inset-0 bg-gradient-to-br opacity-30", color.gradient)} />
+        {/* Series background image */}
+        {(seriesImage ?? SERIES_BG_IMAGES[seriesId]) ? (
+          <Image
+            src={seriesImage ?? SERIES_BG_IMAGES[seriesId]}
+            alt=""
+            fill
+            className="object-cover transition-transform duration-500 group-hover:scale-105"
+            sizes="(max-width: 640px) 50vw, (max-width: 1024px) 33vw, 25vw"
+          />
+        ) : (
+          <div className={cn("absolute inset-0 bg-gradient-to-br", color.gradient)} />
+        )}
 
-        <Image
-          src={EPISODE_TOPIC_IMAGES[episode.id] ?? episode.thumbnail}
-          alt={pick(episode.title)}
-          fill
-          className="object-cover transition-transform duration-500 group-hover:scale-110"
-          sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
-        />
+        {/* Dark overlay for contrast */}
+        <div className="absolute inset-0 bg-black/40 group-hover:bg-black/30 transition-colors duration-300" />
 
-        {/* Bottom gradient for text legibility */}
-        <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent" />
+        {/* Color tint overlay */}
+        <div className={cn("absolute inset-0 bg-gradient-to-br opacity-20", color.gradient)} />
 
-        {/* Play button */}
+        {/* Large centered episode emoji */}
+        <div className="absolute inset-0 flex items-center justify-center">
+          <span className={cn(
+            "text-5xl drop-shadow-xl transition-transform duration-300 group-hover:scale-110",
+          )}>
+            {color.emoji}
+          </span>
+        </div>
+
+        {/* Play button on hover */}
         <div className="absolute inset-0 flex items-center justify-center opacity-0 transition-all duration-300 group-hover:opacity-100">
           <div className={cn(
-            "flex h-14 w-14 items-center justify-center rounded-full bg-white/90 shadow-xl",
-            "group-hover:scale-110 transition-transform duration-200"
+            "flex h-12 w-12 items-center justify-center rounded-full bg-white/90 shadow-xl",
+            "scale-90 group-hover:scale-100 transition-transform duration-200"
           )}>
-            <svg className={cn("h-6 w-6 ms-1", color.text)} fill="currentColor" viewBox="0 0 24 24">
+            <svg className={cn("h-5 w-5 ms-0.5", color.text)} fill="currentColor" viewBox="0 0 24 24">
               <path d="M8 5v14l11-7z" />
             </svg>
           </div>
         </div>
 
-        {/* Episode number + emoji */}
-        <div className="absolute top-3 start-3 flex items-center gap-1.5">
+        {/* Episode number badge */}
+        <div className="absolute top-2.5 start-2.5">
           <span className={cn(
-            "rounded-xl px-2.5 py-1 text-xs font-black text-white backdrop-blur-sm",
+            "rounded-xl px-2.5 py-1 text-xs font-black text-white backdrop-blur-sm shadow",
             `bg-gradient-to-r ${color.gradient}`
           )}>
             {episode.episodeNumber}
           </span>
-          <span className="text-xl drop-shadow-lg">{color.emoji}</span>
         </div>
 
         {/* Watched badge */}

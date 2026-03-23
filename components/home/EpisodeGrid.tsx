@@ -5,6 +5,7 @@ import { useI18n } from "@/lib/i18n";
 import { getWatchedCount } from "@/lib/progress";
 import { EpisodeCard } from "./EpisodeCard";
 import { ProgressBar } from "@/components/ui/ProgressBar";
+import { SERIES_BG_IMAGES } from "@/lib/episodeImages";
 import type { EpisodeListItem } from "@/types/content";
 
 interface EpisodeGridProps {
@@ -15,6 +16,7 @@ interface EpisodeGridProps {
 export function EpisodeGrid({ episodes, seriesId }: EpisodeGridProps) {
   const { t } = useI18n();
   const [watchedCount, setWatchedCount] = useState(0);
+  const seriesImage = SERIES_BG_IMAGES[seriesId];
 
   useEffect(() => {
     setWatchedCount(getWatchedCount(episodes.map((e) => e.id)));
@@ -43,7 +45,7 @@ export function EpisodeGrid({ episodes, seriesId }: EpisodeGridProps) {
       {/* Grid */}
       <div className="grid grid-cols-2 gap-3 sm:gap-5 md:grid-cols-3 lg:grid-cols-4">
         {episodes.map((episode) => (
-          <EpisodeCard key={episode.id} episode={episode} seriesId={seriesId} />
+          <EpisodeCard key={episode.id} episode={episode} seriesId={seriesId} seriesImage={seriesImage} />
         ))}
       </div>
     </div>
