@@ -4,19 +4,19 @@
 
 ## 🔴 High Priority
 
-- [ ] **SEO basics**
+- [x] **SEO basics**
   Add `robots.txt`, `sitemap.xml`, and per-page Open Graph meta tags (title, description, og:image). Without these the site is essentially invisible to search engines and won't preview correctly when shared on WhatsApp/social.
 
-- [ ] **Custom 404 page**
+- [x] **Custom 404 page**
   `app/not-found.tsx` with a friendly message and link back to home. Currently Next.js shows a plain default 404.
 
-- [ ] **Error boundaries**
+- [x] **Error boundaries**
   Wrap the quiz and video player in React error boundaries so a crash in one component doesn't blank the entire page.
 
-- [ ] **Loading states / skeletons**
+- [x] **Loading states / skeletons**
   Series and episode pages fetch content client-side with no loading indicator. Add skeletons so the UI doesn't flash empty on slow connections.
 
-- [ ] **Security & safety audit**
+- [x] **Security & safety audit**
   Review for: XSS vectors, unsafe external links (add `rel="noopener noreferrer"`), iframe sandbox attributes on YouTube embeds, no sensitive data in client bundles, dependency vulnerabilities (`npm audit`), and child-safety considerations (no user-generated content exposure).
 
 ---
