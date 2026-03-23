@@ -38,8 +38,8 @@
 - [ ] **Accessibility audit**
   Keyboard navigation, ARIA labels, screen reader testing for LTR (EN) and RTL (HE).
 
-- [ ] **Analytics**
-  Add privacy-friendly analytics (e.g. Plausible or Umami) to see which episodes and series get the most engagement.
+- [x] **Analytics**
+  Vercel Analytics added (`@vercel/analytics/next`). Enable in the Vercel dashboard under the project's Analytics tab.
 
 - [ ] **Content Security Policy headers**
   Add CSP, X-Frame-Options, and other security headers via `next.config.ts` headers. The YouTube iframe requires a specific `frame-src` allowlist.
