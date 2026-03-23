@@ -1,0 +1,630 @@
+{
+  "id": "16-the-liver",
+  "episodeNumber": 16,
+  "youtubeId": "jQo7k7PTUG8",
+  "title": {
+    "en": "The Liver",
+    "he": "הכבד"
+  },
+  "summary": {
+    "en": "This episode reveals the liver as the body's largest internal organ and a truly extraordinary chemical factory performing over 500 known functions. It explains how the liver filters all the blood arriving from the digestive tract via the portal vein, processing nutrients, neutralizing toxins such as alcohol and drugs, and synthesizing essential proteins like albumin and clotting factors. The episode shows how the liver stores glucose as glycogen and releases it between meals to maintain stable blood sugar, and how hepatocytes use the cytochrome P450 enzyme system to detoxify harmful substances. The liver's unique capacity for regeneration is highlighted: it can regrow to full size even after losing up to 75% of its tissue, making partial liver transplants possible. The episode also covers how chronic damage from alcohol, hepatitis viruses, or fat accumulation can lead to cirrhosis, in which scar tissue gradually replaces functional liver cells.",
+    "he": "פרק זה חושף את הכבד כאיבר הפנימי הגדול ביותר בגוף ובית חרושת כימי יוצא מן הכלל המבצע למעלה מ-500 תפקודים ידועים. הוא מסביר כיצד הכבד מסנן את כל הדם המגיע מדרכי העיכול דרך ורִיד השער, מעבד חומרים מזינים, מנטרל רעלים כגון אלכוהול ותרופות, ומסנתז חלבונים חיוניים כגון אלבומין ופקטורי קרישה. הפרק מראה כיצד הכבד מאחסן גלוקוז כגליקוגן ומשחרר אותו בין ארוחות לשמירה על סוכר דם יציב, וכיצד הפטוציטים משתמשים במערכת אנזים ציטוכרום P450 לניטרול חומרים מזיקים. מודגשת יכולת הכבד הייחודית להתחדש: הוא יכול לגדול בחזרה לגודלו המלא אפילו לאחר אובדן עד 75% מרקמתו, מה שמאפשר השתלות כבד חלקיות. הפרק גם סוקר כיצד נזק כרוני מאלכוהול, וירוסי הפטיטיס או הצטברות שומן עלולים להוביל לשחמת, שבה רקמת צלקת מחליפה בהדרגה תאי כבד תפקודיים."
+  },
+  "thumbnail": "https://img.youtube.com/vi/jQo7k7PTUG8/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": [
+    "liver functions",
+    "detoxification",
+    "bile production",
+    "blood sugar regulation",
+    "metabolism"
+  ],
+  "terminology": [
+    {
+      "id": "t14-01",
+      "term": {
+        "en": "Liver",
+        "he": "כבד"
+      },
+      "definition": {
+        "en": "The largest internal organ, located in the upper right abdomen, performing hundreds of vital metabolic, digestive, and detoxification functions. It weighs about 1.5 kg in adults and receives blood from two sources: the hepatic artery and the portal vein. Its remarkable regenerative capacity makes it unique among solid organs.",
+        "he": "האיבר הפנימי הגדול ביותר, הממוקם בחלק העליון הימני של הבטן, המבצע מאות תפקודים חיוניים מטבוליים, עיכוליים ונטרוליים. משקלו כ-1.5 ק\"ג אצל מבוגרים והוא מקבל דם משני מקורות: עורק הכבד וורִיד השער. יכולת ההתחדשות המרהיבה שלו הופכת אותו לייחודי בין האיברים המוצקים."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t14-02",
+      "term": {
+        "en": "Bile",
+        "he": "מרה"
+      },
+      "definition": {
+        "en": "A greenish-yellow digestive fluid produced by the liver, stored in the gallbladder, and released into the small intestine to emulsify fats. Bile contains bile salts, cholesterol, bilirubin (a breakdown product of red blood cells), and water. The liver produces about 500–1000 ml daily, and bile salts are largely recycled by the intestine in a process called enterohepatic circulation.",
+        "he": "נוזל עיכול ירקרק-צהוב המיוצר בכבד, מאוחסן בכיס המרה, ומשתחרר לאמולסיפיקציה של שומנים במעי הדק. המרה מכילה מלחי מרה, כולסטרול, בילירובין (תוצר פירוק של כדוריות דם אדומות) ומים. הכבד מייצר כ-500–1000 מ\"ל ביום, ומלחי המרה ממוחזרים ברובם על ידי המעי בתהליך הנקרא מחזור אנטרוהפטי."
+      },
+      "category": "biochemistry"
+    },
+    {
+      "id": "t14-03",
+      "term": {
+        "en": "Glycogen",
+        "he": "גליקוגן"
+      },
+      "definition": {
+        "en": "A polysaccharide stored in the liver and muscles as the body's main reserve of glucose energy. The liver stores about 100 g of glycogen and can break it down rapidly to release glucose when blood sugar falls. Glycogen synthesis is stimulated by insulin and its breakdown by glucagon and adrenaline.",
+        "he": "פוליסכריד המאוחסן בכבד ובשרירים כמאגר הגלוקוז האנרגטי הראשי של הגוף. הכבד מאחסן כ-100 גרם גליקוגן ויכול לפרקו במהירות לשחרור גלוקוז כשרמת הסוכר בדם יורדת. סינתזת גליקוגן מגורה על ידי אינסולין ופירוקו על ידי גלוקגון ואדרנלין."
+      },
+      "category": "biochemistry"
+    },
+    {
+      "id": "t14-04",
+      "term": {
+        "en": "Detoxification",
+        "he": "ניטרול רעלים (דטוקסיפיקציה)"
+      },
+      "definition": {
+        "en": "The process by which the liver breaks down and neutralizes harmful substances such as alcohol, drugs, and metabolic waste products. The liver converts fat-soluble toxins into water-soluble forms that can be excreted in urine or bile. This usually occurs in two phases: Phase I (oxidation by cytochrome P450 enzymes) and Phase II (conjugation to increase water solubility).",
+        "he": "התהליך שבו הכבד מפרק ומנטרל חומרים מזיקים כגון אלכוהול, תרופות ותוצרי פסולת מטבוליים. הכבד ממיר רעלים מסיסי שומן לצורות מסיסות במים שניתן להפריש בשתן או במרה. זה מתרחש בדרך כלל בשני שלבים: שלב I (חמצון על ידי אנזימי ציטוכרום P450) ושלב II (צימוד להגברת המסיסות במים)."
+      },
+      "category": "process"
+    },
+    {
+      "id": "t14-05",
+      "term": {
+        "en": "Hepatocyte",
+        "he": "הפטוציט"
+      },
+      "definition": {
+        "en": "The main functional cell of the liver, responsible for carrying out the vast majority of its metabolic tasks. Hepatocytes make up about 80% of the liver's mass and perform bile production, glycogen storage, protein synthesis, and detoxification. They have direct access to nutrient-rich blood from the portal vein and have a high capacity for regeneration.",
+        "he": "התא התפקודי הראשי של הכבד, האחראי לביצוע רוב המשימות המטבוליות שלו. הפטוציטים מהווים כ-80% ממסת הכבד ומבצעים ייצור מרה, אחסון גליקוגן, סינתזת חלבונים וניטרול רעלים. יש להם גישה ישירה לדם עשיר בחומרים מזינים מורִיד השער ויש להם יכולת התחדשות גבוהה."
+      },
+      "category": "cell biology"
+    },
+    {
+      "id": "t14-06",
+      "term": {
+        "en": "Portal Vein",
+        "he": "ורִיד השער"
+      },
+      "definition": {
+        "en": "A large vein that carries blood rich in absorbed nutrients from the intestines directly to the liver for processing. All blood from the stomach, intestines, spleen, and pancreas converges in the portal vein before entering the liver. This ensures the liver has first access to nutrients and ingested substances before they enter the general circulation.",
+        "he": "ורִיד גדול המוביל דם עשיר בחומרים מזינים נספגים מהמעיים ישירות לכבד לעיבוד. כל הדם מהקיבה, המעיים, הטחול והלבלב מתכנס בורִיד השער לפני הכניסה לכבד. זה מבטיח שלכבד יש גישה ראשונה לחומרים מזינים ולחומרים שנבלעו לפני שהם נכנסים למחזור הכללי."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t14-07",
+      "term": {
+        "en": "Gallbladder",
+        "he": "כיס המרה"
+      },
+      "definition": {
+        "en": "A small pouch beneath the liver that stores and concentrates bile between meals and releases it into the small intestine when fat is detected. The gallbladder can concentrate bile up to 10-fold by absorbing water. Gallstones form when bile components (especially cholesterol) crystallize, sometimes requiring surgical removal of the gallbladder.",
+        "he": "שקית קטנה מתחת לכבד המאחסנת ומרכזת מרה בין ארוחות ומשחררת אותה למעי הדק כאשר מתגלה שומן. כיס המרה יכול לרכז מרה עד פי 10 על ידי ספיגת מים. אבני מרה נוצרות כאשר רכיבי מרה (בעיקר כולסטרול) מתגבשים, ולעיתים מחייבות כריתה כירורגית של כיס המרה."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t14-08",
+      "term": {
+        "en": "Albumin",
+        "he": "אלבומין"
+      },
+      "definition": {
+        "en": "The most abundant protein in blood plasma, produced by the liver; it helps maintain blood volume and transports hormones, fatty acids, and drugs. Albumin creates osmotic pressure that keeps fluid inside blood vessels rather than leaking into tissues. Low albumin levels — a sign of liver disease or malnutrition — can cause fluid accumulation and edema.",
+        "he": "החלבון השכיח ביותר בפלזמת הדם, המיוצר בכבד; הוא עוזר לשמור על נפח הדם ומוביל הורמונים, חומצות שומן ותרופות. אלבומין יוצר לחץ אוסמוטי השומר על נוזל בתוך כלי הדם ולא בדולף לרקמות. רמות אלבומין נמוכות — סימן למחלת כבד או תת-תזונה — עלולות לגרום להצטברות נוזלים ובצקת."
+      },
+      "category": "biochemistry"
+    },
+    {
+      "id": "t14-09",
+      "term": {
+        "en": "Cirrhosis",
+        "he": "שחמת הכבד"
+      },
+      "definition": {
+        "en": "A late-stage scarring of the liver caused by long-term damage (e.g., from alcohol or hepatitis), replacing healthy tissue with scar tissue. As scar tissue accumulates, blood flow through the liver is obstructed and its functions deteriorate. Cirrhosis can lead to liver failure, portal hypertension, and greatly increased risk of liver cancer.",
+        "he": "צלקת מתקדמת בכבד הנגרמת מנזק ארוך טווח (למשל מאלכוהול או הפטיטיס), המחליפה רקמה בריאה ברקמת צלקת. ככל שרקמת הצלקת מצטברת, זרימת הדם דרך הכבד נחסמת ותפקודיו מתדרדרים. שחמת עלולה להוביל לאי-ספיקת כבד, יתר לחץ דם בורִיד השער וסיכון מוגבר מאוד לסרטן כבד."
+      },
+      "category": "pathology"
+    },
+    {
+      "id": "t14-10",
+      "term": {
+        "en": "Liver Regeneration",
+        "he": "התחדשות הכבד"
+      },
+      "definition": {
+        "en": "The liver's unique ability to regrow after being surgically removed or damaged, restoring its full mass and function. Even if up to 75% of the liver is removed, the remaining hepatocytes can proliferate and restore the organ to its original size within weeks. This property enables living-donor liver transplantation, where a healthy donor donates part of their liver.",
+        "he": "יכולת הכבד הייחודית לצמוח מחדש לאחר כריתה כירורגית או נזק, ולשחזר את מסתו ותפקודו המלאים. אפילו אם עד 75% מהכבד מוסר, ההפטוציטים הנותרים יכולים להתרבות ולשחזר את האיבר לגודלו המקורי תוך שבועות. תכונה זו מאפשרת השתלת כבד מתורם חי, שבה תורם בריא מקדיש חלק מכבדו."
+      },
+      "category": "physiology"
+    },
+    {
+      "id": "t14-11",
+      "term": {
+        "en": "Cytochrome P450",
+        "he": "ציטוכרום P450"
+      },
+      "definition": {
+        "en": "A large family of liver enzymes responsible for metabolizing drugs, toxins, and foreign chemicals. These enzymes oxidize substances in Phase I detoxification, converting them into more reactive intermediates that are then further processed in Phase II. Genetic variations in P450 enzymes explain why people respond differently to the same drug doses.",
+        "he": "משפחה גדולה של אנזימי כבד האחראים לחילוף חומרים של תרופות, רעלים וכימיקלים זרים. אנזימים אלה מחמצנים חומרים בשלב I של ניטרול רעלים, ממירים אותם לביניים ריאקטיביים יותר שמעובדים לאחר מכן בשלב II. שינויים גנטיים באנזימי P450 מסבירים מדוע אנשים מגיבים שונה למינוני תרופות זהים."
+      },
+      "category": "biochemistry"
+    },
+    {
+      "id": "t14-12",
+      "term": {
+        "en": "Clotting Factors",
+        "he": "פקטורי קרישה"
+      },
+      "definition": {
+        "en": "Proteins produced by the liver that are essential for the blood coagulation cascade. Major clotting factors including fibrinogen, prothrombin, and factors V, VII, IX, and X are all synthesized in hepatocytes. Liver disease reduces clotting factor production, leading to bleeding tendencies — a serious complication of cirrhosis and liver failure.",
+        "he": "חלבונים המיוצרים בכבד החיוניים למפל הקרישה (קואגולציה) של הדם. פקטורי קרישה עיקריים כולל פיברינוגן, פרותרומבין ופקטורים V, VII, IX ו-X מסונתזים כולם בהפטוציטים. מחלת כבד מפחיתה ייצור פקטורי קרישה, ומובילה לנטייה לדימומים — סיבוך חמור של שחמת ואי-ספיקת כבד."
+      },
+      "category": "biochemistry"
+    },
+    {
+      "id": "t14-13",
+      "term": {
+        "en": "Bilirubin",
+        "he": "בילירובין"
+      },
+      "definition": {
+        "en": "A yellow pigment produced when the liver breaks down old red blood cells. It is a component of bile and is excreted in feces (giving them their brown color). When the liver cannot process bilirubin properly — due to disease or blocked bile ducts — it accumulates in blood and tissues, causing jaundice (yellowing of the skin and eyes).",
+        "he": "פיגמנט צהוב המיוצר כאשר הכבד מפרק כדוריות דם אדומות ישנות. הוא מרכיב של מרה ומופרש בצואה (נותן לה את הצבע החום). כאשר הכבד אינו מסוגל לעבד בילירובין כראוי — עקב מחלה או חסימת צינורות המרה — הוא מצטבר בדם וברקמות, וגורם ליקטרוס (הצהבה של העור והעיניים)."
+      },
+      "category": "biochemistry"
+    },
+    {
+      "id": "t14-14",
+      "term": {
+        "en": "Gluconeogenesis",
+        "he": "גלוקונאוגנזה"
+      },
+      "definition": {
+        "en": "The process by which the liver synthesizes new glucose from non-carbohydrate sources such as amino acids, glycerol, and lactate. This occurs mainly during fasting or intense exercise when glycogen stores are depleted and blood sugar needs to be maintained. Gluconeogenesis is stimulated by glucagon and cortisol.",
+        "he": "התהליך שבו הכבד מסנתז גלוקוז חדש ממקורות שאינם פחמימות כגון חומצות אמינו, גליצרול וחומצה לקטית. זה מתרחש בעיקר בצום או בפעילות גופנית אינטנסיבית כאשר מאגרי גליקוגן מדולדלים ויש לשמור על רמת הסוכר בדם. גלוקונאוגנזה מגורה על ידי גלוקגון וקורטיזול."
+      },
+      "category": "biochemistry"
+    },
+    {
+      "id": "t14-15",
+      "term": {
+        "en": "Hepatitis",
+        "he": "הפטיטיס (דלקת כבד)"
+      },
+      "definition": {
+        "en": "Inflammation of the liver, most commonly caused by viral infection (hepatitis A, B, or C viruses) but also by alcohol, certain drugs, or autoimmune attack. Acute hepatitis may resolve on its own, but chronic hepatitis (especially B and C) can lead to cirrhosis and liver cancer over decades. Effective vaccines exist for hepatitis A and B.",
+        "he": "דלקת של הכבד, הנגרמת לרוב על ידי זיהום ויראלי (וירוסי הפטיטיס A, B או C) אך גם על ידי אלכוהול, תרופות מסוימות או תקיפה אוטואימונית. הפטיטיס חריפה עשויה להחלים מעצמה, אך הפטיטיס כרונית (במיוחד B ו-C) יכולה להוביל לשחמת ולסרטן כבד לאורך עשרות שנים. קיימים חיסונים יעילים נגד הפטיטיס A ו-B."
+      },
+      "category": "pathology"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q1",
+      "question": {
+        "en": "The liver can regenerate after losing what fraction of its tissue?",
+        "he": "הכבד יכול להתחדש לאחר אובדן של איזה חלק מרקמתו?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Up to 25%",
+            "he": "עד 25%"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Up to 50%",
+            "he": "עד 50%"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Up to 75%",
+            "he": "עד 75%"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "It cannot regenerate at all",
+            "he": "הוא אינו מסוגל להתחדש כלל"
+          }
+        }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "The liver has a remarkable regenerative capacity. Even if up to 75% is removed or destroyed, the remaining hepatocytes can proliferate and restore the liver to its full original size and function within weeks. This capacity makes living-donor liver transplantation possible, where a healthy donor donates part of their liver and both donor and recipient livers regrow.",
+        "he": "לכבד יש יכולת התחדשות מרהיבה. אפילו אם עד 75% מוסר או נהרס, ההפטוציטים הנותרים יכולים להתרבות ולשחזר את הכבד לגודלו ולתפקודו המקוריים המלאים תוך שבועות. יכולת זו מאפשרת השתלת כבד מתורם חי, שבה תורם בריא מקדיש חלק מכבדו וכבד הן התורם הן המקבל גדלים בחזרה."
+      }
+    },
+    {
+      "id": "q2",
+      "question": {
+        "en": "What substance does the liver produce to help digest fats?",
+        "he": "איזה חומר מייצר הכבד לסיוע בעיכול שומנים?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Insulin",
+            "he": "אינסולין"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Bile",
+            "he": "מרה"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Amylase",
+            "he": "עמילאז"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Pepsin",
+            "he": "פפסין"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The liver produces bile — approximately 500–1000 ml per day. Bile is stored in the gallbladder and released into the small intestine when fatty food arrives. Its bile salts emulsify fat globules into tiny droplets, dramatically increasing the surface area for lipase enzymes to digest them. Bile also enables the absorption of fat-soluble vitamins A, D, E, and K.",
+        "he": "הכבד מייצר מרה — כ-500–1000 מ\"ל ביום. המרה מאוחסנת בכיס המרה ומשתחררת למעי הדק כאשר מגיע מזון שומני. מלחי המרה שבה מבצעים אמולסיפיקציה של גבשושיות שומן לטיפות זעירות, ומגדילים מאוד את שטח הפנים לאנזימי ליפאז לעיכולן. המרה גם מאפשרת ספיגת ויטמינים מסיסי שומן A, D, E ו-K."
+      }
+    },
+    {
+      "id": "q3",
+      "question": {
+        "en": "How does the liver help regulate blood sugar levels?",
+        "he": "כיצד הכבד עוזר לווסת את רמות הסוכר בדם?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "By producing insulin to lower blood sugar",
+            "he": "על ידי ייצור אינסולין להורדת הסוכר בדם"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "By storing excess glucose as glycogen and releasing it when needed",
+            "he": "על ידי אחסון גלוקוז עודף כגליקוגן ושחרורו בעת הצורך"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "By breaking down all glucose immediately",
+            "he": "על ידי פירוק כל הגלוקוז באופן מיידי"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "By filtering glucose out of the blood permanently",
+            "he": "על ידי סינון גלוקוז מהדם לצמיתות"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "After a meal, the liver takes up excess glucose from the blood and stores it as glycogen. Between meals or during exercise, when blood sugar falls, the liver breaks down glycogen (glycogenolysis) and can also manufacture new glucose from amino acids (gluconeogenesis). This dual role makes the liver the central regulator of blood glucose concentration.",
+        "he": "לאחר ארוחה, הכבד קולט גלוקוז עודף מהדם ואוחסן אותו כגליקוגן. בין ארוחות או במהלך פעילות גופנית, כאשר סוכר הדם יורד, הכבד מפרק גליקוגן (גליקוגנוליזה) ויכול גם לייצר גלוקוז חדש מחומצות אמינו (גלוקונאוגנזה). תפקיד כפול זה הופך את הכבד לרגולטור המרכזי של ריכוז הגלוקוז בדם."
+      }
+    },
+    {
+      "id": "q4",
+      "question": {
+        "en": "Which vein carries nutrient-rich blood from the intestines directly to the liver?",
+        "he": "איזה ורִיד מוביל דם עשיר בחומרים מזינים מהמעיים ישירות לכבד?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Renal vein",
+            "he": "ורִיד הכליה"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Hepatic vein",
+            "he": "ורִיד הכבד"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Portal vein",
+            "he": "ורִיד השער"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Jugular vein",
+            "he": "ורִיד הצוואר"
+          }
+        }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "The portal vein is a unique blood vessel that collects nutrient-rich blood from the gastrointestinal tract and spleen and delivers it to the liver for processing. This means every substance absorbed from the gut — including nutrients, drugs, and toxins — passes through the liver before reaching the rest of the body, allowing the liver to act as a gatekeeper.",
+        "he": "ורִיד השער הוא כלי דם ייחודי האוסף דם עשיר בחומרים מזינים מהמערכת הגסטרואינטסטינלית והטחול ומעביר אותו לכבד לעיבוד. משמעות הדבר היא שכל חומר הנספג מהמעי — כולל חומרים מזינים, תרופות ורעלים — עובר דרך הכבד לפני שמגיע ליתר הגוף, ומאפשר לכבד לשמש כשומר סף."
+      }
+    },
+    {
+      "id": "q5",
+      "question": {
+        "en": "What is cirrhosis?",
+        "he": "מהי שחמת הכבד?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Viral swelling of the liver",
+            "he": "נפיחות ויראלית של הכבד"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Progressive scarring of liver tissue due to chronic damage",
+            "he": "צלקת מתקדמת ברקמת הכבד עקב נזק כרוני"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Overproduction of bile leading to gallstones",
+            "he": "ייצור יתר של מרה המוביל לאבני מרה"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "A benign liver tumor",
+            "he": "גידול שפיר בכבד"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Cirrhosis occurs when healthy liver cells are progressively replaced by fibrous scar tissue due to chronic damage — most often from long-term alcohol abuse, chronic hepatitis B or C, or fatty liver disease. Scar tissue cannot perform normal liver functions and obstructs blood flow through the liver, eventually leading to liver failure and increased risk of liver cancer.",
+        "he": "שחמת מתרחשת כאשר תאי כבד בריאים מוחלפים בהדרגה ברקמת צלקת סיבית עקב נזק כרוני — לרוב מהתעללות כרונית באלכוהול, הפטיטיס B או C כרונית, או מחלת כבד שומני. רקמת צלקת אינה יכולה לבצע תפקודי כבד תקינים וחוסמת את זרימת הדם דרך הכבד, ובסופו של דבר מובילה לאי-ספיקת כבד וסיכון מוגבר לסרטן כבד."
+      }
+    },
+    {
+      "id": "q6",
+      "question": {
+        "en": "Approximately how many known functions does the liver perform?",
+        "he": "כמה תפקודים ידועים בערך מבצע הכבד?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "About 10",
+            "he": "כ-10"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "About 50",
+            "he": "כ-50"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Over 500",
+            "he": "למעלה מ-500"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "About 200",
+            "he": "כ-200"
+          }
+        }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "The liver performs over 500 known functions, making it one of the most metabolically complex organs in the body. These include detoxification, protein synthesis (albumin, clotting factors), bile production, glucose storage, cholesterol metabolism, immune functions, hormone regulation, and vitamin storage. No artificial device can fully replace all these functions.",
+        "he": "הכבד מבצע למעלה מ-500 תפקודים ידועים, מה שהופך אותו לאחד האיברים המורכבים ביותר מבחינה מטבולית בגוף. אלה כוללים ניטרול רעלים, סינתזת חלבונים (אלבומין, פקטורי קרישה), ייצור מרה, אחסון גלוקוז, חילוף חומרים של כולסטרול, תפקודים חיסוניים, ויסות הורמונים ואחסון ויטמינים. אין מכשיר מלאכותי שיכול להחליף במלואם את כל התפקודים הללו."
+      }
+    },
+    {
+      "id": "q7",
+      "question": {
+        "en": "What happens to alcohol when it reaches the liver?",
+        "he": "מה קורה לאלכוהול כשהוא מגיע לכבד?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "It is stored as fat permanently",
+            "he": "הוא מאוחסן כשומן לצמיתות"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "It is broken down in steps, first to toxic acetaldehyde and then to acetate",
+            "he": "הוא מפורק בשלבים, תחילה לאצטלדהיד רעיל ואז לאצטט"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "It passes through the liver unchanged",
+            "he": "הוא עובר דרך הכבד ללא שינוי"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "It is converted directly into glucose",
+            "he": "הוא מומר ישירות לגלוקוז"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The liver breaks down alcohol using alcohol dehydrogenase, converting ethanol first to acetaldehyde — a highly toxic intermediate responsible for many harmful effects of alcohol — and then acetaldehyde dehydrogenase converts it to acetate, which is further metabolized to carbon dioxide and water. Heavy or chronic drinking overwhelms this system and causes progressive liver cell damage.",
+        "he": "הכבד מפרק אלכוהול באמצעות אלכוהול דהידרוגנאז, ממיר אתנול תחילה לאצטלדהיד — ביניים רעיל ביותר האחראי לאפקטים מזיקים רבים של אלכוהול — ואז אצטלדהיד דהידרוגנאז ממיר אותו לאצטט, המתמטבל עוד לפחמן דו-חמצני ומים. שתייה כבדה או כרונית מציפה מערכת זו וגורמת לנזק מתקדם לתאי הכבד."
+      }
+    },
+    {
+      "id": "q8",
+      "question": {
+        "en": "Which protein produced by the liver is essential for blood clotting?",
+        "he": "איזה חלבון המיוצר בכבד חיוני לקרישת דם?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Hemoglobin",
+            "he": "המוגלובין"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Fibrinogen",
+            "he": "פיברינוגן"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Amylase",
+            "he": "עמילאז"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Leptin",
+            "he": "לפטין"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Fibrinogen is one of the most important clotting factors produced by the liver. When a blood vessel is injured, fibrinogen is converted to fibrin, which forms the fibrous mesh of a blood clot. The liver also produces prothrombin and factors V, VII, IX, and X. Severe liver disease dramatically reduces clotting ability and can cause life-threatening bleeding.",
+        "he": "פיברינוגן הוא אחד מפקטורי הקרישה החשובים ביותר המיוצרים בכבד. כאשר כלי דם נפגע, פיברינוגן מומר לפיברין, היוצר את הרשת הסיבית של קריש הדם. הכבד גם מייצר פרותרומבין ופקטורים V, VII, IX ו-X. מחלת כבד חמורה מפחיתה דרמטית את יכולת הקרישה ועלולה לגרום לדימום מסכן חיים."
+      }
+    },
+    {
+      "id": "q9",
+      "question": {
+        "en": "What is jaundice (yellowing of skin) caused by?",
+        "he": "ממה נגרם יקטרוס (הצהבה של העור)?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Excess red blood cells in the skin",
+            "he": "עודף כדוריות דם אדומות בעור"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Buildup of bilirubin when the liver cannot process it properly",
+            "he": "הצטברות בילירובין כשהכבד אינו יכול לעבדו כראוי"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Too much bile in the diet",
+            "he": "יותר מדי מרה בתזונה"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Skin inflammation due to liver enzymes",
+            "he": "דלקת עור עקב אנזימי כבד"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Bilirubin is a yellow pigment produced when the liver breaks down old red blood cells. A healthy liver processes and excretes bilirubin in bile. When the liver is diseased, bile ducts are blocked, or red blood cells are destroyed too rapidly, bilirubin accumulates in blood and tissues, turning the skin and whites of the eyes yellow — a visible warning sign of liver or blood disorders.",
+        "he": "בילירובין הוא פיגמנט צהוב המיוצר כאשר הכבד מפרק כדוריות דם אדומות ישנות. כבד בריא מעבד ומפריש בילירובין במרה. כאשר הכבד חולה, צינורות המרה חסומים, או שכדוריות הדם האדומות נהרסות מהר מדי, בילירובין מצטבר בדם וברקמות, הופך את העור ולבן העיניים לצהוב — סימן אזהרה גלוי להפרעות כבד או דם."
+      }
+    },
+    {
+      "id": "q10",
+      "question": {
+        "en": "What is albumin and why is it important?",
+        "he": "מהו אלבומין ומדוע הוא חשוב?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "A digestive enzyme that breaks down fats",
+            "he": "אנזים עיכולי המפרק שומנים"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "The main blood plasma protein made by the liver that maintains blood volume and transports substances",
+            "he": "חלבון פלזמת הדם הראשי המיוצר בכבד השומר על נפח הדם ומוביל חומרים"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "A hormone that regulates metabolism",
+            "he": "הורמון המווסת מטבוליזם"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "A clotting factor that stops bleeding",
+            "he": "פקטור קרישה שעוצר דימום"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Albumin is the most abundant protein in blood plasma, making up about 60% of total plasma proteins. Produced exclusively by the liver, it creates oncotic pressure that retains fluid in blood vessels, preventing edema. It also serves as a transporter for hormones, fatty acids, calcium, and drugs. Low albumin is a key indicator of liver dysfunction or severe malnutrition.",
+        "he": "אלבומין הוא החלבון השכיח ביותר בפלזמת הדם, המהווה כ-60% מסך חלבוני הפלזמה. המיוצר אך ורק בכבד, הוא יוצר לחץ אונקוטי השומר על נוזל בכלי הדם ומונע בצקת. הוא גם משמש כמוביל להורמונים, חומצות שומן, סידן ותרופות. אלבומין נמוך הוא מדד מרכזי לתפקוד לקוי של הכבד או תת-תזונה חמורה."
+      }
+    }
+  ],
+  "videoSources": [
+    "jQo7k7PTUG8",
+    "U5A5Y8x8zp8"
+  ]
+}

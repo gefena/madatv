@@ -1,0 +1,629 @@
+{
+  "id": "04-bone-marrow",
+  "episodeNumber": 4,
+  "youtubeId": "6nuicHjL4ic",
+  "title": {
+    "en": "Bone Marrow",
+    "he": "מח עצמות"
+  },
+  "summary": {
+    "en": "This episode explores bone marrow — the soft, spongy tissue inside bones that serves as the body's blood cell factory, one of the most productive organs in the entire body. It explains how hematopoietic stem cells in the marrow differentiate into all three types of blood cells: oxygen-carrying red blood cells, infection-fighting white blood cells, and clot-forming platelets. The episode reveals the astonishing scale of this process — the bone marrow produces approximately 200 billion new red blood cells every single day just to replace those that wear out after 120 days of circulation. It also distinguishes between red bone marrow (which actively produces blood cells, found mainly in flat bones in adults) and yellow bone marrow (which is primarily fat storage, but can convert back to red marrow in emergencies). The episode concludes by explaining why bone marrow health is critical to the entire body's survival, and touches on treatments like bone marrow transplants for diseases such as leukemia.",
+    "he": "פרק זה חוקר את מח העצמות — הרקמה הרכה והספוגית בתוך העצמות המשמשת כבית החרושת לתאי הדם של הגוף, אחד האיברים הפרודוקטיביים ביותר בכל הגוף. הוא מסביר כיצד תאי גזע המטופואטיים במח מתמיינים לכל שלושת סוגי תאי הדם: כדוריות דם אדומות הנושאות חמצן, כדוריות דם לבנות הנלחמות בזיהום, וטסיות יוצרות קרישים. הפרק חושף את ההיקף המדהים של תהליך זה — מח העצמות מייצר כ-200 מיליארד כדוריות דם אדומות חדשות מדי יום כדי להחליף את אלו שבלות לאחר 120 ימי מחזור. הוא גם מבחין בין מח עצמות אדום (המייצר באופן פעיל תאי דם, שנמצא בעיקר בעצמות שטוחות אצל מבוגרים) ומח עצמות צהוב (שהוא בעיקר אחסון שומן, אך יכול להמיר חזרה למח אדום בשעת חירום). הפרק מסיים בהסבר מדוע בריאות מח העצמות קריטית להישרדות הגוף כולו, ונוגע בטיפולים כמו השתלת מח עצמות למחלות כמו לוקמיה."
+  },
+  "thumbnail": "https://img.youtube.com/vi/6nuicHjL4ic/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": [
+    "bone marrow",
+    "hematopoiesis",
+    "stem cells",
+    "blood cell production"
+  ],
+  "terminology": [
+    {
+      "id": "t04-01",
+      "term": {
+        "en": "Bone Marrow",
+        "he": "מח עצמות"
+      },
+      "definition": {
+        "en": "The soft, spongy tissue found inside bones that produces all types of blood cells and stores fat. In adults, red bone marrow is primarily found in flat bones such as the sternum, ribs, and pelvis.",
+        "he": "הרקמה הרכה והספוגית הנמצאת בתוך העצמות, המייצרת את כל סוגי תאי הדם ומאחסנת שומן. אצל מבוגרים, מח עצמות אדום נמצא בעיקר בעצמות שטוחות כגון עצם החזה, הצלעות והאגן."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t04-02",
+      "term": {
+        "en": "Hematopoietic Stem Cell",
+        "he": "תא גזע המטופואטי"
+      },
+      "definition": {
+        "en": "An undifferentiated cell in the bone marrow that has the remarkable ability to give rise to all types of blood cells — red cells, white cells, and platelets — through a process of differentiation. One stem cell can produce billions of blood cells over a lifetime.",
+        "he": "תא לא מתמיין במח העצמות בעל היכולת המרהיבה לייצר את כל סוגי תאי הדם — כדוריות אדומות, לבנות וטסיות — דרך תהליך של התמיינות. תא גזע אחד יכול לייצר מיליארדי תאי דם לאורך חיים."
+      },
+      "category": "cell biology"
+    },
+    {
+      "id": "t04-03",
+      "term": {
+        "en": "Hematopoiesis",
+        "he": "המטופואזה"
+      },
+      "definition": {
+        "en": "The continuous process of forming new blood cells, which occurs primarily in the red bone marrow. The body must produce about 500 billion blood cells per day to replace those that are used up or die.",
+        "he": "התהליך המתמשך של יצירת תאי דם חדשים, המתרחש בעיקר במח העצמות האדום. הגוף חייב לייצר כ-500 מיליארד תאי דם ביום כדי להחליף את אלו שנוצלו או מתו."
+      },
+      "category": "process"
+    },
+    {
+      "id": "t04-04",
+      "term": {
+        "en": "Red Blood Cell (Erythrocyte)",
+        "he": "כדורית דם אדומה (אריתרוציט)"
+      },
+      "definition": {
+        "en": "A biconcave disc-shaped blood cell containing hemoglobin that transports oxygen from the lungs to all tissues and carries carbon dioxide back to the lungs. Uniquely, mature red blood cells have no nucleus, giving more space for hemoglobin.",
+        "he": "תא דם בצורת דיסק דו-קעור המכיל המוגלובין המעביר חמצן מהריאות לכל הרקמות ומחזיר פחמן דו-חמצני לריאות. באופן ייחודי, לכדוריות דם אדומות בשלות אין גרעין, מה שנותן יותר מקום למוגלובין."
+      },
+      "category": "blood cell"
+    },
+    {
+      "id": "t04-05",
+      "term": {
+        "en": "Red Bone Marrow",
+        "he": "מח עצמות אדום"
+      },
+      "definition": {
+        "en": "The type of bone marrow actively producing blood cells, found in flat bones such as the sternum, ribs, skull, and pelvis in adults. Its red color comes from the abundance of red blood cells being produced within it.",
+        "he": "סוג מח העצמות המייצר באופן פעיל תאי דם, הנמצא בעצמות שטוחות כגון עצם החזה, הצלעות, הגולגולת והאגן אצל מבוגרים. הצבע האדום שלו נובע מריבוי כדוריות הדם האדומות המיוצרות בתוכו."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t04-06",
+      "term": {
+        "en": "Yellow Bone Marrow",
+        "he": "מח עצמות צהוב"
+      },
+      "definition": {
+        "en": "Bone marrow primarily made of fat cells (adipocytes), found in the shafts of long bones in adults. During severe blood loss or illness, the body can convert yellow marrow back into red marrow to boost blood cell production.",
+        "he": "מח עצמות המורכב בעיקר מתאי שומן (אדיפוציטים), הנמצא בגופי העצמות הארוכות אצל מבוגרים. במהלך אובדן דם חמור או מחלה, הגוף יכול להמיר מח צהוב בחזרה למח אדום כדי להגביר ייצור תאי דם."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t04-07",
+      "term": {
+        "en": "Hemoglobin",
+        "he": "המוגלובין"
+      },
+      "definition": {
+        "en": "The iron-containing protein that fills red blood cells and binds oxygen in the lungs, releasing it in tissues where oxygen levels are low. Its iron component gives blood its characteristic red color when oxygenated.",
+        "he": "החלבון המכיל ברזל הממלא כדוריות דם אדומות וקושר חמצן בריאות, ומשחרר אותו ברקמות שבהן רמות החמצן נמוכות. מרכיב הברזל שלו נותן לדם את צבעו האדום האופייני כאשר הוא מחומצן."
+      },
+      "category": "biochemistry"
+    },
+    {
+      "id": "t04-08",
+      "term": {
+        "en": "Platelet (Thrombocyte)",
+        "he": "טסית דם (תרומבוציט)"
+      },
+      "definition": {
+        "en": "A tiny, nucleus-free cell fragment shed from large bone marrow cells called megakaryocytes. Platelets circulate in the blood and clump together at sites of injury to start the blood clotting process, preventing excessive bleeding.",
+        "he": "שבר תא זעיר נטול גרעין הנושר מתאי מח עצמות גדולים הנקראים מגה-קריוציטים. טסיות מסתובבות בדם ומתגבשות באתרי פציעה כדי להתחיל את תהליך קרישת הדם ולמנוע דימום מוגזם."
+      },
+      "category": "blood cell"
+    },
+    {
+      "id": "t04-09",
+      "term": {
+        "en": "Leukemia",
+        "he": "לוקמיה"
+      },
+      "definition": {
+        "en": "A cancer of the blood or bone marrow in which abnormal white blood cells multiply uncontrollably, crowding out normal blood cells. This leads to severe anemia, increased infection risk, and bleeding problems.",
+        "he": "סרטן של הדם או מח העצמות שבו כדוריות דם לבנות חריגות מתרבות ללא שליטה, ומדחיקות תאי דם תקינים. זה מוביל לאנמיה חמורה, סיכון מוגבר לזיהום ובעיות דימום."
+      },
+      "category": "pathology"
+    },
+    {
+      "id": "t04-10",
+      "term": {
+        "en": "Bone Marrow Transplant",
+        "he": "השתלת מח עצמות"
+      },
+      "definition": {
+        "en": "A medical procedure in which diseased or destroyed bone marrow is replaced with healthy hematopoietic stem cells from a compatible donor. It is used to treat leukemia, lymphoma, and certain genetic blood disorders.",
+        "he": "הליך רפואי שבו מח עצמות חולה או מושמד מוחלף בתאי גזע המטופואטיים בריאים מתורם תואם. הוא משמש לטיפול בלוקמיה, לימפומה והפרעות דם גנטיות מסוימות."
+      },
+      "category": "medicine"
+    },
+    {
+      "id": "t04-11",
+      "term": {
+        "en": "Erythropoietin (EPO)",
+        "he": "אריתרופויאטין (EPO)"
+      },
+      "definition": {
+        "en": "A hormone produced mainly by the kidneys that signals the bone marrow to increase red blood cell production when oxygen levels are low — for example, at high altitude or after blood loss.",
+        "he": "הורמון המיוצר בעיקר על ידי הכליות ומאותת למח העצמות להגביר ייצור כדוריות דם אדומות כאשר רמות החמצן נמוכות — למשל, בגובה רב או לאחר אובדן דם."
+      },
+      "category": "biochemistry"
+    },
+    {
+      "id": "t04-12",
+      "term": {
+        "en": "Anemia",
+        "he": "אנמיה"
+      },
+      "definition": {
+        "en": "A condition in which the blood lacks sufficient healthy red blood cells to carry adequate oxygen to the body's tissues, causing fatigue, weakness, and paleness. It can result from iron deficiency, vitamin deficiencies, blood loss, or marrow disorders.",
+        "he": "מצב שבו הדם חסר כדוריות דם אדומות בריאות מספיק כדי להוביל חמצן מספק לרקמות הגוף, וגורם לעייפות, חולשה וחיוורון. הוא יכול לנבוע ממחסור בברזל, מחסור בוויטמינים, אובדן דם או הפרעות במח."
+      },
+      "category": "pathology"
+    },
+    {
+      "id": "t04-13",
+      "term": {
+        "en": "Megakaryocyte",
+        "he": "מגה-קריוציט"
+      },
+      "definition": {
+        "en": "An exceptionally large bone marrow cell with multiple nuclei that produces platelets by shedding fragments of its cytoplasm into the bloodstream. Each megakaryocyte can release thousands of platelets.",
+        "he": "תא מח עצמות גדול במיוחד עם גרעינים מרובים המייצר טסיות על ידי הנשרת שברי ציטופלזמה שלו לזרם הדם. כל מגה-קריוציט יכול לשחרר אלפי טסיות."
+      },
+      "category": "cell biology"
+    },
+    {
+      "id": "t04-14",
+      "term": {
+        "en": "Lifespan of Blood Cells",
+        "he": "אורך חיי תאי הדם"
+      },
+      "definition": {
+        "en": "Different blood cells have very different lifespans: red blood cells live about 120 days before being broken down by the spleen and liver; platelets live 8–10 days; and different white blood cell types live from hours (neutrophils) to years (memory lymphocytes).",
+        "he": "לתאי דם שונים אורך חיים שונה מאוד: כדוריות דם אדומות חיות כ-120 ימים לפני שהן מפורקות על ידי הטחול והכבד; טסיות חיות 8–10 ימים; וסוגי כדוריות דם לבנות שונים חיות משעות (נויטרופילים) ועד שנים (לימפוציטים זיכרון)."
+      },
+      "category": "physiology"
+    },
+    {
+      "id": "t04-15",
+      "term": {
+        "en": "Thrombocytopenia",
+        "he": "טרומבוציטופניה (מחסור בטסיות)"
+      },
+      "definition": {
+        "en": "A condition characterized by an abnormally low platelet count in the blood, which impairs clotting and causes easy bruising, bleeding from minor cuts, and in severe cases, spontaneous internal bleeding.",
+        "he": "מצב המאופיין בספירת טסיות חריגה נמוכה בדם, הפוגעת בקרישה וגורמת לחבלות קלות, דימום מחתכים קלים ובמקרים חמורים, דימום פנימי ספונטני."
+      },
+      "category": "pathology"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q04-01",
+      "question": {
+        "en": "What type of cell in bone marrow can produce all types of blood cells?",
+        "he": "איזה סוג תא במח העצמות יכול לייצר את כל סוגי תאי הדם?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Muscle cell",
+            "he": "תא שריר"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Hematopoietic stem cell",
+            "he": "תא גזע המטופואטי"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Nerve cell",
+            "he": "תא עצב"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Fat cell",
+            "he": "תא שומן"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Hematopoietic stem cells in the bone marrow are the origin of all blood cell types. They can self-renew (make copies of themselves) and also differentiate into red blood cells, white blood cells, and platelets — a process called hematopoiesis.",
+        "he": "תאי גזע המטופואטיים במח העצמות הם מקורם של כל סוגי תאי הדם. הם יכולים להתחדש עצמאית (ליצור עותקים של עצמם) וגם להתמיין לכדוריות דם אדומות, לבנות וטסיות — תהליך הנקרא המטופואזה."
+      }
+    },
+    {
+      "id": "q04-02",
+      "question": {
+        "en": "What protein in red blood cells carries oxygen?",
+        "he": "איזה חלבון בכדוריות הדם האדומות נושא חמצן?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Collagen",
+            "he": "קולגן"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Keratin",
+            "he": "קרטין"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Hemoglobin",
+            "he": "המוגלובין"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Insulin",
+            "he": "אינסולין"
+          }
+        }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Hemoglobin is the iron-rich protein that packs red blood cells. It binds oxygen tightly in the lungs where oxygen is abundant, and then releases it in tissues where oxygen levels are low. Without hemoglobin, oxygen simply cannot be transported efficiently — which is why iron deficiency leads to anemia.",
+        "he": "המוגלובין הוא החלבון העשיר בברזל שאורז כדוריות דם אדומות. הוא קושר חמצן בחוזקה בריאות שבהן החמצן שופע, ואז משחרר אותו ברקמות שבהן רמות החמצן נמוכות. ללא המוגלובין, חמצן פשוט לא יכול להיות מועבר ביעילות — זו הסיבה שמחסור בברזל מוביל לאנמיה."
+      }
+    },
+    {
+      "id": "q04-03",
+      "question": {
+        "en": "Where is blood-producing red bone marrow mainly found in adults?",
+        "he": "היכן נמצא בעיקר מח עצמות אדום המייצר דם אצל מבוגרים?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "In the skull only",
+            "he": "בגולגולת בלבד"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "In long bones like the femur",
+            "he": "בעצמות ארוכות כגון הירך"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "In flat bones like the sternum, ribs, and pelvis",
+            "he": "בעצמות שטוחות כגון עצם החזה, הצלעות והאגן"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "In the finger bones",
+            "he": "בעצמות האצבעות"
+          }
+        }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "In adults, red bone marrow that actively produces blood cells is found in flat and irregular bones — primarily the sternum, ribs, vertebrae, skull, and pelvis. In children, red marrow is present in more bones, but it progressively gets replaced by yellow (fatty) marrow in the limb bones as we age.",
+        "he": "אצל מבוגרים, מח עצמות אדום המייצר באופן פעיל תאי דם נמצא בעצמות שטוחות ולא סדירות — בעיקר עצם החזה, הצלעות, החוליות, הגולגולת והאגן. אצל ילדים, מח אדום קיים בעצמות רבות יותר, אך הוא מוחלף בהדרגה על ידי מח צהוב (שמן) בעצמות הגפיים עם הגדילה."
+      }
+    },
+    {
+      "id": "q04-04",
+      "question": {
+        "en": "What is the name of the process of blood cell formation in the bone marrow?",
+        "he": "מה שם התהליך של יצירת תאי דם במח העצמות?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Photosynthesis",
+            "he": "פוטוסינתזה"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Hematopoiesis",
+            "he": "המטופואזה"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Respiration",
+            "he": "נשימה"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Osmosis",
+            "he": "אוסמוזה"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Hematopoiesis is the remarkable process of producing blood cells. The bone marrow produces about 200 billion red blood cells, 10 billion white blood cells, and 400 billion platelets every single day — a total of over 500 billion new cells daily.",
+        "he": "המטופואזה הוא התהליך המרהיב של ייצור תאי דם. מח העצמות מייצר כ-200 מיליארד כדוריות דם אדומות, 10 מיליארד כדוריות דם לבנות ו-400 מיליארד טסיות מדי יום — סה\"כ למעלה מ-500 מיליארד תאים חדשים מדי יום."
+      }
+    },
+    {
+      "id": "q04-05",
+      "question": {
+        "en": "What disease involves abnormal overproduction of white blood cells in the bone marrow?",
+        "he": "איזו מחלה כרוכה בייצור יתר חריג של כדוריות דם לבנות במח העצמות?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Diabetes",
+            "he": "סוכרת"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Asthma",
+            "he": "אסתמה"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Leukemia",
+            "he": "לוקמיה"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Anemia",
+            "he": "אנמיה"
+          }
+        }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Leukemia is a cancer of the bone marrow and blood in which abnormal white blood cells multiply uncontrollably, crowding out healthy blood cells. This leads to anemia (lack of red cells), bleeding (lack of platelets), and increased susceptibility to infection.",
+        "he": "לוקמיה היא סרטן של מח העצמות והדם שבו כדוריות דם לבנות חריגות מתרבות ללא שליטה, ומדחיקות תאי דם בריאים. זה מוביל לאנמיה (מחסור בכדוריות אדומות), דימום (מחסור בטסיות) ורגישות מוגברת לזיהום."
+      }
+    },
+    {
+      "id": "q04-06",
+      "question": {
+        "en": "Approximately how many red blood cells does the bone marrow produce each day?",
+        "he": "כמה כדוריות דם אדומות בערך מייצר מח העצמות מדי יום?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "1 million",
+            "he": "מיליון אחד"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "1 billion",
+            "he": "מיליארד אחד"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "200 billion",
+            "he": "200 מיליארד"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "1 trillion",
+            "he": "טריליון אחד"
+          }
+        }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "The bone marrow produces approximately 200 billion red blood cells every day to replace those that naturally wear out after about 120 days of circulation. Red blood cells are eventually broken down in the spleen and liver, with much of the iron being recycled into new cells.",
+        "he": "מח העצמות מייצר כ-200 מיליארד כדוריות דם אדומות מדי יום כדי להחליף את אלה שבלות באופן טבעי לאחר כ-120 ימי מחזור. כדוריות דם אדומות מפורקות בסופו של דבר בטחול ובכבד, כאשר חלק גדול מהברזל ממוחזר לתאים חדשים."
+      }
+    },
+    {
+      "id": "q04-07",
+      "question": {
+        "en": "What triggers the kidney to signal the bone marrow to produce more red blood cells?",
+        "he": "מה מפעיל את הכליה לאותת למח העצמות לייצר יותר כדוריות דם אדומות?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "High blood sugar levels",
+            "he": "רמות סוכר גבוהות בדם"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Low oxygen levels detected in the blood",
+            "he": "רמות חמצן נמוכות שהתגלו בדם"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Excess calcium in the bones",
+            "he": "עודף סידן בעצמות"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "High water intake",
+            "he": "צריכת מים גבוהה"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "When the kidneys detect low oxygen levels (hypoxia) in the blood — for example, after blood loss or at high altitude — they release a hormone called erythropoietin (EPO). EPO travels to the bone marrow and signals it to accelerate red blood cell production.",
+        "he": "כאשר הכליות מגלות רמות חמצן נמוכות (היפוקסיה) בדם — למשל, לאחר אובדן דם או בגובה רב — הן משחררות הורמון הנקרא אריתרופויאטין (EPO). EPO נוסע למח העצמות ומאותת לו להאיץ את ייצור כדוריות הדם האדומות."
+      }
+    },
+    {
+      "id": "q04-08",
+      "question": {
+        "en": "How long does a red blood cell typically survive in the bloodstream?",
+        "he": "כמה זמן כדורית דם אדומה שורדת בדרך כלל בזרם הדם?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "1–3 days",
+            "he": "1–3 ימים"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "About 120 days",
+            "he": "כ-120 ימים"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "About 1 year",
+            "he": "כ-שנה"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "10 years",
+            "he": "10 שנים"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Red blood cells have a lifespan of about 120 days (4 months). They travel through the circulatory system delivering oxygen, but eventually become too old and fragile. The spleen acts as a quality filter, removing old red blood cells from circulation so they can be broken down and their components recycled.",
+        "he": "לכדוריות דם אדומות אורך חיים של כ-120 ימים (4 חודשים). הן נעות במערכת הדם ומספקות חמצן, אך בסופו של דבר הופכות ישנות ושבירות מדי. הטחול פועל כמסנן איכות, מסיר כדוריות דם אדומות ישנות מהמחזור כדי שניתן יהיה לפרקן ולמחזר את רכיביהן."
+      }
+    },
+    {
+      "id": "q04-09",
+      "question": {
+        "en": "Why is a bone marrow transplant used to treat leukemia?",
+        "he": "מדוע השתלת מח עצמות משמשת לטיפול בלוקמיה?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "It delivers drugs directly to the cancer cells",
+            "he": "היא מספקת תרופות ישירות לתאים הסרטניים"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "It replaces the diseased marrow with healthy stem cells that can produce normal blood cells",
+            "he": "היא מחליפה את המח החולה בתאי גזע בריאים שיכולים לייצר תאי דם תקינים"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "It strengthens existing red blood cells",
+            "he": "היא מחזקת כדוריות דם אדומות קיימות"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "It teaches white blood cells to recognize cancer cells",
+            "he": "היא מלמדת כדוריות דם לבנות לזהות תאים סרטניים"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "In a bone marrow transplant for leukemia, the patient's cancerous marrow is first destroyed by high-dose chemotherapy and/or radiation. Then, healthy hematopoietic stem cells from a compatible donor are infused, which travel to the bones and begin producing normal, healthy blood cells.",
+        "he": "בהשתלת מח עצמות ללוקמיה, מח העצמות הסרטני של החולה נהרס תחילה על ידי כימותרפיה ו/או קרינה במינון גבוה. לאחר מכן, תאי גזע המטופואטיים בריאים מתורם תואם מוחדרים, הנעים לעצמות ומתחילים לייצר תאי דם תקינים ובריאים."
+      }
+    },
+    {
+      "id": "q04-10",
+      "question": {
+        "en": "Why do mature red blood cells lack a nucleus?",
+        "he": "מדוע לכדוריות דם אדומות בשלות אין גרעין?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Because nuclei are toxic in the bloodstream",
+            "he": "מפני שגרעינים הם רעילים בזרם הדם"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "To make more room for hemoglobin and maximize oxygen-carrying capacity",
+            "he": "כדי לפנות יותר מקום להמוגלובין ולמקסם את יכולת נשיאת החמצן"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Because the nucleus is transferred to the bone marrow",
+            "he": "מפני שהגרעין מועבר למח העצמות"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Because red blood cells divide very rapidly",
+            "he": "מפני שכדוריות דם אדומות מתחלקות במהירות רבה"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "During red blood cell development in the bone marrow, the nucleus is expelled just before the cell enters the bloodstream. This frees up internal space for more hemoglobin — the oxygen-carrying protein — maximizing the cell's oxygen transport efficiency. As a trade-off, mature red blood cells cannot repair themselves and have a limited lifespan.",
+        "he": "במהלך התפתחות כדוריות הדם האדומות במח העצמות, הגרעין מגורש מיד לפני שהתא נכנס לזרם הדם. זה פותח מקום פנימי ליותר המוגלובין — החלבון הנושא חמצן — ומקסים את יעילות הובלת החמצן של התא. כתמורה, לכדוריות דם אדומות בשלות אין יכולת לתקן את עצמן ויש להן אורך חיים מוגבל."
+      }
+    }
+  ],
+  "videoSources": [
+    "6nuicHjL4ic",
+    "1jPuUiEvgUU"
+  ]
+}

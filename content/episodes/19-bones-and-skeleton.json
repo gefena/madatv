@@ -1,0 +1,630 @@
+{
+  "id": "19-bones-and-skeleton",
+  "episodeNumber": 19,
+  "youtubeId": "TTAVol7d-3A",
+  "title": {
+    "en": "Bones and the Skeleton",
+    "he": "העצמות והשלד"
+  },
+  "summary": {
+    "en": "This episode explores the human skeletal system — the body's internal framework of 206 bones that performs far more than simply holding the body upright. It explains how bones provide structural support, protect vital organs (such as the skull protecting the brain and the ribcage protecting the heart), enable movement through joints, and produce all blood cells in the red bone marrow. The episode describes bone as a living tissue with a compact outer shell for strength and a spongy inner core for lightness, constantly being remodeled by two opposing cell types — osteoblasts that build new bone and osteoclasts that break down old bone. It also covers how the skeleton changes from birth (when it contains more cartilage) through adulthood and into old age, where declining calcium and bone density can lead to osteoporosis.",
+    "he": "פרק זה חוקר את מערכת השלד האנושית — המסגרת הפנימית של הגוף הכוללת 206 עצמות ומבצעת הרבה יותר מסתם החזקת הגוף בעמידה. הוא מסביר כיצד עצמות מספקות תמיכה מבנית, מגנות על איברים חיוניים (כגון הגולגולת המגנה על המוח וכלוב הצלעות המגן על הלב), מאפשרות תנועה דרך מפרקים ומייצרות את כל תאי הדם במח העצם האדום. הפרק מתאר את העצם כרקמה חיה עם קליפה חיצונית קומפקטית לחוזק וגרעין ספוגי פנימי לקלילות, המתעצבת מחדש ברציפות על ידי שני סוגי תאים מנוגדים — אוסטאובלסטים הבונים עצם חדשה ואוסטאוקלסטים המפרקים עצם ישנה. הוא גם סוקר כיצד השלד משתנה מלידה (שבה הוא מכיל יותר סחוס) דרך בגרות ועד לזקנה, שבה ירידה בסידן ובצפיפות העצם יכולה להוביל לאוסטאופורוזיס."
+  },
+  "thumbnail": "https://img.youtube.com/vi/TTAVol7d-3A/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": [
+    "skeleton",
+    "bone structure",
+    "joints",
+    "calcium",
+    "bone health"
+  ],
+  "terminology": [
+    {
+      "id": "t16-01",
+      "term": {
+        "en": "Skeleton",
+        "he": "שלד"
+      },
+      "definition": {
+        "en": "The internal framework of 206 bones that supports the body, protects organs, enables movement, produces blood cells in the marrow, and stores minerals. Babies are born with about 270–300 bones; many fuse together by adulthood.",
+        "he": "המסגרת הפנימית של 206 עצמות התומכת בגוף, מגינה על איברים, מאפשרת תנועה, מייצרת תאי דם במח ואוחסנת מינרלים. תינוקות נולדים עם כ-270–300 עצמות; רבות מהן מתאחות עד לבגרות."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t16-02",
+      "term": {
+        "en": "Compact Bone",
+        "he": "עצם קומפקטית"
+      },
+      "definition": {
+        "en": "The hard, dense outer layer of bone tissue that provides strength and protection. It is made of tightly packed cylindrical units called osteons, which contain channels for blood vessels and nerves running through the bone.",
+        "he": "השכבה החיצונית הקשה והצפופה של רקמת העצם המספקת חוזק והגנה. היא עשויה מיחידות גליליות ארוזות בצפיפות הנקראות אוסטאונים, המכילות ערוצים לכלי דם ועצבים העוברים דרך העצם."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t16-03",
+      "term": {
+        "en": "Spongy (Cancellous) Bone",
+        "he": "עצם ספוגית (קנצלוסה)"
+      },
+      "definition": {
+        "en": "The lightweight, porous inner bone tissue with a honeycomb-like network of trabeculae that reduces weight while maintaining strength. Red bone marrow, where blood cells are produced, is found in the spaces of spongy bone.",
+        "he": "רקמת העצם הפנימית הקלה והנקבובית עם רשת דמויית כוורת של טרבקולה המפחיתה משקל תוך שמירה על חוזק. מח עצם אדום, שבו מיוצרים תאי דם, נמצא בחללים של העצם הספוגית."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t16-04",
+      "term": {
+        "en": "Joint",
+        "he": "מפרק"
+      },
+      "definition": {
+        "en": "The point where two or more bones meet. Some joints are immovable (like the fused plates of the skull), some allow limited movement (like the vertebrae), and synovial joints allow a wide range of movement and are cushioned by cartilage and lubricated by synovial fluid.",
+        "he": "הנקודה שבה שתיים או יותר עצמות נפגשות. חלק מהמפרקים אינם ניידים (כמו לוחות הגולגולת המאוחות), חלק מאפשרים תנועה מוגבלת (כמו החוליות), ומפרקים סינוביאליים מאפשרים מגוון רחב של תנועה ומרופדים בסחוס ומשוחים בנוזל סינוביאלי."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t16-05",
+      "term": {
+        "en": "Cartilage",
+        "he": "סחוס"
+      },
+      "definition": {
+        "en": "A smooth, flexible connective tissue that covers the ends of bones at joints, reducing friction during movement. Cartilage has no blood vessels and heals slowly when damaged. It also forms the nose, ears, and the fetal skeleton before it is gradually replaced by bone.",
+        "he": "רקמה חיבורית חלקה וגמישה המכסה את קצות העצמות במפרקים, המפחיתה חיכוך במהלך תנועה. לסחוס אין כלי דם והוא מתרפא לאט כאשר ניזוק. הוא גם מרכיב את האף, האוזניים ושלד העובר לפני שמוחלף בהדרגה בעצם."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t16-06",
+      "term": {
+        "en": "Osteoblast",
+        "he": "אוסטאובלסט"
+      },
+      "definition": {
+        "en": "A bone-forming cell that synthesizes and deposits the organic matrix (mainly collagen) and mineral crystals (mainly calcium phosphate) of new bone tissue. Osteoblasts are most active during growth and fracture healing.",
+        "he": "תא יוצר עצם המסנתז ומשקיע את המטריצה האורגנית (בעיקר קולגן) ואת גבישי המינרל (בעיקר סידן פוספט) של רקמת עצם חדשה. אוסטאובלסטים פעילים ביותר במהלך גדילה ואחרי שברים."
+      },
+      "category": "cell biology"
+    },
+    {
+      "id": "t16-07",
+      "term": {
+        "en": "Osteoclast",
+        "he": "אוסטאוקלסט"
+      },
+      "definition": {
+        "en": "A large cell that breaks down and resorbs old bone tissue by secreting acids and enzymes, releasing calcium and other minerals back into the blood. Osteoclasts work in balance with osteoblasts in the continuous process of bone remodeling.",
+        "he": "תא גדול המפרק ומספג רקמת עצם ישנה על ידי הפרשת חומצות ואנזימים, ומשחרר סידן ומינרלים אחרים חזרה לדם. אוסטאוקלסטים פועלים בשיווי משקל עם אוסטאובלסטים בתהליך הרציף של עיצוב מחדש של עצם."
+      },
+      "category": "cell biology"
+    },
+    {
+      "id": "t16-08",
+      "term": {
+        "en": "Ligament",
+        "he": "רצועה"
+      },
+      "definition": {
+        "en": "A tough band of fibrous connective tissue that connects bone to bone at joints, providing stability and limiting excessive movement. Ligaments are made mainly of collagen and have poor blood supply, which is why ligament injuries heal slowly.",
+        "he": "רצועה קשה של רקמת חיבור סיבית המחברת עצם לעצם במפרקים ומספקת יציבות ומגבילה תנועה מוגזמת. רצועות עשויות בעיקר קולגן ובעלות אספקת דם ירודה, זו הסיבה שפציעות רצועה מתרפאות לאט."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t16-09",
+      "term": {
+        "en": "Osteoporosis",
+        "he": "אוסטאופורוזיס (דלדול העצם)"
+      },
+      "definition": {
+        "en": "A disease in which bones become thin, brittle, and porous due to a loss of bone density, significantly increasing fracture risk. It is especially common in older women after menopause due to a drop in estrogen, which normally helps maintain bone density.",
+        "he": "מחלה שבה עצמות הופכות דקות, שבירות ונקבוביות עקב אובדן צפיפות עצם, מה שמגביר משמעותית את סיכון השברים. היא נפוצה במיוחד בנשים מבוגרות לאחר גיל המעבר עקב ירידה באסטרוגן, אשר בדרך כלל מסייע לשמור על צפיפות העצם."
+      },
+      "category": "pathology"
+    },
+    {
+      "id": "t16-10",
+      "term": {
+        "en": "Periosteum",
+        "he": "פריוסטאום (עור העצם)"
+      },
+      "definition": {
+        "en": "The tough, fibrous outer membrane covering the surface of bones (except at joint surfaces), containing blood vessels, nerves, and bone-forming cells. The periosteum is essential for bone repair — it contains osteoblast precursors that respond rapidly to fractures.",
+        "he": "הממברנה החיצונית הקשה והסיבית המכסה את פני העצמות (פרט לפני המפרקים), המכילה כלי דם, עצבים ותאי יוצרי עצם. הפריוסטאום חיוני לתיקון עצמות — הוא מכיל מבשרי אוסטאובלסטים המגיבים במהירות לשברים."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t16-11",
+      "term": {
+        "en": "Bone Marrow",
+        "he": "מח עצם"
+      },
+      "definition": {
+        "en": "The soft, spongy tissue found in the hollow interior of certain bones. Red bone marrow produces all blood cells (red cells, white cells, and platelets) through a process called hematopoiesis. Yellow bone marrow, found mainly in adult long bones, stores fat.",
+        "he": "הרקמה הרכה והספוגית הנמצאת בחלל הפנימי של עצמות מסוימות. מח עצם אדום מייצר את כל תאי הדם (תאים אדומים, לבנים וטסיות) דרך תהליך הנקרא המטופואזה. מח עצם צהוב, הנמצא בעיקר בעצמות ארוכות של מבוגרים, מאחסן שומן."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t16-12",
+      "term": {
+        "en": "Synovial Fluid",
+        "he": "נוזל סינוביאלי"
+      },
+      "definition": {
+        "en": "A thick, slippery fluid that lubricates the space inside synovial joints (like the knee and hip), reducing friction between the cartilage-covered bone ends. It also nourishes the cartilage, which lacks its own blood supply.",
+        "he": "נוזל עבה וחלקלק המשמן את החלל בתוך מפרקים סינוביאליים (כמו הברך והירך), המפחית חיכוך בין קצות העצמות המכוסים בסחוס. הוא גם מזין את הסחוס, שאין לו אספקת דם עצמאית."
+      },
+      "category": "physiology"
+    },
+    {
+      "id": "t16-13",
+      "term": {
+        "en": "Fracture",
+        "he": "שבר (עצם)"
+      },
+      "definition": {
+        "en": "A break in a bone, ranging from a hairline crack to a complete break. Bone repair is a multi-stage process: first a blood clot forms, then a soft callus of cartilage develops, which is gradually replaced by hard bone over weeks to months.",
+        "he": "שבר בעצם, הנע בין סדק קטן לשבר מלא. תיקון עצמות הוא תהליך מרובה שלבים: תחילה נוצר קריש דם, לאחר מכן מתפתח כלוס רך של סחוס, המוחלף בהדרגה בעצם קשה במשך שבועות עד חודשים."
+      },
+      "category": "pathology"
+    },
+    {
+      "id": "t16-14",
+      "term": {
+        "en": "Collagen",
+        "he": "קולגן"
+      },
+      "definition": {
+        "en": "The most abundant protein in the body and the main organic component of bone. Collagen fibers provide bone with its tensile strength and flexibility, preventing it from shattering. Mineral crystals deposited along these fibers provide hardness and compressive strength.",
+        "he": "החלבון השכיח ביותר בגוף והמרכיב האורגני העיקרי של עצם. סיבי קולגן מספקים לעצם את חוזק המתיחה והגמישות שלה, ומונעים ממנה להתנפץ. גבישי מינרל המשתקעים לאורך סיבים אלה מספקים קשיות וחוזק לדחיסה."
+      },
+      "category": "biochemistry"
+    },
+    {
+      "id": "t16-15",
+      "term": {
+        "en": "Growth Plate (Epiphyseal Plate)",
+        "he": "לוח גדילה (לוח אפיפיזי)"
+      },
+      "definition": {
+        "en": "A layer of cartilage near the ends of long bones in children and adolescents where new bone tissue is produced, allowing bones to lengthen. Growth plates close (ossify) at the end of puberty when adult height is reached — after this point bones can no longer grow longer.",
+        "he": "שכבת סחוס ליד קצות העצמות הארוכות בילדים ובני נוער שבה מיוצרת רקמת עצם חדשה, ומאפשרת לעצמות להתארך. לוחות הגדילה נסגרים (מתאבנים) בסוף גיל ההתבגרות כאשר מגיעים לגובה המבוגר — לאחר נקודה זו עצמות לא יכולות עוד להתארך."
+      },
+      "category": "physiology"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q16-01",
+      "question": {
+        "en": "How many bones does an adult human skeleton have?",
+        "he": "כמה עצמות יש לשלד אנושי מבוגר?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "106",
+            "he": "106"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "206",
+            "he": "206"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "306",
+            "he": "306"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "150",
+            "he": "150"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "An adult has 206 bones. Interestingly, babies are born with about 270–300 bones, but many fuse together during childhood and adolescence, leaving 206 by adulthood.",
+        "he": "למבוגר יש 206 עצמות. מעניין שתינוקות נולדים עם כ-270–300 עצמות, אבל רבות מהן מתאחות בילדות ובגיל ההתבגרות, ומשאירות 206 בבגרות."
+      }
+    },
+    {
+      "id": "q16-02",
+      "question": {
+        "en": "What is the main mineral stored in bones?",
+        "he": "מהו המינרל העיקרי המאוחסן בעצמות?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Iron",
+            "he": "ברזל"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Magnesium",
+            "he": "מגנזיום"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Calcium",
+            "he": "סידן"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Potassium",
+            "he": "אשלגן"
+          }
+        }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Bones serve as the body's main reservoir for calcium, storing about 99% of the body's total calcium. This calcium can be released into the bloodstream when needed for muscle contraction, nerve signaling, and other functions.",
+        "he": "עצמות משמשות כמאגר הסידן העיקרי של הגוף, ואוחסנות כ-99% מסך הסידן של הגוף. סידן זה יכול להשתחרר לזרם הדם בעת הצורך להתכווצות שריר, איתות עצבי ותפקודים אחרים."
+      }
+    },
+    {
+      "id": "q16-03",
+      "question": {
+        "en": "What is the difference between osteoblasts and osteoclasts?",
+        "he": "מה ההבדל בין אוסטאובלסטים לאוסטאוקלסטים?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Osteoblasts break down bone; osteoclasts build it",
+            "he": "אוסטאובלסטים מפרקים עצם; אוסטאוקלסטים בונים אותה"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Osteoblasts build new bone; osteoclasts break down old bone",
+            "he": "אוסטאובלסטים בונים עצם חדשה; אוסטאוקלסטים מפרקים עצם ישנה"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Both types build bone",
+            "he": "שני הסוגים בונים עצם"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Both types are found only in cartilage",
+            "he": "שני הסוגים נמצאים רק בסחוס"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Bone remodeling involves a continuous cycle: osteoclasts break down old or damaged bone tissue, while osteoblasts lay down new bone. This process allows bones to repair themselves and adapt to mechanical stresses.",
+        "he": "עיצוב מחדש של עצם כרוך במחזור רציף: אוסטאוקלסטים מפרקים רקמת עצם ישנה או פגועה, בעוד אוסטאובלסטים מניחים עצם חדשה. תהליך זה מאפשר לעצמות לתקן את עצמן ולהסתגל ללחצים מכניים."
+      }
+    },
+    {
+      "id": "q16-04",
+      "question": {
+        "en": "What tissue covers the ends of bones at joints to reduce friction?",
+        "he": "איזה רקמה מכסה את קצות העצמות במפרקים כדי להפחית חיכוך?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Tendon",
+            "he": "גיד"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Ligament",
+            "he": "רצועה"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Cartilage",
+            "he": "סחוס"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Periosteum",
+            "he": "עור העצם"
+          }
+        }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Articular cartilage is the smooth, slippery tissue that covers bone ends at joints. It absorbs shock and allows bones to glide over each other with minimal friction during movement.",
+        "he": "סחוס מפרקי הוא הרקמה החלקה והחלקלקה המכסה את קצות העצמות במפרקים. הוא סופג זעזועים ומאפשר לעצמות להחליק על גבי זו בחיכוך מינימלי במהלך תנועה."
+      }
+    },
+    {
+      "id": "q16-05",
+      "question": {
+        "en": "What is osteoporosis?",
+        "he": "מהי אוסטאופורוזיס?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Inflammation of the joints",
+            "he": "דלקת במפרקים"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Loss of bone density leading to brittle bones",
+            "he": "אובדן צפיפות עצם המוביל לעצמות שבירות"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Bone cancer",
+            "he": "סרטן עצמות"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "A fracture that does not heal",
+            "he": "שבר שאינו מתרפא"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Osteoporosis occurs when the rate of bone breakdown exceeds bone formation, causing bones to become porous, weak, and prone to fractures. It is especially common in older women after menopause.",
+        "he": "אוסטאופורוזיס מתרחשת כאשר קצב פירוק העצם עולה על יצירת עצם, וגורמת לעצמות להפוך לנקבוביות, חלשות ורגישות לשברים. הוא נפוץ במיוחד בנשים מבוגרות לאחר גיל המעבר."
+      }
+    },
+    {
+      "id": "q16-06",
+      "question": {
+        "en": "What connects bone to bone at joints?",
+        "he": "מה מחבר עצם לעצם במפרקים?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Tendons",
+            "he": "גידים"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Ligaments",
+            "he": "רצועות"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Cartilage",
+            "he": "סחוס"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Muscles",
+            "he": "שרירים"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Ligaments are strong, fibrous bands that connect bones to each other at joints, providing stability and limiting excessive movement. Tendons, by contrast, connect muscles to bones.",
+        "he": "רצועות הן סרטים סיביים חזקים המחברים עצמות לעצמות אחרות במפרקים, ומספקות יציבות ומגבילות תנועה מוגזמת. גידים, לעומת זאת, מחברים שרירים לעצמות."
+      }
+    },
+    {
+      "id": "q16-07",
+      "question": {
+        "en": "Where are blood cells produced in the body?",
+        "he": "היכן מיוצרים תאי הדם בגוף?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "In the liver",
+            "he": "בכבד"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "In red bone marrow",
+            "he": "במח עצם אדום"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "In the spleen",
+            "he": "בטחול"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "In the lymph nodes",
+            "he": "בבלוטות הלימפה"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "All blood cells — red cells, white cells, and platelets — are produced in red bone marrow, found mainly in flat bones like the sternum, ribs, pelvis, and skull, and in the ends of long bones. This process is called hematopoiesis.",
+        "he": "כל תאי הדם — אדומים, לבנים וטסיות — מיוצרים במח עצם אדום, הנמצא בעיקר בעצמות שטוחות כמו עצם החזה, הצלעות, האגן והגולגולת, ובקצות העצמות הארוכות. תהליך זה נקרא המטופואזה."
+      }
+    },
+    {
+      "id": "q16-08",
+      "question": {
+        "en": "Why do bones become weaker and more brittle in old age?",
+        "he": "מדוע עצמות הופכות חלשות ושבירות יותר בגיל מבוגר?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "They absorb too much calcium over time",
+            "he": "הן סופגות יותר מדי סידן עם הזמן"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Bone remodeling slows and calcium loss exceeds new bone formation",
+            "he": "עיצוב מחדש של עצם מאט ואובדן סידן עולה על יצירת עצם חדשה"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "The joints stop producing synovial fluid",
+            "he": "המפרקים מפסיקים לייצר נוזל סינוביאלי"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Osteoblasts become more active and eat the bone from inside",
+            "he": "אוסטאובלסטים הופכים פעילים יותר ואוכלים את העצם מבפנים"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "With aging, the activity of bone-building osteoblasts decreases while osteoclast activity remains the same or increases, tipping the remodeling balance toward net bone loss. Hormonal changes (such as declining estrogen after menopause) and reduced calcium absorption accelerate this process, leading to osteoporosis.",
+        "he": "עם הזדקנות, פעילות אוסטאובלסטים בוני עצם פוחתת בעוד פעילות אוסטאוקלסטים נשארת זהה או עולה, ומטה את מאזן העיצוב מחדש לכיוון אובדן עצם נטו. שינויים הורמונליים (כגון ירידת אסטרוגן לאחר גיל המעבר) וספיגת סידן מופחתת מאיצים תהליך זה ומובילים לאוסטאופורוזיס."
+      }
+    },
+    {
+      "id": "q16-09",
+      "question": {
+        "en": "What is the growth plate (epiphyseal plate), and what happens to it at the end of puberty?",
+        "he": "מהו לוח הגדילה (הלוח האפיפיזי), ומה קורה לו בסוף גיל ההתבגרות?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "A layer of compact bone that thickens as we age",
+            "he": "שכבת עצם קומפקטית המתעבה עם הגיל"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "A cartilage zone near bone ends where bones grow longer; it ossifies (turns to bone) at the end of puberty",
+            "he": "אזור סחוס ליד קצות עצמות שבו עצמות מתארכות; הוא מתאבן (הופך לעצם) בסוף גיל ההתבגרות"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "A layer of connective tissue that wraps around each bone",
+            "he": "שכבת רקמת חיבור שעוטפת כל עצם"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "The marrow cavity where blood cells are produced",
+            "he": "חלל מח העצם שבו מיוצרים תאי דם"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Growth plates are cartilage zones at the ends of long bones where new bone tissue is added, allowing bones to lengthen. They are active throughout childhood and adolescence. At the end of puberty, rising sex hormone levels cause the growth plates to ossify — convert fully to bone — which permanently halts height increase.",
+        "he": "לוחות גדילה הם אזורי סחוס בקצות עצמות ארוכות שבהם מתווספת רקמת עצם חדשה, ומאפשרת לעצמות להתארך. הם פעילים לאורך כל הילדות וגיל ההתבגרות. בסוף גיל ההתבגרות, עלייה ברמות הורמוני המין גורמת ללוחות הגדילה להתאבן — להפוך לחלוטין לעצם — מה שעוצר לצמיתות את עלייה בגובה."
+      }
+    },
+    {
+      "id": "q16-10",
+      "question": {
+        "en": "Why does regular weight-bearing exercise help maintain bone density?",
+        "he": "מדוע פעילות גופנית עם נשיאת משקל סדירה עוזרת לשמור על צפיפות עצם?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "It increases calcium production in the kidneys",
+            "he": "היא מגבירה ייצור סידן בכליות"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Mechanical stress from exercise stimulates osteoblasts to build more bone",
+            "he": "עומס מכני מפעילות גופנית מגרה אוסטאובלסטים לבנות יותר עצם"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Exercise prevents osteoclasts from forming at all",
+            "he": "פעילות גופנית מונעת את היווצרות אוסטאוקלסטים לחלוטין"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "It compresses the bones, making them denser mechanically",
+            "he": "היא דוחסת את העצמות ומהפכת אותן לצפופות יותר מכנית"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Bone is a dynamic tissue that responds to mechanical loading. When weight-bearing activities (walking, running, lifting) place stress on bones, osteoblasts are stimulated to produce more bone tissue, increasing density and strength. This is why exercise is one of the most effective ways to prevent and slow osteoporosis.",
+        "he": "עצם היא רקמה דינמית המגיבה לטעינה מכנית. כאשר פעילויות נשיאת משקל (הליכה, ריצה, הרמה) מטילות עומס על עצמות, אוסטאובלסטים מגורים לייצר יותר רקמת עצם, ומגדילים צפיפות וחוזק. לכן פעילות גופנית היא אחד הדרכים היעילות ביותר למניעה ולהאטת אוסטאופורוזיס."
+      }
+    }
+  ],
+  "videoSources": [
+    "TTAVol7d-3A",
+    "yQulB1pXNLE"
+  ]
+}

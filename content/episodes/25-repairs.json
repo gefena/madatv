@@ -1,0 +1,511 @@
+{
+  "id": "25-repairs",
+  "episodeNumber": 25,
+  "youtubeId": "G9yIl667JPI",
+  "videoSources": ["G9yIl667JPI", "l67Qk89woLU"],
+  "title": {
+    "en": "Repairs & Healing",
+    "he": "תיקונים"
+  },
+  "summary": {
+    "en": "This episode explores the remarkable capacity of the human body to repair itself after injury, tracing the sequence of biological events that seal wounds, rebuild broken bones, and restore damaged tissue. It begins with the clotting cascade — a precise chain of molecular events that stops bleeding within minutes — and moves through the inflammation phase, where immune cells clear debris and signal the repair crew. The episode then examines the proliferation phase, in which fibroblasts lay down new collagen scaffolding, new blood vessels sprout (angiogenesis), and epithelial cells divide to cover the wound, and explains how stem cells contribute to regenerating specialised tissues. Finally, it looks at the remodelling phase, where the body slowly refines new scar tissue over months, and discusses conditions — such as chronic wounds, keloids, and the unique regenerative ability of children's bone fractures — that illustrate both the power and the limits of self-repair.",
+    "he": "פרק זה חוקר את יכולת הגוף האנושי המרהיבה לתקן את עצמו לאחר פגיעה, ועוקב אחר רצף האירועים הביולוגיים שמאטמים פצעים, מבנים מחדש עצמות שבורות ומשחזרים רקמות פגועות. הוא מתחיל במפל הקרישה — שרשרת מדויקת של אירועים מולקולריים שעוצרת דימום תוך דקות — ועובר לשלב הדלקת, שבו תאי חיסון מסלקים פסולת ומאותתים לצוות התיקון. הפרק בוחן את שלב השגשוג, שבו פיברובלסטים מניחים תשתית קולגן חדשה, כלי דם חדשים מנצנצים (אנגיוגנזה) ותאי אפיתל מתחלקים לכסות את הפצע, ומסביר כיצד תאי גזע תורמים להתחדשות רקמות מיוחדות. לבסוף, הוא בוחן את שלב העיצוב מחדש, שבו הגוף מעדן לאט את רקמת הצלקת החדשה במשך חודשים, ודן במצבים — כגון פצעים כרוניים, קלואידים ויכולת ההתחדשות הייחודית של שברי עצם אצל ילדים — הממחישים את כוחה וגבולותיה של התיקון העצמי."
+  },
+  "thumbnail": "https://img.youtube.com/vi/G9yIl667JPI/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": [
+    "wound healing",
+    "inflammation",
+    "scar tissue",
+    "stem cells",
+    "bone fracture repair",
+    "tissue regeneration",
+    "clotting cascade",
+    "fibroblasts",
+    "growth factors"
+  ],
+  "terminology": [
+    {
+      "id": "t25-01",
+      "term": {
+        "en": "Haemostasis",
+        "he": "המוסטזיס (עצירת דימום)"
+      },
+      "definition": {
+        "en": "The first phase of wound healing in which bleeding is stopped through vasoconstriction, platelet plug formation, and the coagulation cascade.",
+        "he": "השלב הראשון של ריפוי פצעים שבו הדימום נעצר דרך כיווץ כלי דם, היווצרות פקק טסיות וסרגל הקרישה."
+      },
+      "category": "physiology"
+    },
+    {
+      "id": "t25-02",
+      "term": {
+        "en": "Clotting Cascade (Coagulation Cascade)",
+        "he": "מפל הקרישה"
+      },
+      "definition": {
+        "en": "A series of enzymatic reactions involving clotting factors that culminates in the conversion of fibrinogen to fibrin, forming a stable blood clot.",
+        "he": "סדרת תגובות אנזימטיות הכוללת גורמי קרישה שמסתיימת בהמרת פיברינוגן לפיברין, ויוצרת קריש דם יציב."
+      },
+      "category": "physiology"
+    },
+    {
+      "id": "t25-03",
+      "term": {
+        "en": "Platelet (Thrombocyte)",
+        "he": "טסית דם (תרומבוציט)"
+      },
+      "definition": {
+        "en": "A small, anucleate blood cell fragment that adheres to damaged vessel walls and aggregates to form a platelet plug, initiating clot formation.",
+        "he": "שבר תא דם קטן ללא גרעין הנדבק לדפנות כלי דם פגועים ומצטבר ליצירת פקק טסיות, ומפעיל היווצרות קריש."
+      },
+      "category": "cell biology"
+    },
+    {
+      "id": "t25-04",
+      "term": {
+        "en": "Fibrin",
+        "he": "פיברין"
+      },
+      "definition": {
+        "en": "An insoluble protein formed from fibrinogen during the clotting cascade; fibrin threads weave together to form the meshwork that solidifies a blood clot.",
+        "he": "חלבון בלתי מסיס הנוצר מפיברינוגן במהלך מפל הקרישה; חוטי פיברין שוזרים יחד ליצירת הרשת המקשה קריש דם."
+      },
+      "category": "biochemistry"
+    },
+    {
+      "id": "t25-05",
+      "term": {
+        "en": "Inflammation",
+        "he": "דלקת"
+      },
+      "definition": {
+        "en": "The second phase of wound healing, characterised by redness, swelling, heat, and pain; immune cells (neutrophils, macrophages) eliminate pathogens and debris to prepare the site for repair.",
+        "he": "השלב השני של ריפוי פצעים, המאופיין באדמומיות, נפיחות, חום וכאב; תאי חיסון (נויטרופילים, מקרופאגים) מחסלים פתוגנים ופסולת להכנת האתר לתיקון."
+      },
+      "category": "physiology"
+    },
+    {
+      "id": "t25-06",
+      "term": {
+        "en": "Fibroblast",
+        "he": "פיברובלסט"
+      },
+      "definition": {
+        "en": "A connective tissue cell that migrates into a wound and synthesises collagen and other extracellular matrix proteins to rebuild the structural framework of the tissue.",
+        "he": "תא רקמת חיבור המהגר לתוך פצע ומסנתז קולגן וחלבוני מטריקס חוץ-תאי אחרים לשיקום מסגרת המבנה של הרקמה."
+      },
+      "category": "cell biology"
+    },
+    {
+      "id": "t25-07",
+      "term": {
+        "en": "Scar Tissue",
+        "he": "רקמת צלקת"
+      },
+      "definition": {
+        "en": "Dense collagen-rich tissue that replaces normal skin or organ tissue after a wound heals; it is functional but lacks some specialised structures such as hair follicles and sweat glands.",
+        "he": "רקמה עשירה בקולגן המחליפה עור או רקמת איבר תקינה לאחר ריפוי פצע; היא תפקודית אך חסרת מבנים מיוחדים כגון שורשי שיער ובלוטות זיעה."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t25-08",
+      "term": {
+        "en": "Angiogenesis",
+        "he": "אנגיוגנזה"
+      },
+      "definition": {
+        "en": "The growth of new blood vessels from existing ones; during wound healing, angiogenesis supplies the regenerating tissue with oxygen and nutrients.",
+        "he": "צמיחת כלי דם חדשים מקיימים; במהלך ריפוי פצעים, אנגיוגנזה מספקת לרקמה המתחדשת חמצן וחומרי מזון."
+      },
+      "category": "physiology"
+    },
+    {
+      "id": "t25-09",
+      "term": {
+        "en": "Growth Factor",
+        "he": "גורם גדילה"
+      },
+      "definition": {
+        "en": "A signalling protein that binds to cell receptors and stimulates cell growth, proliferation, or differentiation; examples include EGF (epidermal), PDGF (platelet-derived), and VEGF (vascular).",
+        "he": "חלבון איתות הנקשר לקולטנים בתאים ומגרה גדילת תאים, שגשוג או התמיינות; דוגמאות כוללות EGF (אפידרמלי), PDGF (מגזירת טסיות) ו-VEGF (כלי דם)."
+      },
+      "category": "biochemistry"
+    },
+    {
+      "id": "t25-10",
+      "term": {
+        "en": "Stem Cell",
+        "he": "תא גזע"
+      },
+      "definition": {
+        "en": "An undifferentiated cell capable of self-renewal and differentiation into specialised cell types; adult stem cells in tissues contribute to repair and regeneration after injury.",
+        "he": "תא לא מתמיין המסוגל להתחדש עצמאית ולהתמיין לסוגי תאים מיוחדים; תאי גזע בוגרים ברקמות תורמים לתיקון והתחדשות לאחר פגיעה."
+      },
+      "category": "cell biology"
+    },
+    {
+      "id": "t25-11",
+      "term": {
+        "en": "Callus (Bone Healing)",
+        "he": "קאלוס (ריפוי עצם)"
+      },
+      "definition": {
+        "en": "A temporary cartilage and woven bone structure that forms around a fracture site during bone repair; it is gradually replaced by stronger, denser lamellar bone.",
+        "he": "מבנה זמני של סחוס ועצם ארוגה הנוצר סביב אזור השבר במהלך תיקון עצם; הוא מוחלף בהדרגה בעצם למלרית חזקה ודחוסה יותר."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t25-12",
+      "term": {
+        "en": "Osteoblast",
+        "he": "אוסטאובלסט"
+      },
+      "definition": {
+        "en": "A bone-forming cell that produces the organic matrix of bone (osteoid) and initiates its mineralisation with calcium and phosphate.",
+        "he": "תא בונה עצם המייצר את המטריקס האורגני של העצם (אוסטאואיד) ומפעיל את המינרליזציה שלו עם סידן ופוספט."
+      },
+      "category": "cell biology"
+    },
+    {
+      "id": "t25-13",
+      "term": {
+        "en": "Macrophage",
+        "he": "מקרופאג"
+      },
+      "definition": {
+        "en": "A large immune cell that engulfs and digests pathogens, dead cells, and debris; in wound healing it also releases growth factors that direct tissue repair.",
+        "he": "תא חיסוני גדול הבולע ומעכל פתוגנים, תאים מתים ופסולת; בריפוי פצעים הוא גם משחרר גורמי גדילה המכוונים תיקון רקמות."
+      },
+      "category": "cell biology"
+    },
+    {
+      "id": "t25-14",
+      "term": {
+        "en": "Keloid",
+        "he": "קלואיד"
+      },
+      "definition": {
+        "en": "An overgrowth of scar tissue beyond the original wound boundaries, caused by excessive collagen production during healing; it is benign but can be disfiguring.",
+        "he": "גדילת יתר של רקמת צלקת מעבר לגבולות הפצע המקורי, הנגרמת מייצור קולגן מוגזם במהלך הריפוי; הוא שפיר אך עלול להשחית."
+      },
+      "category": "pathology"
+    },
+    {
+      "id": "t25-15",
+      "term": {
+        "en": "Tissue Regeneration",
+        "he": "התחדשות רקמות"
+      },
+      "definition": {
+        "en": "The restoration of lost tissue with cells identical to the original, as opposed to repair by scar formation; some tissues (e.g. liver, bone) can regenerate, while others (e.g. heart muscle) have limited capacity.",
+        "he": "שיקום רקמה אבודה עם תאים זהים לתאי המקור, בניגוד לתיקון על ידי היווצרות צלקת; חלק מהרקמות (למשל כבד, עצם) יכולות להתחדש, בעוד לאחרות (למשל שריר הלב) יש יכולת מוגבלת."
+      },
+      "category": "physiology"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q1",
+      "question": {
+        "en": "What is the first stage of wound healing called?",
+        "he": "כיצד נקרא השלב הראשון של ריפוי פצעים?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": { "en": "Inflammation", "he": "דלקת" }
+        },
+        {
+          "id": "b",
+          "text": { "en": "Haemostasis", "he": "המוסטזיס" }
+        },
+        {
+          "id": "c",
+          "text": { "en": "Proliferation", "he": "שגשוג" }
+        },
+        {
+          "id": "d",
+          "text": { "en": "Remodelling", "he": "עיצוב מחדש" }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The four classical stages of wound healing are: (1) haemostasis — stopping the bleeding; (2) inflammation — cleaning the wound; (3) proliferation — rebuilding tissue; and (4) remodelling — strengthening the repair. Haemostasis begins immediately with vasoconstriction and platelet activation.",
+        "he": "ארבעת השלבים הקלאסיים של ריפוי פצעים הם: (1) המוסטזיס — עצירת הדימום; (2) דלקת — ניקוי הפצע; (3) שגשוג — שיקום רקמה; ו-(4) עיצוב מחדש — חיזוק התיקון. המוסטזיס מתחיל מיד עם כיווץ כלי דם והפעלת טסיות."
+      }
+    },
+    {
+      "id": "q2",
+      "question": {
+        "en": "What protein forms the mesh of a blood clot?",
+        "he": "איזה חלבון יוצר את הרשת של קריש דם?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": { "en": "Collagen", "he": "קולגן" }
+        },
+        {
+          "id": "b",
+          "text": { "en": "Fibrin", "he": "פיברין" }
+        },
+        {
+          "id": "c",
+          "text": { "en": "Keratin", "he": "קרטין" }
+        },
+        {
+          "id": "d",
+          "text": { "en": "Albumin", "he": "אלבומין" }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The coagulation cascade culminates in the enzyme thrombin converting soluble fibrinogen into insoluble fibrin strands. These strands weave a net that traps platelets and red blood cells, forming the stable clot that seals the damaged vessel.",
+        "he": "מפל הקרישה מסתיים באנזים תרומבין הממיר פיברינוגן מסיס לגדילי פיברין בלתי מסיסים. גדילים אלה שוזרים רשת הלוכדת טסיות וכדוריות דם אדומות, יוצרים את הקריש היציב האוטם את כלי הדם הפגוע."
+      }
+    },
+    {
+      "id": "q3",
+      "question": {
+        "en": "What is the role of macrophages during wound healing?",
+        "he": "מה תפקיד המקרופאגים במהלך ריפוי פצעים?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": { "en": "They produce fibrin to seal the wound", "he": "הם מייצרים פיברין לאטימת הפצע" }
+        },
+        {
+          "id": "b",
+          "text": { "en": "They engulf debris and bacteria, and release growth factors to direct repair", "he": "הם בולעים פסולת וחיידקים, ומשחררים גורמי גדילה לכוון תיקון" }
+        },
+        {
+          "id": "c",
+          "text": { "en": "They form new blood vessels", "he": "הם יוצרים כלי דם חדשים" }
+        },
+        {
+          "id": "d",
+          "text": { "en": "They produce new collagen fibres", "he": "הם מייצרים סיבי קולגן חדשים" }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Macrophages arrive at the wound in the inflammation phase, where they phagocytose bacteria, dead neutrophils, and cellular debris. Crucially, they also secrete a range of growth factors (such as PDGF and VEGF) that recruit fibroblasts and endothelial cells to begin rebuilding the tissue.",
+        "he": "מקרופאגים מגיעים לפצע בשלב הדלקת, שם הם מבצעים פגוציטוזה של חיידקים, נויטרופילים מתים ופסולת תאית. חשוב מכך, הם גם מפרישים מגוון גורמי גדילה (כגון PDGF ו-VEGF) שגייסים פיברובלסטים ותאי אנדותל להתחיל לבנות מחדש את הרקמה."
+      }
+    },
+    {
+      "id": "q4",
+      "question": {
+        "en": "Which cells are responsible for producing the new collagen that fills a wound?",
+        "he": "אילו תאים אחראים לייצור הקולגן החדש הממלא פצע?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": { "en": "Platelets", "he": "טסיות" }
+        },
+        {
+          "id": "b",
+          "text": { "en": "Fibroblasts", "he": "פיברובלסטים" }
+        },
+        {
+          "id": "c",
+          "text": { "en": "Red blood cells", "he": "כדוריות דם אדומות" }
+        },
+        {
+          "id": "d",
+          "text": { "en": "Osteoblasts", "he": "אוסטאובלסטים" }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "During the proliferation phase, fibroblasts migrate into the wound and synthesise large quantities of collagen (mainly type III initially, later type I). This collagen forms the granulation tissue that fills the wound gap and provides the scaffold for new skin to cover the surface.",
+        "he": "במהלך שלב השגשוג, פיברובלסטים מהגרים לתוך הפצע ומסנתזים כמויות גדולות של קולגן (בעיקר סוג III בתחילה, לאחר מכן סוג I). קולגן זה יוצר את רקמת הגרגיר הממלאת את פערי הפצע ומספקת את התשתית לעור חדש לכסות את פני השטח."
+      }
+    },
+    {
+      "id": "q5",
+      "question": {
+        "en": "What is angiogenesis and why is it important for wound healing?",
+        "he": "מהי אנגיוגנזה ומדוע היא חשובה לריפוי פצעים?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": { "en": "The removal of dead cells from the wound", "he": "הסרת תאים מתים מהפצע" }
+        },
+        {
+          "id": "b",
+          "text": { "en": "The formation of new blood vessels to supply oxygen and nutrients to healing tissue", "he": "היווצרות כלי דם חדשים לאספקת חמצן וחומרי מזון לרקמה המתרפאת" }
+        },
+        {
+          "id": "c",
+          "text": { "en": "The contraction of the wound edges", "he": "כיווץ קצות הפצע" }
+        },
+        {
+          "id": "d",
+          "text": { "en": "The hardening of the blood clot", "he": "הקשחת קריש הדם" }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Regenerating tissue has a high demand for oxygen and nutrients. VEGF (vascular endothelial growth factor) secreted by macrophages and fibroblasts signals endothelial cells to sprout new capillaries into the wound. Without adequate angiogenesis, the tissue cannot receive enough nutrients and healing stalls.",
+        "he": "לרקמה המתחדשת יש דרישה גבוהה לחמצן ולחומרי מזון. VEGF (גורם גדילה אנדותל כלי דם) המופרש על ידי מקרופאגים ופיברובלסטים מאותת לתאי אנדותל לנצנץ נימים חדשים לתוך הפצע. ללא אנגיוגנזה מספקת, הרקמה אינה יכולה לקבל מספיק חומרי מזון והריפוי נעצר."
+      }
+    },
+    {
+      "id": "q6",
+      "question": {
+        "en": "What is the difference between tissue regeneration and scar formation?",
+        "he": "מה ההבדל בין התחדשות רקמות לבין היווצרות צלקת?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": { "en": "They are the same process", "he": "הם אותו תהליך" }
+        },
+        {
+          "id": "b",
+          "text": { "en": "Regeneration restores identical tissue; scarring replaces lost tissue with collagen-rich fibrous tissue", "he": "התחדשות משחזרת רקמה זהה; צלקת מחליפה רקמה אבודה ברקמה סיבית עשירה בקולגן" }
+        },
+        {
+          "id": "c",
+          "text": { "en": "Scarring is faster but more complete", "he": "צלקת מהירה יותר אך שלמה יותר" }
+        },
+        {
+          "id": "d",
+          "text": { "en": "Regeneration only occurs in the liver", "he": "התחדשות מתרחשת רק בכבד" }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "True regeneration replaces lost cells with new cells of the same type, restoring full function (as in liver regeneration or bone healing). Scar formation is a faster but imperfect repair: fibroblasts fill the gap with generic collagen, which lacks specialised structures like hair follicles, glands, or organised muscle fibres.",
+        "he": "התחדשות אמיתית מחליפה תאים אבודים בתאים חדשים מאותו סוג, ומשחזרת תפקוד מלא (כמו בהתחדשות כבד או ריפוי עצמות). היווצרות צלקת היא תיקון מהיר אך לא מושלם: פיברובלסטים ממלאים את הפער עם קולגן כללי, הנעדר מבנים מיוחדים כמו שורשי שיער, בלוטות או סיבי שריר מאורגנים."
+      }
+    },
+    {
+      "id": "q7",
+      "question": {
+        "en": "How does a broken bone heal?",
+        "he": "כיצד עצם שבורה מתרפאת?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": { "en": "The two bone fragments fuse directly through calcium injection", "he": "שני שברי העצם מתמזגים ישירות דרך הזרקת סידן" }
+        },
+        {
+          "id": "b",
+          "text": { "en": "A blood clot forms, then a cartilage callus, then woven bone, then lamellar bone", "he": "נוצר קריש דם, אחר כך קאלוס סחוס, אחר כך עצם ארוגה, אחר כך עצם למלרית" }
+        },
+        {
+          "id": "c",
+          "text": { "en": "The bone dissolves and is replaced by new bone at the break site", "he": "העצם מתמוססת ומוחלפת בעצם חדשה באתר השבר" }
+        },
+        {
+          "id": "d",
+          "text": { "en": "Muscle tissue fills the gap and turns into bone", "he": "רקמת שריר ממלאת את הפער והופכת לעצם" }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Bone repair goes through four overlapping stages: (1) a haematoma forms at the fracture; (2) periosteal cells and chondrocytes form a soft cartilaginous callus bridging the gap; (3) osteoblasts replace the cartilage with woven bone (hard callus); and (4) osteoclasts and osteoblasts remodel the woven bone into strong lamellar bone over months.",
+        "he": "תיקון עצם עובר ארבעה שלבים חופפים: (1) המטומה נוצרת בשבר; (2) תאי קרום העצם וכונדרוציטים יוצרים קאלוס סחוסי רך שגשר את הפער; (3) אוסטאובלסטים מחליפים את הסחוס בעצם ארוגה (קאלוס קשה); ו-(4) אוסטאוקלסטים ואוסטאובלסטים מעצבים מחדש את העצם הארוגה לעצם למלרית חזקה במשך חודשים."
+      }
+    },
+    {
+      "id": "q8",
+      "question": {
+        "en": "What is a keloid scar?",
+        "he": "מהי צלקת קלואידית?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": { "en": "A scar that heals completely without leaving any trace", "he": "צלקת המתרפאת לחלוטין ללא עקבות" }
+        },
+        {
+          "id": "b",
+          "text": { "en": "An overgrowth of collagen-rich tissue beyond the wound's original boundaries", "he": "גדילת יתר של רקמה עשירה בקולגן מעבר לגבולות הפצע המקורי" }
+        },
+        {
+          "id": "c",
+          "text": { "en": "A scar that becomes infected and reopens", "he": "צלקת שנדבקת ונפתחת מחדש" }
+        },
+        {
+          "id": "d",
+          "text": { "en": "A type of skin cancer caused by wound healing", "he": "סוג של סרטן עור הנגרם על ידי ריפוי פצעים" }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "A keloid forms when fibroblasts over-produce collagen long after the wound has closed, creating a raised, firm scar that grows beyond the original wound edges. Unlike hypertrophic scars, keloids do not regress over time. They are more common in people with darker skin tones and can recur after surgical removal.",
+        "he": "קלואיד נוצר כאשר פיברובלסטים מייצרים קולגן ביתר זמן רב לאחר סגירת הפצע, ויוצרים צלקת בולטת וקשה הגדלה מעבר לקצות הפצע המקורי. בשונה מצלקות היפרטרופיות, קלואידים אינם נסוגים עם הזמן. הם שכיחים יותר אצל אנשים עם גוונים כהים יותר של עור ועשויים לחזור לאחר הסרה כירורגית."
+      }
+    },
+    {
+      "id": "q9",
+      "question": {
+        "en": "How do stem cells contribute to tissue repair?",
+        "he": "כיצד תאי גזע תורמים לתיקון רקמות?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": { "en": "They produce blood clots at the injury site", "he": "הם מייצרים קרישי דם באתר הפגיעה" }
+        },
+        {
+          "id": "b",
+          "text": { "en": "They differentiate into specialised cells needed to replace those lost through injury", "he": "הם מתמיינים לתאים מיוחדים הנדרשים להחלפת אלו שאבדו עקב פגיעה" }
+        },
+        {
+          "id": "c",
+          "text": { "en": "They attack and destroy bacteria at the wound", "he": "הם תוקפים ומשמידים חיידקים בפצע" }
+        },
+        {
+          "id": "d",
+          "text": { "en": "They secrete fibrin to seal the wound", "he": "הם מפרישים פיברין לאטימת הפצע" }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Adult stem cells residing in various tissues (for example, in the epidermis, bone marrow, or intestinal lining) can divide and differentiate into the specific cell types needed to replace those lost through damage. Growth factors released during healing activate these resident stem cells and can recruit stem cells from the bone marrow.",
+        "he": "תאי גזע בוגרים המצויים ברקמות שונות (לדוגמה, באפידרמיס, מוח העצם או רירית המעי) יכולים להתחלק ולהתמיין לסוגי תאים ספציפיים הנדרשים להחלפת אלה שאבדו עקב נזק. גורמי גדילה המשתחררים במהלך הריפוי מפעילים תאי גזע תושבים אלה ויכולים לגייס תאי גזע ממוח העצם."
+      }
+    },
+    {
+      "id": "q10",
+      "question": {
+        "en": "Why can children's fractures often heal better than adults' fractures?",
+        "he": "מדוע שברים אצל ילדים מתרפאים לעיתים קרובות טוב יותר מאשר אצל מבוגרים?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": { "en": "Children have softer bones that do not really break", "he": "לילדים יש עצמות רכות שלמעשה לא נשברות" }
+        },
+        {
+          "id": "b",
+          "text": { "en": "Children have more active bone-forming cells, growth plates, and higher levels of growth factors", "he": "לילדים יש תאי בנייה עצם פעילים יותר, פלטות גדילה ורמות גבוהות יותר של גורמי גדילה" }
+        },
+        {
+          "id": "c",
+          "text": { "en": "Children do not feel pain, so they rest more", "he": "ילדים לא מרגישים כאב, ולכן הם נחים יותר" }
+        },
+        {
+          "id": "d",
+          "text": { "en": "Children's immune systems attack damaged bone more aggressively", "he": "מערכות החיסון של ילדים תוקפות עצם פגועה באגרסיביות רבה יותר" }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "In children, bone is actively growing via specialised growth plates rich in chondroblasts and osteoblasts. Higher circulating levels of growth hormone and IGF-1 accelerate the repair cascade. The periosteum (bone membrane) is also thicker in children, providing more osteoblast progenitors, and the richer blood supply to growing bone speeds angiogenesis at the fracture site.",
+        "he": "אצל ילדים, עצם צומחת באופן פעיל דרך פלטות גדילה מיוחדות עשירות בכונדרובלסטים ואוסטאובלסטים. רמות גבוהות יותר של הורמון גדילה ו-IGF-1 בזרם הדם מאיצות את מפל התיקון. קרום העצם (פריאוסטאום) עבה גם הוא אצל ילדים, ומספק יותר מבשרי אוסטאובלסטים, והאספקת הדם העשירה יותר לעצם הגדלה מאיצה אנגיוגנזה באתר השבר."
+      }
+    }
+  ]
+}

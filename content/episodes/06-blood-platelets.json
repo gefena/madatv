@@ -1,0 +1,629 @@
+{
+  "id": "06-blood-platelets",
+  "episodeNumber": 6,
+  "youtubeId": "pRqQSrJKNlk",
+  "title": {
+    "en": "Blood Platelets",
+    "he": "טסיות הדם"
+  },
+  "summary": {
+    "en": "This episode focuses on blood platelets — the tiny cell fragments responsible for stopping bleeding and repairing damaged blood vessels. When a vessel is cut, platelets rush to the site within seconds, adhere to the exposed tissue, and clump together to form a temporary plug that slows blood loss. This platelet plug then triggers the coagulation cascade — a chain of chemical reactions involving clotting factors that ultimately converts the soluble protein fibrinogen into fibrin threads, which weave a tough mesh around the plug to create a stable, lasting clot. The episode also explores the role of the liver in producing many of these clotting factors, the life-threatening consequences of hemophilia, and the careful process of fibrinolysis by which the body dissolves clots once healing is complete.",
+    "he": "פרק זה מתמקד בטסיות הדם — שברי התאים הזעירים האחראים לעצירת דימום ולתיקון כלי דם פגועים. כאשר כלי דם נחתך, טסיות ממהרות לאתר תוך שניות, נדבקות לרקמה החשופה ומתגבשות יחד ליצירת פקק זמני שמאט את אובדן הדם. פקק הטסיות מפעיל לאחר מכן את מפל הקרישה — שרשרת תגובות כימיות הכוללות גורמי קרישה שבסופו של דבר ממירים את חלבון הפיברינוגן המסיס לסיבי פיברין, הרוקמים רשת קשה סביב הפקק ויוצרים קריש יציב ומתמשך. הפרק גם בוחן את תפקיד הכבד בייצור רבים מגורמי הקרישה הללו, את ההשלכות המסכנות חיים של המופיליה, ואת תהליך הפיברינוליזה הזהיר שבו הגוף ממיס קרישים לאחר השלמת הריפוי."
+  },
+  "thumbnail": "https://img.youtube.com/vi/pRqQSrJKNlk/maxresdefault.jpg",
+  "durationMinutes": 24,
+  "topics": [
+    "blood platelets",
+    "blood clotting",
+    "wound healing",
+    "hemostasis"
+  ],
+  "terminology": [
+    {
+      "id": "t06-01",
+      "term": {
+        "en": "Platelet (Thrombocyte)",
+        "he": "טסית דם (תרומבוציט)"
+      },
+      "definition": {
+        "en": "A small, disk-shaped cell fragment without a nucleus that circulates in the blood and is essential for clot formation. Platelets are produced by large bone marrow cells called megakaryocytes and normally number 150,000–400,000 per microliter of blood.",
+        "he": "שבר תא קטן בצורת דיסקית ללא גרעין המסתובב בדם וחיוני ליצירת קריש. טסיות מיוצרות על ידי תאי מח עצמות גדולים הנקראים מגה-קריוציטים ומספרן הרגיל הוא 150,000–400,000 למיקרוליטר דם."
+      },
+      "category": "blood cell"
+    },
+    {
+      "id": "t06-02",
+      "term": {
+        "en": "Blood Clot (Thrombus)",
+        "he": "קריש דם (תרומבוס)"
+      },
+      "definition": {
+        "en": "A mass of blood cells and fibrin that forms at the site of a blood vessel injury to stop bleeding. A clot that forms inside an intact vessel and blocks blood flow is called a thrombus, and can be life-threatening if it occurs in the heart or brain.",
+        "he": "גוש של תאי דם ופיברין הנוצר באתר פציעה בכלי דם כדי לעצור דימום. קריש הנוצר בתוך כלי דם שלם וחוסם את זרימת הדם נקרא תרומבוס, ועלול לסכן חיים אם הוא מתרחש בלב או במוח."
+      },
+      "category": "physiology"
+    },
+    {
+      "id": "t06-03",
+      "term": {
+        "en": "Fibrin",
+        "he": "פיברין"
+      },
+      "definition": {
+        "en": "A fibrous protein that forms a mesh-like network to trap blood cells and stabilize a blood clot. Fibrin is produced from fibrinogen by the enzyme thrombin during the coagulation cascade, and it is the structural backbone of any mature clot.",
+        "he": "חלבון סיבי היוצר רשת דמוית רשת הלוכדת תאי דם ומייצבת קריש דם. פיברין מיוצר מפיברינוגן על ידי האנזים תרומבין במהלך מפל הקרישה, והוא עמוד השדרה המבני של כל קריש בשל."
+      },
+      "category": "biochemistry"
+    },
+    {
+      "id": "t06-04",
+      "term": {
+        "en": "Hemostasis",
+        "he": "המוסטזיס"
+      },
+      "definition": {
+        "en": "The process by which the body stops bleeding after a blood vessel is injured, involving platelet aggregation and clotting. Hemostasis proceeds in three phases: vascular spasm, platelet plug formation, and coagulation cascade, each reinforcing the next.",
+        "he": "התהליך שבו הגוף עוצר דימום לאחר פציעה בכלי דם, הכולל צבירת טסיות וקרישה. המוסטזיס מתקדם בשלושה שלבים: עווית כלי דם, יצירת פקק טסיות ומפל קרישה, כל אחד מחזק את הבא."
+      },
+      "category": "process"
+    },
+    {
+      "id": "t06-05",
+      "term": {
+        "en": "Megakaryocyte",
+        "he": "מגה-קריוציט"
+      },
+      "definition": {
+        "en": "A large bone marrow cell that breaks apart to release thousands of platelets into the bloodstream. A single megakaryocyte can produce between 1,000 and 3,000 platelets before it is fully consumed in the process.",
+        "he": "תא מח עצמות גדול המתפרק ומשחרר אלפי טסיות לזרם הדם. מגה-קריוציט יחיד יכול לייצר בין 1,000 ל-3,000 טסיות לפני שהוא מנוצל לחלוטין בתהליך."
+      },
+      "category": "cell biology"
+    },
+    {
+      "id": "t06-06",
+      "term": {
+        "en": "Platelet Aggregation",
+        "he": "צבירת טסיות"
+      },
+      "definition": {
+        "en": "The clumping together of platelets at the site of a wound, forming a temporary plug to stop bleeding. Activated platelets release chemical signals (such as ADP and thromboxane A2) that recruit even more platelets to the site, amplifying the response.",
+        "he": "גיבוש הטסיות יחד באתר הפצע, היוצרות פקק זמני לעצירת דימום. טסיות מופעלות משחררות אותות כימיים (כגון ADP ותרומבוקסן A2) המגייסים אף יותר טסיות לאתר ומגבירים את התגובה."
+      },
+      "category": "process"
+    },
+    {
+      "id": "t06-07",
+      "term": {
+        "en": "Coagulation Cascade",
+        "he": "מפל קרישה"
+      },
+      "definition": {
+        "en": "A series of chemical reactions involving clotting factors that ultimately produces a stable fibrin clot. The cascade can be triggered by two pathways — the intrinsic (contact) pathway and the extrinsic (tissue factor) pathway — that converge to activate thrombin.",
+        "he": "סדרת תגובות כימיות הכוללות גורמי קרישה שבסופו של דבר מייצרות קריש פיברין יציב. המפל יכול להיות מופעל על ידי שני נתיבים — הנתיב הפנימי (מגע) והנתיב החיצוני (גורם רקמה) — המתמזגים להפעלת תרומבין."
+      },
+      "category": "biochemistry"
+    },
+    {
+      "id": "t06-08",
+      "term": {
+        "en": "Scab",
+        "he": "קרום פצע (גלד)"
+      },
+      "definition": {
+        "en": "The dried, hardened crust that forms over a wound as a blood clot dries out, protecting the underlying healing tissue. Beneath the scab, fibroblasts and other repair cells work to rebuild the damaged skin, and the scab eventually falls off when new skin is complete.",
+        "he": "הקרום היבש והקשה הנוצר מעל פצע כאשר קריש דם מתייבש, המגן על הרקמה המתרפאת מתחתיו. מתחת לגלד, פיברובלסטים ותאי תיקון אחרים עובדים לבנייה מחדש של העור הפגוע, והגלד נושר בסופו של דבר כשהעור החדש הושלם."
+      },
+      "category": "physiology"
+    },
+    {
+      "id": "t06-09",
+      "term": {
+        "en": "Hemophilia",
+        "he": "המופיליה"
+      },
+      "definition": {
+        "en": "A genetic disorder in which the blood lacks certain clotting factors, causing excessive or prolonged bleeding. The most common types are hemophilia A (deficiency of factor VIII) and hemophilia B (deficiency of factor IX), both linked to the X chromosome.",
+        "he": "הפרעה גנטית שבה הדם חסר גורמי קרישה מסוימים, הגורמת לדימום מוגזם או ממושך. הסוגים הנפוצים ביותר הם המופיליה A (מחסור בגורם VIII) והמופיליה B (מחסור בגורם IX), שניהם קשורים לכרומוזום X."
+      },
+      "category": "pathology"
+    },
+    {
+      "id": "t06-10",
+      "term": {
+        "en": "Fibrinogen",
+        "he": "פיברינוגן"
+      },
+      "definition": {
+        "en": "A soluble blood protein that is converted into fibrin during the clotting process. Fibrinogen is produced by the liver and circulates in the plasma; it is cleaved by thrombin into fibrin monomers that spontaneously polymerize into fibers.",
+        "he": "חלבון דם מסיס המומר לפיברין במהלך תהליך הקרישה. פיברינוגן מיוצר בכבד ומסתובב בפלזמה; הוא נחתך על ידי תרומבין למונומרים של פיברין המתפלמרים ספונטנית לסיבים."
+      },
+      "category": "biochemistry"
+    },
+    {
+      "id": "t06-11",
+      "term": {
+        "en": "Fibrinolysis",
+        "he": "פיברינוליזה"
+      },
+      "definition": {
+        "en": "The enzymatic process by which the body breaks down a blood clot after a wound has healed, restoring normal blood flow. The key enzyme in fibrinolysis is plasmin, which cleaves fibrin into soluble fragments that are cleared from circulation.",
+        "he": "התהליך האנזימטי שבו הגוף מפרק קריש דם לאחר ריפוי פצע ומשחזר את זרימת הדם התקינה. האנזים המרכזי בפיברינוליזה הוא פלסמין, הפוצל פיברין לשברים מסיסים המנוקים מהמחזור."
+      },
+      "category": "process"
+    },
+    {
+      "id": "t06-12",
+      "term": {
+        "en": "Thrombosis",
+        "he": "תרומבוזה"
+      },
+      "definition": {
+        "en": "The formation of a blood clot inside a blood vessel that is not injured, obstructing normal blood flow. Thrombosis can occur in veins (deep vein thrombosis) or arteries and may lead to heart attack or stroke if it blocks a critical vessel.",
+        "he": "היווצרות קריש דם בתוך כלי דם שאינו פגוע, החוסמת את זרימת הדם התקינה. תרומבוזה יכולה להתרחש בוורידים (פקקת ורידים עמוקה) או בעורקים ועלולה להוביל להתקף לב או שבץ אם היא חוסמת כלי חיוני."
+      },
+      "category": "pathology"
+    },
+    {
+      "id": "t06-13",
+      "term": {
+        "en": "Von Willebrand Factor",
+        "he": "גורם פון ווילברנד"
+      },
+      "definition": {
+        "en": "A large blood protein that helps platelets stick to damaged vessel walls and also stabilizes clotting factor VIII in the blood. Deficiency of this factor causes Von Willebrand disease, the most common inherited bleeding disorder.",
+        "he": "חלבון דם גדול המסייע לטסיות להידבק לדפנות כלי דם פגועים ומייצב את גורם הקרישה VIII בדם. מחסור בגורם זה גורם למחלת פון ווילברנד, הפרעת הדימום התורשתית הנפוצה ביותר."
+      },
+      "category": "biochemistry"
+    },
+    {
+      "id": "t06-14",
+      "term": {
+        "en": "Platelet Plug",
+        "he": "פקק טסיות"
+      },
+      "definition": {
+        "en": "The initial, temporary seal formed at a wound by aggregated platelets before the fibrin clot is established. This primary hemostatic plug forms within minutes and is sufficient to stop bleeding from minor injuries.",
+        "he": "האיטום הזמני הראשוני הנוצר בפצע על ידי טסיות צבורות לפני שקריש הפיברין נוצר. פקק המוסטטי ראשוני זה נוצר תוך דקות ומספיק לעצירת דימום מפציעות קלות."
+      },
+      "category": "physiology"
+    },
+    {
+      "id": "t06-15",
+      "term": {
+        "en": "Vitamin K",
+        "he": "ויטמין K"
+      },
+      "definition": {
+        "en": "A fat-soluble vitamin essential for the synthesis of several clotting factors in the liver, including factors II, VII, IX, and X. Without sufficient vitamin K, the coagulation cascade cannot function properly, leading to increased bleeding risk.",
+        "he": "ויטמין מסיס שומן החיוני לסינתזה של מספר גורמי קרישה בכבד, כולל גורמים II, VII, IX ו-X. ללא ויטמין K מספיק, מפל הקרישה אינו יכול לתפקד כראוי, מה שמוביל לסיכון מוגבר לדימום."
+      },
+      "category": "biochemistry"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q06-01",
+      "question": {
+        "en": "What is the primary role of blood platelets?",
+        "he": "מה התפקיד העיקרי של טסיות הדם?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "To carry oxygen to cells",
+            "he": "להוביל חמצן לתאים"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "To fight infections",
+            "he": "להילחם בזיהומים"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "To form blood clots and stop bleeding",
+            "he": "ליצור קרישי דם ולעצור דימום"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "To produce antibodies",
+            "he": "לייצר נוגדנים"
+          }
+        }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Platelets are the body's first responders to a bleeding wound. They clump together at the site of damage to form a plug and trigger the coagulation cascade that produces a stable clot.",
+        "he": "טסיות הן הסייענים הראשונים של הגוף לפצע מדמם. הן מתגבשות באתר הנזק ליצירת פקק ומפעילות את מפל הקרישה שמייצר קריש יציב."
+      }
+    },
+    {
+      "id": "q06-02",
+      "question": {
+        "en": "Which protein forms the mesh that stabilizes a blood clot?",
+        "he": "איזה חלבון יוצר את הרשת המייצבת קריש דם?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Collagen",
+            "he": "קולגן"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Fibrin",
+            "he": "פיברין"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Hemoglobin",
+            "he": "המוגלובין"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Keratin",
+            "he": "קרטין"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Fibrin is a thread-like protein that weaves a net around the platelet plug, trapping red blood cells and creating a solid, stable clot that seals the damaged vessel.",
+        "he": "פיברין הוא חלבון דמוי חוט הרוקם רשת סביב פקק הטסיות, לוכד כדוריות דם אדומות ויוצר קריש מוצק ויציב החותם את כלי הדם הפגוע."
+      }
+    },
+    {
+      "id": "q06-03",
+      "question": {
+        "en": "Where are platelets produced?",
+        "he": "היכן מיוצרות הטסיות?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "In the liver",
+            "he": "בכבד"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "In the spleen",
+            "he": "בטחול"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "In the bone marrow from megakaryocytes",
+            "he": "במח העצמות ממגה-קריוציטים"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "In the lymph nodes",
+            "he": "בבלוטות הלימפה"
+          }
+        }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Platelets are produced in the bone marrow by very large cells called megakaryocytes. Each megakaryocyte breaks apart to release thousands of platelets into the bloodstream.",
+        "he": "טסיות מיוצרות במח העצמות על ידי תאים גדולים מאוד הנקראים מגה-קריוציטים. כל מגה-קריוציט מתפרק ומשחרר אלפי טסיות לזרם הדם."
+      }
+    },
+    {
+      "id": "q06-04",
+      "question": {
+        "en": "What is hemophilia?",
+        "he": "מהי המופיליה?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Too many platelets in the blood",
+            "he": "יותר מדי טסיות בדם"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "A genetic disorder causing excessive bleeding due to missing clotting factors",
+            "he": "הפרעה גנטית הגורמת לדימום מוגזם עקב גורמי קרישה חסרים"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "A type of cancer of the blood",
+            "he": "סוג של סרטן הדם"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Too few red blood cells",
+            "he": "מעט מדי כדוריות דם אדומות"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Hemophilia is a hereditary condition where one or more clotting factors are absent or insufficient. Even a small cut can lead to prolonged bleeding because the clotting cascade cannot complete.",
+        "he": "המופיליה היא מצב תורשתי שבו גורם קרישה אחד או יותר נעדר או אינו מספיק. אפילו חתך קטן יכול להוביל לדימום ממושך מכיוון שמפל הקרישה אינו יכול להשלים."
+      }
+    },
+    {
+      "id": "q06-05",
+      "question": {
+        "en": "What happens to a blood clot after the wound has healed?",
+        "he": "מה קורה לקריש הדם לאחר שהפצע נרפא?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "It remains in the vessel permanently",
+            "he": "הוא נשאר בכלי הדם לצמיתות"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "It is dissolved by the body",
+            "he": "הוא נמס על ידי הגוף"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "It turns into scar tissue",
+            "he": "הוא הופך לרקמת צלקת"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "It is removed by white blood cells and excreted",
+            "he": "הוא מוסר על ידי כדוריות דם לבנות ומופרש"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Once the injured tissue has repaired itself, the body uses enzymes (fibrinolysis) to break down and dissolve the fibrin clot, restoring normal blood flow through the healed vessel.",
+        "he": "לאחר שהרקמה הפגועה תיקנה את עצמה, הגוף משתמש באנזימים (פיברינוליזה) כדי לפרק ולמוסס את קריש הפיברין, ומשחזר את זרימת הדם התקינה דרך כלי הדם שנרפא."
+      }
+    },
+    {
+      "id": "q06-06",
+      "question": {
+        "en": "What is the dry crust that forms over a healing wound called?",
+        "he": "כיצד נקרא הקרום היבש הנוצר מעל פצע מתרפא?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Scar tissue",
+            "he": "רקמת צלקת"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Scab",
+            "he": "גלד"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Plaque",
+            "he": "לוחה"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Callus",
+            "he": "יבלת"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "A scab is the hardened crust that forms when a blood clot dries out. It acts as a natural bandage that protects the wound while new skin tissue grows underneath.",
+        "he": "גלד הוא הקרום הקשה הנוצר כאשר קריש דם מתייבש. הוא משמש כחבישה טבעית המגינה על הפצע בזמן שרקמת עור חדשה גדלה מתחתיו."
+      }
+    },
+    {
+      "id": "q06-07",
+      "question": {
+        "en": "What vitamin is essential for the liver to produce clotting factors?",
+        "he": "איזה ויטמין חיוני לכבד לייצור גורמי קרישה?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Vitamin C",
+            "he": "ויטמין C"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Vitamin D",
+            "he": "ויטמין D"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Vitamin K",
+            "he": "ויטמין K"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Vitamin B12",
+            "he": "ויטמין B12"
+          }
+        }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Vitamin K is needed by the liver to synthesize several key clotting factors (II, VII, IX, X). People taking blood-thinning medications like warfarin are treated by blocking vitamin K's role in order to reduce clotting.",
+        "he": "ויטמין K נחוץ לכבד לסינתזה של מספר גורמי קרישה מרכזיים (II, VII, IX, X). אנשים הנוטלים תרופות מדללות דם כמו ורפרין מטופלים על ידי חסימת תפקיד ויטמין K כדי להפחית קרישה."
+      }
+    },
+    {
+      "id": "q06-08",
+      "question": {
+        "en": "What is thrombosis?",
+        "he": "מהי תרומבוזה?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "The normal formation of a clot at a wound site",
+            "he": "היווצרות תקינה של קריש באתר פצע"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "The formation of a clot inside an uninjured blood vessel",
+            "he": "היווצרות קריש בתוך כלי דם שאינו פגוע"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "The process of dissolving a clot",
+            "he": "תהליך המסת קריש"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Too few platelets in the blood",
+            "he": "מעט מדי טסיות בדם"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Thrombosis is the dangerous formation of a clot inside a blood vessel that is not injured. If such a clot blocks a coronary artery it causes a heart attack; if it blocks an artery in the brain it causes a stroke.",
+        "he": "תרומבוזה היא היווצרות המסוכנת של קריש בתוך כלי דם שאינו פגוע. אם קריש כזה חוסם עורק כלילי הוא גורם להתקף לב; אם הוא חוסם עורק במוח הוא גורם לשבץ."
+      }
+    },
+    {
+      "id": "q06-09",
+      "question": {
+        "en": "How does aspirin affect blood platelets?",
+        "he": "כיצד אספירין משפיע על טסיות הדם?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "It increases platelet production",
+            "he": "הוא מגדיל את ייצור הטסיות"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "It reduces platelet aggregation, making clotting less likely",
+            "he": "הוא מפחית את צבירת הטסיות, ומקטין את הסיכוי לקרישה"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "It destroys existing clots",
+            "he": "הוא משמיד קרישים קיימים"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "It has no effect on platelets",
+            "he": "אין לו השפעה על טסיות"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Aspirin inhibits an enzyme (COX-1) that platelets need to produce thromboxane A2 — a signal that promotes aggregation. This is why low-dose aspirin is prescribed to reduce the risk of heart attacks and strokes in at-risk patients.",
+        "he": "אספירין מעכב אנזים (COX-1) שטסיות זקוקות לו כדי לייצר תרומבוקסן A2 — אות המקדם צבירה. זו הסיבה שמינון נמוך של אספירין נרשם להפחתת הסיכון להתקפי לב ושבצים בחולים בסיכון."
+      }
+    },
+    {
+      "id": "q06-10",
+      "question": {
+        "en": "What is the difference between a scab and a scar?",
+        "he": "מה ההבדל בין גלד לצלקת?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "They are the same thing",
+            "he": "הם אותו הדבר"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "A scab is a temporary dried clot; a scar is permanent fibrous tissue that replaces skin",
+            "he": "גלד הוא קריש מיובש זמני; צלקת היא רקמה סיבית קבועה המחליפה עור"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "A scar forms first and a scab later",
+            "he": "צלקת נוצרת תחילה וגלד מאוחר יותר"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Scabs only form on internal wounds",
+            "he": "גלדים נוצרים רק בפצעים פנימיים"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "A scab is a temporary protective crust made of dried blood and fibrin that covers a wound while it heals. Once healing is complete, the scab falls away. A scar, by contrast, is the permanent fibrous tissue that remains if deeper layers of skin were damaged.",
+        "he": "גלד הוא קרום מגן זמני עשוי דם מיובש ופיברין המכסה פצע בזמן ריפויו. לאחר השלמת הריפוי, הגלד נושר. צלקת, לעומת זאת, היא הרקמה הסיבית הקבועה שנשארת אם שכבות עמוקות יותר של עור ניזוקו."
+      }
+    }
+  ],
+  "videoSources": [
+    "pRqQSrJKNlk",
+    "_z05E080boE"
+  ]
+}

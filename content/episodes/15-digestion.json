@@ -1,0 +1,630 @@
+{
+  "id": "15-digestion",
+  "episodeNumber": 15,
+  "youtubeId": "iVjL_DUk5p8",
+  "title": {
+    "en": "Digestion",
+    "he": "העיכול"
+  },
+  "summary": {
+    "en": "This episode traces the complete journey of food through the digestive system, beginning in the mouth where mechanical chewing and the enzyme amylase start breaking down carbohydrates. From the mouth, food travels down the esophagus via peristalsis into the stomach, where powerful hydrochloric acid and the enzyme pepsin reduce it to a semi-liquid paste called chyme. The chyme then enters the small intestine, where bile from the liver emulsifies fats and pancreatic enzymes break down proteins, fats, and sugars — and the vast surface area created by millions of tiny villi absorbs these nutrients into the bloodstream. The large intestine reclaims water from the remaining indigestible material, and the gut microbiome — trillions of beneficial bacteria — plays a crucial role in fermenting fiber, producing vitamins, and supporting immune function. The episode highlights how remarkable teamwork among the stomach, pancreas, liver, gallbladder, and intestines extracts every bit of nourishment from the food we eat.",
+    "he": "פרק זה עוקב אחרי המסע המלא של המזון דרך מערכת העיכול, החל בפה שבו לעיסה מכנית ואנזים העמילאז מתחילים לפרק פחמימות. מהפה המזון עובר בוושט בעזרת פריסטלטיקה לקיבה, שם חומצה כלורהידרית חזקה ואנזים הפפסין הופכים אותו לעיסה חצי-נוזלית הנקראת כיימוס. הכיימוס נכנס אז למעי הדק, שם מרה מהכבד מבצעת אמולסיפיקציה של שומנים ואנזימי הלבלב מפרקים חלבונים, שומנים וסוכרים — ושטח הפנים העצום שנוצר על ידי מיליוני וילוסיות זעירות סופג את החומרים המזינים לזרם הדם. המעי הגס מחזיר מים מהחומר הבלתי ניתן לעיכול שנותר, והמיקרוביום של המעי — טריליוני חיידקים מועילים — ממלא תפקיד מכריע בתסיסת סיבים, ייצור ויטמינים ותמיכה בתפקוד החיסוני. הפרק מדגיש את עבודת הצוות המרהיבה בין הקיבה, הלבלב, הכבד, כיס המרה והמעיים בחילוץ כל חומר המזין מהמזון שאנו אוכלים."
+  },
+  "thumbnail": "https://img.youtube.com/vi/iVjL_DUk5p8/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": [
+    "digestive system",
+    "stomach",
+    "intestines",
+    "nutrient absorption",
+    "enzymes"
+  ],
+  "terminology": [
+    {
+      "id": "t13-01",
+      "term": {
+        "en": "Esophagus",
+        "he": "ושט"
+      },
+      "definition": {
+        "en": "The muscular tube connecting the mouth to the stomach, through which food is propelled by peristalsis. It is about 25 cm long and passes behind the trachea through the chest cavity. A ring of muscle called the lower esophageal sphincter prevents stomach acid from flowing back up.",
+        "he": "הצינור השרירי המחבר את הפה לקיבה, שדרכו מועבר המזון על ידי פריסטלטיקה. אורכו כ-25 ס\"מ והוא עובר מאחורי קנה הנשימה דרך חלל החזה. טבעת שרירים הנקראת הסוגר הוושטי התחתון מונעת חזרה של חומצת קיבה כלפי מעלה."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t13-02",
+      "term": {
+        "en": "Stomach",
+        "he": "קיבה"
+      },
+      "definition": {
+        "en": "A muscular sac that mixes food with digestive acids and enzymes to break it into a semi-liquid mixture called chyme. Its inner lining contains glands that secrete hydrochloric acid and the enzyme pepsin. The stomach can expand to hold about 1–1.5 liters and typically empties over 2–4 hours.",
+        "he": "שק שרירי המערבב מזון עם חומצות עיכול ואנזימים כדי לפרקו לתערובת חצי-נוזלית הנקראת כיימוס. רירית פנימו מכילה בלוטות המפרישות חומצה כלורהידרית ואנזים הפפסין. הקיבה יכולה להתרחב כדי להכיל כ-1–1.5 ליטר ומתרוקנת בדרך כלל תוך 2–4 שעות."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t13-03",
+      "term": {
+        "en": "Small Intestine",
+        "he": "מעי דק"
+      },
+      "definition": {
+        "en": "A long, coiled tube where most chemical digestion and nutrient absorption into the blood takes place. It is approximately 6–7 meters long and divided into three sections: the duodenum, jejunum, and ileum. Its inner wall is lined with finger-like villi and even smaller microvilli that create an enormous absorptive surface area.",
+        "he": "צינור ארוך ומסולסל שבו מתרחשים רוב העיכול הכימי וספיגת החומרים המזינים לדם. אורכו כ-6–7 מטרים ומחולק לשלושה חלקים: התריסריון, הג'ג'ונום והאיליאום. דפנו הפנימית מכוסה בוילוסיות דמויות אצבע ומיקרו-וילוסיות זעירות עוד יותר, היוצרות שטח ספיגה עצום."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t13-04",
+      "term": {
+        "en": "Large Intestine (Colon)",
+        "he": "מעי גס (קולון)"
+      },
+      "definition": {
+        "en": "The final section of the digestive tract that absorbs water from undigested material and forms solid waste (feces). It is about 1.5 meters long and houses trillions of bacteria that ferment undigested fibers. It ends in the rectum, where feces are stored before elimination.",
+        "he": "החלק האחרון של מערכת העיכול הסופג מים מחומר לא מעוכל ויוצר פסולת מוצקה (צואה). אורכו כ-1.5 מטרים ומכיל טריליוני חיידקים המתסיסים סיבים שלא עוכלו. הוא מסתיים ברקטום, שם אוגרת הצואה לפני הפינוי."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t13-05",
+      "term": {
+        "en": "Peristalsis",
+        "he": "פריסטלטיקה"
+      },
+      "definition": {
+        "en": "The wave-like muscular contractions that move food along the digestive tract. These coordinated contractions of smooth muscle occur along the entire length of the gut — from the esophagus to the large intestine — and operate involuntarily, even during sleep. Without peristalsis, food could not move from the mouth to the intestines.",
+        "he": "התכווצויות השרירים הגליות המניעות מזון לאורך מערכת העיכול. התכווצויות מתואמות אלה של שריר חלק מתרחשות לאורך כל המעי — מהוושט עד המעי הגס — ופועלות ללא רצון, אפילו בשינה. ללא פריסטלטיקה, מזון לא יכול היה לנוע מהפה למעיים."
+      },
+      "category": "process"
+    },
+    {
+      "id": "t13-06",
+      "term": {
+        "en": "Villi",
+        "he": "וילוסיות (קטעי ספיגה)"
+      },
+      "definition": {
+        "en": "Tiny finger-like projections lining the small intestine that dramatically increase its surface area for nutrient absorption. Each villus contains a network of capillaries for absorbing amino acids and sugars, and a lacteal (lymph capillary) for absorbing fat. The total absorptive surface of the small intestine, including microvilli, is estimated at around 250 square meters.",
+        "he": "בליטות זעירות דמויות אצבע המצפות את המעי הדק ומגדילות מאוד את שטח הפנים שלו לספיגת חומרים מזינים. כל וילוס מכיל רשת של נימי דם לספיגת חומצות אמינו וסוכרים, ולקטאל (נימי לימפה) לספיגת שומן. שטח הספיגה הכולל של המעי הדק, כולל מיקרו-וילוסיות, מוערך בכ-250 מטרים רבועים."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t13-07",
+      "term": {
+        "en": "Gastric Acid (Hydrochloric Acid)",
+        "he": "חומצה קיבתית (חומצה כלורהידרית)"
+      },
+      "definition": {
+        "en": "A strong acid produced by the stomach lining that helps break down food and kills most bacteria. With a pH of about 1.5–2, it is one of the most acidic substances in the body. It activates pepsinogen into pepsin, which digests proteins, and the stomach protects itself from this acid with a thick layer of mucus.",
+        "he": "חומצה חזקה המיוצרת על ידי רירית הקיבה המסייעת בפירוק מזון והורגת רוב החיידקים. עם pH של כ-1.5–2, היא אחד החומרים החומציים ביותר בגוף. היא מפעילה פפסינוגן לפפסין המעכל חלבונים, והקיבה מגינה על עצמה מחומצה זו בשכבה עבה של ריר."
+      },
+      "category": "biochemistry"
+    },
+    {
+      "id": "t13-08",
+      "term": {
+        "en": "Pancreatic Enzymes",
+        "he": "אנזימי לבלב"
+      },
+      "definition": {
+        "en": "Digestive enzymes produced by the pancreas and released into the small intestine to break down proteins, fats, and carbohydrates. They include protease (for proteins), lipase (for fats), and amylase (for carbohydrates). These enzymes are secreted in an inactive form and only become active after entering the duodenum, preventing the pancreas from digesting itself.",
+        "he": "אנזימי עיכול המיוצרים על ידי הלבלב ומשתחררים למעי הדק לפירוק חלבונים, שומנים ופחמימות. הם כוללים פרוטאז (לחלבונים), ליפאז (לשומנים) ועמילאז (לפחמימות). אנזימים אלה מופרשים בצורה לא פעילה ורק הופכים פעילים לאחר כניסה לתריסריון, ומונעים מהלבלב לעכל את עצמו."
+      },
+      "category": "biochemistry"
+    },
+    {
+      "id": "t13-09",
+      "term": {
+        "en": "Bile",
+        "he": "מרה"
+      },
+      "definition": {
+        "en": "A digestive fluid produced by the liver, stored in the gallbladder, and released into the small intestine to emulsify (break up) fats. Bile contains bile salts that act like detergents, surrounding fat droplets and breaking them into tiny particles that lipase enzymes can more easily digest. The liver produces about 500–1000 ml of bile per day.",
+        "he": "נוזל עיכול המיוצר בכבד, מאוחסן בכיס המרה, ומשתחרר למעי הדק לאמולסיפיקציה (פירוק) של שומנים. המרה מכילה מלחי מרה הפועלים כחומרי ניקוי, מקיפים טיפות שומן ומפרקים אותן לחלקיקים זעירים שאנזימי ליפאז יכולים לעכל ביתר קלות. הכבד מייצר כ-500–1000 מ\"ל מרה ביום."
+      },
+      "category": "biochemistry"
+    },
+    {
+      "id": "t13-10",
+      "term": {
+        "en": "Chyme",
+        "he": "כיימוס"
+      },
+      "definition": {
+        "en": "The semi-liquid mixture of partially digested food and gastric acids that passes from the stomach into the small intestine. It has a highly acidic pH that is gradually neutralized by bicarbonate secreted by the pancreas. The passage of chyme from the stomach into the duodenum is regulated by the pyloric sphincter.",
+        "he": "התערובת החצי-נוזלית של מזון מעוכל חלקית וחומצות קיבה העוברת מהקיבה למעי הדק. ל-pH שלה חומציות גבוהה המנוטרלת בהדרגה על ידי ביקרבונט המופרש מהלבלב. המעבר של הכיימוס מהקיבה לתריסריון מווסת על ידי הסוגר הפילורי."
+      },
+      "category": "physiology"
+    },
+    {
+      "id": "t13-11",
+      "term": {
+        "en": "Microbiome",
+        "he": "מיקרוביום"
+      },
+      "definition": {
+        "en": "The vast community of trillions of microorganisms (mostly bacteria) living in the digestive tract, especially in the large intestine. These bacteria help ferment dietary fibers, synthesize vitamins such as B12 and K, protect against harmful pathogens, and regulate the immune system. Disruptions to the microbiome are linked to inflammatory bowel disease, obesity, and other conditions.",
+        "he": "הקהילה העצומה של טריליוני מיקרואורגניזמים (בעיקר חיידקים) החיים בדרכי העיכול, ובמיוחד במעי הגס. חיידקים אלה עוזרים לתסיסת סיבים תזונתיים, לסינתזה של ויטמינים כגון B12 ו-K, להגנה מפני פתוגנים מזיקים ולוויסות מערכת החיסון. שיבושים במיקרוביום קשורים למחלת מעי דלקתית, השמנה ומצבים נוספים."
+      },
+      "category": "microbiology"
+    },
+    {
+      "id": "t13-12",
+      "term": {
+        "en": "Salivary Amylase",
+        "he": "עמילאז רוק"
+      },
+      "definition": {
+        "en": "An enzyme present in saliva that begins the chemical digestion of starch in the mouth, breaking it into simpler sugars. This is why bread starts to taste slightly sweet after prolonged chewing. Its action is brief, as it is deactivated once food reaches the acidic environment of the stomach.",
+        "he": "אנזים הנמצא ברוק המתחיל את העיכול הכימי של עמילן בפה ומפרק אותו לסוכרים פשוטים יותר. זו הסיבה שלחם מתחיל לטעום מעט מתוק לאחר לעיסה ממושכת. פעולתו קצרה, שכן הוא מושבת ברגע שהמזון מגיע לסביבה החומצית של הקיבה."
+      },
+      "category": "biochemistry"
+    },
+    {
+      "id": "t13-13",
+      "term": {
+        "en": "Pyloric Sphincter",
+        "he": "סוגר פילורי"
+      },
+      "definition": {
+        "en": "A ring of smooth muscle at the junction between the stomach and the small intestine that controls the rate at which chyme passes into the duodenum. It opens periodically to release small amounts of chyme, ensuring that the small intestine is not overwhelmed and that digestion proceeds efficiently.",
+        "he": "טבעת של שריר חלק בצומת בין הקיבה למעי הדק השולטת בקצב שבו הכיימוס עובר לתריסריון. הוא נפתח מדי פעם כדי לשחרר כמויות קטנות של כיימוס, ומבטיח שהמעי הדק לא יוצף ושהעיכול מתקדם ביעילות."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t13-14",
+      "term": {
+        "en": "Nutrient Absorption",
+        "he": "ספיגת חומרים מזינים"
+      },
+      "definition": {
+        "en": "The process by which digested food molecules pass through the intestinal wall into the bloodstream or lymphatic system. Amino acids and simple sugars enter blood capillaries and travel via the portal vein to the liver. Fatty acids and glycerol are reassembled into triglycerides and packaged into chylomicrons that enter the lymphatic system before reaching the blood.",
+        "he": "התהליך שבו מולקולות מזון מעוכלות עוברות דרך דופן המעי לזרם הדם או למערכת הלימפה. חומצות אמינו וסוכרים פשוטים נכנסים לנימי דם ונוסעים דרך ורִיד השער לכבד. חומצות שומן וגליצרול מורכבים מחדש לטריגליצרידים ומאורזים לכילומיקרונים הנכנסים למערכת הלימפה לפני הגעה לדם."
+      },
+      "category": "physiology"
+    },
+    {
+      "id": "t13-15",
+      "term": {
+        "en": "Pepsin",
+        "he": "פפסין"
+      },
+      "definition": {
+        "en": "The primary digestive enzyme of the stomach, which breaks down proteins into smaller peptide fragments. It is produced in an inactive form called pepsinogen, which is activated by hydrochloric acid. Pepsin functions optimally in the very acidic environment of the stomach (pH 1.5–2) and is inactivated once it reaches the higher pH of the small intestine.",
+        "he": "האנזים העיכולי הראשי של הקיבה, המפרק חלבונים לקטעי פפטיד קטנים יותר. הוא מיוצר בצורת מבשר לא פעיל הנקרא פפסינוגן, המופעל על ידי חומצה כלורהידרית. הפפסין פועל באופן מיטבי בסביבה החומצית מאוד של הקיבה (pH 1.5–2) ומושבת ברגע שהוא מגיע ל-pH הגבוה יותר של המעי הדק."
+      },
+      "category": "biochemistry"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q1",
+      "question": {
+        "en": "Where does most nutrient absorption into the bloodstream occur?",
+        "he": "היכן מתרחשת רוב ספיגת החומרים המזינים לזרם הדם?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "In the stomach",
+            "he": "בקיבה"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "In the small intestine",
+            "he": "במעי הדק"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "In the large intestine",
+            "he": "במעי הגס"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "In the liver",
+            "he": "בכבד"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The small intestine is the main site of nutrient absorption. Its inner lining is covered with millions of tiny villi and microvilli that create a total absorptive surface area of roughly 250 square meters — about the size of a tennis court — allowing efficient uptake of sugars, amino acids, and fats into the blood.",
+        "he": "המעי הדק הוא המקום העיקרי לספיגת חומרים מזינים. רירית פנימו מכוסה במיליוני וילוסיות ומיקרו-וילוסיות זעירות היוצרות שטח ספיגה כולל של כ-250 מטרים רבועים — בערך גודלו של מגרש טניס — המאפשרות קליטה יעילה של סוכרים, חומצות אמינו ושומנים לדם."
+      }
+    },
+    {
+      "id": "q2",
+      "question": {
+        "en": "What is peristalsis?",
+        "he": "מהי פריסטלטיקה?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "The chemical breakdown of food by enzymes",
+            "he": "הפירוק הכימי של מזון על ידי אנזימים"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Wave-like muscular contractions that move food through the digestive tract",
+            "he": "התכווצויות שרירים גליות המניעות מזון דרך מערכת העיכול"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "The absorption of water in the large intestine",
+            "he": "ספיגת מים במעי הגס"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "The secretion of acid by the stomach",
+            "he": "הפרשת חומצה על ידי הקיבה"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Peristalsis is the coordinated, rhythmic contraction and relaxation of smooth muscle in the digestive tract walls. These wave-like movements push food from the esophagus all the way through the stomach and intestines. It works involuntarily — continuing even during sleep — and does not require any conscious effort.",
+        "he": "פריסטלטיקה היא ההתכווצות וההרפיה המתואמות והקצביות של השריר החלק בדפנות מערכת העיכול. תנועות גליות אלה דוחפות מזון מהוושט דרך הקיבה והמעיים. היא פועלת ללא רצון — ממשיכה אפילו בשינה — ואינה דורשת כל מאמץ מודע."
+      }
+    },
+    {
+      "id": "q3",
+      "question": {
+        "en": "What is the approximate length of the small intestine in an adult?",
+        "he": "מה האורך המשוער של המעי הדק אצל מבוגר?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "1 meter",
+            "he": "מטר אחד"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "3 meters",
+            "he": "3 מטרים"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "6–7 meters",
+            "he": "6–7 מטרים"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "20 meters",
+            "he": "20 מטרים"
+          }
+        }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Despite being called 'small' (referring to its narrow diameter, not its length), the small intestine is actually about 6–7 meters long in an adult. This enormous length, combined with the villi lining its walls, maximizes the time and surface area available for digestion and absorption of nutrients.",
+        "he": "למרות שנקרא 'דק' (מתייחס לקוטרו הצר, לא לאורכו), המעי הדק הוא למעשה כ-6–7 מטרים ארוך אצל מבוגר. אורך עצום זה, יחד עם הוילוסיות המצפות את דפנותיו, ממקסם את הזמן ושטח הפנים הזמינים לעיכול וספיגת חומרים מזינים."
+      }
+    },
+    {
+      "id": "q4",
+      "question": {
+        "en": "What is the function of bile in digestion?",
+        "he": "מה תפקיד המרה בעיכול?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "To break down proteins into amino acids",
+            "he": "לפרק חלבונים לחומצות אמינו"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "To break down carbohydrates into sugars",
+            "he": "לפרק פחמימות לסוכרים"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "To emulsify fats into small droplets",
+            "he": "לבצע אמולסיפיקציה של שומנים לטיפות קטנות"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "To absorb vitamins directly from food",
+            "he": "לספוג ויטמינים ישירות מהמזון"
+          }
+        }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Bile, produced by the liver and stored in the gallbladder, emulsifies fats by breaking large fat globules into tiny droplets. This enormously increases the surface area available for lipase enzymes to act on. Without bile, fat digestion would be severely impaired and fat-soluble vitamins (A, D, E, K) could not be properly absorbed.",
+        "he": "מרה, המיוצרת בכבד ומאוחסנת בכיס המרה, מבצעת אמולסיפיקציה של שומנים על ידי פרוק גבשושיות שומן גדולות לטיפות זעירות. זה מגדיל עצומות את שטח הפנים הזמין לפעולת אנזימי ליפאז. ללא מרה, עיכול שומן יהיה פגוע קשות וויטמינים מסיסי שומן (A, D, E, K) לא יוכלו להיספג כראוי."
+      }
+    },
+    {
+      "id": "q5",
+      "question": {
+        "en": "What function does the large intestine primarily perform?",
+        "he": "איזה תפקיד ממלא בעיקר המעי הגס?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Protein digestion",
+            "he": "עיכול חלבונים"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Fat emulsification",
+            "he": "אמולסיפיקציה של שומנים"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Absorbing water from waste material",
+            "he": "ספיגת מים מחומר פסולת"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Producing digestive enzymes",
+            "he": "ייצור אנזימי עיכול"
+          }
+        }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "The large intestine (colon) absorbs most of the remaining water and electrolytes from indigestible food matter, converting liquid waste into solid feces for elimination. It also hosts the gut microbiome — billions of beneficial bacteria that produce vitamins, ferment fiber, and help regulate the immune system.",
+        "he": "המעי הגס (קולון) סופג את רוב המים והאלקטרוליטים שנותרו מחומר המזון הבלתי ניתן לעיכול, הופך את הפסולת הנוזלית לצואה מוצקה לפינוי. הוא גם מארח את המיקרוביום של המעי — מיליארדי חיידקים מועילים המייצרים ויטמינים, מתסיסים סיבים ועוזרים לוויסות מערכת החיסון."
+      }
+    },
+    {
+      "id": "q6",
+      "question": {
+        "en": "Approximately how long does food take to travel through the entire digestive system?",
+        "he": "כמה זמן לוקח למזון לעבור דרך כל מערכת העיכול?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "1–2 hours",
+            "he": "1–2 שעות"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "6–8 hours",
+            "he": "6–8 שעות"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "24–72 hours",
+            "he": "24–72 שעות"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "1 week",
+            "he": "שבוע אחד"
+          }
+        }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "The total transit time from eating to elimination typically takes 24–72 hours. Food spends about 2–4 hours in the stomach, 2–6 hours moving through the small intestine, and up to 12–48 hours in the large intestine. Diet, hydration, age, and physical activity all influence this transit time.",
+        "he": "זמן המעבר הכולל מאכילה עד פינוי לוקח בדרך כלל 24–72 שעות. המזון מבלה כ-2–4 שעות בקיבה, 2–6 שעות בתנועה דרך המעי הדק, ועד 12–48 שעות במעי הגס. תזונה, הידרציה, גיל ופעילות גופנית משפיעים כולם על זמן המעבר."
+      }
+    },
+    {
+      "id": "q7",
+      "question": {
+        "en": "Which enzyme in saliva begins the digestion of starch?",
+        "he": "איזה אנזים ברוק מתחיל את עיכול העמילן?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Pepsin",
+            "he": "פפסין"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Lipase",
+            "he": "ליפאז"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Salivary amylase",
+            "he": "עמילאז רוק"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Trypsin",
+            "he": "טריפסין"
+          }
+        }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Salivary amylase is secreted by the salivary glands and begins breaking starch molecules into simpler sugars while food is still in the mouth. This is why if you chew plain bread for a long time, it gradually starts to taste sweet. Digestion therefore begins before food even reaches the stomach.",
+        "he": "עמילאז רוק מופרש מבלוטות הרוק ומתחיל לפרק מולקולות עמילן לסוכרים פשוטים יותר כשהמזון עדיין בפה. זו הסיבה שאם לועסים לחם פשוט זמן רב, הוא מתחיל לטעום מתוק בהדרגה. העיכול מתחיל אם כך לפני שהמזון מגיע אפילו לקיבה."
+      }
+    },
+    {
+      "id": "q8",
+      "question": {
+        "en": "What is the gut microbiome?",
+        "he": "מהו המיקרוביום של המעי?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "A type of digestive enzyme produced by the pancreas",
+            "he": "סוג של אנזים עיכולי המיוצר בלבלב"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "The community of trillions of microorganisms living in the digestive tract",
+            "he": "קהילת טריליוני מיקרואורגניזמים החיים בדרכי העיכול"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "The lining of the stomach that produces acid",
+            "he": "רירית הקיבה המייצרת חומצה"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "The lymphatic tissue surrounding the intestines",
+            "he": "הרקמה הלימפטית המקיפה את המעיים"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The gut microbiome is a vast ecosystem of bacteria, fungi, and other microorganisms living mainly in the large intestine. These microorganisms help ferment dietary fibers, synthesize vitamins like B12 and K, compete with harmful pathogens, and communicate with the immune system. Imbalances in the microbiome have been linked to obesity, inflammatory bowel disease, and other health conditions.",
+        "he": "המיקרוביום של המעי הוא אקוסיסטם עצום של חיידקים, פטריות ומיקרואורגניזמים אחרים החיים בעיקר במעי הגס. מיקרואורגניזמים אלה עוזרים לתסיסת סיבים תזונתיים, מסנתזים ויטמינים כגון B12 ו-K, מתחרים עם פתוגנים מזיקים ומתקשרים עם מערכת החיסון. חוסר איזון במיקרוביום נקשר להשמנה, מחלת מעי דלקתית ומצבי בריאות נוספים."
+      }
+    },
+    {
+      "id": "q9",
+      "question": {
+        "en": "What is the role of the pyloric sphincter?",
+        "he": "מה תפקיד הסוגר הפילורי?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "To prevent food from re-entering the mouth from the esophagus",
+            "he": "למנוע מזון מלחזור לפה מהוושט"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "To control the release of chyme from the stomach into the small intestine",
+            "he": "לשלוט בשחרור כיימוס מהקיבה למעי הדק"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "To separate the small intestine from the large intestine",
+            "he": "להפריד את המעי הדק מהמעי הגס"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "To store bile between meals",
+            "he": "לאחסן מרה בין ארוחות"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The pyloric sphincter is a ring of muscle at the base of the stomach that acts as a gate between the stomach and the duodenum (first part of the small intestine). It opens periodically to release small amounts of acidic chyme into the small intestine, ensuring that digestive enzymes and bile can work effectively without being overwhelmed.",
+        "he": "הסוגר הפילורי הוא טבעת שריר בבסיס הקיבה המשמשת כשער בין הקיבה לתריסריון (החלק הראשון של המעי הדק). הוא נפתח מדי פעם כדי לשחרר כמויות קטנות של כיימוס חומצי למעי הדק, ומבטיח שאנזימי עיכול ומרה יכולים לפעול ביעילות מבלי להיות מוצפים."
+      }
+    },
+    {
+      "id": "q10",
+      "question": {
+        "en": "How does the stomach protect itself from the acid it produces?",
+        "he": "כיצד הקיבה מגינה על עצמה מהחומצה שהיא מייצרת?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "By producing alkaline bile to neutralize the acid",
+            "he": "על ידי ייצור מרה בסיסית לניטרול החומצה"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "By secreting a thick layer of mucus that coats the stomach lining",
+            "he": "על ידי הפרשת שכבה עבה של ריר המצפה את רירית הקיבה"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "By constantly replacing stomach cells every few years only",
+            "he": "על ידי החלפת תאי קיבה כל כמה שנים בלבד"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "By keeping the acid separated from the walls using air pockets",
+            "he": "על ידי הפרדת החומצה מהדפנות באמצעות כיסי אוויר"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The stomach lining secretes a thick layer of alkaline mucus that acts as a protective barrier against the highly corrosive hydrochloric acid (pH 1.5–2). Stomach cells are also replaced about every 3–5 days. When this protection breaks down — for example due to Helicobacter pylori bacteria or overuse of anti-inflammatory drugs — a painful gastric ulcer can form.",
+        "he": "רירית הקיבה מפרישה שכבה עבה של ריר בסיסי המשמשת כמחסום מגן מפני החומצה הכלורהידרית הקורוזיבית ביותר (pH 1.5–2). תאי הקיבה מוחלפים גם כן כל 3–5 ימים. כאשר הגנה זו מתמוטטת — למשל עקב חיידקי הליקובקטר פילורי או שימוש יתר בתרופות נוגדות דלקת — עלול להיווצר כיב קיבה כואב."
+      }
+    }
+  ],
+  "videoSources": [
+    "iVjL_DUk5p8",
+    "lT8UUlMEkaU"
+  ]
+}

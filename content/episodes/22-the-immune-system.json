@@ -1,0 +1,507 @@
+{
+  "id": "22-the-immune-system",
+  "episodeNumber": 22,
+  "youtubeId": "R5DupUCybB8",
+  "videoSources": ["R5DupUCybB8", "WS7UOO4OdCQ"],
+  "title": {
+    "en": "The Immune System",
+    "he": "החיסון"
+  },
+  "summary": {
+    "en": "This episode provides a comprehensive look at the immune system — the body's sophisticated defence against disease. It distinguishes between innate immunity (the immediate, non-specific first line of defence) and adaptive immunity (the targeted response that learns from each encounter with a pathogen). The episode explains how B cells produce Y-shaped antibodies that neutralise specific pathogens, and how cytotoxic T cells directly destroy infected or cancerous cells while helper T cells coordinate the entire immune response. It also covers how immunological memory allows the body to mount a dramatically faster and stronger response upon re-exposure to the same pathogen — the principle behind vaccination — and examines the consequences when the immune system malfunctions, producing autoimmune diseases or allergic reactions.",
+    "he": "פרק זה מספק מבט מקיף על מערכת החיסון — ההגנה המתוחכמת של הגוף מפני מחלות. הוא מבחין בין חסינות מולדת (קו ההגנה הראשון המיידי, הלא-ספציפי) לחסינות נרכשת (התגובה הממוקדת הלומדת מכל מפגש עם פתוגן). הפרק מסביר כיצד תאי B מייצרים נוגדנים בצורת Y המנטרלים פתוגנים ספציפיים, וכיצד תאי T ציטוטוקסיים הורגים ישירות תאים נגועים או סרטניים בעוד תאי T עוזרים מתאמים את כל התגובה החיסונית. הוא גם סוקר כיצד זיכרון חיסוני מאפשר לגוף לגייס תגובה מהירה וחזקה הרבה יותר עם חשיפה חוזרת לאותו פתוגן — העיקרון העומד מאחורי חיסון — ובוחן את ההשלכות כאשר מערכת החיסון תפקד לקויה, ומייצרת מחלות אוטואימוניות או תגובות אלרגיות."
+  },
+  "thumbnail": "https://img.youtube.com/vi/R5DupUCybB8/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": [
+    "immune system",
+    "antibodies",
+    "vaccination",
+    "innate immunity",
+    "adaptive immunity"
+  ],
+  "terminology": [
+    {
+      "id": "t22-01",
+      "term": {
+        "en": "Innate Immunity",
+        "he": "חסינות מולדת"
+      },
+      "definition": {
+        "en": "The body's non-specific, first-line defence system that responds immediately to pathogens but does not create lasting memory.",
+        "he": "מערכת ההגנה הלא-ספציפית של הגוף, קו ההגנה הראשון, המגיבה מיידית לפתוגנים אך אינה יוצרת זיכרון מתמשך."
+      },
+      "category": "immunology"
+    },
+    {
+      "id": "t22-02",
+      "term": {
+        "en": "Adaptive Immunity",
+        "he": "חסינות נרכשת"
+      },
+      "definition": {
+        "en": "A specific immune response that involves lymphocytes, targets particular pathogens, and produces immunological memory for future encounters.",
+        "he": "תגובה חיסונית ספציפית המערבת לימפוציטים, מכוונת לפתוגנים מסוימים, ומייצרת זיכרון חיסוני למפגשים עתידיים."
+      },
+      "category": "immunology"
+    },
+    {
+      "id": "t22-03",
+      "term": {
+        "en": "Antibody",
+        "he": "נוגדן"
+      },
+      "definition": {
+        "en": "A Y-shaped protein produced by plasma cells (activated B cells) that binds specifically to an antigen, neutralising the pathogen or marking it for destruction.",
+        "he": "חלבון בצורת Y המיוצר על ידי תאי פלסמה (תאי B מופעלים) הנקשר ספציפית לאנטיגן, מנטרל את הפתוגן או מסמן אותו להשמדה."
+      },
+      "category": "immunology"
+    },
+    {
+      "id": "t22-04",
+      "term": {
+        "en": "B Cell",
+        "he": "תא B"
+      },
+      "definition": {
+        "en": "A lymphocyte that, when activated by an antigen, differentiates into plasma cells that produce and secrete antibodies.",
+        "he": "לימפוציט שכאשר מופעל על ידי אנטיגן, מתמיין לתאי פלסמה המייצרים ומפרישים נוגדנים."
+      },
+      "category": "immune cell"
+    },
+    {
+      "id": "t22-05",
+      "term": {
+        "en": "T Cell",
+        "he": "תא T"
+      },
+      "definition": {
+        "en": "A lymphocyte that directly kills infected or cancerous cells (cytotoxic T cells) or helps coordinate the immune response (helper T cells).",
+        "he": "לימפוציט ההורג ישירות תאים נגועים או סרטניים (תאי T ציטוטוקסיים) או עוזר לתאם את התגובה החיסונית (תאי T עוזרים)."
+      },
+      "category": "immune cell"
+    },
+    {
+      "id": "t22-06",
+      "term": {
+        "en": "Immunological Memory",
+        "he": "זיכרון חיסוני"
+      },
+      "definition": {
+        "en": "The ability of the immune system to mount a faster and stronger response upon re-exposure to a previously encountered pathogen, mediated by long-lived memory B and T cells.",
+        "he": "יכולת מערכת החיסון לגייס תגובה מהירה וחזקה יותר עם חשיפה מחדש לפתוגן שנפגש בעבר, המתווכת על ידי תאי זיכרון B ו-T ארוכי-חיים."
+      },
+      "category": "immunology"
+    },
+    {
+      "id": "t22-07",
+      "term": {
+        "en": "Vaccine",
+        "he": "חיסון (וקצינה)"
+      },
+      "definition": {
+        "en": "A preparation of weakened, killed, or partial pathogens (or their proteins) that stimulates the immune system to produce memory cells without causing disease.",
+        "he": "תכשיר של פתוגנים מוחלשים, מתים או חלקיים (או חלבוניהם) המגרה את מערכת החיסון לייצר תאי זיכרון ללא גרימת מחלה."
+      },
+      "category": "medicine"
+    },
+    {
+      "id": "t22-08",
+      "term": {
+        "en": "Autoimmune Disease",
+        "he": "מחלה אוטואימונית"
+      },
+      "definition": {
+        "en": "A condition in which the immune system mistakenly attacks the body's own healthy tissues, as in type 1 diabetes, rheumatoid arthritis, and multiple sclerosis.",
+        "he": "מצב שבו מערכת החיסון בטעות תוקפת את רקמות הגוף הבריאות של עצמה, כמו בסוכרת סוג 1, דלקת מפרקים שגרונית וטרשת נפוצה."
+      },
+      "category": "pathology"
+    },
+    {
+      "id": "t22-09",
+      "term": {
+        "en": "Natural Killer (NK) Cell",
+        "he": "תא רוצח טבעי (NK)"
+      },
+      "definition": {
+        "en": "A type of innate immune cell that patrols the body and destroys virus-infected cells and cancer cells without prior sensitisation.",
+        "he": "סוג של תא חיסוני מולד הסורק את הגוף ומשמיד תאים נגועים בוירוס ותאים סרטניים ללא רגישות מוקדמת."
+      },
+      "category": "immune cell"
+    },
+    {
+      "id": "t22-10",
+      "term": {
+        "en": "Allergy",
+        "he": "אלרגיה"
+      },
+      "definition": {
+        "en": "An exaggerated immune response to a normally harmless substance (allergen) — such as pollen, dust mites, or certain foods — driven by IgE antibodies.",
+        "he": "תגובה חיסונית מוגזמת לחומר לא מזיק בדרך כלל (אלרגן) — כגון אבקת פרחים, קרדיות אבק או מזונות מסוימים — המופעלת על ידי נוגדני IgE."
+      },
+      "category": "pathology"
+    },
+    {
+      "id": "t22-11",
+      "term": {
+        "en": "Antigen",
+        "he": "אנטיגן"
+      },
+      "definition": {
+        "en": "A molecule — usually a protein on the surface of a pathogen — that is recognised by the immune system and triggers an immune response.",
+        "he": "מולקולה — בדרך כלל חלבון על פני הפתוגן — שמזוהה על ידי מערכת החיסון ומפעילה תגובה חיסונית."
+      },
+      "category": "immunology"
+    },
+    {
+      "id": "t22-12",
+      "term": {
+        "en": "Macrophage",
+        "he": "מקרופאג"
+      },
+      "definition": {
+        "en": "A large phagocytic cell of the innate immune system that engulfs pathogens and presents antigens to T cells to activate the adaptive immune response.",
+        "he": "תא פגוציטי גדול של מערכת החיסון המולדת הבולע פתוגנים ומציג אנטיגנים לתאי T כדי להפעיל את התגובה החיסונית הנרכשת."
+      },
+      "category": "immune cell"
+    },
+    {
+      "id": "t22-13",
+      "term": {
+        "en": "Helper T Cell (CD4+)",
+        "he": "תא T עוזר (CD4+)"
+      },
+      "definition": {
+        "en": "A T lymphocyte that recognises antigens presented by antigen-presenting cells and secretes cytokines to activate B cells, cytotoxic T cells, and other immune effectors.",
+        "he": "לימפוציט T המזהה אנטיגנים המוצגים על ידי תאים מציגי אנטיגן ומפריש ציטוקינים להפעלת תאי B, תאי T ציטוטוקסיים ואפקטורים חיסוניים אחרים."
+      },
+      "category": "immune cell"
+    },
+    {
+      "id": "t22-14",
+      "term": {
+        "en": "Cytokine",
+        "he": "ציטוקין"
+      },
+      "definition": {
+        "en": "A small signalling protein secreted by immune cells that regulates the magnitude and type of immune response, including interleukins, interferons, and tumour necrosis factors.",
+        "he": "חלבון איתות קטן המופרש על ידי תאי חיסון המווסת את עצמת סוג התגובה החיסונית, כולל אינטרלאוקינים, אינטרפרונים וגורמי נמק גידול."
+      },
+      "category": "immunology"
+    },
+    {
+      "id": "t22-15",
+      "term": {
+        "en": "Lymph Node",
+        "he": "בלוטת לימפה"
+      },
+      "definition": {
+        "en": "A small bean-shaped organ along lymphatic vessels where lymphocytes congregate, antigens are presented, and adaptive immune responses are initiated.",
+        "he": "איבר קטן בצורת שעועית לאורך כלי הלימפה שבו לימפוציטים מתאספים, אנטיגנים מוצגים ותגובות חיסוניות נרכשות מופעלות."
+      },
+      "category": "anatomy"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q1",
+      "question": {
+        "en": "What type of immunity creates lasting memory after encountering a pathogen?",
+        "he": "איזה סוג חסינות יוצר זיכרון מתמשך לאחר מפגש עם פתוגן?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": { "en": "Innate immunity", "he": "חסינות מולדת" }
+        },
+        {
+          "id": "b",
+          "text": { "en": "Adaptive (acquired) immunity", "he": "חסינות נרכשת (הסתגלותית)" }
+        },
+        {
+          "id": "c",
+          "text": { "en": "Passive immunity only", "he": "חסינות פסיבית בלבד" }
+        },
+        {
+          "id": "d",
+          "text": { "en": "Both equally", "he": "שניהם באותה מידה" }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Adaptive immunity involves B and T lymphocytes that are specifically activated by a particular antigen. After the infection clears, long-lived memory cells remain, enabling a faster and stronger response if the same pathogen returns.",
+        "he": "חסינות נרכשת מערבת לימפוציטים B ו-T המופעלים ספציפית על ידי אנטיגן מסוים. לאחר שהזיהום מתפוגג, תאי זיכרון ארוכי-חיים נשארים, ומאפשרים תגובה מהירה וחזקה יותר אם אותו פתוגן חוזר."
+      }
+    },
+    {
+      "id": "q2",
+      "question": {
+        "en": "What shape are antibodies, and which cells produce them?",
+        "he": "מה צורתם של נוגדנים, ואילו תאים מייצרים אותם?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": { "en": "Round; produced by T cells", "he": "עגולים; מיוצרים על ידי תאי T" }
+        },
+        {
+          "id": "b",
+          "text": { "en": "Y-shaped; produced by plasma cells (activated B cells)", "he": "בצורת Y; מיוצרים על ידי תאי פלסמה (תאי B מופעלים)" }
+        },
+        {
+          "id": "c",
+          "text": { "en": "Spiral; produced by red blood cells", "he": "ספירלי; מיוצרים על ידי כדוריות דם אדומות" }
+        },
+        {
+          "id": "d",
+          "text": { "en": "Flat; produced by macrophages", "he": "שטוחים; מיוצרים על ידי מקרופאגים" }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Antibodies (immunoglobulins) are Y-shaped proteins. When B cells encounter their matching antigen, they differentiate into plasma cells that produce millions of identical antibodies targeting that specific antigen.",
+        "he": "נוגדנים (אימונוגלובולינים) הם חלבונים בצורת Y. כאשר תאי B נפגשים עם האנטיגן התואם שלהם, הם מתמיינים לתאי פלסמה המייצרים מיליוני נוגדנים זהים המכוונים לאותו אנטיגן ספציפי."
+      }
+    },
+    {
+      "id": "q3",
+      "question": {
+        "en": "What is the principle behind vaccination?",
+        "he": "מהו העיקרון העומד מאחורי חיסון?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": { "en": "Injecting antibiotics to kill bacteria", "he": "הזרקת אנטיביוטיקה כדי להרוג חיידקים" }
+        },
+        {
+          "id": "b",
+          "text": { "en": "Stimulating the immune system with a harmless form of the pathogen to create memory cells", "he": "גירוי מערכת החיסון עם צורה לא מזיקה של הפתוגן ליצירת תאי זיכרון" }
+        },
+        {
+          "id": "c",
+          "text": { "en": "Transferring antibodies from a healthy person", "he": "העברת נוגדנים מאדם בריא" }
+        },
+        {
+          "id": "d",
+          "text": { "en": "Boosting red blood cell production", "he": "הגברת ייצור כדוריות דם אדומות" }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Vaccines contain weakened, killed, or partial forms of a pathogen (or just its proteins). They train the immune system to recognise the pathogen without causing disease, so that memory cells are ready if the real pathogen is encountered later.",
+        "he": "חיסונים מכילים צורות מוחלשות, מתות או חלקיות של פתוגן (או רק חלבוניו). הם מאמנים את מערכת החיסון לזהות את הפתוגן מבלי לגרום למחלה, כך שתאי זיכרון מוכנים אם הפתוגן האמיתי יפגש מאוחר יותר."
+      }
+    },
+    {
+      "id": "q4",
+      "question": {
+        "en": "What is an autoimmune disease?",
+        "he": "מהי מחלה אוטואימונית?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": { "en": "A disease caused by a lack of vitamins", "he": "מחלה הנגרמת ממחסור בוויטמינים" }
+        },
+        {
+          "id": "b",
+          "text": { "en": "A disease where the immune system attacks the body's own tissues", "he": "מחלה שבה מערכת החיסון תוקפת את רקמות הגוף עצמו" }
+        },
+        {
+          "id": "c",
+          "text": { "en": "A disease caused by a very strong immune system", "he": "מחלה הנגרמת ממערכת חיסון חזקה מאוד" }
+        },
+        {
+          "id": "d",
+          "text": { "en": "An inherited inability to fight infections", "he": "חוסר יכולת תורשתי להילחם בזיהומים" }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "In autoimmune diseases, the immune system loses its ability to distinguish self from non-self and attacks the body's own healthy tissues. Examples include type 1 diabetes, rheumatoid arthritis, and multiple sclerosis.",
+        "he": "במחלות אוטואימוניות, מערכת החיסון מאבדת את יכולתה להבחין בין עצמי לבין לא-עצמי ותוקפת את רקמות הגוף הבריאות של עצמה. דוגמאות כוללות סוכרת סוג 1, דלקת מפרקים שגרונית וטרשת נפוצה."
+      }
+    },
+    {
+      "id": "q5",
+      "question": {
+        "en": "What is an allergy?",
+        "he": "מהי אלרגיה?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": { "en": "A weak immune response to a dangerous pathogen", "he": "תגובה חיסונית חלשה לפתוגן מסוכן" }
+        },
+        {
+          "id": "b",
+          "text": { "en": "An exaggerated immune response to a harmless substance", "he": "תגובה חיסונית מוגזמת לחומר לא מזיק" }
+        },
+        {
+          "id": "c",
+          "text": { "en": "A shortage of white blood cells", "he": "מחסור בכדוריות דם לבנות" }
+        },
+        {
+          "id": "d",
+          "text": { "en": "A viral infection", "he": "זיהום ויראלי" }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "An allergy occurs when the immune system treats a normally harmless substance (allergen) — like pollen, pet dander, or peanuts — as a serious threat, triggering an excessive inflammatory response including sneezing, itching, or anaphylaxis.",
+        "he": "אלרגיה מתרחשת כאשר מערכת החיסון מתייחסת לחומר לא מזיק בדרך כלל (אלרגן) — כגון אבקת פרחים, פסולת חיות מחמד או בוטנים — כאיום חמור, ומפעילה תגובה דלקתית מוגזמת כולל התעטשות, גרד או אנפילקסיס."
+      }
+    },
+    {
+      "id": "q6",
+      "question": {
+        "en": "What do cytotoxic T cells do?",
+        "he": "מה עושים תאי T ציטוטוקסיים?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": { "en": "They produce antibodies", "he": "הם מייצרים נוגדנים" }
+        },
+        {
+          "id": "b",
+          "text": { "en": "They directly kill infected cells and cancer cells", "he": "הם הורגים ישירות תאים נגועים ותאים סרטניים" }
+        },
+        {
+          "id": "c",
+          "text": { "en": "They filter blood in the spleen", "he": "הם מסגננים דם בטחול" }
+        },
+        {
+          "id": "d",
+          "text": { "en": "They produce bile for digestion", "he": "הם מייצרים מרה לעיכול" }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Cytotoxic (killer) T cells recognise and destroy cells displaying foreign or abnormal antigens on their surface — including virus-infected cells and tumour cells. They release proteins (perforin, granzymes) that punch holes in and kill the target cell.",
+        "he": "תאי T ציטוטוקסיים (הורגים) מזהים ומשמידים תאים המציגים אנטיגנים זרים או לא תקינים על פניהם — כולל תאים הנגועים בוירוסים ותאי גידול. הם משחררים חלבונים (פרפורין, גרנזימים) שיוצרים חורים ב ומורגים את תא המטרה."
+      }
+    },
+    {
+      "id": "q7",
+      "question": {
+        "en": "What is the role of an antigen?",
+        "he": "מה תפקיד האנטיגן?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": { "en": "It destroys pathogens directly", "he": "הוא משמיד פתוגנים ישירות" }
+        },
+        {
+          "id": "b",
+          "text": { "en": "It is a molecule that triggers the immune system to respond against a specific pathogen", "he": "הוא מולקולה שמפעילה את מערכת החיסון להגיב נגד פתוגן ספציפי" }
+        },
+        {
+          "id": "c",
+          "text": { "en": "It suppresses the immune response", "he": "הוא מדכא את התגובה החיסונית" }
+        },
+        {
+          "id": "d",
+          "text": { "en": "It is a type of white blood cell", "he": "הוא סוג של כדורית דם לבנה" }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "An antigen is typically a protein or carbohydrate on the surface of a pathogen (bacterium, virus, etc.) that the immune system recognises as foreign. Binding of an antigen to a specific B or T cell receptor activates that cell to mount an immune response tailored to that antigen.",
+        "he": "אנטיגן הוא בדרך כלל חלבון או פחמימה על פני הפתוגן (חיידק, וירוס וכו') שמערכת החיסון מזהה כזר. קישור של אנטיגן לקולטן ספציפי של תא B או T מפעיל את התא לגייס תגובה חיסונית המותאמת לאנטיגן זה."
+      }
+    },
+    {
+      "id": "q8",
+      "question": {
+        "en": "What is the role of macrophages in the immune response?",
+        "he": "מה תפקיד המקרופאגים בתגובה החיסונית?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": { "en": "They produce antibodies", "he": "הם מייצרים נוגדנים" }
+        },
+        {
+          "id": "b",
+          "text": { "en": "They engulf pathogens and present their antigens to T cells", "he": "הם בולעים פתוגנים ומציגים את האנטיגנים שלהם לתאי T" }
+        },
+        {
+          "id": "c",
+          "text": { "en": "They carry oxygen to infected tissues", "he": "הם נושאים חמצן לרקמות נגועות" }
+        },
+        {
+          "id": "d",
+          "text": { "en": "They create the blood clot at infection sites", "he": "הם יוצרים קריש דם באתרי זיהום" }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Macrophages are phagocytic cells that engulf and destroy pathogens. They also act as antigen-presenting cells (APCs): after digesting a pathogen, they display fragments of its antigens on their surface using MHC molecules, allowing helper T cells to recognise the pathogen and activate the adaptive immune response.",
+        "he": "מקרופאגים הם תאים פגוציטיים הבולעים ומשמידים פתוגנים. הם גם פועלים כתאים מציגי אנטיגן (APCs): לאחר עיכול פתוגן, הם מציגים שברים של אנטיגניו על פניהם באמצעות מולקולות MHC, ומאפשרים לתאי T עוזרים לזהות את הפתוגן ולהפעיל את התגובה החיסונית הנרכשת."
+      }
+    },
+    {
+      "id": "q9",
+      "question": {
+        "en": "What is herd immunity?",
+        "he": "מהי חסינות עדר?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": { "en": "Immunity that animals pass to humans", "he": "חסינות שחיות מעבירות לבני אדם" }
+        },
+        {
+          "id": "b",
+          "text": { "en": "When a high proportion of a population is immune, protecting even those who are not immune", "he": "כאשר חלק גבוה מהאוכלוסייה חסין, ומגן גם על אלה שאינם חסינים" }
+        },
+        {
+          "id": "c",
+          "text": { "en": "Immunity gained only by surviving a disease", "he": "חסינות הנרכשת רק על ידי השרדות מחלה" }
+        },
+        {
+          "id": "d",
+          "text": { "en": "The ability of NK cells to kill tumour cells", "he": "יכולת תאי NK להרוג תאי גידול" }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "When enough people in a community are immune to an infectious disease — whether through vaccination or prior infection — the pathogen can no longer spread efficiently. This indirect protection shields vulnerable individuals (such as newborns and immunocompromised people) who cannot be vaccinated themselves.",
+        "he": "כאשר מספיק אנשים בקהילה חסינים למחלה זיהומית — בין אם דרך חיסון או זיהום קודם — הפתוגן אינו יכול עוד להתפשט ביעילות. הגנה עקיפה זו מגנה על אנשים פגיעים (כגון תינוקות ואנשים עם ליקוי חיסוני) שאינם יכולים לקבל חיסון בעצמם."
+      }
+    },
+    {
+      "id": "q10",
+      "question": {
+        "en": "What happens when NK (Natural Killer) cells encounter a cancer cell?",
+        "he": "מה קורה כאשר תאי NK (רוצחים טבעיים) נפגשים עם תא סרטני?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": { "en": "They signal B cells to produce antibodies against it", "he": "הם מאותתים לתאי B לייצר נוגדנים נגדו" }
+        },
+        {
+          "id": "b",
+          "text": { "en": "They release perforin and granzymes to destroy it without prior sensitisation", "he": "הם משחררים פרפורין וגרנזימים כדי להשמידו ללא רגישות מוקדמת" }
+        },
+        {
+          "id": "c",
+          "text": { "en": "They engulf the cancer cell whole", "he": "הם בולעים את התא הסרטני במלואו" }
+        },
+        {
+          "id": "d",
+          "text": { "en": "They present the cancer cell to the thymus", "he": "הם מציגים את התא הסרטני לתימוס" }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "NK cells are part of the innate immune system and can kill target cells without needing prior exposure. They patrol the body looking for cells that have lost or reduced their MHC class I molecules — a common change in cancer and virus-infected cells. Upon recognition, NK cells release perforin (to poke holes in the target cell membrane) and granzymes (enzymes that trigger apoptosis).",
+        "he": "תאי NK הם חלק ממערכת החיסון המולדת ויכולים להרוג תאי מטרה ללא צורך בחשיפה מוקדמת. הם סורקים את הגוף לחיפוש תאים שאיבדו או הפחיתו את מולקולות MHC כיתה I שלהם — שינוי שכיח בסרטן ובתאים נגועים בוירוס. עם זיהוי, תאי NK משחררים פרפורין (ליצירת חורים בממברנת תא המטרה) וגרנזימים (אנזימים המפעילים אפופטוזה)."
+      }
+    }
+  ]
+}

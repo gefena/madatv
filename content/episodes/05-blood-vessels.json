@@ -1,0 +1,630 @@
+{
+  "id": "05-blood-vessels",
+  "episodeNumber": 5,
+  "youtubeId": "hpHF_VeNGmI",
+  "title": {
+    "en": "Blood Vessels",
+    "he": "כלי הדם"
+  },
+  "summary": {
+    "en": "This episode explores the vast and intricate network of blood vessels that crisscross every millimeter of the human body. It explains the three main types: arteries that carry oxygen-rich blood away from the heart under high pressure, veins that return oxygen-depleted blood to the heart against gravity using one-way valves, and the hair-thin capillaries where the actual exchange of oxygen, nutrients, carbon dioxide, and waste occurs at the cellular level. The episode reveals the staggering scale of this system — laid end to end, the blood vessels of one human body would stretch approximately 100,000 kilometers, enough to circle the Earth two and a half times. It also explains how blood pressure is generated and maintained, how atherosclerosis can threaten this system, and how the body regulates blood flow to different organs depending on their needs.",
+    "he": "פרק זה חוקר את הרשת העצומה והמורכבת של כלי הדם הסורגים כל מילימטר של גוף האדם. הוא מסביר את שלושת הסוגים העיקריים: עורקים הנושאים דם עשיר בחמצן מהלב בלחץ גבוה, ורידים המחזירים דם דל חמצן ללב נגד כוח הכבידה תוך שימוש במסתמים חד-כיווניים, והנימים הדקים כשיער שבהם מתרחש החילוף בפועל של חמצן, חומרים מזינים, פחמן דו-חמצני ופסולת ברמה התאית. הפרק חושף את הממדים המדהימים של מערכת זו — מונחים קצה לקצה, כלי הדם של גוף אדם אחד יתמתחו לכ-100,000 קילומטר, מספיק כדי לעגוף את כדור הארץ פעמיים וחצי. הוא גם מסביר כיצד לחץ הדם נוצר ומתוחזק, כיצד טרשת עורקים יכולה לאיים על מערכת זו, וכיצד הגוף מווסת את זרימת הדם לאיברים שונים בהתאם לצרכיהם."
+  },
+  "thumbnail": "https://img.youtube.com/vi/hpHF_VeNGmI/maxresdefault.jpg",
+  "durationMinutes": 25,
+  "topics": [
+    "arteries",
+    "veins",
+    "capillaries",
+    "blood circulation",
+    "cardiovascular system"
+  ],
+  "terminology": [
+    {
+      "id": "t05-01",
+      "term": {
+        "en": "Artery",
+        "he": "עורק"
+      },
+      "definition": {
+        "en": "A blood vessel that carries blood away from the heart to the body's organs and tissues. Most arteries carry oxygenated blood; the exception is the pulmonary arteries, which carry deoxygenated blood from the heart to the lungs.",
+        "he": "כלי דם המוביל דם מהלב לאיברי ורקמות הגוף. רוב העורקים נושאים דם מחומצן; היוצא מן הכלל הוא העורקים הריאתיים, הנושאים דם דל חמצן מהלב לריאות."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t05-02",
+      "term": {
+        "en": "Vein",
+        "he": "ורִיד"
+      },
+      "definition": {
+        "en": "A blood vessel that carries blood back toward the heart from the body's tissues. Veins have thinner walls than arteries and lower pressure. Most veins carry deoxygenated blood; the pulmonary veins carry oxygenated blood from the lungs to the heart.",
+        "he": "כלי דם המוביל דם חזרה לכיוון הלב מרקמות הגוף. לורידים דפנות דקות יותר מעורקים ולחץ נמוך יותר. רוב הורידים נושאים דם דל חמצן; ורידי הריאה נושאים דם מחומצן מהריאות ללב."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t05-03",
+      "term": {
+        "en": "Capillary",
+        "he": "נים (נימית)"
+      },
+      "definition": {
+        "en": "The smallest type of blood vessel, with walls only one cell thick, connecting arterioles to venules. Their microscopic size and thin walls allow oxygen, carbon dioxide, nutrients, and waste products to pass directly between the blood and surrounding cells.",
+        "he": "הסוג הקטן ביותר של כלי הדם, עם דפנות בעובי תא אחד בלבד, המחבר עורקיות לורידיות. גודלם המיקרוסקופי ודפנותיהם הדקים מאפשרים לחמצן, פחמן דו-חמצני, חומרים מזינים ופסולת לעבור ישירות בין הדם לתאים הסמוכים."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t05-04",
+      "term": {
+        "en": "Aorta",
+        "he": "אבי העורקים (אאורטה)"
+      },
+      "definition": {
+        "en": "The largest artery in the body, approximately 2–3 cm in diameter, leading directly from the heart's left ventricle. It arches over the heart and descends through the chest and abdomen, giving off branches that supply oxygenated blood to the entire body.",
+        "he": "העורק הגדול ביותר בגוף, בקוטר של כ-2–3 ס\"מ, היוצא ישירות מהחדר השמאלי של הלב. הוא מקשת מעל הלב ויורד דרך החזה והבטן, ומסתעף לענפים המספקים דם מחומצן לכל הגוף."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t05-05",
+      "term": {
+        "en": "Blood Pressure",
+        "he": "לחץ דם"
+      },
+      "definition": {
+        "en": "The force exerted by blood against the walls of blood vessels, measured in millimeters of mercury (mmHg). It is expressed as two numbers: systolic pressure (during heart contraction, typically ~120 mmHg) over diastolic pressure (during heart relaxation, typically ~80 mmHg).",
+        "he": "הכוח שהדם מפעיל על דפנות כלי הדם, הנמדד במילימטרים של כסף (mmHg). הוא מבוטא כשני מספרים: לחץ סיסטולי (בזמן התכווצות הלב, בדרך כלל ~120 mmHg) מעל לחץ דיאסטולי (בזמן הרפיית הלב, בדרך כלל ~80 mmHg)."
+      },
+      "category": "physiology"
+    },
+    {
+      "id": "t05-06",
+      "term": {
+        "en": "Pulse",
+        "he": "דופק"
+      },
+      "definition": {
+        "en": "The rhythmic expansion and contraction of an artery that can be felt at the surface of the skin, caused by each heartbeat pushing blood through. It reflects the heart rate and can reveal information about the strength and regularity of the heartbeat.",
+        "he": "ההתרחבות וההתכווצות הקצביות של עורק שניתן להרגיש על פני העור, הנגרמות על ידי כל פעימת לב הדוחפת דם. הוא משקף את קצב הלב ויכול לחשוף מידע על עוצמת פעימות הלב וסדירותן."
+      },
+      "category": "physiology"
+    },
+    {
+      "id": "t05-07",
+      "term": {
+        "en": "Vascular System",
+        "he": "מערכת כלי הדם"
+      },
+      "definition": {
+        "en": "The complete network of blood vessels — arteries, veins, and capillaries — that transport blood throughout the body. In total, this system contains about 100,000 km of vessels and handles approximately 5 liters of blood in constant circulation.",
+        "he": "הרשת המלאה של כלי הדם — עורקים, ורידים ונימים — המובילים דם בכל הגוף. בסך הכל, מערכת זו מכילה כ-100,000 ק\"מ של כלים ומטפלת בכ-5 ליטר דם במחזור מתמשך."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t05-08",
+      "term": {
+        "en": "Venous Valve",
+        "he": "מסתם ורידי"
+      },
+      "definition": {
+        "en": "A one-way flap of tissue inside veins that opens to allow blood to flow toward the heart but closes to prevent backflow. These valves are critical in the legs, where blood must travel upward against gravity.",
+        "he": "תפרחת רקמה חד-כיוונית בתוך ורידים הנפתחת לאפשר לדם לזרום לכיוון הלב אך נסגרת למניעת זרימה לאחור. מסתמים אלה קריטיים ברגליים, שבהן הדם חייב לנסוע כלפי מעלה נגד כוח הכבידה."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t05-09",
+      "term": {
+        "en": "Atherosclerosis",
+        "he": "טרשת עורקים"
+      },
+      "definition": {
+        "en": "A disease in which plaques of fat, cholesterol, calcium, and other substances build up inside artery walls over time, narrowing the vessels and reducing blood flow. It is the leading cause of heart attacks and strokes.",
+        "he": "מחלה שבה לוחות של שומן, כולסטרול, סידן וחומרים אחרים מצטברים בתוך דפנות העורקים לאורך זמן, ומצרים את הכלים ומפחיתים את זרימת הדם. היא הגורם המוביל להתקפי לב ושבץ."
+      },
+      "category": "pathology"
+    },
+    {
+      "id": "t05-10",
+      "term": {
+        "en": "Arteriole",
+        "he": "עורקית"
+      },
+      "definition": {
+        "en": "A small artery that branches from larger arteries and leads to capillaries. Arterioles have muscular walls that can contract or relax to control blood flow and pressure in the capillary beds they supply.",
+        "he": "עורק קטן המסתעף מעורקים גדולים יותר ומוביל לנימים. לעורקיות דפנות שריריות שיכולות להתכווץ או להרפות כדי לשלוט בזרימת הדם ובלחץ בשדות הנימים שהן מספקות."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t05-11",
+      "term": {
+        "en": "Vasoconstriction and Vasodilation",
+        "he": "כיווץ כלי דם והרחבת כלי דם"
+      },
+      "definition": {
+        "en": "Vasoconstriction is the narrowing of blood vessels (reducing blood flow); vasodilation is the widening of blood vessels (increasing blood flow). The body uses these mechanisms to regulate temperature, blood pressure, and the distribution of blood to different organs.",
+        "he": "כיווץ כלי דם הוא הצרת כלי הדם (הפחתת זרימת הדם); הרחבת כלי דם היא הרחבת כלי הדם (הגברת זרימת הדם). הגוף משתמש במנגנונים אלה לוויסות טמפרטורה, לחץ דם וחלוקת הדם לאיברים שונים."
+      },
+      "category": "physiology"
+    },
+    {
+      "id": "t05-12",
+      "term": {
+        "en": "Hypertension (High Blood Pressure)",
+        "he": "יתר לחץ דם (היפרטנשן)"
+      },
+      "definition": {
+        "en": "A chronic condition in which blood pressure is persistently elevated above 130/80 mmHg. It is a major risk factor for heart attack, stroke, and kidney disease, and is often called the 'silent killer' because it typically has no symptoms.",
+        "he": "מצב כרוני שבו לחץ הדם גבוה באופן מתמשך מעל 130/80 mmHg. הוא גורם סיכון עיקרי להתקף לב, שבץ ומחלת כליות, ומכונה לעיתים 'הרוצח השקט' מכיוון שבדרך כלל אין לו תסמינים."
+      },
+      "category": "pathology"
+    },
+    {
+      "id": "t05-13",
+      "term": {
+        "en": "Endothelium",
+        "he": "אנדותל"
+      },
+      "definition": {
+        "en": "The thin layer of cells lining the inside of all blood vessels. The endothelium is not just a passive barrier — it actively regulates blood clotting, inflammation, vascular tone, and the passage of substances between blood and tissues.",
+        "he": "שכבת התאים הדקה המצפה את הצד הפנימי של כל כלי הדם. האנדותל אינו רק מחסום פסיבי — הוא מווסת באופן פעיל קרישת דם, דלקת, טונוס כלי הדם ומעבר חומרים בין הדם לרקמות."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t05-14",
+      "term": {
+        "en": "Portal Circulation",
+        "he": "מחזור דם שערי"
+      },
+      "definition": {
+        "en": "A specialized circulatory loop in which blood from the intestines (carrying absorbed nutrients) flows through the portal vein directly to the liver before entering general circulation — allowing the liver to process nutrients and remove toxins first.",
+        "he": "לולאת מחזור דם מיוחדת שבה דם מהמעיים (הנושא חומרים מזינים שנספגו) זורם דרך ורִיד השער ישירות לכבד לפני שנכנס למחזור הכללי — ומאפשר לכבד לעבד חומרים מזינים ולהסיר רעלים תחילה."
+      },
+      "category": "physiology"
+    },
+    {
+      "id": "t05-15",
+      "term": {
+        "en": "Varicose Veins",
+        "he": "דליות"
+      },
+      "definition": {
+        "en": "Enlarged, twisted veins that typically appear in the legs, caused by weakened or damaged venous valves that allow blood to pool rather than flowing efficiently back to the heart. They are associated with prolonged standing and genetic predisposition.",
+        "he": "ורידים מורחבים ומפותלים המופיעים בדרך כלל ברגליים, הנגרמים על ידי מסתמים ורידיים חלשים או פגועים המאפשרים לדם להצטבר במקום לזרום ביעילות חזרה ללב. הם קשורים לעמידה ממושכת ולנטייה גנטית."
+      },
+      "category": "pathology"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q05-01",
+      "question": {
+        "en": "What type of blood vessel carries blood away from the heart?",
+        "he": "איזה סוג כלי דם מוביל דם מהלב?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Vein",
+            "he": "ורִיד"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Capillary",
+            "he": "נים"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Artery",
+            "he": "עורק"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Lymph vessel",
+            "he": "כלי לימפה"
+          }
+        }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Arteries carry blood away from the heart. The word 'artery' comes from the Greek for 'air-carrier' — ancient physicians thought they carried air. Most arteries carry oxygenated blood, but the pulmonary arteries are an important exception — they carry deoxygenated blood from the heart to the lungs.",
+        "he": "עורקים מובילים דם מהלב. המילה 'עורק' מגיעה מהיוונית ל'נושא אוויר' — רופאים עתיקים חשבו שהם נושאים אוויר. רוב העורקים נושאים דם מחומצן, אך העורקים הריאתיים הם יוצא דופן חשוב — הם נושאים דם דל חמצן מהלב לריאות."
+      }
+    },
+    {
+      "id": "q05-02",
+      "question": {
+        "en": "Where does the exchange of oxygen and nutrients between blood and cells actually occur?",
+        "he": "היכן מתרחש בפועל חילוף החמצן וחומרי המזון בין הדם לתאים?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "In the arteries",
+            "he": "בעורקים"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "In the veins",
+            "he": "בורידים"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "In the capillaries",
+            "he": "בנימים"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "In the heart",
+            "he": "בלב"
+          }
+        }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Capillaries are so thin (just one cell thick) that oxygen, carbon dioxide, nutrients, and waste can pass directly through their walls. Their total surface area in the body is enormous — about 500–700 square meters — making them superbly efficient at exchange.",
+        "he": "הנימים כה דקים (בעובי תא אחד בלבד) עד שחמצן, פחמן דו-חמצני, חומרים מזינים ופסולת יכולים לעבור ישירות דרך דפנותיהם. שטח הפנים הכולל שלהם בגוף עצום — כ-500–700 מטר מרובע — מה שהופך אותם ליעילים מאוד לחילופין."
+      }
+    },
+    {
+      "id": "q05-03",
+      "question": {
+        "en": "What is the approximate total length of all blood vessels in the human body?",
+        "he": "מה האורך הכולל המשוער של כל כלי הדם בגוף האדם?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "100 kilometers",
+            "he": "100 קילומטר"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "1,000 kilometers",
+            "he": "1,000 קילומטר"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "100,000 kilometers",
+            "he": "100,000 קילומטר"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "1 million kilometers",
+            "he": "מיליון קילומטר"
+          }
+        }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "If all blood vessels were laid end to end, they would stretch approximately 100,000 kilometers — enough to circle the Earth about 2.5 times. The vast majority of this length is made up of microscopic capillaries, not arteries or veins.",
+        "he": "אם כל כלי הדם היו מונחים קצה לקצה, הם היו מתמתחים לכ-100,000 קילומטר — מספיק כדי לעגוף את כדור הארץ כ-2.5 פעמים. הרוב המכריע של אורך זה מורכב מנימים מיקרוסקופיים, לא עורקים או ורידים."
+      }
+    },
+    {
+      "id": "q05-04",
+      "question": {
+        "en": "What keeps blood flowing in the correct direction inside veins?",
+        "he": "מה שומר על זרימת הדם בכיוון הנכון בתוך הורידים?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Blood pressure from the heart",
+            "he": "לחץ דם מהלב"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "One-way valves inside the veins",
+            "he": "מסתמים חד-כיווניים בתוך הורידים"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "The thickness of the vein walls",
+            "he": "עובי דפנות הורידים"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Gravity alone",
+            "he": "כוח הכבידה בלבד"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Veins contain one-way valves that open as blood flows toward the heart but snap shut to prevent backflow. When these valves fail (as in varicose veins), blood pools in the veins, causing swelling and discomfort. The squeezing action of surrounding muscles also helps push blood through veins.",
+        "he": "ורידים מכילים מסתמים חד-כיווניים הנפתחים כאשר הדם זורם לכיוון הלב אך נסגרים בחריפות למניעת זרימה לאחור. כאשר מסתמים אלה נכשלים (כמו בדליות), דם מצטבר בורידים, וגורם לנפיחות ואי-נוחות. גם פעולת הסחיטה של השרירים הסמוכים מסייעת לדחוף דם דרך הורידים."
+      }
+    },
+    {
+      "id": "q05-05",
+      "question": {
+        "en": "What is the largest artery in the human body?",
+        "he": "מהו העורק הגדול ביותר בגוף האדם?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Pulmonary artery",
+            "he": "עורק ריאתי"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Carotid artery",
+            "he": "עורק הצוואר"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Aorta",
+            "he": "אאורטה"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Femoral artery",
+            "he": "עורק הירך"
+          }
+        }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "The aorta is the body's largest artery, about 2–3 cm in diameter. It arises directly from the left ventricle and branches into all the major arteries of the body. Each beat of the heart sends a powerful pulse of blood surging through the aorta at high pressure.",
+        "he": "האאורטה היא העורק הגדול ביותר בגוף, בקוטר של כ-2–3 ס\"מ. הוא עולה ישירות מהחדר השמאלי ומסתעף לכל העורקים הראשיים של הגוף. כל פעימת לב שולחת גל חזק של דם דרך האאורטה בלחץ גבוה."
+      }
+    },
+    {
+      "id": "q05-06",
+      "question": {
+        "en": "What disease is caused by fat and cholesterol plaque buildup inside artery walls?",
+        "he": "איזו מחלה נגרמת מהצטברות לוחות שומן וכולסטרול בתוך דפנות העורקים?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Diabetes",
+            "he": "סוכרת"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Atherosclerosis",
+            "he": "טרשת עורקים"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Asthma",
+            "he": "אסתמה"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Anemia",
+            "he": "אנמיה"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Atherosclerosis develops over years as fatty plaques build up inside arterial walls, making them narrower, stiffer, and less elastic. If a plaque ruptures, a blood clot can form and completely block the artery — causing a heart attack (if in a coronary artery) or stroke (if in a brain artery).",
+        "he": "טרשת עורקים מתפתחת לאורך שנים כאשר לוחות שמנים מצטברים בתוך דפנות עורקים, הופכים אותם לצרים, קשים ופחות אלסטיים. אם לוחה נקרעת, קריש דם יכול להיווצר ולחסום את העורק לחלוטין — וגורם להתקף לב (אם בעורק כלילי) או שבץ (אם בעורק מוחי)."
+      }
+    },
+    {
+      "id": "q05-07",
+      "question": {
+        "en": "What does a normal blood pressure reading of 120/80 mmHg mean?",
+        "he": "מה משמעות קריאת לחץ דם תקינה של 120/80 mmHg?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "120 is the heart rate and 80 is the oxygen level",
+            "he": "120 הוא קצב הלב ו-80 הוא רמת החמצן"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "120 is systolic pressure (heart contracting) and 80 is diastolic pressure (heart relaxing)",
+            "he": "120 הוא לחץ סיסטולי (לב מתכווץ) ו-80 הוא לחץ דיאסטולי (לב מרפה)"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Both numbers represent the left and right sides of the heart",
+            "he": "שני המספרים מייצגים את הצדדים השמאלי והימני של הלב"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "120 is the arterial pressure and 80 is the venous pressure",
+            "he": "120 הוא הלחץ העורקי ו-80 הוא הלחץ הוורידי"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The top number (systolic, ~120) is the peak pressure when the heart contracts and pushes blood out. The bottom number (diastolic, ~80) is the pressure between beats when the heart relaxes. Values consistently above 130/80 indicate hypertension, a significant risk factor for cardiovascular disease.",
+        "he": "המספר העליון (סיסטולי, ~120) הוא הלחץ השיאי כאשר הלב מתכווץ ודוחף דם החוצה. המספר התחתון (דיאסטולי, ~80) הוא הלחץ בין פעימות כאשר הלב מרפה. ערכים מעל 130/80 באופן עקבי מעידים על יתר לחץ דם, גורם סיכון משמעותי למחלות לב וכלי דם."
+      }
+    },
+    {
+      "id": "q05-08",
+      "question": {
+        "en": "Why do arteries have thicker walls than veins?",
+        "he": "מדוע לעורקים יש דפנות עבות יותר מאשר לורידים?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Because arteries carry more types of blood cells",
+            "he": "מפני שעורקים נושאים יותר סוגים של תאי דם"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Because arteries carry blood under high pressure from the heart",
+            "he": "מפני שעורקים נושאים דם תחת לחץ גבוה מהלב"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Because arteries are older and more worn",
+            "he": "מפני שעורקים ישנים יותר ובלויים יותר"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Because arteries must filter blood",
+            "he": "מפני שעורקים חייבים לסנן דם"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Arteries carry blood at high pressure directly from the pumping heart, so their walls must be thick and muscular to withstand and smooth out the pulsatile pressure surges. Veins carry blood at much lower pressure and rely on valves and muscle squeezing rather than wall thickness.",
+        "he": "עורקים נושאים דם בלחץ גבוה ישירות מהלב השואב, ולכן דפנותיהם חייבות להיות עבות ושריריות כדי לעמוד בפני גלי הלחץ הפולסטיליים ולהחלקם. ורידים נושאים דם בלחץ נמוך בהרבה ומסתמכים על מסתמים וסחיטת שרירים ולא על עובי דפנות."
+      }
+    },
+    {
+      "id": "q05-09",
+      "question": {
+        "en": "What happens to blood flow in skin blood vessels when the body becomes too hot?",
+        "he": "מה קורה לזרימת הדם בכלי הדם של העור כאשר הגוף מתחמם יתר על המידה?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Blood vessels constrict to conserve heat",
+            "he": "כלי הדם מתכווצים כדי לשמר חום"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Blood vessels dilate to release heat through the skin",
+            "he": "כלי הדם מתרחבים כדי לשחרר חום דרך העור"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Blood flow to the skin stops completely",
+            "he": "זרימת הדם לעור נעצרת לחלוטין"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Skin blood vessels begin producing sweat",
+            "he": "כלי הדם בעור מתחילים לייצר זיעה"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "When the body overheats, skin blood vessels dilate (vasodilation), bringing more warm blood to the surface where heat can radiate away into the environment. This is why skin flushes red when you are hot. Conversely, in cold conditions, vessels constrict (vasoconstriction) to reduce heat loss, which is why skin looks pale in the cold.",
+        "he": "כאשר הגוף מתחמם יתר על המידה, כלי הדם בעור מתרחבים (הרחבת כלי דם), ומביאים יותר דם חמים לפני השטח שבו חום יכול להקרין לסביבה. זו הסיבה שהעור מסמיק כאשר חם. לעומת זאת, בתנאים קרים, הכלים מתכווצים (כיווץ כלי דם) כדי להפחית אובדן חום, וזו הסיבה שהעור נראה חיוור בקור."
+      }
+    },
+    {
+      "id": "q05-10",
+      "question": {
+        "en": "What is the role of arterioles in the circulatory system?",
+        "he": "מה תפקיד העורקיות במערכת הדם?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "They filter waste from the blood",
+            "he": "הן מסננות פסולת מהדם"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "They regulate blood flow and pressure into capillary beds",
+            "he": "הן מווסתות זרימת דם ולחץ לתוך שדות הנימים"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "They only exist in the lungs",
+            "he": "הן קיימות רק בריאות"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "They absorb nutrients from the intestines",
+            "he": "הן סופגות חומרים מזינים מהמעיים"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Arterioles are the smallest arteries and serve as the 'faucets' of the circulatory system. By contracting or relaxing their muscular walls, they can adjust how much blood flows into the capillary beds they supply — increasing flow to active muscles during exercise, for example, while reducing it to less active organs.",
+        "he": "עורקיות הן העורקים הקטנים ביותר ומשמשות כ'ברזים' של מערכת הדם. על ידי כיווץ או הרפיית דפנותיהן השריריות, הן יכולות לכוון כמה דם זורם לתוך שדות הנימים שהן מספקות — להגביר זרימה לשרירים פעילים במהלך פעילות גופנית, למשל, תוך הפחתתה לאיברים פחות פעילים."
+      }
+    }
+  ],
+  "videoSources": [
+    "hpHF_VeNGmI",
+    "752LMBRCQoY"
+  ]
+}

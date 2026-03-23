@@ -1,0 +1,629 @@
+{
+  "id": "01-the-cell",
+  "episodeNumber": 1,
+  "youtubeId": "OoXE0pypuuQ",
+  "title": {
+    "en": "The Cell",
+    "he": "התא"
+  },
+  "summary": {
+    "en": "This episode introduces the cell as the fundamental building block of all living things, from the simplest bacteria to the complex human body. Viewers learn that every organ and tissue is made up of billions of specialized cells, each perfectly suited to its role — from the elongated nerve cells that carry signals across the body to the disc-shaped red blood cells that transport oxygen. The episode explores the main organelles of a cell: the nucleus as the control center housing DNA, the mitochondria as energy-producing powerhouses, ribosomes that manufacture proteins, and the cell membrane that carefully regulates what enters and exits. It explains how cells reproduce through division, ensuring the body can grow and repair itself continuously. Understanding the cell is key to understanding virtually all of biology, because every disease, development process, and bodily function ultimately comes down to what happens inside these microscopic units of life.",
+    "he": "פרק זה מציג את התא כאבן הבניין הבסיסית של כל היצורים החיים, מהחיידק הפשוט ביותר ועד לגוף האדם המורכב. הצופים לומדים שכל איבר ורקמה בגוף בנויים ממיליארדי תאים מתמחים, שכל אחד מהם מותאם לתפקידו בצורה מושלמת — מתאי העצב המוארכים המעבירים אותות בכל הגוף ועד לכדוריות הדם האדומות הדיסקיות המובילות חמצן. הפרק בוחן את האברונים העיקריים של התא: הגרעין כמרכז שליטה המכיל את ה-DNA, המיטוכונדריה כתחנות כוח לייצור אנרגיה, הריבוזומים המייצרים חלבונים, וממברנת התא השולטת בקפידה במה שנכנס ויוצא. הוא מסביר כיצד תאים מתרבים דרך חלוקה, ומאפשרים לגוף לגדול ולתקן את עצמו ברציפות. הבנת התא היא המפתח להבנת הביולוגיה כמעט כולה, שכן כל מחלה, תהליך התפתחות ותפקוד גופני מגיעים בסופו של דבר לאירועים המתרחשים בתוך יחידות החיים המיקרוסקופיות הללו."
+  },
+  "thumbnail": "https://img.youtube.com/vi/OoXE0pypuuQ/maxresdefault.jpg",
+  "durationMinutes": 25,
+  "topics": [
+    "cell biology",
+    "cell structure",
+    "cell division",
+    "human body basics"
+  ],
+  "terminology": [
+    {
+      "id": "t01-01",
+      "term": {
+        "en": "Cell",
+        "he": "תא"
+      },
+      "definition": {
+        "en": "The smallest structural and functional unit of a living organism, capable of performing all basic life processes independently. Every living thing is made of one or more cells, and all cells come from pre-existing cells through division.",
+        "he": "היחידה המבנית והתפקודית הקטנה ביותר של אורגניזם חי, המסוגלת לבצע את כל תהליכי החיים הבסיסיים באופן עצמאי. כל יצור חי מורכב מתא אחד או יותר, וכל התאים נובעים מתאים קיימים דרך חלוקה."
+      },
+      "category": "structure"
+    },
+    {
+      "id": "t01-02",
+      "term": {
+        "en": "Nucleus",
+        "he": "גרעין התא"
+      },
+      "definition": {
+        "en": "The control center of the cell, containing the DNA organized into chromosomes. It directs the cell's activities, controls protein production, and coordinates reproduction — essentially acting as the cell's 'brain'.",
+        "he": "מרכז השליטה של התא, המכיל את ה-DNA המאורגן לכרומוזומים. הוא מכוון את פעילויות התא, שולט בייצור חלבונים ומתאם את הרבייה — ובעצם משמש כ'מוח' של התא."
+      },
+      "category": "structure"
+    },
+    {
+      "id": "t01-03",
+      "term": {
+        "en": "Cell Membrane",
+        "he": "ממברנת התא"
+      },
+      "definition": {
+        "en": "A thin, flexible double layer of lipids and proteins surrounding the cell that acts as a selective barrier. It controls which substances can enter and exit the cell, maintaining the chemical balance necessary for life.",
+        "he": "שכבה כפולה דקה וגמישה של שומנים וחלבונים המקיפה את התא ופועלת כמחסום סלקטיבי. היא שולטת אילו חומרים יכולים להיכנס ולצאת מהתא, ושומרת על האיזון הכימי הדרוש לחיים."
+      },
+      "category": "structure"
+    },
+    {
+      "id": "t01-04",
+      "term": {
+        "en": "Cytoplasm",
+        "he": "ציטופלזמה"
+      },
+      "definition": {
+        "en": "The jelly-like fluid filling the cell between the nucleus and the membrane, where many chemical reactions take place. It suspends the cell's organelles and provides the medium in which molecules move and interact.",
+        "he": "הנוזל הג'לטיני הממלא את התא בין הגרעין לממברנה, שבו מתרחשות תגובות כימיות רבות. הוא מרחף את אברוני התא ומספק את המדיום שבו מולקולות נעות ומתקיימות ביניהן."
+      },
+      "category": "structure"
+    },
+    {
+      "id": "t01-05",
+      "term": {
+        "en": "DNA",
+        "he": "DNA"
+      },
+      "definition": {
+        "en": "Deoxyribonucleic acid — the double-helix molecule carrying the genetic instructions for development, functioning, and reproduction of all living organisms. Stretched out, the DNA in a single human cell would be about 2 meters long.",
+        "he": "חומצה דאוקסיריבונוקלאית — מולקולת הסליל הכפול הנושאת את ההוראות הגנטיות להתפתחות, תפקוד ורבייה של כל האורגניזמים החיים. אם מותחים אותו, ה-DNA בתא אנושי בודד יהיה ארוך כ-2 מטרים."
+      },
+      "category": "genetics"
+    },
+    {
+      "id": "t01-06",
+      "term": {
+        "en": "Mitochondria",
+        "he": "מיטוכונדריה"
+      },
+      "definition": {
+        "en": "Organelles found in the cytoplasm that produce energy for the cell by converting nutrients and oxygen into ATP through cellular respiration. They have their own DNA and are thought to have originated as ancient bacteria that were incorporated into cells.",
+        "he": "אברונים הנמצאים בציטופלזמה ומייצרים אנרגיה לתא על ידי המרת חומרי מזון וחמצן ל-ATP דרך נשימה תאית. יש להם DNA משלהם ומניחים שמקורם בחיידקים עתיקים שנקלטו לתוך תאים."
+      },
+      "category": "organelle"
+    },
+    {
+      "id": "t01-07",
+      "term": {
+        "en": "Cell Division",
+        "he": "חלוקת תאים"
+      },
+      "definition": {
+        "en": "The process by which a parent cell divides into two or more daughter cells, enabling growth, tissue repair, and reproduction. In mitosis, both daughter cells receive an identical copy of all chromosomes.",
+        "he": "התהליך שבו תא אם מתחלק לשניים או יותר תאי בת, המאפשר צמיחה, תיקון רקמות ורבייה. במיטוזה, שני תאי הבת מקבלים עותק זהה של כל הכרומוזומים."
+      },
+      "category": "process"
+    },
+    {
+      "id": "t01-08",
+      "term": {
+        "en": "Chromosome",
+        "he": "כרומוזום"
+      },
+      "definition": {
+        "en": "A tightly coiled thread-like structure of DNA and proteins found in the nucleus, carrying genetic information. Normal human cells contain 46 chromosomes arranged in 23 pairs — one chromosome of each pair from each parent.",
+        "he": "מבנה דמוי חוט מקופל של DNA וחלבונים הנמצא בגרעין, הנושא מידע גנטי. תאים אנושיים תקינים מכילים 46 כרומוזומים המסודרים ב-23 זוגות — כרומוזום אחד מכל זוג מכל הורה."
+      },
+      "category": "genetics"
+    },
+    {
+      "id": "t01-09",
+      "term": {
+        "en": "Ribosome",
+        "he": "ריבוזום"
+      },
+      "definition": {
+        "en": "Tiny organelles in the cell responsible for synthesizing proteins according to instructions from DNA. They can be found floating freely in the cytoplasm or attached to the endoplasmic reticulum, and every cell contains thousands of them.",
+        "he": "אברונים זעירים בתא האחראים לסינתזה של חלבונים לפי הוראות מה-DNA. ניתן למצוא אותם צפים חופשית בציטופלזמה או מחוברים לרשת האנדופלזמית, וכל תא מכיל אלפים מהם."
+      },
+      "category": "organelle"
+    },
+    {
+      "id": "t01-10",
+      "term": {
+        "en": "Tissue",
+        "he": "רקמה"
+      },
+      "definition": {
+        "en": "A group of similar, specialized cells that work together to perform a specific function in the body. The four main tissue types are epithelial, connective, muscle, and nervous tissue.",
+        "he": "קבוצת תאים דומים ומתמחים הפועלים יחד לביצוע תפקוד ספציפי בגוף. ארבעת סוגי הרקמה העיקריים הם רקמה אפיתלית, חיבורית, שרירית ועצבית."
+      },
+      "category": "organization"
+    },
+    {
+      "id": "t01-11",
+      "term": {
+        "en": "Endoplasmic Reticulum (ER)",
+        "he": "רשת האנדופלזמה"
+      },
+      "definition": {
+        "en": "A network of membranes inside the cell that transports proteins and lipids. The rough ER (studded with ribosomes) produces proteins; the smooth ER synthesizes lipids and detoxifies certain chemicals.",
+        "he": "רשת של ממברנות בתוך התא המובילה חלבונים ושומנים. ה-ER המחוספס (מכוסה ריבוזומים) מייצר חלבונים; ה-ER החלק מסנתז שומנים ומנטרל כימיקלים מסוימים."
+      },
+      "category": "organelle"
+    },
+    {
+      "id": "t01-12",
+      "term": {
+        "en": "ATP (Adenosine Triphosphate)",
+        "he": "ATP (אדנוזין טריפוספט)"
+      },
+      "definition": {
+        "en": "The primary energy currency of the cell, produced mainly by the mitochondria. When a cell needs energy, it breaks one phosphate bond in ATP, releasing energy for muscle contraction, protein synthesis, and all other cellular work.",
+        "he": "מטבע האנרגיה העיקרי של התא, המיוצר בעיקר על ידי המיטוכונדריה. כאשר תא זקוק לאנרגיה, הוא שובר קשר פוספט אחד ב-ATP ומשחרר אנרגיה להתכווצות שריר, סינתזת חלבונים וכל עבודה תאית אחרת."
+      },
+      "category": "biochemistry"
+    },
+    {
+      "id": "t01-13",
+      "term": {
+        "en": "Golgi Apparatus",
+        "he": "מנגנון גולג'י"
+      },
+      "definition": {
+        "en": "An organelle that acts as the cell's postal system — it receives proteins from the endoplasmic reticulum, modifies, packages, and dispatches them to their correct destination inside or outside the cell.",
+        "he": "אברון הפועל כמערכת הדואר של התא — הוא מקבל חלבונים מהרשת האנדופלזמית, משנה, אורז ושולח אותם ליעדם הנכון בתוך התא או מחוצה לו."
+      },
+      "category": "organelle"
+    },
+    {
+      "id": "t01-14",
+      "term": {
+        "en": "Cell Specialization (Differentiation)",
+        "he": "התמחות תאים (התמיינות)"
+      },
+      "definition": {
+        "en": "The process by which a cell develops from a generic stem cell into a cell with a specific structure and function, such as a neuron, muscle cell, or red blood cell. All specialized cells contain the same DNA but express different genes.",
+        "he": "התהליך שבו תא מתפתח מתא גזע כללי לתא בעל מבנה ותפקוד ספציפיים, כגון נוירון, תא שריר או כדורית דם אדומה. כל התאים המתמחים מכילים אותו DNA אך מבטאים גנים שונים."
+      },
+      "category": "process"
+    },
+    {
+      "id": "t01-15",
+      "term": {
+        "en": "Lysosome",
+        "he": "ליזוזום"
+      },
+      "definition": {
+        "en": "A membrane-bound organelle containing digestive enzymes that break down waste materials, damaged organelles, and foreign particles inside the cell. Lysosomes act as the cell's recycling and waste-disposal system.",
+        "he": "אברון מוקף ממברנה המכיל אנזימים עיכוליים המפרקים חומרי פסולת, אברונים פגועים וחלקיקים זרים בתוך התא. ליזוזומים פועלים כמערכת המחזור וסילוק הפסולת של התא."
+      },
+      "category": "organelle"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q01-01",
+      "question": {
+        "en": "What is the control center of the cell, containing its genetic material?",
+        "he": "מהו מרכז השליטה של התא, המכיל את חומר הגנטי שלו?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Cell membrane",
+            "he": "ממברנת התא"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Cytoplasm",
+            "he": "ציטופלזמה"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Nucleus",
+            "he": "גרעין התא"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Mitochondria",
+            "he": "מיטוכונדריה"
+          }
+        }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "The nucleus is the control center of the cell. It contains DNA organized into chromosomes, and it directs all cell activities including reproduction. It is surrounded by a double-layered nuclear membrane with pores for communication with the cytoplasm.",
+        "he": "הגרעין הוא מרכז השליטה של התא. הוא מכיל DNA המאורגן לכרומוזומים, ומכוון את כל פעילויות התא כולל רבייה. הוא מוקף בממברנה גרעינית בת שתי שכבות עם נקבוביות לתקשורת עם הציטופלזמה."
+      }
+    },
+    {
+      "id": "q01-02",
+      "question": {
+        "en": "Approximately how many cells does the human body contain?",
+        "he": "כמה תאים בערך מכיל גוף האדם?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "1 million",
+            "he": "מיליון אחד"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "1 billion",
+            "he": "מיליארד אחד"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "37 trillion",
+            "he": "37 טריליון"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "100 thousand",
+            "he": "100 אלף"
+          }
+        }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "The human body contains approximately 37 trillion cells. Each of these cells has a specialized role depending on where it is found in the body — and astonishingly, many are replaced constantly throughout your lifetime.",
+        "he": "גוף האדם מכיל כ-37 טריליון תאים. לכל אחד מהתאים הללו תפקיד מתמחה בהתאם למיקומו בגוף — ומפתיע לדעת שרבים מהם מוחלפים ברציפות לאורך חייך."
+      }
+    },
+    {
+      "id": "q01-03",
+      "question": {
+        "en": "Which organelle is responsible for producing energy in the cell?",
+        "he": "איזה אברון אחראי לייצור אנרגיה בתא?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Ribosome",
+            "he": "ריבוזום"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Mitochondria",
+            "he": "מיטוכונדריה"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Cell membrane",
+            "he": "ממברנת התא"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Chromosome",
+            "he": "כרומוזום"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Mitochondria are known as the 'powerhouse of the cell' because they convert nutrients and oxygen into ATP, the energy currency used by the cell. Cells that need a lot of energy — like muscle and heart cells — contain thousands of mitochondria.",
+        "he": "המיטוכונדריה ידועה כ'תחנת הכוח של התא' מכיוון שהיא ממירה חומרי מזון וחמצן ל-ATP, מטבע האנרגיה שהתא משתמש בו. תאים הזקוקים להרבה אנרגיה — כמו תאי שריר ולב — מכילים אלפי מיטוכונדריות."
+      }
+    },
+    {
+      "id": "q01-04",
+      "question": {
+        "en": "What is the function of the cell membrane?",
+        "he": "מה תפקידה של ממברנת התא?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "To produce proteins",
+            "he": "לייצר חלבונים"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "To store DNA",
+            "he": "לאחסן DNA"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "To control what enters and exits the cell",
+            "he": "לשלוט במה שנכנס ויוצא מהתא"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "To generate energy",
+            "he": "לייצר אנרגיה"
+          }
+        }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "The cell membrane acts as a selective barrier, controlling which substances can pass into and out of the cell. It is made of a lipid bilayer studded with proteins that act as channels and receptors, maintaining the cell's internal environment.",
+        "he": "ממברנת התא פועלת כמחסום סלקטיבי, השולט אילו חומרים יכולים לעבור לתוך התא וממנו. היא עשויה משכבה כפולה של שומנים עם חלבונים הפועלים כתעלות וקולטנים, ושומרת על הסביבה הפנימית של התא."
+      }
+    },
+    {
+      "id": "q01-05",
+      "question": {
+        "en": "What molecule carries the genetic instructions inside the cell nucleus?",
+        "he": "איזו מולקולה נושאת את ההוראות הגנטיות בתוך גרעין התא?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "ATP",
+            "he": "ATP"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Protein",
+            "he": "חלבון"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "DNA",
+            "he": "DNA"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Glucose",
+            "he": "גלוקוז"
+          }
+        }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "DNA (deoxyribonucleic acid) is the molecule that contains the genetic blueprint for every living organism. It is organized into chromosomes inside the cell nucleus, and its sequence of bases codes for every protein the cell can make.",
+        "he": "DNA (חומצה דאוקסיריבונוקלאית) היא המולקולה המכילה את התוכנית הגנטית של כל יצור חי. היא מאורגנת לכרומוזומים בתוך גרעין התא, ורצף הבסיסים שלה מקודד כל חלבון שהתא יכול לייצר."
+      }
+    },
+    {
+      "id": "q01-06",
+      "question": {
+        "en": "How many chromosomes does a normal human cell contain?",
+        "he": "כמה כרומוזומים מכיל תא אנושי תקין?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "23",
+            "he": "23"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "46",
+            "he": "46"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "64",
+            "he": "64"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "12",
+            "he": "12"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "A normal human body cell contains 46 chromosomes arranged in 23 pairs. One chromosome in each pair comes from the mother and one from the father. Sex cells (sperm and egg) are the exception — they carry only 23 chromosomes each.",
+        "he": "תא גוף אנושי תקין מכיל 46 כרומוזומים המסודרים ב-23 זוגות. כרומוזום אחד בכל זוג מגיע מהאם ואחד מהאב. תאי המין (זרע וביצית) הם היוצא מן הכלל — הם נושאים רק 23 כרומוזומים כל אחד."
+      }
+    },
+    {
+      "id": "q01-07",
+      "question": {
+        "en": "What is the role of ribosomes in the cell?",
+        "he": "מה תפקידם של הריבוזומים בתא?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "They produce ATP energy",
+            "he": "הם מייצרים אנרגיה מסוג ATP"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "They synthesize proteins from amino acids",
+            "he": "הם מסנתזים חלבונים מחומצות אמינו"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "They store genetic material",
+            "he": "הם מאחסנים חומר גנטי"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "They break down old cell components",
+            "he": "הם מפרקים רכיבי תא ישנים"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Ribosomes read the instructions coded in messenger RNA (copied from DNA) and assemble amino acids in the correct order to build proteins. Proteins carry out nearly every function in the body, from structural support to chemical catalysis.",
+        "he": "ריבוזומים קוראים את ההוראות המקודדות ב-RNA שליח (שהועתק מ-DNA) ומרכיבים חומצות אמינו בסדר הנכון לבניית חלבונים. חלבונים מבצעים כמעט כל תפקיד בגוף, מתמיכה מבנית ועד זירוז כימי."
+      }
+    },
+    {
+      "id": "q01-08",
+      "question": {
+        "en": "Why do muscle cells contain more mitochondria than skin cells?",
+        "he": "מדוע תאי שריר מכילים יותר מיטוכונדריות מתאי עור?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Because muscle cells are larger",
+            "he": "מפני שתאי שריר גדולים יותר"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Because muscle cells require more energy for contraction",
+            "he": "מפני שתאי שריר דורשים יותר אנרגיה להתכווצות"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Because muscle cells have no nucleus",
+            "he": "מפני שלתאי שריר אין גרעין"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Because skin cells produce their own glucose",
+            "he": "מפני שתאי עור מייצרים גלוקוז בעצמם"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The number of mitochondria in a cell reflects its energy demands. Muscle cells contract repeatedly and need large amounts of ATP, so they are packed with mitochondria. This demonstrates how cell structure is always matched to function.",
+        "he": "מספר המיטוכונדריות בתא משקף את דרישות האנרגיה שלו. תאי שריר מתכווצים שוב ושוב וזקוקים לכמויות גדולות של ATP, ולכן הם עמוסים במיטוכונדריות. זה ממחיש כיצד מבנה התא תמיד תואם את תפקודו."
+      }
+    },
+    {
+      "id": "q01-09",
+      "question": {
+        "en": "What happens when a cell's DNA is damaged and cannot be repaired?",
+        "he": "מה קורה כאשר ה-DNA של תא ניזוק ואינו ניתן לתיקון?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "The cell immediately explodes",
+            "he": "התא מתפוצץ מיידית"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "The cell may undergo programmed self-destruction (apoptosis)",
+            "he": "התא עשוי לעבור הרס-עצמי מתוכנת (אפופטוזה)"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "The cell multiplies uncontrollably forever",
+            "he": "התא מתרבה ללא שליטה לנצח"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "The nucleus dissolves into the cytoplasm",
+            "he": "הגרעין מתמוסס לתוך הציטופלזמה"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Apoptosis is the cell's built-in self-destruct mechanism — it is triggered when DNA damage is too severe to repair. This process is vital to prevent damaged cells from multiplying and potentially becoming cancerous. Cancer arises partly when apoptosis fails to work correctly.",
+        "he": "אפופטוזה היא מנגנון ההרס-העצמי המובנה של התא — הוא מופעל כאשר נזק ה-DNA חמור מכדי לתיקון. תהליך זה חיוני למניעת התרבות תאים פגועים שעלולים להפוך לסרטניים. סרטן נוצר בחלקו כאשר האפופטוזה אינה פועלת כהלכה."
+      }
+    },
+    {
+      "id": "q01-10",
+      "question": {
+        "en": "What is the Golgi apparatus responsible for?",
+        "he": "על מה אחראי מנגנון גולג'י?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Producing energy from glucose",
+            "he": "ייצור אנרגיה מגלוקוז"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Packaging and shipping proteins to their destination",
+            "he": "אריזה ומשלוח חלבונים ליעדם"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Copying DNA before cell division",
+            "he": "העתקת DNA לפני חלוקת תא"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Storing chromosomes between divisions",
+            "he": "אחסון כרומוזומים בין חלוקות"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The Golgi apparatus receives newly made proteins from the endoplasmic reticulum, sorts and chemically modifies them, then packages them into vesicles and sends them to the right location — either within the cell or secreted outside it.",
+        "he": "מנגנון גולג'י מקבל חלבונים חדשים שנוצרו מהרשת האנדופלזמית, ממיין ומשנה אותם כימית, ואז אורז אותם לשלפוחיות ושולח אותם למיקום הנכון — בין אם בתוך התא ובין אם לפנים שמחוצה לו."
+      }
+    }
+  ],
+  "videoSources": [
+    "OoXE0pypuuQ",
+    "yoUvQQD3h0c"
+  ]
+}

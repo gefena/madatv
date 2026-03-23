@@ -1,0 +1,630 @@
+{
+  "id": "11-the-eye",
+  "episodeNumber": 11,
+  "youtubeId": "7g67QCitGic",
+  "title": {
+    "en": "The Eye",
+    "he": "העין"
+  },
+  "summary": {
+    "en": "This episode examines the human eye and the remarkable process of vision. It traces the path of light from entering the eye through the cornea and lens, which focus an image onto the retina at the back of the eye. The episode explains how the retina's photoreceptor cells — rods for low-light vision and cones for color — convert light into electrical signals that travel via the optic nerve to the brain's visual cortex. It also covers the pupil's role in controlling light intake, the mechanism of accommodation that allows the lens to focus at different distances, and common vision conditions such as nearsightedness and farsightedness. The episode further explores the blind spot where the optic nerve exits the eye, the remarkable way the brain fills in this gap, and how the two eyes working together create stereoscopic depth perception.",
+    "he": "פרק זה בוחן את העין האנושית ואת התהליך המרהיב של הראייה. הוא עוקב אחרי מסלול האור מכניסתו לעין דרך הקרנית ועדשת העין, המקדמים תמונה על הרשתית בגב העין. הפרק מסביר כיצד תאי הפוטורצפטור של הרשתית — מוטות לראייה בתאורה חלשה ונצרנים לצבע — ממירים אור לאותות חשמליים הנוסעים דרך עצב הראייה לקורטקס הוויזואלי של המוח. הוא גם סוקר את תפקיד האישון בשליטה בקלט האור, מנגנון ההתאמה המאפשר לעדשה להתמקד במרחקים שונים, ומצבי ראייה נפוצים כגון קוצר ראייה ורוחק ראייה. הפרק בוחן עוד את הנקודה העיוורת שבה עצב הראייה יוצא מהעין, הדרך המרהיבה שבה המוח ממלא פער זה, וכיצד שתי העיניים הפועלות יחד יוצרות תפיסת עומק סטריאוסקופית."
+  },
+  "thumbnail": "https://img.youtube.com/vi/7g67QCitGic/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": [
+    "vision",
+    "eye anatomy",
+    "retina",
+    "light perception",
+    "optics"
+  ],
+  "terminology": [
+    {
+      "id": "t11-01",
+      "term": {
+        "en": "Cornea",
+        "he": "קרנית"
+      },
+      "definition": {
+        "en": "The clear, dome-shaped outer surface of the eye that refracts light as it enters. The cornea provides about 70% of the eye's total focusing power; it is transparent because it has no blood vessels, receiving nutrients instead from the aqueous humor and tear film.",
+        "he": "המשטח החיצוני השקוף בצורת כיפה של העין שבוגד את האור בכניסתו. הקרנית מספקת כ-70% מכוח ההתמקדות הכולל של העין; היא שקופה מכיוון שאין לה כלי דם, ומקבלת חומרי מזון במקום מהומור המימי ומסרט הדמעות."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t11-02",
+      "term": {
+        "en": "Lens",
+        "he": "עדשת העין"
+      },
+      "definition": {
+        "en": "A flexible, transparent structure behind the iris that fine-focuses light onto the retina by changing shape. The lens is controlled by the ciliary muscles; when they contract, the lens becomes rounder to focus on nearby objects, and when they relax, it flattens to focus on distant objects.",
+        "he": "מבנה גמיש ושקוף מאחורי קשתית העין המתמקד באופן עדין על האור על הרשתית על ידי שינוי צורה. העדשה נשלטת על ידי שרירי הריסים; כאשר הם מתכווצים, העדשה הופכת לעגולה יותר כדי להתמקד בעצמים קרובים, וכאשר הם מרפים, היא מתשטחת כדי להתמקד בעצמים רחוקים."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t11-03",
+      "term": {
+        "en": "Retina",
+        "he": "רשתית"
+      },
+      "definition": {
+        "en": "The light-sensitive layer lining the back of the eye, containing rod and cone photoreceptor cells. The retina is effectively an extension of the brain — it processes visual information before sending it along the optic nerve, performing significant computation before signals even reach the visual cortex.",
+        "he": "השכבה הרגישה לאור המצפה את גב העין, המכילה תאי פוטורצפטור מסוג מוטות ונצרנים. הרשתית היא למעשה הרחבה של המוח — היא מעבדת מידע ויזואלי לפני שליחתו לאורך עצב הראייה, ומבצעת עיבוד משמעותי לפני שהאותות אפילו מגיעים לקורטקס הוויזואלי."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t11-04",
+      "term": {
+        "en": "Pupil",
+        "he": "אישון"
+      },
+      "definition": {
+        "en": "The adjustable opening in the center of the iris that controls how much light enters the eye. The pupil can range from about 1.5 mm in bright light to 8 mm in darkness; this 30-fold change in area allows the eye to function across an enormous range of light intensities.",
+        "he": "הפתח המתכוונן במרכז קשתית העין השולט בכמות האור הנכנסת לעין. האישון יכול לנוע מכ-1.5 מ\"מ באור בהיר ל-8 מ\"מ בחושך; שינוי פי-30 זה בשטח מאפשר לעין לתפקד על פני טווח עצום של עוצמות אור."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t11-05",
+      "term": {
+        "en": "Iris",
+        "he": "קשתית"
+      },
+      "definition": {
+        "en": "The colored part of the eye containing muscles that control the size of the pupil. Iris color is determined by the amount and type of pigment (melanin) present; more melanin produces brown eyes, less produces blue or green eyes.",
+        "he": "החלק הצבעוני של העין המכיל שרירים השולטים בגודל האישון. צבע הקשתית נקבע על ידי הכמות וסוג הפיגמנט (מלנין) הנוכח; יותר מלנין מייצר עיניים חומות, פחות מייצר עיניים כחולות או ירוקות."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t11-06",
+      "term": {
+        "en": "Rod Cells",
+        "he": "תאי מוט"
+      },
+      "definition": {
+        "en": "Photoreceptor cells in the retina that detect low-light levels and are responsible for black-and-white, peripheral, and night vision. The human retina contains about 120 million rod cells; they are extremely sensitive, capable of detecting a single photon of light.",
+        "he": "תאי פוטורצפטור ברשתית המזהים רמות אור נמוכות ואחראים לראייה בשחור-לבן, ראייה פריפרית וראייה לילית. הרשתית האנושית מכילה כ-120 מיליון תאי מוט; הם רגישים ביותר, מסוגלים לזהות פוטון אור בודד."
+      },
+      "category": "cell biology"
+    },
+    {
+      "id": "t11-07",
+      "term": {
+        "en": "Cone Cells",
+        "he": "תאי נצרן"
+      },
+      "definition": {
+        "en": "Photoreceptor cells in the retina that detect color and fine detail, requiring bright light to function. There are three types of cones sensitive to red, green, and blue wavelengths; the brain combines their outputs to produce the full range of perceived colors.",
+        "he": "תאי פוטורצפטור ברשתית המזהים צבע ופרטים עדינים, הדורשים אור בהיר כדי לתפקד. יש שלושה סוגים של נצרנים הרגישים לאורכי גל אדום, ירוק וכחול; המוח משלב את פלטיהם לייצור מלוא מגוון הצבעים הנתפסים."
+      },
+      "category": "cell biology"
+    },
+    {
+      "id": "t11-08",
+      "term": {
+        "en": "Optic Nerve",
+        "he": "עצב הראייה"
+      },
+      "definition": {
+        "en": "The nerve that carries visual signals from the retina to the brain's visual processing areas. It is composed of about 1.2 million nerve fibers and exits from the back of each eye; the point of exit creates the blind spot — a small region with no photoreceptors.",
+        "he": "העצב המעביר אותות ויזואליים מהרשתית לאזורי עיבוד הראייה של המוח. הוא מורכב מכ-1.2 מיליון סיבי עצב ויוצא מגב כל עין; נקודת היציאה יוצרת את הנקודה העיוורת — אזור קטן ללא פוטורצפטורים."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t11-09",
+      "term": {
+        "en": "Accommodation",
+        "he": "התאמה (אקומודציה)"
+      },
+      "definition": {
+        "en": "The process by which the lens changes its shape to focus on objects at different distances. Accommodation is controlled by the ciliary muscles; its range diminishes with age (presbyopia) as the lens gradually becomes less flexible.",
+        "he": "התהליך שבו עדשת העין משנה את צורתה כדי להתמקד בעצמים במרחקים שונים. ההתאמה נשלטת על ידי שרירי הריסים; טווחה פוחת עם הגיל (פרסביופיה) כאשר העדשה הופכת בהדרגה לגמישה פחות."
+      },
+      "category": "physiology"
+    },
+    {
+      "id": "t11-10",
+      "term": {
+        "en": "Myopia (Nearsightedness)",
+        "he": "קוצר ראייה (מיופיה)"
+      },
+      "definition": {
+        "en": "A common vision condition in which nearby objects are seen clearly but distant objects appear blurry. Myopia occurs when the eyeball is too long, causing light to focus in front of the retina; it is corrected by concave (diverging) lenses.",
+        "he": "מצב ראייה נפוץ שבו עצמים קרובים נראים בבירור אך עצמים רחוקים נראים מטושטשים. קוצר ראייה מתרחש כאשר כדור העין ארוך מדי, וגורמת לאור להתמקד לפני הרשתית; הוא מתוקן על ידי עדשות קעורות (מפזרות)."
+      },
+      "category": "pathology"
+    },
+    {
+      "id": "t11-11",
+      "term": {
+        "en": "Fovea",
+        "he": "פובאה (בית ראייה מרכזי)"
+      },
+      "definition": {
+        "en": "The small central region of the retina with the highest concentration of cone cells, providing the sharpest and most detailed color vision. When we look directly at an object, we position it on the fovea to see it most clearly.",
+        "he": "האזור המרכזי הקטן של הרשתית עם הריכוז הגבוה ביותר של תאי נצרן, המספק את ראיית הצבעים החדה והמפורטת ביותר. כאשר אנו מביטים ישירות על עצם, אנו ממקמים אותו על הפובאה כדי לראות אותו בצורה ברורה ביותר."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t11-12",
+      "term": {
+        "en": "Blind Spot",
+        "he": "נקודה עיוורת"
+      },
+      "definition": {
+        "en": "The region on the retina where the optic nerve exits the eye, containing no photoreceptors. This creates a small gap in the visual field that the brain fills in using surrounding visual information, which is why we normally don't notice it.",
+        "he": "האזור על הרשתית שבו עצב הראייה יוצא מהעין, המכיל אפס פוטורצפטורים. זה יוצר פער קטן בשדה הראייה שהמוח ממלא באמצעות מידע ויזואלי מסביב, ולכן בדרך כלל איננו מבחינים בו."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t11-13",
+      "term": {
+        "en": "Vitreous Humor",
+        "he": "גוף זגוגי"
+      },
+      "definition": {
+        "en": "The clear, gel-like substance that fills the space between the lens and the retina, maintaining the eye's spherical shape and transmitting light. Floaters — drifting specks that some people see — are caused by clumps of condensed vitreous fibers.",
+        "he": "החומר הצלול דמוי ג'ל הממלא את החלל בין העדשה לרשתית, שומר על הצורה הכדורית של העין ומעביר אור. מרחפים — נקודות נודדות שחלק מהאנשים רואים — נגרמים על ידי גושים של סיבי גוף זגוגי מעובים."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t11-14",
+      "term": {
+        "en": "Color Blindness",
+        "he": "עיוורון צבעים"
+      },
+      "definition": {
+        "en": "A condition in which certain cone types are absent or defective, making it difficult to distinguish specific colors. Red-green color blindness is the most common form, affecting about 8% of males and 0.5% of females, and is caused by mutations in X-linked cone pigment genes.",
+        "he": "מצב שבו סוגי נצרנים מסוימים נעדרים או פגומים, מה שמקשה להבחין בצבעים ספציפיים. עיוורון צבעים אדום-ירוק הוא הצורה הנפוצה ביותר, ומשפיע על כ-8% מהזכרים ו-0.5% מהנקבות, ונגרם על ידי מוטציות בגנים לפיגמנט נצרנים הקשורים לכרומוזום X."
+      },
+      "category": "pathology"
+    },
+    {
+      "id": "t11-15",
+      "term": {
+        "en": "Visual Cortex",
+        "he": "קורטקס ויזואלי"
+      },
+      "definition": {
+        "en": "The region at the back of the brain (occipital lobe) that receives and processes visual information from the optic nerves. It is the largest sensory cortex in the human brain and contains specialized areas for processing color, motion, shape, and faces.",
+        "he": "האזור בגב המוח (האונה העורפית) המקבל ומעבד מידע ויזואלי מעצבי הראייה. הוא הקורטקס החושי הגדול ביותר במוח האנושי ומכיל אזורים מיוחדים לעיבוד צבע, תנועה, צורה ופנים."
+      },
+      "category": "anatomy"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q11-01",
+      "question": {
+        "en": "On which part of the eye does light focus to form an image?",
+        "he": "על איזה חלק של העין מתמקד האור ליצירת תמונה?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "The iris",
+            "he": "הקשתית"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "The cornea",
+            "he": "הקרנית"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "The retina",
+            "he": "הרשתית"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "The pupil",
+            "he": "האישון"
+          }
+        }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "The retina is the light-sensitive layer at the back of the eye. Light focused by the cornea and lens projects an inverted image onto the retina, where photoreceptors convert it into nerve signals.",
+        "he": "הרשתית היא השכבה הרגישה לאור בגב העין. אור שמוקד על ידי הקרנית והעדשה מקרין תמונה הפוכה על הרשתית, שבה פוטורצפטורים ממירים אותה לאותות עצביים."
+      }
+    },
+    {
+      "id": "q11-02",
+      "question": {
+        "en": "Which photoreceptor cells are responsible for color vision?",
+        "he": "אילו תאי פוטורצפטור אחראים לראייה צבעונית?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Rod cells",
+            "he": "תאי מוט"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Cone cells",
+            "he": "תאי נצרן"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Ganglion cells",
+            "he": "תאי גנגליון"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Bipolar cells",
+            "he": "תאים ביפולריים"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Cone cells are concentrated in the central part of the retina (the fovea) and are responsible for color vision and sharp detail. There are three types of cones, sensitive to red, green, and blue light.",
+        "he": "תאי נצרן מרוכזים בחלק המרכזי של הרשתית (הפובאה) ואחראים לראייה צבעונית ולפרטים חדים. יש שלושה סוגים של נצרנים, רגישים לאור אדום, ירוק וכחול."
+      }
+    },
+    {
+      "id": "q11-03",
+      "question": {
+        "en": "What happens to the pupil in bright light?",
+        "he": "מה קורה לאישון באור בהיר?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "It expands to let in more light",
+            "he": "הוא מתרחב כדי לאפשר יותר אור"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "It contracts to reduce the amount of light entering",
+            "he": "הוא מתכווץ כדי להפחית את כמות האור הנכנסת"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "It stays the same size",
+            "he": "הוא נשאר באותו גודל"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "It changes color",
+            "he": "הוא משנה צבע"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "In bright light, the iris muscles contract the pupil to a small size to limit how much light reaches the retina, protecting it from damage. In dim light, the pupil dilates to let in more light.",
+        "he": "באור בהיר, שרירי הקשתית מכווצים את האישון לגודל קטן כדי להגביל את כמות האור המגיעה לרשתית, ומגינים עליה מנזק. באור עמום, האישון מתרחב כדי לאפשר יותר אור."
+      }
+    },
+    {
+      "id": "q11-04",
+      "question": {
+        "en": "What is myopia?",
+        "he": "מהי קוצר ראייה?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "The inability to see colors",
+            "he": "חוסר יכולת לראות צבעים"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "A condition where distant objects appear blurry",
+            "he": "מצב שבו עצמים רחוקים נראים מטושטשים"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "A condition where nearby objects appear blurry",
+            "he": "מצב שבו עצמים קרובים נראים מטושטשים"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Total blindness",
+            "he": "עיוורון מוחלט"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Myopia (nearsightedness) occurs when the eye is slightly too long, causing light to focus in front of the retina rather than directly on it. Distant objects appear blurry while nearby objects are seen clearly.",
+        "he": "קוצר ראייה (מיופיה) מתרחש כאשר העין ארוכה מעט מדי, וגורמת לאור להתמקד לפני הרשתית במקום ישירות עליה. עצמים רחוקים נראים מטושטשים בעוד שעצמים קרובים נראים בבירור."
+      }
+    },
+    {
+      "id": "q11-05",
+      "question": {
+        "en": "Which nerve carries visual information from the eye to the brain?",
+        "he": "איזה עצב מעביר מידע ויזואלי מהעין למוח?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Auditory nerve",
+            "he": "עצב השמיעה"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Optic nerve",
+            "he": "עצב הראייה"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Facial nerve",
+            "he": "עצב הפנים"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Trigeminal nerve",
+            "he": "עצב שלוש-הענפים"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The optic nerve (cranial nerve II) carries electrical signals from the retina's photoreceptors to the brain's visual cortex, located in the occipital lobe, where the signals are interpreted as images.",
+        "he": "עצב הראייה (עצב גולגלתי II) מעביר אותות חשמליים מהפוטורצפטורים של הרשתית לקורטקס הוויזואלי של המוח, הממוקם באונה האוקסיפיטלית, שבה האותות מפורשים כתמונות."
+      }
+    },
+    {
+      "id": "q11-06",
+      "question": {
+        "en": "How many cone cell types does the human eye contain, and what colors are they sensitive to?",
+        "he": "כמה סוגי תאי נצרן יש לעין האנושית, ולאיזה צבעים הם רגישים?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Two types: light and dark",
+            "he": "שני סוגים: אור וחושך"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Four types: red, green, blue, yellow",
+            "he": "ארבעה סוגים: אדום, ירוק, כחול, צהוב"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Three types: red, green, blue",
+            "he": "שלושה סוגים: אדום, ירוק, כחול"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "One type only",
+            "he": "סוג אחד בלבד"
+          }
+        }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "The human eye has three types of cone cells, each sensitive to different wavelengths of light corresponding to red, green, and blue. The brain combines their signals to produce the full range of colors we perceive.",
+        "he": "לעין האנושית יש שלושה סוגים של תאי נצרן, כל אחד רגיש לאורכי גל שונים של אור המתאימים לאדום, ירוק וכחול. המוח משלב את האותות שלהם כדי לייצר את כל מגוון הצבעים שאנו תופסים."
+      }
+    },
+    {
+      "id": "q11-07",
+      "question": {
+        "en": "What is the fovea, and why is it important for vision?",
+        "he": "מהי הפובאה, ומדוע היא חשובה לראייה?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "The area where rod cells are most concentrated, used for night vision",
+            "he": "האזור שבו תאי מוט מרוכזים ביותר, המשמש לראיית לילה"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "The central retinal region densely packed with cones, providing the sharpest vision",
+            "he": "האזור המרכזי של הרשתית צפוף בנצרנים, המספק את הראייה החדה ביותר"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "The point where the optic nerve exits the eye",
+            "he": "הנקודה שבה עצב הראייה יוצא מהעין"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "The membrane covering the outside of the eye",
+            "he": "הממברנה המכסה את חוץ העין"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The fovea is a tiny pit in the center of the retina that is packed almost exclusively with cone cells. It is responsible for sharp, central color vision used for reading and recognizing faces. When you look directly at something, you focus it on the fovea.",
+        "he": "הפובאה היא גומה זעירה במרכז הרשתית הצפופה כמעט אך ורק בתאי נצרן. היא אחראית לראייה צבעונית המרכזית החדה המשמשת לקריאה ולזיהוי פנים. כאשר אתה מביט ישירות במשהו, אתה ממקד אותו על הפובאה."
+      }
+    },
+    {
+      "id": "q11-08",
+      "question": {
+        "en": "What is the blind spot?",
+        "he": "מהי הנקודה העיוורת?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "The area of the retina where rods and cones overlap",
+            "he": "האזור של הרשתית שבו מוטות ונצרנים חופפים"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "The point where the optic nerve exits the eye, leaving a gap in vision with no photoreceptors",
+            "he": "הנקודה שבה עצב הראייה יוצא מהעין, ומשאיר פער בראייה ללא פוטורצפטורים"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "The region of the retina damaged by too much light",
+            "he": "אזור הרשתית שנפגע מיותר מדי אור"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "The area behind the pupil",
+            "he": "האזור מאחורי האישון"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The blind spot (optic disc) is where the optic nerve and blood vessels exit the retina. There are no photoreceptors there, so there is no vision in that spot. However, the brain fills in this gap using information from the surrounding visual field, so we do not normally notice it.",
+        "he": "הנקודה העיוורת (דיסק אופטי) היא המקום שבו עצב הראייה וכלי הדם יוצאים מהרשתית. אין שם פוטורצפטורים, ולכן אין ראייה בנקודה זו. עם זאת, המוח ממלא פער זה באמצעות מידע משדה הראייה הסביב, כך שבדרך כלל איננו מבחינים בו."
+      }
+    },
+    {
+      "id": "q11-09",
+      "question": {
+        "en": "How does accommodation work in the eye?",
+        "he": "כיצד פועלת ההתאמה בעין?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "The pupil changes size to focus on near and far objects",
+            "he": "האישון משנה גודל כדי להתמקד בעצמים קרובים ורחוקים"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "The ciliary muscles change the shape of the lens to focus at different distances",
+            "he": "שרירי הריסים משנים את צורת העדשה כדי להתמקד במרחקים שונים"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "The cornea adjusts its curvature",
+            "he": "הקרנית מתאימה את עקמומיותה"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "The retina moves forward and backward",
+            "he": "הרשתית נעה קדימה ואחורה"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Accommodation is the process by which the eye adjusts its focus. Ciliary muscles around the lens control its curvature: they contract to make the lens rounder (for near focus) and relax to let it flatten (for distant focus). This ability diminishes with age — a condition called presbyopia.",
+        "he": "התאמה היא התהליך שבו העין מתאימה את מיקודה. שרירי ריסים סביב העדשה שולטים בעקמומיותה: הם מתכווצים כדי להפוך את העדשה לעגולה יותר (למיקוד קרוב) ומרפים כדי לאפשר לה להתשטח (למיקוד רחוק). יכולת זו פוחתת עם הגיל — מצב הנקרא פרסביופיה."
+      }
+    },
+    {
+      "id": "q11-10",
+      "question": {
+        "en": "Why are rod cells better than cone cells for seeing in the dark?",
+        "he": "מדוע תאי מוט טובים יותר מתאי נצרן לראייה בחושך?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Rods contain more color pigments",
+            "he": "מוטות מכילים יותר פיגמנטים צבעוניים"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Rods are far more sensitive to light and can respond to a single photon",
+            "he": "מוטות רגישים הרבה יותר לאור ויכולים להגיב לפוטון בודד"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Rods are located at the very center of the retina",
+            "he": "מוטות ממוקמים במרכז הרשתית ממש"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Rods produce their own light",
+            "he": "מוטות מייצרים אור משל עצמם"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Rod cells contain rhodopsin, an extremely sensitive light-detecting pigment that can respond to even a single photon. This makes rods perfect for dim light and night vision, though they cannot distinguish colors. Cones need much more light to function and are concentrated in the fovea for detailed daytime color vision.",
+        "he": "תאי מוט מכילים רודופסין, פיגמנט זיהוי אור רגיש ביותר שיכול להגיב אפילו לפוטון בודד. זה הופך מוטות למושלמים לראייה בתאורה חלשה ולראיית לילה, למרות שהם אינם יכולים להבחין בצבעים. נצרנים זקוקים להרבה יותר אור כדי לתפקד ומרוכזים בפובאה לראיית צבעים מפורטת ביום."
+      }
+    }
+  ],
+  "videoSources": [
+    "7g67QCitGic",
+    "pIdlx7vT3QY"
+  ]
+}

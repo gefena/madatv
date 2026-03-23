@@ -1,0 +1,512 @@
+{
+  "id": "17-the-kidneys",
+  "episodeNumber": 17,
+  "youtubeId": "TVcXCfxx4Ok",
+  "videoSources": ["TVcXCfxx4Ok", "e4GwnlHnNDo"],
+  "title": {
+    "en": "The Kidneys",
+    "he": "הכליות"
+  },
+  "summary": {
+    "en": "This episode reveals the kidneys as the body's master filtration system, processing roughly 180 litres of blood plasma every day to maintain the precise chemical balance that life requires. It explains how each kidney is packed with about one million microscopic nephrons — the functional filtering units — and traces the journey of blood through the glomerulus (where pressure filtration occurs), the proximal tubule, the loop of Henle, and the distal tubule, where the body reabsorbs vital substances and secretes waste products. The episode highlights how the kidneys regulate not just fluid and electrolyte balance but also blood pressure (via the renin-angiotensin system) and red blood cell production (via erythropoietin). It also examines what happens when kidney function fails — requiring dialysis to perform the organ's work artificially — and how kidney stones form from mineral deposits in concentrated urine.",
+    "he": "פרק זה מגלה את הכליות כמערכת הסינון הראשית של הגוף, המעבדת כ-180 ליטר פלסמה דם ביום לשמירה על האיזון הכימי המדויק שהחיים דורשים. הוא מסביר כיצד כל כליה דחוסה בכמיליון נפרונים מיקרוסקופיים — יחידות הסינון הפונקציונליות — ועוקב אחר מסע הדם דרך הגלומרולוס (שם מתרחש סינון לחץ), הצינורית הפרוקסימלית, לולאת הנלה והצינורית הדיסטלית, שבהן הגוף סופג מחדש חומרים חיוניים ומפריש תוצרי פסולת. הפרק מדגיש כיצד הכליות מווסתות לא רק את איזון הנוזלים והאלקטרוליטים אלא גם לחץ דם (דרך מערכת הרנין-אנגיוטנסין) וייצור כדוריות דם אדומות (דרך אריתרופויאטין). הוא גם בוחן מה קורה כאשר תפקוד הכליות נכשל — המצריך דיאליזה לביצוע עבודת האיבר באופן מלאכותי — וכיצד אבני כליה נוצרות ממשקעים מינרלים בשתן מרוכז."
+  },
+  "thumbnail": "https://img.youtube.com/vi/TVcXCfxx4Ok/maxresdefault.jpg",
+  "durationMinutes": 27,
+  "topics": [
+    "nephrons",
+    "glomerulus",
+    "filtration",
+    "reabsorption",
+    "urine",
+    "urea",
+    "electrolytes",
+    "blood pressure regulation",
+    "dialysis",
+    "kidney stones"
+  ],
+  "terminology": [
+    {
+      "id": "t17-01",
+      "term": {
+        "en": "Nephron",
+        "he": "נפרון"
+      },
+      "definition": {
+        "en": "The microscopic functional unit of the kidney; each kidney contains about one million nephrons, each consisting of a glomerulus and a series of tubules.",
+        "he": "יחידת התפקוד המיקרוסקופית של הכליה; כל כליה מכילה כמיליון נפרונים, שכל אחד מהם מורכב מגלומרולוס וסדרת צינוריות."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t17-02",
+      "term": {
+        "en": "Glomerulus",
+        "he": "גלומרולוס"
+      },
+      "definition": {
+        "en": "A tiny knot of capillaries inside the Bowman's capsule where blood is filtered under pressure; small molecules pass into the tubule while large proteins and blood cells stay in the blood.",
+        "he": "קשר זעיר של נימים בתוך כוסית בומן שבה הדם מסונן תחת לחץ; מולקולות קטנות עוברות לצינורית בעוד חלבונים גדולים ותאי דם נשארים בדם."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t17-03",
+      "term": {
+        "en": "Filtration",
+        "he": "סינון"
+      },
+      "definition": {
+        "en": "The first step of urine formation in the glomerulus, where blood pressure forces water, salts, glucose, urea, and other small molecules out of the capillaries into the Bowman's capsule.",
+        "he": "השלב הראשון של יצירת שתן בגלומרולוס, שבו לחץ הדם מאלץ מים, מלחים, גלוקוז, אוריאה ומולקולות קטנות אחרות מחוץ לנימים לתוך כוסית בומן."
+      },
+      "category": "physiology"
+    },
+    {
+      "id": "t17-04",
+      "term": {
+        "en": "Reabsorption",
+        "he": "ספיגה חוזרת"
+      },
+      "definition": {
+        "en": "The process by which the kidney tubules reclaim useful substances — such as glucose, amino acids, water, and essential ions — from the filtrate back into the bloodstream.",
+        "he": "התהליך שבו צינוריות הכליה מחזירות חומרים שימושיים — כגון גלוקוז, חומצות אמינו, מים ויונים חיוניים — מהפילטרט לזרם הדם."
+      },
+      "category": "physiology"
+    },
+    {
+      "id": "t17-05",
+      "term": {
+        "en": "Urea",
+        "he": "אוריאה"
+      },
+      "definition": {
+        "en": "A nitrogen-containing waste product formed in the liver from the breakdown of amino acids; it is filtered by the kidneys and excreted in urine.",
+        "he": "תוצר פסולת המכיל חנקן הנוצר בכבד מפירוק חומצות אמינו; הוא מסונן על ידי הכליות ומופרש בשתן."
+      },
+      "category": "biochemistry"
+    },
+    {
+      "id": "t17-06",
+      "term": {
+        "en": "Electrolyte",
+        "he": "אלקטרוליט"
+      },
+      "definition": {
+        "en": "A mineral ion (such as sodium, potassium, chloride, or bicarbonate) dissolved in body fluids that carries an electric charge and is essential for nerve, muscle, and cellular function.",
+        "he": "יון מינרלי (כגון נתרן, אשלגן, כלוריד או ביקרבונט) המומס בנוזלי הגוף, נושא מטען חשמלי וחיוני לתפקוד עצבי, שרירי ותאי."
+      },
+      "category": "biochemistry"
+    },
+    {
+      "id": "t17-07",
+      "term": {
+        "en": "Loop of Henle",
+        "he": "לולאת הנלה"
+      },
+      "definition": {
+        "en": "A U-shaped section of the nephron tubule that dips into the renal medulla; it creates a concentration gradient that allows the kidney to produce concentrated urine and conserve water.",
+        "he": "קטע בצורת U של צינורית הנפרון הצולל לתוך מדולת הכליה; הוא יוצר גרדיאנט ריכוז המאפשר לכליה לייצר שתן מרוכז ולשמר מים."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t17-08",
+      "term": {
+        "en": "Renin-Angiotensin System",
+        "he": "מערכת רנין-אנגיוטנסין"
+      },
+      "definition": {
+        "en": "A hormonal cascade initiated by the kidneys when blood pressure drops; renin triggers production of angiotensin II, which constricts blood vessels and stimulates aldosterone release to raise blood pressure.",
+        "he": "מפל הורמונלי המופעל על ידי הכליות כאשר לחץ הדם יורד; רנין מפעיל ייצור אנגיוטנסין II, המכווץ כלי דם ומגרה שחרור אלדוסטרון להעלאת לחץ הדם."
+      },
+      "category": "physiology"
+    },
+    {
+      "id": "t17-09",
+      "term": {
+        "en": "Erythropoietin (EPO)",
+        "he": "אריתרופויאטין (EPO)"
+      },
+      "definition": {
+        "en": "A hormone produced by the kidneys in response to low oxygen levels; it stimulates the bone marrow to produce more red blood cells.",
+        "he": "הורמון המיוצר בכליות בתגובה לרמות חמצן נמוכות; הוא מגרה את מוח העצם לייצר יותר כדוריות דם אדומות."
+      },
+      "category": "biochemistry"
+    },
+    {
+      "id": "t17-10",
+      "term": {
+        "en": "Dialysis",
+        "he": "דיאליזה"
+      },
+      "definition": {
+        "en": "A medical procedure that artificially removes waste products and excess fluid from the blood when the kidneys can no longer function adequately.",
+        "he": "נוהל רפואי המסיר באופן מלאכותי תוצרי פסולת ועודפי נוזלים מהדם כאשר הכליות אינן מסוגלות עוד לתפקד כראוי."
+      },
+      "category": "medicine"
+    },
+    {
+      "id": "t17-11",
+      "term": {
+        "en": "Kidney Stone (Renal Calculus)",
+        "he": "אבן כליה (קלקולוס כלייתי)"
+      },
+      "definition": {
+        "en": "A hard mineral deposit that forms inside the kidney when urine becomes too concentrated, causing minerals such as calcium oxalate to crystallise.",
+        "he": "משקע מינרלי קשה הנוצר בתוך הכליה כאשר השתן הופך מרוכז מדי, וגורם למינרלים כגון סידן אוקסלט להתגבש."
+      },
+      "category": "pathology"
+    },
+    {
+      "id": "t17-12",
+      "term": {
+        "en": "Urine",
+        "he": "שתן"
+      },
+      "definition": {
+        "en": "The fluid produced by the kidneys from filtered blood, containing water, urea, salts, and other waste products; it travels to the bladder for storage and excretion.",
+        "he": "הנוזל המיוצר על ידי הכליות מדם מסונן, המכיל מים, אוריאה, מלחים ותוצרי פסולת אחרים; הוא עובר לשלפוחית השתן לאחסון והפרשה."
+      },
+      "category": "physiology"
+    },
+    {
+      "id": "t17-13",
+      "term": {
+        "en": "Bowman's Capsule",
+        "he": "כוסית בומן"
+      },
+      "definition": {
+        "en": "A cup-shaped structure at the start of the nephron that surrounds the glomerulus and collects the filtrate as blood is filtered under pressure.",
+        "he": "מבנה בצורת כוס בתחילת הנפרון המקיף את הגלומרולוס ואוסף את הפילטרט כאשר הדם מסונן תחת לחץ."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t17-14",
+      "term": {
+        "en": "Aldosterone",
+        "he": "אלדוסטרון"
+      },
+      "definition": {
+        "en": "A steroid hormone produced by the adrenal cortex that acts on kidney tubules to increase sodium reabsorption and water retention, raising blood pressure.",
+        "he": "הורמון סטרואידי המיוצר בקליפת בלוטת יותרת הכליה, הפועל על צינוריות הכליה להגברת ספיגת נתרן ושימור מים, ומעלה לחץ דם."
+      },
+      "category": "biochemistry"
+    },
+    {
+      "id": "t17-15",
+      "term": {
+        "en": "Ureter",
+        "he": "שופכן"
+      },
+      "definition": {
+        "en": "One of two muscular tubes that carry urine from each kidney down to the urinary bladder via peristaltic contractions.",
+        "he": "אחד משני צינורות שריריים המובילים שתן מכל כליה לשלפוחית השתן דרך התכווצויות פריסטלטיות."
+      },
+      "category": "anatomy"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q1",
+      "question": {
+        "en": "What is the basic functional unit of the kidney?",
+        "he": "מהי יחידת התפקוד הבסיסית של הכליה?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": { "en": "Alveolus", "he": "שלפוחית אוויר" }
+        },
+        {
+          "id": "b",
+          "text": { "en": "Nephron", "he": "נפרון" }
+        },
+        {
+          "id": "c",
+          "text": { "en": "Villus", "he": "זיפון" }
+        },
+        {
+          "id": "d",
+          "text": { "en": "Glomerulus only", "he": "גלומרולוס בלבד" }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The nephron is the microscopic unit that actually filters blood and produces urine. Each kidney contains about one million nephrons, each including a glomerulus for filtration and a series of tubules for reabsorption and secretion.",
+        "he": "הנפרון הוא היחידה המיקרוסקופית שמסננת דם ומייצרת שתן. כל כליה מכילה כמיליון נפרונים, כל אחד כולל גלומרולוס לסינון וסדרת צינוריות לספיגה חוזרת והפרשה."
+      }
+    },
+    {
+      "id": "q2",
+      "question": {
+        "en": "Where does filtration of blood first occur in the nephron?",
+        "he": "היכן מתרחש הסינון הראשוני של הדם בנפרון?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": { "en": "In the loop of Henle", "he": "בלולאת הנלה" }
+        },
+        {
+          "id": "b",
+          "text": { "en": "In the collecting duct", "he": "בצינורית האיסוף" }
+        },
+        {
+          "id": "c",
+          "text": { "en": "In the glomerulus inside Bowman's capsule", "he": "בגלומרולוס בתוך כוסית בומן" }
+        },
+        {
+          "id": "d",
+          "text": { "en": "In the ureter", "he": "בשופכן" }
+        }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Blood enters the glomerulus — a tight cluster of capillaries — under high pressure. This pressure forces water, glucose, urea, salts, and other small molecules through the capillary walls into Bowman's capsule. Larger proteins and blood cells are too big to pass through and remain in the blood.",
+        "he": "הדם נכנס לגלומרולוס — אשכול צפוף של נימים — תחת לחץ גבוה. לחץ זה מאלץ מים, גלוקוז, אוריאה, מלחים ומולקולות קטנות אחרות דרך דפנות הנימים לתוך כוסית בומן. חלבונים גדולים יותר ותאי דם גדולים מדי לעבור ונשארים בדם."
+      }
+    },
+    {
+      "id": "q3",
+      "question": {
+        "en": "What happens to glucose after it is filtered into the nephron?",
+        "he": "מה קורה לגלוקוז לאחר שהוא מסונן לתוך הנפרון?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": { "en": "It is excreted in the urine", "he": "הוא מופרש בשתן" }
+        },
+        {
+          "id": "b",
+          "text": { "en": "It is broken down into urea", "he": "הוא מפורק לאוריאה" }
+        },
+        {
+          "id": "c",
+          "text": { "en": "It is completely reabsorbed back into the blood in the tubules", "he": "הוא נספג לחלוטין חזרה לדם בצינוריות" }
+        },
+        {
+          "id": "d",
+          "text": { "en": "It is converted into fat in the kidney", "he": "הוא מומר לשומן בכליה" }
+        }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "In a healthy person, virtually all of the glucose that enters the filtrate is reabsorbed in the proximal convoluted tubule via active transport carriers. That is why normal urine contains no glucose. In uncontrolled diabetes, blood glucose can exceed the reabsorption threshold, and glucose spills into the urine.",
+        "he": "אצל אדם בריא, כמעט כל הגלוקוז שנכנס לפילטרט נספג חזרה בצינורית המפותלת הפרוקסימלית דרך נשאי הובלה פעילים. זו הסיבה שבשתן תקין אין גלוקוז. בסוכרת לא מבוקרת, גלוקוז הדם יכול לעלות על סף הספיגה, והגלוקוז נשפך לשתן."
+      }
+    },
+    {
+      "id": "q4",
+      "question": {
+        "en": "What is urea, and where is it produced?",
+        "he": "מהי אוריאה, והיכן היא מיוצרת?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": { "en": "A sugar produced in the pancreas", "he": "סוכר המיוצר בלבלב" }
+        },
+        {
+          "id": "b",
+          "text": { "en": "A nitrogen waste from amino acid breakdown, produced in the liver", "he": "פסולת חנקן מפירוק חומצות אמינו, המיוצרת בכבד" }
+        },
+        {
+          "id": "c",
+          "text": { "en": "A hormone produced by the kidneys", "he": "הורמון המיוצר בכליות" }
+        },
+        {
+          "id": "d",
+          "text": { "en": "A mineral salt found only in urine", "he": "מלח מינרלי הנמצא רק בשתן" }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "When the body breaks down amino acids (proteins), the nitrogen-containing part cannot be stored or used for energy. The liver converts this nitrogen into urea — a relatively non-toxic soluble compound — which travels in the blood to the kidneys, is filtered, and excreted in urine.",
+        "he": "כאשר הגוף מפרק חומצות אמינו (חלבונים), החלק המכיל חנקן אינו יכול להיאגר או לשמש לאנרגיה. הכבד ממיר חנקן זה לאוריאה — תרכובת מסיסה שאינה רעילה יחסית — המגיעה בדם לכליות, מסוננת ומופרשת בשתן."
+      }
+    },
+    {
+      "id": "q5",
+      "question": {
+        "en": "How do the kidneys help regulate blood pressure?",
+        "he": "כיצד הכליות עוזרות לווסת לחץ דם?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": { "en": "By producing insulin to lower blood sugar", "he": "על ידי ייצור אינסולין להורדת סוכר בדם" }
+        },
+        {
+          "id": "b",
+          "text": { "en": "By releasing renin, which triggers a hormone cascade that raises blood pressure", "he": "על ידי שחרור רנין, שמפעיל מפל הורמונלי המעלה לחץ דם" }
+        },
+        {
+          "id": "c",
+          "text": { "en": "By pumping extra blood to the heart", "he": "על ידי שאיבת דם נוסף ללב" }
+        },
+        {
+          "id": "d",
+          "text": { "en": "By producing adrenaline during stress", "he": "על ידי ייצור אדרנלין במהלך לחץ" }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "When blood pressure in the kidney drops, cells in the juxtaglomerular apparatus release renin into the blood. Renin converts angiotensinogen to angiotensin I, which is then converted to angiotensin II — a potent vasoconstrictor that also stimulates aldosterone release, increasing sodium and water retention to raise blood pressure.",
+        "he": "כאשר לחץ הדם בכליה יורד, תאים במנגנון הג'וקסטגלומרולרי משחררים רנין לדם. רנין ממיר אנגיוטנסינוגן לאנגיוטנסין I, שהופך לאנגיוטנסין II — מכווץ כלי דם עוצמתי המגרה גם שחרור אלדוסטרון, המגביר שימור נתרן ומים להעלאת לחץ הדם."
+      }
+    },
+    {
+      "id": "q6",
+      "question": {
+        "en": "What is dialysis and when is it needed?",
+        "he": "מהי דיאליזה ומתי היא נדרשת?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": { "en": "A drug treatment for kidney infections", "he": "טיפול תרופתי לזיהומי כליות" }
+        },
+        {
+          "id": "b",
+          "text": { "en": "A surgical procedure to remove kidney stones", "he": "נוהל כירורגי להסרת אבני כליה" }
+        },
+        {
+          "id": "c",
+          "text": { "en": "An artificial process to filter the blood when the kidneys fail", "he": "תהליך מלאכותי לסינון הדם כאשר הכליות כושלות" }
+        },
+        {
+          "id": "d",
+          "text": { "en": "A scan to visualise the kidneys", "he": "סריקה לדמיית הכליות" }
+        }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "In kidney failure, toxic waste products and excess fluid accumulate in the blood. Dialysis uses a semipermeable membrane to filter the blood outside the body (haemodialysis) or inside the abdominal cavity (peritoneal dialysis), mimicking the kidney's filtration function.",
+        "he": "בכשל כליות, תוצרי פסולת רעילים ועודפי נוזלים מצטברים בדם. דיאליזה משתמשת בממברנה חצי-חדירה לסינון הדם מחוץ לגוף (המודיאליזה) או בתוך חלל הבטן (דיאליזה פריטונאלית), ומחקה את תפקוד הסינון של הכליה."
+      }
+    },
+    {
+      "id": "q7",
+      "question": {
+        "en": "How do kidney stones form?",
+        "he": "כיצד נוצרות אבני כליה?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": { "en": "From bacterial infection in the kidney", "he": "מזיהום חיידקי בכליה" }
+        },
+        {
+          "id": "b",
+          "text": { "en": "When minerals in concentrated urine crystallise and aggregate", "he": "כאשר מינרלים בשתן מרוכז מתגבשים ומצטברים" }
+        },
+        {
+          "id": "c",
+          "text": { "en": "From excess urea building up in the kidney tissue", "he": "מהצטברות עודף אוריאה ברקמת הכליה" }
+        },
+        {
+          "id": "d",
+          "text": { "en": "When the nephron tubules collapse", "he": "כאשר צינוריות הנפרון קורסות" }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Kidney stones most often form when urine becomes too concentrated — usually due to insufficient fluid intake. Minerals such as calcium oxalate, calcium phosphate, or uric acid can precipitate out of solution and slowly grow into hard crystals that can block the urinary tract and cause intense pain.",
+        "he": "אבני כליה נוצרות לרוב כאשר השתן הופך מרוכז מדי — בדרך כלל עקב צריכת נוזלים לא מספקת. מינרלים כגון סידן אוקסלט, סידן פוספט או חומצת שתן יכולים לשקוע מהתמיסה ולצמוח לאט לגבישים קשים שיכולים לחסום את דרכי השתן ולגרום לכאב עז."
+      }
+    },
+    {
+      "id": "q8",
+      "question": {
+        "en": "What hormone do the kidneys produce to stimulate red blood cell production?",
+        "he": "איזה הורמון מייצרות הכליות כדי לגרות ייצור כדוריות דם אדומות?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": { "en": "Insulin", "he": "אינסולין" }
+        },
+        {
+          "id": "b",
+          "text": { "en": "Erythropoietin (EPO)", "he": "אריתרופויאטין (EPO)" }
+        },
+        {
+          "id": "c",
+          "text": { "en": "Aldosterone", "he": "אלדוסטרון" }
+        },
+        {
+          "id": "d",
+          "text": { "en": "Cortisol", "he": "קורטיזול" }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "When oxygen levels in the blood drop (for example, at high altitude or due to anaemia), the kidneys detect this and release erythropoietin (EPO) into the bloodstream. EPO travels to the bone marrow and signals it to increase red blood cell production, improving the blood's oxygen-carrying capacity.",
+        "he": "כאשר רמות החמצן בדם יורדות (לדוגמה, בגובה רב או עקב אנמיה), הכליות מזהות זאת ומשחררות אריתרופויאטין (EPO) לזרם הדם. EPO עובר למוח העצם ומאותת לו להגביר ייצור כדוריות דם אדומות, ומשפר את יכולת נשיאת החמצן של הדם."
+      }
+    },
+    {
+      "id": "q9",
+      "question": {
+        "en": "What is the role of the loop of Henle?",
+        "he": "מה תפקיד לולאת הנלה?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": { "en": "To filter blood under pressure", "he": "לסנן דם תחת לחץ" }
+        },
+        {
+          "id": "b",
+          "text": { "en": "To create a concentration gradient that allows the kidney to produce concentrated urine", "he": "ליצור גרדיאנט ריכוז המאפשר לכליה לייצר שתן מרוכז" }
+        },
+        {
+          "id": "c",
+          "text": { "en": "To transport urine to the bladder", "he": "להעביר שתן לשלפוחית" }
+        },
+        {
+          "id": "d",
+          "text": { "en": "To produce renin for blood pressure control", "he": "לייצר רנין לשליטה בלחץ דם" }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The loop of Henle descends into the highly salty renal medulla and then ascends back. This hairpin arrangement creates a counter-current concentration gradient in the surrounding tissue, which the collecting duct uses to withdraw water from the urine — allowing the kidneys to produce urine much more concentrated than the blood plasma.",
+        "he": "לולאת הנלה יורדת לתוך מדולת הכליה המלוחה מאוד ואז עולה בחזרה. סידור הסיכה הזה יוצר גרדיאנט ריכוז זרם-נגדי ברקמה הסובבת, שצינורית האיסוף משתמשת בו לשאיבת מים מהשתן — ומאפשר לכליות לייצר שתן מרוכז הרבה יותר מפלסמת הדם."
+      }
+    },
+    {
+      "id": "q10",
+      "question": {
+        "en": "Why do doctors recommend drinking plenty of water to prevent kidney stones?",
+        "he": "מדוע רופאים ממליצים לשתות הרבה מים למניעת אבני כליה?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": { "en": "Water dissolves the stones already formed", "he": "מים מפרקים אבנים שכבר נוצרו" }
+        },
+        {
+          "id": "b",
+          "text": { "en": "Dilute urine keeps mineral concentrations low, preventing crystallisation", "he": "שתן מדולל שומר על ריכוזי מינרלים נמוכים, ומונע גיבוש" }
+        },
+        {
+          "id": "c",
+          "text": { "en": "Water flushes bacteria out of the kidneys", "he": "מים שוטפים חיידקים מהכליות" }
+        },
+        {
+          "id": "d",
+          "text": { "en": "High fluid intake stimulates EPO production", "he": "צריכת נוזלים גבוהה מגרה ייצור EPO" }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Adequate hydration keeps urine dilute, so minerals such as calcium and oxalate remain dissolved rather than crystallising. When a person drinks too little, urine becomes concentrated and the solubility limit of these minerals is exceeded, leading to crystal formation and eventually stones.",
+        "he": "הידרציה מספקת שומרת על שתן מדולל, כך שמינרלים כגון סידן ואוקסלט נשארים מומסים ולא מתגבשים. כאשר אדם שותה מעט מדי, השתן הופך מרוכז וגבול המסיסות של מינרלים אלה חורג, מה שמוביל להיווצרות גבישים ובסופו של דבר אבנים."
+      }
+    }
+  ]
+}

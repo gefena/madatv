@@ -1,0 +1,630 @@
+{
+  "id": "14-mouth-and-teeth",
+  "episodeNumber": 14,
+  "youtubeId": "1wgr67waRXE",
+  "title": {
+    "en": "The Mouth and Teeth",
+    "he": "הפה והשיניים"
+  },
+  "summary": {
+    "en": "This episode explores the mouth as the starting point of the digestive process. It explains the structure and function of teeth — incisors for biting, canines for tearing, and molars for grinding — and the roles of the tongue and saliva. The episode shows how saliva not only moistens food but also begins chemical digestion through enzymes like amylase that break down carbohydrates, and how it contains antibacterial proteins that protect oral health. It also covers the importance of dental hygiene, the step-by-step formation of tooth decay caused by acid-producing bacteria in plaque, and the difference between primary (baby) and permanent teeth. The episode highlights that tooth enamel is the hardest substance in the human body but, unlike bone, cannot regenerate once lost.",
+    "he": "פרק זה בוחן את הפה כנקודת המוצא של תהליך העיכול. הוא מסביר את מבנה ותפקוד השיניים — חותכות לנשיכה, ניבים לקריעה ושיניים טוחנות לטחינה — ואת תפקידי הלשון והרוק. הפרק מראה כיצד הרוק לא רק מרטיב את המזון אלא גם מתחיל עיכול כימי באמצעות אנזימים כגון עמילאז המפרק פחמימות, וכיצד הוא מכיל חלבונים אנטי-חיידקיים המגינים על בריאות הפה. הוא גם סוקר את חשיבות היגיינת הפה, היווצרות עששת שלב-אחר-שלב הנגרמת מחיידקים מייצרי חומצה בפלאק, וההבדל בין שיניים ראשוניות (חלב) לשיניים קבועות. הפרק מדגיש שאמייל השן הוא החומר הקשה ביותר בגוף האדם אבל, בניגוד לעצם, אינו יכול להתחדש לאחר שאבד."
+  },
+  "thumbnail": "https://img.youtube.com/vi/1wgr67waRXE/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": [
+    "teeth",
+    "oral digestion",
+    "saliva",
+    "dental health",
+    "chewing"
+  ],
+  "terminology": [
+    {
+      "id": "t12-01",
+      "term": {
+        "en": "Incisor",
+        "he": "שן חותכת"
+      },
+      "definition": {
+        "en": "A flat-edged front tooth used for biting and cutting food. Humans have eight incisors (four upper, four lower); they are the first teeth to emerge in infants and work like scissors to cut food into smaller pieces.",
+        "he": "שן קדמית בעלת קצה שטוח המשמשת לנשיכה וחיתוך מזון. לבני אדם יש שמונה שיניים חותכות (ארבע עליונות, ארבע תחתונות); הן השיניים הראשונות לצמוח אצל תינוקות ופועלות כמו מספריים לחיתוך מזון לחלקים קטנים יותר."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t12-02",
+      "term": {
+        "en": "Canine",
+        "he": "שן ניב"
+      },
+      "definition": {
+        "en": "A pointed tooth located next to the incisors, used for gripping and tearing food. Humans have four canine teeth (one in each corner of the mouth); they are the longest teeth and were historically used for seizing and tearing meat.",
+        "he": "שן מחודדת הממוקמת ליד השיניים החותכות, המשמשת לאחיזה וקריעה של מזון. לבני אדם יש ארבע שיניים ניביות (אחת בכל פינה של הפה); הן השיניים הארוכות ביותר ושימשו היסטורית לאחיזה וקריעת בשר."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t12-03",
+      "term": {
+        "en": "Molar",
+        "he": "שן טוחנת"
+      },
+      "definition": {
+        "en": "A large back tooth with a flat surface used for grinding and crushing food. Adults have up to 12 molars (including wisdom teeth); their broad, ridged surfaces break down tough food particles into fine pieces that can be safely swallowed.",
+        "he": "שן גדולה בגב הפה עם משטח שטוח המשמשת לטחינה וריסוק מזון. למבוגרים יש עד 12 שיניים טוחנות (כולל שיני בינה); משטחיהן הרחבים והמחורצים שוברים חלקיקי מזון קשים לחלקים עדינים שניתן לבלוע בבטחה."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t12-04",
+      "term": {
+        "en": "Saliva",
+        "he": "רוק"
+      },
+      "definition": {
+        "en": "A watery fluid secreted by the salivary glands that moistens food, begins carbohydrate digestion, and protects oral tissues. Saliva also contains lysozyme and other antibacterial proteins that help reduce bacterial populations in the mouth and protect against infection.",
+        "he": "נוזל מימי המופרש על ידי בלוטות הרוק שמרטיב מזון, מתחיל עיכול פחמימות ומגן על רקמות הפה. הרוק גם מכיל ליזוזים וחלבונים אנטי-חיידקיים אחרים שעוזרים להפחית אוכלוסיות חיידקים בפה ולהגן מפני זיהום."
+      },
+      "category": "biochemistry"
+    },
+    {
+      "id": "t12-05",
+      "term": {
+        "en": "Amylase",
+        "he": "עמילאז"
+      },
+      "definition": {
+        "en": "A digestive enzyme found in saliva and pancreatic juice that breaks down starch into simpler sugars. Salivary amylase begins carbohydrate digestion in the mouth; this is why a piece of bread starts to taste sweeter if held in the mouth for a minute.",
+        "he": "אנזים עיכול הנמצא ברוק ובמיץ הלבלב המפרק עמילן לסוכרים פשוטים יותר. עמילאז הרוק מתחיל עיכול פחמימות בפה; זו הסיבה שפרוסת לחם מתחילה לטעום מתוקה יותר אם מחזיקים אותה בפה דקה."
+      },
+      "category": "biochemistry"
+    },
+    {
+      "id": "t12-06",
+      "term": {
+        "en": "Tooth Enamel",
+        "he": "אמייל השן"
+      },
+      "definition": {
+        "en": "The hard, white outer layer of a tooth — the hardest substance in the human body. Enamel is composed mainly of hydroxyapatite (a calcium phosphate mineral) and provides protection; once damaged, it cannot be regenerated by the body, which is why dental care is so important.",
+        "he": "השכבה החיצונית הקשה והלבנה של שן — החומר הקשה ביותר בגוף האדם. אמייל מורכב בעיקר מהידרוקסיאפטיט (מינרל פוספט סידן) ומספק הגנה; לאחר שניזוק, הגוף אינו יכול לחדש אותו, ולכן טיפול שיניים חשוב כל כך."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t12-07",
+      "term": {
+        "en": "Dental Cavity (Caries)",
+        "he": "עששת (קריעס)"
+      },
+      "definition": {
+        "en": "The destruction of tooth structure caused by acids produced by bacteria that feed on sugars in the mouth. Cavities develop in stages: plaque forms, bacteria ferment sugars and produce acid, the acid dissolves enamel, and eventually a hole (cavity) forms that can reach the sensitive dentin and pulp beneath.",
+        "he": "הרס מבנה השן הנגרם על ידי חומצות המיוצרות על ידי חיידקים המזינים את עצמם בסוכרים בפה. עששת מתפתחת בשלבים: פלאק נוצר, חיידקים מסיסים סוכרים ומייצרים חומצה, החומצה מפרקת אמייל, ובסופו של דבר נוצר חור (עששת) שיכול להגיע לדנטין ולפולפה הרגישים שמתחת."
+      },
+      "category": "pathology"
+    },
+    {
+      "id": "t12-08",
+      "term": {
+        "en": "Tongue",
+        "he": "לשון"
+      },
+      "definition": {
+        "en": "A muscular organ in the mouth that helps chew, swallow, taste, and articulate speech. The tongue contains taste buds — sensory receptors grouped into papillae — that can detect five basic tastes: sweet, sour, salty, bitter, and umami.",
+        "he": "איבר שרירי בפה המסייע ללעוס, לבלוע, לטעום ולדבר. הלשון מכילה ניצניות טעם — קולטנים חושיים המקובצים בפקעיות — שיכולים לזהות חמישה טעמים בסיסיים: מתוק, חמוץ, מלוח, מר ואומאמי."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t12-09",
+      "term": {
+        "en": "Plaque",
+        "he": "פלאק שיניים"
+      },
+      "definition": {
+        "en": "A sticky film of bacteria that forms on teeth; if not removed, it produces acids that erode enamel and cause cavities. If plaque hardens it becomes tartar (calculus), which must be removed by a dentist and is associated with gum disease.",
+        "he": "סרט דביק של חיידקים הנוצר על שיניים; אם לא מוסר, הוא מייצר חומצות הסוחפות אמייל וגורמות לעששת. אם פלאק מתקשה הוא הופך לאבן שיניים (טרטר), שיש להסירה על ידי רופא שיניים והיא קשורה למחלות חניכיים."
+      },
+      "category": "pathology"
+    },
+    {
+      "id": "t12-10",
+      "term": {
+        "en": "Deciduous (Baby) Teeth",
+        "he": "שיני חלב"
+      },
+      "definition": {
+        "en": "The first set of 20 teeth in children that begin to emerge around 6 months of age and are replaced by permanent teeth. Although baby teeth are temporary, they are essential for proper chewing, speech development, and holding space for adult teeth.",
+        "he": "הסדרה הראשונה של 20 שיניים בילדים המתחילות לצמוח בגיל כ-6 חודשים ומוחלפות בשיניים קבועות. למרות ששיני חלב הן זמניות, הן חיוניות ללעיסה תקינה, להתפתחות הדיבור ולשמירת מרחב לשיניים הבוגרות."
+      },
+      "category": "development"
+    },
+    {
+      "id": "t12-11",
+      "term": {
+        "en": "Dentin",
+        "he": "דנטין"
+      },
+      "definition": {
+        "en": "The hard tissue that makes up the main body of the tooth beneath the enamel. Dentin is less hard than enamel and contains microscopic channels (dentinal tubules) that connect to the nerve-containing pulp, which is why exposed dentin often causes tooth sensitivity.",
+        "he": "הרקמה הקשה המרכיבה את גוף השן הראשי מתחת לאמייל. דנטין קשה פחות מאמייל ומכיל תעלות מיקרוסקופיות (צינוריות דנטיניות) המחוברות לפולפה המכילה עצבים, ולכן דנטין חשוף גורם לרוב לרגישות שיניים."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t12-12",
+      "term": {
+        "en": "Salivary Glands",
+        "he": "בלוטות רוק"
+      },
+      "definition": {
+        "en": "Three pairs of exocrine glands (parotid, submandibular, sublingual) that produce and secrete 0.5–1.5 liters of saliva daily. Saliva secretion increases dramatically (up to 10-fold) at the sight, smell, or thought of food — a conditioned reflex.",
+        "he": "שלושה זוגות של בלוטות אקסוקריניות (פרוטיד, תת-לסתיות, תת-לשוניות) המייצרות ומפרישות 0.5–1.5 ליטר רוק ביום. הפרשת הרוק עולה בצורה דרמטית (עד פי 10) במראה, ריח או מחשבה על מזון — רפלקס מותנה."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t12-13",
+      "term": {
+        "en": "Bolus",
+        "he": "גוש מזון (בולוס)"
+      },
+      "definition": {
+        "en": "The soft, rounded ball of chewed food moistened by saliva that is ready to be swallowed. The tongue shapes the bolus and pushes it to the back of the throat to initiate swallowing, a complex reflex involving over 30 muscles.",
+        "he": "כדור המזון הלעוס הרך והעגלגל המורטב על ידי רוק המוכן לבליעה. הלשון מעצבת את הגוש ודוחפת אותו לגב הגרון כדי ליזום בליעה, רפלקס מורכב המערב למעלה מ-30 שרירים."
+      },
+      "category": "physiology"
+    },
+    {
+      "id": "t12-14",
+      "term": {
+        "en": "Fluoride",
+        "he": "פלואוריד"
+      },
+      "definition": {
+        "en": "A mineral that strengthens tooth enamel and inhibits the bacteria responsible for cavities. Fluoride in toothpaste and drinking water has dramatically reduced rates of tooth decay globally; it works by being incorporated into enamel crystals, making them more resistant to acid attack.",
+        "he": "מינרל המחזק את אמייל השן ומעכב את החיידקים האחראים לעששת. פלואוריד בממחה שיניים ובמי שתייה הפחית בצורה דרמטית את שיעורי עששת ברחבי העולם; הוא פועל על ידי שילובו בגבישי האמייל, מה שהופך אותם לעמידים יותר מפני התקפת חומצה."
+      },
+      "category": "biochemistry"
+    },
+    {
+      "id": "t12-15",
+      "term": {
+        "en": "Gum (Gingiva)",
+        "he": "חניכיים"
+      },
+      "definition": {
+        "en": "The pink, firm tissue that surrounds and supports the base of the teeth and covers the jawbone. Healthy gums are essential for tooth retention; gum disease (periodontitis), caused by plaque bacteria, can destroy the supporting bone and lead to tooth loss.",
+        "he": "הרקמה הוורודה והקשה המקיפה ותומכת בבסיס השיניים ומכסה את עצם הלסת. חניכיים בריאות חיוניות לשמירת השיניים; מחלת חניכיים (פריודונטיטיס), הנגרמת מחיידקי פלאק, יכולה להשמיד את העצם התומכת ולהוביל לנשירת שיניים."
+      },
+      "category": "anatomy"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q12-01",
+      "question": {
+        "en": "How many permanent teeth does an adult human typically have?",
+        "he": "כמה שיניים קבועות יש בדרך כלל לאדם מבוגר?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "20",
+            "he": "20"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "28–32",
+            "he": "28–32"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "40",
+            "he": "40"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "16",
+            "he": "16"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Adults typically have 28 permanent teeth; 32 if the four wisdom teeth (third molars) have grown in. Children have 20 deciduous (baby) teeth that are eventually replaced.",
+        "he": "למבוגרים יש בדרך כלל 28 שיניים קבועות; 32 אם ארבע שיני בינה (הטוחנות השלישיות) צמחו. לילדים יש 20 שיניי חלב שמוחלפות בסופו של דבר."
+      }
+    },
+    {
+      "id": "q12-02",
+      "question": {
+        "en": "What enzyme in saliva begins the chemical digestion of carbohydrates?",
+        "he": "איזה אנזים ברוק מתחיל את העיכול הכימי של פחמימות?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Lipase",
+            "he": "ליפאז"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Protease",
+            "he": "פרוטאז"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Amylase",
+            "he": "עמילאז"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Lactase",
+            "he": "לקטאז"
+          }
+        }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Salivary amylase (ptyalin) begins breaking down starch into maltose in the mouth. This is why a piece of bread starts to taste slightly sweet if held in the mouth for a while.",
+        "he": "עמילאז הרוק (פטיאלין) מתחיל לפרק עמילן למלטוז בפה. זו הסיבה שפרוסת לחם מתחילה לטעום מעט מתוק אם מחזיקים אותה בפה זמן מה."
+      }
+    },
+    {
+      "id": "q12-03",
+      "question": {
+        "en": "What causes dental cavities?",
+        "he": "מה גורם לעששת?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Eating too much calcium",
+            "he": "אכילת יותר מדי סידן"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Acids produced by bacteria in the mouth",
+            "he": "חומצות המיוצרות על ידי חיידקים בפה"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Drinking too much water",
+            "he": "שתייה של יותר מדי מים"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Fluoride in toothpaste",
+            "he": "פלואוריד בשמפו שיניים"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Bacteria in dental plaque feed on sugars from food and produce acidic waste products. These acids gradually dissolve the enamel, creating holes (cavities) in the tooth.",
+        "he": "חיידקים בפלאק שיניים מזינים את עצמם בסוכרים מהמזון ומייצרים תוצרי פסולת חומציים. חומצות אלה מתמוססות בהדרגה את האמייל, יוצרות חורים (עששת) בשן."
+      }
+    },
+    {
+      "id": "q12-04",
+      "question": {
+        "en": "What is the hardest substance in the human body?",
+        "he": "מהו החומר הקשה ביותר בגוף האדם?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Bone",
+            "he": "עצם"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Cartilage",
+            "he": "סחוס"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Tooth enamel",
+            "he": "אמייל השן"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Fingernail",
+            "he": "ציפורן"
+          }
+        }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Tooth enamel is the hardest biological material in the human body — even harder than bone. It is composed mainly of a mineral called hydroxyapatite, but unlike bone it cannot regenerate if damaged.",
+        "he": "אמייל השן הוא החומר הביולוגי הקשה ביותר בגוף האדם — אפילו קשה יותר מעצם. הוא מורכב בעיקר ממינרל הנקרא הידרוקסיאפטיט, אבל בניגוד לעצם הוא אינו יכול להתחדש אם ניזוק."
+      }
+    },
+    {
+      "id": "q12-05",
+      "question": {
+        "en": "Which teeth are best for grinding and crushing food?",
+        "he": "אילו שיניים מתאימות ביותר לטחינה וריסוק מזון?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Incisors",
+            "he": "שיניים חותכות"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Canines",
+            "he": "שיניים ניביים"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Molars",
+            "he": "שיניים טוחנות"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Wisdom teeth",
+            "he": "שיני בינה"
+          }
+        }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Molars have broad, flat surfaces with ridges that make them ideal for grinding and crushing food into smaller pieces before swallowing. Humans have 12 molars in total (including wisdom teeth).",
+        "he": "לשיניים הטוחנות יש משטחים רחבים ושטוחים עם שורות המתאימות אותם לטחינה וריסוק מזון לחלקים קטנים יותר לפני הבליעה. לבני אדם יש 12 שיניים טוחנות בסך הכל (כולל שיני בינה)."
+      }
+    },
+    {
+      "id": "q12-06",
+      "question": {
+        "en": "Approximately how many liters of saliva does the human body produce per day?",
+        "he": "כמה ליטר רוק בערך מייצר גוף האדם ביום?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "0.1 liter",
+            "he": "0.1 ליטר"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "0.5–1.5 liters",
+            "he": "0.5–1.5 ליטר"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "5 liters",
+            "he": "5 ליטר"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "10 liters",
+            "he": "10 ליטר"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The salivary glands produce between 0.5 and 1.5 liters of saliva daily. Saliva serves many functions beyond digestion: it lubricates the mouth, kills bacteria with enzymes, and helps form food into a bolus for swallowing.",
+        "he": "בלוטות הרוק מייצרות בין 0.5 ל-1.5 ליטר רוק ביום. הרוק ממלא תפקידים רבים מעבר לעיכול: הוא משמן את הפה, הורג חיידקים עם אנזימים ועוזר לעצב את המזון לגוש לבליעה."
+      }
+    },
+    {
+      "id": "q12-07",
+      "question": {
+        "en": "Why are baby teeth important even though they eventually fall out?",
+        "he": "מדוע שיני חלב חשובות למרות שהן נושרות בסופו של דבר?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "They are not important — only permanent teeth matter",
+            "he": "הן לא חשובות — רק שיניים קבועות חשובות"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "They are needed for chewing, speech development, and holding space for adult teeth",
+            "he": "הן נחוצות ללעיסה, להתפתחות הדיבור ולשמירת מרחב לשיניים הבוגרות"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "They protect the adult teeth forming below them",
+            "he": "הן מגינות על השיניים הבוגרות המתפתחות מתחתן"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "They produce more saliva than adult teeth",
+            "he": "הן מייצרות יותר רוק מאשר שיניים בוגרות"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Baby teeth play multiple critical roles: they enable children to chew food properly for nutrition, help shape the jaw, aid in the development of speech sounds, and most importantly hold space in the jaw for the permanent teeth that will replace them. Premature loss of baby teeth can cause adult teeth to come in crooked.",
+        "he": "שיני חלב ממלאות מספר תפקידים קריטיים: הן מאפשרות לילדים ללעוס מזון כראוי לתזונה, עוזרות לעצב את הלסת, מסייעות בפיתוח צלילי דיבור, וחשוב מכל שומרות מרחב בלסת לשיניים הקבועות שיחליפו אותן. אובדן מוקדם של שיני חלב יכול לגרום לשיניים הבוגרות לצאת עקומות."
+      }
+    },
+    {
+      "id": "q12-08",
+      "question": {
+        "en": "What is dental plaque, and why is it harmful?",
+        "he": "מהו פלאק שיניים, ומדוע הוא מזיק?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "A mineral deposit that strengthens teeth",
+            "he": "שקיעת מינרלים שמחזקת שיניים"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "A sticky bacterial film that produces tooth-eroding acids",
+            "he": "סרט חיידקי דביק המייצר חומצות הסוחפות שיניים"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "A protective coating naturally produced by the body",
+            "he": "ציפוי מגן המיוצר באופן טבעי על ידי הגוף"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "A type of salivary protein",
+            "he": "סוג של חלבון רוק"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Plaque is a biofilm — a community of bacteria embedded in a sticky matrix — that forms on teeth within hours of brushing. The bacteria in plaque ferment sugars and produce lactic acid, which dissolves the mineral content of enamel. Regular brushing and flossing remove plaque before it can cause damage.",
+        "he": "פלאק הוא ביופילם — קהילת חיידקים משובצת במטריצה דביקה — הנוצר על שיניים תוך שעות מצחצוח. החיידקים בפלאק מסיסים סוכרים ומייצרים חומצה לקטית, שמפרקת את תוכן המינרל של האמייל. צחצוח וחוט שיניים קבועים מסירים פלאק לפני שהוא יכול לגרום נזק."
+      }
+    },
+    {
+      "id": "q12-09",
+      "question": {
+        "en": "What role does fluoride play in dental health?",
+        "he": "איזה תפקיד ממלא פלואוריד בבריאות השיניים?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "It whitens teeth",
+            "he": "הוא מלבין שיניים"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "It strengthens enamel and inhibits cavity-causing bacteria",
+            "he": "הוא מחזק אמייל ומעכב חיידקים הגורמים לעששת"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "It replaces lost tooth enamel",
+            "he": "הוא מחליף אמייל שן שאבד"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "It kills all bacteria in the mouth",
+            "he": "הוא הורג את כל החיידקים בפה"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Fluoride is incorporated into the crystal structure of enamel during tooth development and during remineralization, forming fluorapatite — which is more resistant to acid attack than regular hydroxyapatite. It also inhibits the metabolism of cavity-causing bacteria. Its use in toothpaste and water fluoridation has dramatically reduced global tooth decay.",
+        "he": "פלואוריד משולב במבנה הגביש של האמייל במהלך פיתוח השן ובמהלך רמינרליזציה, יוצר פלואורואפטיט — שעמיד יותר לפני התקפת חומצה מאשר הידרוקסיאפטיט רגיל. הוא גם מעכב את חילוף החומרים של חיידקים הגורמים לעששת. השימוש בו בממחה שיניים ובפלואוריזציה של מים הפחית בצורה דרמטית את עששת השיניים העולמית."
+      }
+    },
+    {
+      "id": "q12-10",
+      "question": {
+        "en": "What are taste buds and where are they located?",
+        "he": "מהן ניצניות הטעם ואיפה הן ממוקמות?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Nerve endings in the teeth that detect temperature",
+            "he": "קצות עצב בשיניים המזהות טמפרטורה"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Sensory receptor clusters on the tongue (and palate) that detect tastes",
+            "he": "אשכולות קולטני חישה על הלשון (והחך) המזהים טעמים"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Glands inside the cheeks that produce digestive enzymes",
+            "he": "בלוטות בתוך הלחיים המייצרות אנזימי עיכול"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Microscopic hairs on the roof of the mouth",
+            "he": "שיעור מיקרוסקופי על גג הפה"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Taste buds are clusters of taste receptor cells found mainly in papillae on the tongue, but also on the soft palate and epiglottis. They can detect five primary tastes — sweet, sour, salty, bitter, and umami — and the brain combines taste with smell and texture to create the full experience of flavor.",
+        "he": "ניצניות הטעם הן אשכולות של תאי קולטן טעם הנמצאות בעיקר בפקעיות על הלשון, אך גם על החך הרך והאפיגלוטיס. הן יכולות לזהות חמישה טעמים ראשוניים — מתוק, חמוץ, מלוח, מר ואומאמי — והמוח משלב טעם עם ריח ומרקם ליצירת חוויית הטעם המלאה."
+      }
+    }
+  ],
+  "videoSources": [
+    "1wgr67waRXE",
+    "JdfLfhVdxA8"
+  ]
+}

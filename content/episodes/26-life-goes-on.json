@@ -1,0 +1,342 @@
+{
+  "id": "26-life-goes-on",
+  "episodeNumber": 26,
+  "youtubeId": "AVrD06iGq0Y",
+  "videoSources": ["AVrD06iGq0Y", "uk29ZwF3SR8"],
+  "title": {
+    "en": "Life Goes On",
+    "he": "החיים נמשכים"
+  },
+  "summary": {
+    "en": "This final episode brings together all the themes of the series to celebrate the remarkable complexity and resilience of the human body. It reflects on how the body's many systems — from cells to organs to whole-body coordination — work in concert to sustain life. The episode also explores the stages of human life from childhood through old age, discussing how the body changes and how regular exercise, nutrition, and rest keep it healthy throughout. It ends with an inspiring message about the wonder of life and the body's continuous effort to maintain balance and health.",
+    "he": "הפרק האחרון הזה מכנס את כל נושאי הסדרה לחגוג את המורכבות המרהיבה והחוסן של גוף האדם. הוא משקף כיצד מערכות הגוף הרבות — מתאים לאיברים ועד תיאום הגוף כולו — פועלות יחד לקיום החיים. הפרק גם חוקר את שלבי החיים האנושיים מילדות ועד זקנה, ודן כיצד הגוף משתנה וכיצד פעילות גופנית קבועה, תזונה ומנוחה שומרים עליו בריא לאורך זמן. הוא מסתיים במסר מעורר השראה על פלא החיים ומאמץ הגוף המתמיד לשמור על איזון ובריאות."
+  },
+  "thumbnail": "https://img.youtube.com/vi/AVrD06iGq0Y/maxresdefault.jpg",
+  "durationMinutes": 27,
+  "topics": [
+    "aging",
+    "body systems integration",
+    "healthy lifestyle",
+    "life stages",
+    "homeostasis"
+  ],
+  "terminology": [
+    {
+      "id": "t22-01",
+      "term": { "en": "Homeostasis", "he": "הומאוסטזיס" },
+      "definition": {
+        "en": "The body's ability to maintain a stable internal environment — including temperature, pH, and blood sugar — despite external changes.",
+        "he": "יכולת הגוף לשמור על סביבה פנימית יציבה — כולל טמפרטורה, pH וסוכר בדם — למרות שינויים חיצוניים."
+      },
+      "category": "physiology"
+    },
+    {
+      "id": "t22-02",
+      "term": { "en": "Aging", "he": "הזדקנות" },
+      "definition": {
+        "en": "The gradual biological process of physical and functional decline in the body's cells, tissues, and organs over time.",
+        "he": "התהליך הביולוגי ההדרגתי של ירידה פיזית ותפקודית בתאים, ברקמות ובאיברים של הגוף לאורך זמן."
+      },
+      "category": "physiology"
+    },
+    {
+      "id": "t22-03",
+      "term": { "en": "Metabolism", "he": "מטבוליזם" },
+      "definition": {
+        "en": "All chemical reactions that occur in the body to sustain life, including building molecules (anabolism) and breaking them down for energy (catabolism).",
+        "he": "כל התגובות הכימיות המתרחשות בגוף לקיום החיים, כולל בניית מולקולות (אנבוליזם) ופירוקן לאנרגיה (קטבוליזם)."
+      },
+      "category": "physiology"
+    },
+    {
+      "id": "t22-04",
+      "term": { "en": "Telomere", "he": "טלומר" },
+      "definition": {
+        "en": "A protective cap at the end of each chromosome that shortens with each cell division and is associated with cellular aging.",
+        "he": "כיסוי מגן בקצה כל כרומוזום המתקצר עם כל חלוקת תא וקשור להזדקנות תאית."
+      },
+      "category": "genetics"
+    },
+    {
+      "id": "t22-05",
+      "term": { "en": "Puberty", "he": "גיל ההתבגרות" },
+      "definition": {
+        "en": "The period during which a child's body develops into an adult body capable of reproduction, triggered by hormonal changes.",
+        "he": "התקופה שבה גוף הילד מתפתח לגוף מבוגר המסוגל לרבייה, המופעלת על ידי שינויים הורמונליים."
+      },
+      "category": "development"
+    },
+    {
+      "id": "t22-06",
+      "term": { "en": "Immune Senescence", "he": "ירידה חיסונית הקשורה לגיל" },
+      "definition": {
+        "en": "The gradual deterioration of the immune system that comes with age, leading to increased susceptibility to infections and reduced vaccine effectiveness.",
+        "he": "הידרדרות ההדרגתית של מערכת החיסון עם הגיל, המובילה לרגישות מוגברת לזיהומים ולתגובה מופחתת לחיסונים."
+      },
+      "category": "immunology"
+    },
+    {
+      "id": "t22-07",
+      "term": { "en": "Stem Cells", "he": "תאי גזע" },
+      "definition": {
+        "en": "Undifferentiated cells capable of self-renewal and differentiation into many cell types; key to tissue repair and regenerative medicine.",
+        "he": "תאים לא מתמיינים המסוגלים להתחדש עצמאית ולהתמיין לסוגי תאים רבים; מפתח לתיקון רקמות ורפואה רגנרטיבית."
+      },
+      "category": "cell biology"
+    },
+    {
+      "id": "t22-08",
+      "term": { "en": "Circadian Rhythm", "he": "מחזור יממה (ריתמוס צירקדי)" },
+      "definition": {
+        "en": "The body's internal 24-hour clock that regulates sleep-wake cycles, hormone release, and other physiological processes.",
+        "he": "השעון הפנימי של הגוף לפרק זמן של 24 שעות המווסת מחזורי שינה-ערות, שחרור הורמונים ותהליכים פיזיולוגיים אחרים."
+      },
+      "category": "physiology"
+    },
+    {
+      "id": "t22-09",
+      "term": { "en": "Nutrition", "he": "תזונה" },
+      "definition": {
+        "en": "The process of obtaining and using food to sustain health, providing macronutrients (proteins, fats, carbohydrates) and micronutrients (vitamins, minerals).",
+        "he": "התהליך של השגה ושימוש במזון לקיום הבריאות, המספק מקרו-נוטריאנטים (חלבונים, שומנים, פחמימות) ומיקרו-נוטריאנטים (ויטמינים, מינרלים)."
+      },
+      "category": "health"
+    },
+    {
+      "id": "t22-10",
+      "term": { "en": "Longevity", "he": "אריכות ימים" },
+      "definition": {
+        "en": "A long duration of life, influenced by genetic factors, lifestyle choices, environment, and access to healthcare.",
+        "he": "משך חיים ארוך, המושפע מגורמים גנטיים, בחירות אורח חיים, סביבה וגישה לשירותי בריאות."
+      },
+      "category": "health"
+    },
+    {
+      "id": "t22-11",
+      "term": { "en": "Apoptosis", "he": "אפופטוזה (מוות תאי מתוכנן)" },
+      "definition": {
+        "en": "Programmed cell death — a natural process in which a cell destroys itself in an orderly way when it is damaged, old, or no longer needed, preventing harmful cells from surviving.",
+        "he": "מוות תאי מתוכנן — תהליך טבעי שבו תא משמיד את עצמו בצורה מסודרת כאשר הוא פגוע, ישן או אינו נדרש עוד, ומונע מתאים מזיקים לשרוד."
+      },
+      "category": "cell biology"
+    },
+    {
+      "id": "t22-12",
+      "term": { "en": "Life Expectancy", "he": "תוחלת חיים" },
+      "definition": {
+        "en": "The average number of years a person in a given population is expected to live, influenced by healthcare, diet, environment, and genetics.",
+        "he": "מספר השנים הממוצע שאדם באוכלוסייה נתונה צפוי לחיות, המושפע מטיפול רפואי, תזונה, סביבה וגנטיקה."
+      },
+      "category": "health"
+    },
+    {
+      "id": "t22-13",
+      "term": { "en": "Osteoporosis", "he": "אוסטאופורוזיס (דלדול עצם)" },
+      "definition": {
+        "en": "A condition common in older adults in which bones become weak and brittle due to loss of bone density, increasing the risk of fractures.",
+        "he": "מצב שכיח אצל מבוגרים שבו עצמות נחלשות ושבירות עקב אובדן צפיפות עצם, מה שמגביר את הסיכון לשברים."
+      },
+      "category": "pathology"
+    },
+    {
+      "id": "t22-14",
+      "term": { "en": "Cellular Senescence", "he": "הזדקנות תאית" },
+      "definition": {
+        "en": "A state in which a cell permanently stops dividing — usually because its telomeres have become too short — and releases signals that can cause inflammation in surrounding tissues.",
+        "he": "מצב שבו תא מפסיק לחלוטין להתחלק — בדרך כלל מכיוון שהטלומרים שלו נעשו קצרים מדי — ומשחרר אותות שיכולים לגרום לדלקת ברקמות הסמוכות."
+      },
+      "category": "cell biology"
+    },
+    {
+      "id": "t22-15",
+      "term": { "en": "Life Cycle", "he": "מחזור החיים" },
+      "definition": {
+        "en": "The series of stages a human passes through from birth to death: infancy, childhood, adolescence, adulthood, and old age, each with distinct biological characteristics.",
+        "he": "סדרת השלבים שאדם עובר מלידה עד מוות: ינקות, ילדות, גיל ההתבגרות, בגרות וזקנה, כל אחד עם מאפיינים ביולוגיים ייחודיים."
+      },
+      "category": "development"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q22-01",
+      "question": {
+        "en": "What is homeostasis?",
+        "he": "מהו הומאוסטזיס?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "The process of digesting food", "he": "תהליך עיכול המזון" } },
+        { "id": "b", "text": { "en": "The body's ability to maintain a stable internal environment", "he": "יכולת הגוף לשמור על סביבה פנימית יציבה" } },
+        { "id": "c", "text": { "en": "The growth of new cells to replace old ones", "he": "גדילת תאים חדשים כדי להחליף ישנים" } },
+        { "id": "d", "text": { "en": "The immune response to infection", "he": "התגובה החיסונית לזיהום" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Homeostasis refers to all the mechanisms the body uses to maintain stable internal conditions despite changes in the external environment — including temperature regulation, blood pH, blood sugar, and fluid balance.",
+        "he": "הומאוסטזיס מתייחס לכל המנגנונים שהגוף משתמש בהם לשמירה על תנאים פנימיים יציבים למרות שינויים בסביבה החיצונית — כולל ויסות טמפרטורה, pH דם, סוכר בדם ואיזון נוזלים."
+      }
+    },
+    {
+      "id": "q22-02",
+      "question": {
+        "en": "What are telomeres and what happens to them as we age?",
+        "he": "מהם טלומרים ומה קורה להם כשאנחנו מזדקנים?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "They are protective caps on chromosomes that lengthen with age", "he": "הם כיסויים מגנים על כרומוזומים שמתארכים עם הגיל" } },
+        { "id": "b", "text": { "en": "They are protective caps on chromosomes that shorten with each cell division", "he": "הם כיסויים מגנים על כרומוזומים שמתקצרים עם כל חלוקת תא" } },
+        { "id": "c", "text": { "en": "They are segments of DNA that produce proteins", "he": "הם קטעי DNA המייצרים חלבונים" } },
+        { "id": "d", "text": { "en": "They are structures in the cell membrane", "he": "הם מבנים בממברנת התא" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Telomeres are protective sequences at chromosome ends that shorten slightly with each cell division. When telomeres become too short, the cell can no longer divide and enters senescence or dies — a key factor in the aging process.",
+        "he": "טלומרים הם רצפים מגנים בקצות הכרומוזומים שמתקצרים מעט עם כל חלוקת תא. כאשר הטלומרים הופכים קצרים מדי, התא לא יכול עוד להתחלק ונכנס לזקנה או מת — גורם מרכזי בתהליך ההזדקנות."
+      }
+    },
+    {
+      "id": "q22-03",
+      "question": {
+        "en": "What is the body's internal 24-hour biological clock called?",
+        "he": "כיצד נקרא השעון הביולוגי הפנימי של הגוף ל-24 שעות?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Homeostasis", "he": "הומאוסטזיס" } },
+        { "id": "b", "text": { "en": "Circadian rhythm", "he": "ריתמוס צירקדי" } },
+        { "id": "c", "text": { "en": "Metabolism", "he": "מטבוליזם" } },
+        { "id": "d", "text": { "en": "Peristalsis", "he": "פריסטלטיקה" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The circadian rhythm is the body's natural 24-hour cycle that regulates sleep-wake patterns, body temperature, hormone secretion, and metabolism. It is controlled by a 'master clock' in the brain's suprachiasmatic nucleus.",
+        "he": "הריתמוס הצירקדי הוא המחזור הטבעי של 24 שעות של הגוף המווסת דפוסי שינה-ערות, טמפרטורת גוף, הפרשת הורמונים ומטבוליזם. הוא נשלט על ידי 'שעון ראשי' בגרעין על-כיאסמטי של המוח."
+      }
+    },
+    {
+      "id": "q22-04",
+      "question": {
+        "en": "Which stage of human life is marked by hormonal changes and sexual development?",
+        "he": "איזה שלב בחיי האדם מסומן בשינויים הורמונליים ובהתפתחות מינית?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Infancy", "he": "ינקות" } },
+        { "id": "b", "text": { "en": "Puberty", "he": "גיל ההתבגרות" } },
+        { "id": "c", "text": { "en": "Middle age", "he": "גיל הביניים" } },
+        { "id": "d", "text": { "en": "Old age", "he": "זקנה" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Puberty is the developmental stage — typically between ages 8–13 for girls and 9–14 for boys — when hormones (estrogen/testosterone) trigger physical and sexual maturation, enabling reproduction.",
+        "he": "גיל ההתבגרות הוא שלב ההתפתחות — בדרך כלל בין גיל 8–13 לבנות ו-9–14 לבנים — שבו הורמונים (אסטרוגן/טסטוסטרון) מפעילים הבשלה פיזית ומינית, ומאפשרים רבייה."
+      }
+    },
+    {
+      "id": "q22-05",
+      "question": {
+        "en": "Which lifestyle habits are most important for maintaining long-term health?",
+        "he": "אילו הרגלי אורח חיים הם החשובים ביותר לשמירה על בריאות ארוכת טווח?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Taking many vitamins and supplements", "he": "נטילת ויטמינים ותוספי מזון רבים" } },
+        { "id": "b", "text": { "en": "Regular exercise, balanced nutrition, adequate sleep, and avoiding toxins", "he": "פעילות גופנית קבועה, תזונה מאוזנת, שינה מספקת והימנעות מרעלים" } },
+        { "id": "c", "text": { "en": "Avoiding all physical activity to save energy", "he": "הימנעות מכל פעילות גופנית לחיסכון באנרגיה" } },
+        { "id": "d", "text": { "en": "Eating as much as possible for maximum energy", "he": "אכילת כמה שיותר לאנרגיה מקסימלית" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Research consistently shows that regular physical exercise, a balanced and varied diet, sufficient sleep, stress management, and avoiding harmful substances such as tobacco and excessive alcohol are the most important factors for a long, healthy life.",
+        "he": "מחקרים מראים באופן עקבי שפעילות גופנית קבועה, תזונה מאוזנת ומגוונת, שינה מספקת, ניהול לחץ והימנעות מחומרים מזיקים כגון טבק ואלכוהול מוגזם הם הגורמים החשובים ביותר לחיים ארוכים ובריאים."
+      }
+    },
+    {
+      "id": "q22-06",
+      "question": {
+        "en": "What happens to the immune system as the body ages?",
+        "he": "מה קורה למערכת החיסון כאשר הגוף מזדקן?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "It becomes stronger and more effective", "he": "היא הופכת חזקה ויעילה יותר" } },
+        { "id": "b", "text": { "en": "It gradually weakens, increasing susceptibility to infections", "he": "היא נחלשת בהדרגה, ומגבירה רגישות לזיהומים" } },
+        { "id": "c", "text": { "en": "It remains exactly the same throughout life", "he": "היא נשארת בדיוק אותו הדבר לאורך החיים" } },
+        { "id": "d", "text": { "en": "It disappears entirely after age 60", "he": "היא נעלמת לחלוטין לאחר גיל 60" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Immune senescence is the gradual decline in immune function that occurs with aging. Older adults produce fewer new immune cells, their existing cells respond less vigorously, and vaccines tend to be less effective — which is why elderly people are more vulnerable to severe infections.",
+        "he": "ירידה חיסונית הקשורה לגיל היא הירידה ההדרגתית בתפקוד החיסוני המתרחשת עם הזדקנות. מבוגרים מייצרים פחות תאי חיסון חדשים, התאים הקיימים שלהם מגיבים פחות בנמרצות, וחיסונים נוטים להיות פחות יעילים — זו הסיבה שזקנים פגיעים יותר לזיהומים חמורים."
+      }
+    },
+    {
+      "id": "q22-07",
+      "question": {
+        "en": "What is apoptosis, and why is it important?",
+        "he": "מהי אפופטוזה, ומדוע היא חשובה?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "The process of cell growth during puberty", "he": "תהליך גדילת תאים במהלך גיל ההתבגרות" } },
+        { "id": "b", "text": { "en": "Programmed cell death that removes old, damaged, or dangerous cells in an orderly way", "he": "מוות תאי מתוכנן המסיר תאים ישנים, פגועים או מסוכנים בצורה מסודרת" } },
+        { "id": "c", "text": { "en": "A disease in which cells divide too quickly", "he": "מחלה שבה תאים מתחלקים מהר מדי" } },
+        { "id": "d", "text": { "en": "The process by which stem cells are created", "he": "התהליך שבו נוצרים תאי גזע" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Apoptosis is the body's built-in 'self-destruct' program for cells. When a cell is too old, damaged beyond repair, or potentially cancerous, it receives signals to activate a series of enzymes that break it down safely. This is vital — without apoptosis, damaged cells could survive and become cancerous. In fact, cancer often occurs when apoptosis fails.",
+        "he": "אפופטוזה היא תוכנית ה'השמדה עצמית' המובנית של הגוף לתאים. כאשר תא זקן מדי, פגוע מעבר לתיקון, או עלול להיות סרטני, הוא מקבל אותות להפעיל סדרה של אנזימים שמפרקים אותו בבטחה. זה חיוני — ללא אפופטוזה, תאים פגועים יכלו לשרוד ולהפוך לסרטניים. למעשה, סרטן מתרחש לעיתים קרובות כאשר האפופטוזה נכשלת."
+      }
+    },
+    {
+      "id": "q22-08",
+      "question": {
+        "en": "Why do bones tend to become weaker and more fragile in old age?",
+        "he": "מדוע עצמות נוטות להיחלש ולהיות שבירות יותר בזקנה?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Because people eat less calcium as children", "he": "כי אנשים אוכלים פחות סידן בילדות" } },
+        { "id": "b", "text": { "en": "Because bone-breaking cells become more active than bone-building cells, reducing bone density over time", "he": "כי תאי שבירת העצם הופכים פעילים יותר מתאי בניית העצם, מה שמפחית את צפיפות העצם לאורך זמן" } },
+        { "id": "c", "text": { "en": "Because bones are made of a different material in old age", "he": "כי עצמות עשויות מחומר שונה בזקנה" } },
+        { "id": "d", "text": { "en": "Because the immune system destroys bone tissue", "he": "כי מערכת החיסון משמידה רקמת עצם" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Bone is constantly being rebuilt — osteoblasts (bone-building cells) add new bone while osteoclasts (bone-breaking cells) remove old bone. In youth, these processes are in balance. As we age — especially after menopause in women due to reduced oestrogen — the balance tips toward more breakdown than build-up, reducing bone density. This condition is called osteoporosis and increases the risk of fractures.",
+        "he": "עצם נבנית כל הזמן מחדש — אוסטאובלסטים (תאי בניית עצם) מוסיפים עצם חדשה בעוד אוסטאוקלסטים (תאי שבירת עצם) מסירים עצם ישנה. בצעירות, תהליכים אלה מאוזנים. עם הגיל — במיוחד לאחר גיל המעבר אצל נשים עקב ירידה באסטרוגן — האיזון נוטה לכיוון פירוק רב יותר מבנייה, מה שמפחית את צפיפות העצם. מצב זה נקרא אוסטאופורוזיס ומגביר את הסיכון לשברים."
+      }
+    },
+    {
+      "id": "q22-09",
+      "question": {
+        "en": "What is the role of stem cells in maintaining the body throughout life?",
+        "he": "מה תפקידם של תאי גזע בשמירת הגוף לאורך החיים?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "They produce hormones for the endocrine system", "he": "הם מייצרים הורמונים למערכת האנדוקרין" } },
+        { "id": "b", "text": { "en": "They continuously replace worn-out cells in tissues like the skin, blood, and gut lining", "he": "הם מחליפים ברציפות תאים בלויים ברקמות כמו עור, דם ורירית המעי" } },
+        { "id": "c", "text": { "en": "They produce antibodies to fight infections", "he": "הם מייצרים נוגדנים להילחם בזיהומים" } },
+        { "id": "d", "text": { "en": "They only become active after an injury", "he": "הם מופעלים רק לאחר פגיעה" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Adult stem cells are found in many tissues and serve as a constant source of replacement cells. For example, stem cells in bone marrow produce millions of new blood cells every day; stem cells in the skin replace surface cells that are constantly shed; and stem cells in the intestinal lining renew the gut surface every few days. This regenerative activity naturally slows with age.",
+        "he": "תאי גזע בוגרים נמצאים ברקמות רבות ומשמשים כמקור קבוע לתאי חלופה. לדוגמה, תאי גזע במח העצם מייצרים מיליוני תאי דם חדשים כל יום; תאי גזע בעור מחליפים תאי פני השטח שנושרים ברציפות; ותאי גזע ברירית המעי מחדשים את פני השטח של המעי כל כמה ימים. פעילות רגנרטיבית זו מואטת באופן טבעי עם הגיל."
+      }
+    },
+    {
+      "id": "q22-10",
+      "question": {
+        "en": "Which of the following best describes the human life cycle?",
+        "he": "מה מהבאים מתאר בצורה הטובה ביותר את מחזור החיים האנושי?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Birth, growth, and immediate death", "he": "לידה, גדילה ומוות מיידי" } },
+        { "id": "b", "text": { "en": "Infancy, childhood, adolescence, adulthood, and old age — each with distinct biological characteristics", "he": "ינקות, ילדות, גיל ההתבגרות, בגרות וזקנה — כל אחת עם מאפיינים ביולוגיים ייחודיים" } },
+        { "id": "c", "text": { "en": "A single long stage of growth that never changes", "he": "שלב גדילה ארוך אחד שלא משתנה לעולם" } },
+        { "id": "d", "text": { "en": "Only two stages: childhood and adulthood", "he": "שני שלבים בלבד: ילדות ובגרות" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The human life cycle is divided into distinct stages, each marked by specific biological events. Infancy (0–2 years) is a period of rapid growth and brain development. Childhood (3–12) is marked by continued growth and learning. Adolescence brings puberty. Adulthood is the period of peak physical function and reproduction. Old age involves gradual decline in cellular and organ function. Understanding each stage helps us appreciate how remarkable the human body truly is.",
+        "he": "מחזור החיים האנושי מחולק לשלבים נפרדים, כל אחד מסומן באירועים ביולוגיים ספציפיים. ינקות (0–2 שנים) היא תקופת גדילה מהירה והתפתחות מוחית. ילדות (3–12) מסומנת בהמשך גדילה ולמידה. גיל ההתבגרות מביא את הבגרות המינית. הבגרות היא תקופת שיא התפקוד הפיזי והרבייה. הזקנה כרוכה בירידה הדרגתית בתפקוד התאי והאיברים. הבנת כל שלב עוזרת לנו להעריך כמה מרהיב גוף האדם באמת."
+      }
+    }
+  ]
+}

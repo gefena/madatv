@@ -1,0 +1,629 @@
+{
+  "id": "07-the-heart",
+  "episodeNumber": 7,
+  "youtubeId": "TLdKY6JxCHI",
+  "title": {
+    "en": "The Heart",
+    "he": "הלב"
+  },
+  "summary": {
+    "en": "This episode takes viewers inside the human heart — the tireless muscular pump that keeps blood circulating throughout the body. It explains the heart's four chambers, the valves that control blood flow, and how the electrical conduction system coordinates each heartbeat. The episode also traces both pulmonary circulation (heart to lungs and back) and systemic circulation (heart to the rest of the body), showing how the heart manages two separate circuits simultaneously. The coronary arteries that supply the heart muscle itself with oxygen-rich blood are examined, as is what happens when they become blocked. It emphasizes how the heart beats about 100,000 times per day without ever resting, and how lifestyle factors profoundly influence heart health over a lifetime.",
+    "he": "פרק זה לוקח את הצופים אל תוך הלב האנושי — משאבת השרירים הבלתי נלאית שמחזיקה את הדם במחזור בכל הגוף. הוא מסביר את ארבעת חדרי הלב, המסתמים השולטים בזרימת הדם, וכיצד מערכת ההולכה החשמלית מתאמת כל פעימת לב. הפרק גם עוקב אחרי מחזור הדם הריאתי (לב לריאות ובחזרה) ומחזור הדם הסיסטמי (לב לשאר הגוף), ומראה כיצד הלב מנהל שני מעגלים נפרדים בו זמנית. נבחנים העורקים הכליליים המספקים לשריר הלב עצמו דם עשיר בחמצן, וכן מה קורה כשהם נחסמים. הוא מדגיש כיצד הלב פועם כ-100,000 פעמים ביום מבלי לנוח לעולם, וכיצד גורמי אורח חיים משפיעים עמוקות על בריאות הלב לאורך החיים."
+  },
+  "thumbnail": "https://img.youtube.com/vi/TLdKY6JxCHI/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": [
+    "heart anatomy",
+    "cardiac cycle",
+    "circulation",
+    "heartbeat"
+  ],
+  "terminology": [
+    {
+      "id": "t07-01",
+      "term": {
+        "en": "Heart",
+        "he": "לב"
+      },
+      "definition": {
+        "en": "A hollow muscular organ that pumps blood through the body's circulatory system by rhythmic contraction and relaxation. Located in the chest between the lungs, the adult heart weighs about 300 grams and beats approximately 100,000 times per day.",
+        "he": "איבר שרירי חלול המשאב דם דרך מערכת הדם של הגוף באמצעות התכווצות והרפיה קצביות. הממוקם בחזה בין הריאות, לב מבוגר שוקל כ-300 גרם ופועם כ-100,000 פעמים ביום."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t07-02",
+      "term": {
+        "en": "Ventricle",
+        "he": "חדר הלב"
+      },
+      "definition": {
+        "en": "One of the two lower chambers of the heart that pump blood out to the lungs (right) or body (left). The left ventricle has thicker walls than the right because it must generate much higher pressure to push blood to the entire body.",
+        "he": "אחד משני החדרים התחתונים של הלב המשאבים דם לריאות (ימין) או לגוף (שמאל). לחדר השמאלי יש דפנות עבות יותר מהימני מכיוון שהוא חייב לייצר לחץ גבוה הרבה יותר כדי לדחוף דם לכל הגוף."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t07-03",
+      "term": {
+        "en": "Atrium",
+        "he": "עלייה (פרוזדור)"
+      },
+      "definition": {
+        "en": "One of the two upper chambers of the heart that receive blood — the right from the body, the left from the lungs. The atria have thinner walls than the ventricles because they only need to push blood a short distance into the ventricles below.",
+        "he": "אחד משני החדרים העליונים של הלב המקבלים דם — הימני מהגוף, השמאלי מהריאות. לעליות יש דפנות דקות יותר מהחדרים מכיוון שהן צריכות רק לדחוף דם מרחק קצר לחדרים שמתחת."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t07-04",
+      "term": {
+        "en": "Cardiac Valve",
+        "he": "מסתם לב"
+      },
+      "definition": {
+        "en": "A flap of tissue in the heart that opens and closes to ensure blood flows in only one direction through the heart's chambers. The four valves are the mitral, tricuspid, aortic, and pulmonary valves; their opening and closing produces the 'lub-dub' sound of the heartbeat.",
+        "he": "תפרחת רקמה בלב הנפתחת ונסגרת כדי להבטיח שהדם יזרום רק בכיוון אחד דרך חדרי הלב. ארבעת המסתמים הם המיטרלי, התלת-צניפי, האאורטי והריאתי; פתיחתם וסגירתם מייצרות את הצליל 'לוב-דוב' של פעימת הלב."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t07-05",
+      "term": {
+        "en": "Cardiac Muscle (Myocardium)",
+        "he": "שריר הלב (מיוקרד)"
+      },
+      "definition": {
+        "en": "The specialized involuntary muscle tissue of the heart wall that contracts rhythmically without tiring. Unlike skeletal muscle, cardiac muscle cells are interconnected by gap junctions, allowing the entire heart to contract in a coordinated wave.",
+        "he": "רקמת השריר הלא-רצוני המיוחדת של דופן הלב המתכווצת בקצביות ללא עייפות. בניגוד לשריר שלד, תאי שריר הלב מחוברים זה לזה על ידי צמתי פערים, המאפשרים ללב כולו להתכווץ בגל מתואם."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t07-06",
+      "term": {
+        "en": "Sinoatrial (SA) Node",
+        "he": "קוצב הלב הטבעי (SA צומת)"
+      },
+      "definition": {
+        "en": "The heart's natural pacemaker — a group of cells in the right atrium that generates the electrical impulse triggering each heartbeat. The SA node fires spontaneously about 60–100 times per minute and coordinates contraction through the atrioventricular (AV) node and Purkinje fibers.",
+        "he": "קוצב הלב הטבעי — קבוצת תאים בעלייה הימנית המייצרים את הדחף החשמלי המפעיל כל פעימת לב. צומת SA יורה ספונטנית כ-60–100 פעמים בדקה ומתאם התכווצות דרך צומת הAV וסיבי פורקינג'ה."
+      },
+      "category": "physiology"
+    },
+    {
+      "id": "t07-07",
+      "term": {
+        "en": "Pulmonary Circulation",
+        "he": "מחזור הדם הריאתי"
+      },
+      "definition": {
+        "en": "The circuit that carries deoxygenated blood from the right heart to the lungs for oxygenation and returns it to the left heart. This is a low-pressure circuit; the right ventricle pumps blood just a short distance to the adjacent lungs.",
+        "he": "המעגל המוביל דם דל חמצן מהלב הימני לריאות להחמצנה ומחזיר אותו ללב השמאלי. זהו מעגל לחץ נמוך; החדר הימני משאב דם למרחק קצר בלבד לריאות הסמוכות."
+      },
+      "category": "physiology"
+    },
+    {
+      "id": "t07-08",
+      "term": {
+        "en": "Systemic Circulation",
+        "he": "מחזור הדם הסיסטמי"
+      },
+      "definition": {
+        "en": "The circuit that carries oxygenated blood from the left heart to all body tissues and returns deoxygenated blood to the right heart. The aorta is the main artery of this circuit, and it must carry blood all the way to the feet — requiring the left ventricle to pump at high pressure.",
+        "he": "המעגל המוביל דם מחומצן מהלב השמאלי לכל רקמות הגוף ומחזיר דם דל חמצן ללב הימני. האאורטה היא העורק הראשי של מעגל זה, והיא חייבת להוביל דם עד הרגליים — מה שדורש מהחדר השמאלי לשאוב בלחץ גבוה."
+      },
+      "category": "physiology"
+    },
+    {
+      "id": "t07-09",
+      "term": {
+        "en": "Heart Rate",
+        "he": "קצב לב"
+      },
+      "definition": {
+        "en": "The number of times the heart beats per minute; typically 60–100 beats per minute in a resting adult. Athletes often have lower resting heart rates (as low as 40 bpm) because their hearts pump more blood per beat and do not need to beat as frequently.",
+        "he": "מספר הפעמים שהלב פועם בדקה; בדרך כלל 60–100 פעימות לדקה במבוגר במנוחה. לספורטאים יש לרוב קצב לב מנוחה נמוך יותר (עד 40 פעימות לדקה) מכיוון שלבם משאב יותר דם בכל פעימה ואינו צריך לפעום בתדירות כה גבוהה."
+      },
+      "category": "physiology"
+    },
+    {
+      "id": "t07-10",
+      "term": {
+        "en": "Heart Attack (Myocardial Infarction)",
+        "he": "התקף לב (אוטם שריר הלב)"
+      },
+      "definition": {
+        "en": "A medical emergency in which blood supply to part of the heart muscle is blocked, causing heart tissue to die. Most heart attacks are caused by a blood clot forming on a ruptured atherosclerotic plaque inside a coronary artery.",
+        "he": "מצב חירום רפואי שבו אספקת הדם לחלק משריר הלב נחסמת, וגורמת למות רקמת הלב. רוב התקפי הלב נגרמים על ידי קריש דם הנוצר על לוחה טרשתית סדוקה בתוך עורק כלילי."
+      },
+      "category": "pathology"
+    },
+    {
+      "id": "t07-11",
+      "term": {
+        "en": "Coronary Arteries",
+        "he": "עורקים כליליים"
+      },
+      "definition": {
+        "en": "The blood vessels that supply oxygenated blood to the heart muscle itself. They branch from the base of the aorta just above the aortic valve; if they become narrowed by atherosclerosis, the result is coronary artery disease.",
+        "he": "כלי הדם המספקים דם מחומצן לשריר הלב עצמו. הם מסתעפים מבסיס האאורטה ממש מעל למסתם האאורטי; אם הם מצטמצמים על ידי טרשת עורקים, התוצאה היא מחלת לב כלילית."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t07-12",
+      "term": {
+        "en": "Stroke Volume",
+        "he": "נפח פליטה"
+      },
+      "definition": {
+        "en": "The amount of blood pumped out of the left ventricle with each heartbeat, typically about 70 mL at rest. Cardiac output is calculated by multiplying stroke volume by heart rate and determines how much blood the heart supplies per minute.",
+        "he": "כמות הדם הנשאבת מהחדר השמאלי עם כל פעימת לב, בדרך כלל כ-70 מ\"ל במנוחה. תפוקת הלב מחושבת על ידי כפל נפח הפליטה בקצב הלב וקובעת כמה דם הלב מספק בדקה."
+      },
+      "category": "physiology"
+    },
+    {
+      "id": "t07-13",
+      "term": {
+        "en": "Atherosclerosis",
+        "he": "טרשת עורקים"
+      },
+      "definition": {
+        "en": "The gradual buildup of fatty plaques (composed of cholesterol, immune cells, and fibrous tissue) on the inner walls of arteries, narrowing them and reducing blood flow. It is the underlying cause of most heart attacks and strokes.",
+        "he": "הצטברות הדרגתית של לוחות שומניים (המורכבים מכולסטרול, תאי חיסון ורקמה סיבית) על הדפנות הפנימיות של עורקים, המצמצמת אותם ומפחיתה את זרימת הדם. זוהי הגורם הבסיסי לרוב התקפי הלב והשבצים."
+      },
+      "category": "pathology"
+    },
+    {
+      "id": "t07-14",
+      "term": {
+        "en": "Cardiac Cycle",
+        "he": "מחזור הלב"
+      },
+      "definition": {
+        "en": "The sequence of events in one complete heartbeat, consisting of diastole (relaxation and filling) and systole (contraction and pumping). One complete cycle takes about 0.8 seconds at a resting heart rate.",
+        "he": "רצף האירועים בפעימת לב אחת שלמה, המורכב מדיאסטולה (הרפיה ומילוי) וסיסטולה (התכווצות ושאיבה). מחזור שלם אחד אורך כ-0.8 שניות בקצב לב מנוחה."
+      },
+      "category": "physiology"
+    },
+    {
+      "id": "t07-15",
+      "term": {
+        "en": "Arrhythmia",
+        "he": "הפרעת קצב לב"
+      },
+      "definition": {
+        "en": "An abnormal heart rhythm caused by disruptions to the electrical conduction system, ranging from harmless extra beats to life-threatening ventricular fibrillation. Treatment may include medications, cardioversion, or implantable pacemakers.",
+        "he": "קצב לב לא תקין הנגרם מהפרעות במערכת ההולכה החשמלית, ונע בין פעימות עודפות לא מזיקות לפרפור חדרים מסכן חיים. הטיפול עשוי לכלול תרופות, קרדיווברזיה או קוצבי לב מושתלים."
+      },
+      "category": "pathology"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q07-01",
+      "question": {
+        "en": "How many chambers does the human heart have?",
+        "he": "כמה חדרים יש ללב האנושי?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Two",
+            "he": "שניים"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Three",
+            "he": "שלושה"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Four",
+            "he": "ארבעה"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Six",
+            "he": "שישה"
+          }
+        }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "The human heart has four chambers: two upper atria (right and left) that receive blood, and two lower ventricles (right and left) that pump blood out to the lungs and body.",
+        "he": "ללב האנושי ארבעה חדרים: שתי עליות עליונות (ימין ושמאל) המקבלות דם, ושני חדרים תחתונים (ימין ושמאל) המשאבים דם לריאות ולגוף."
+      }
+    },
+    {
+      "id": "q07-02",
+      "question": {
+        "en": "Approximately how many times does the heart beat per day?",
+        "he": "כמה פעמים בערך הלב פועם ביום?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "10,000 times",
+            "he": "10,000 פעמים"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "100,000 times",
+            "he": "100,000 פעמים"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "1 million times",
+            "he": "מיליון פעמים"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "500,000 times",
+            "he": "500,000 פעמים"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The heart beats about 60–100 times per minute, which adds up to approximately 100,000 beats per day. Over a lifetime, it beats more than 2.5 billion times.",
+        "he": "הלב פועם כ-60–100 פעמים בדקה, מה שמסתכם בכ-100,000 פעימות ביום. לאורך חיים, הוא פועם יותר מ-2.5 מיליארד פעמים."
+      }
+    },
+    {
+      "id": "q07-03",
+      "question": {
+        "en": "What is the name of the heart's natural pacemaker?",
+        "he": "מה שמו של קוצב הלב הטבעי?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Atrioventricular (AV) node",
+            "he": "צומת AV"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Sinoatrial (SA) node",
+            "he": "צומת SA"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "His bundle",
+            "he": "צרור היס"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Purkinje fibers",
+            "he": "סיבי פורקינג'ה"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The sinoatrial (SA) node is a cluster of specialized cells in the right atrium that spontaneously generates electrical impulses, setting the pace for each heartbeat.",
+        "he": "צומת הסינוס-פרוזדור (SA) הוא אשכול תאים מיוחדים בעלייה הימנית שמייצר ספונטנית דחפים חשמליים, קובע את הקצב לכל פעימת לב."
+      }
+    },
+    {
+      "id": "q07-04",
+      "question": {
+        "en": "What does pulmonary circulation do?",
+        "he": "מה עושה מחזור הדם הריאתי?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Carries blood from the heart to all body tissues",
+            "he": "מוביל דם מהלב לכל רקמות הגוף"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Carries deoxygenated blood to the lungs to be oxygenated",
+            "he": "מוביל דם דל חמצן לריאות להחמצנה"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Supplies blood to the heart muscle itself",
+            "he": "מספק דם לשריר הלב עצמו"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Removes waste from the kidneys",
+            "he": "מסיר פסולת מהכליות"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Pulmonary circulation carries oxygen-depleted blood from the right side of the heart to the lungs, where it picks up oxygen and releases carbon dioxide, then returns to the left side of the heart.",
+        "he": "מחזור הדם הריאתי מוביל דם דל חמצן מהצד הימני של הלב לריאות, שם הוא קולט חמצן ומשחרר פחמן דו-חמצני, ואז חוזר לצד השמאלי של הלב."
+      }
+    },
+    {
+      "id": "q07-05",
+      "question": {
+        "en": "What is the function of the valves inside the heart?",
+        "he": "מה תפקידם של המסתמים בתוך הלב?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "To generate the electrical impulse for each beat",
+            "he": "לייצר את הדחף החשמלי לכל פעימה"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "To ensure blood flows in one direction only",
+            "he": "להבטיח שהדם יזרום רק בכיוון אחד"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "To oxygenate the blood",
+            "he": "להחמצן את הדם"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "To filter waste from the blood",
+            "he": "לסנן פסולת מהדם"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The four heart valves (mitral, tricuspid, aortic, and pulmonary) open and close with each heartbeat to keep blood flowing forward through the chambers and prevent it from flowing backwards.",
+        "he": "ארבעת מסתמי הלב (מיטרלי, תלת-צניפי, אאורטי וריאתי) נפתחים ונסגרים עם כל פעימת לב כדי לשמור על זרימת הדם קדימה דרך החדרים ולמנוע ממנו לזרום לאחור."
+      }
+    },
+    {
+      "id": "q07-06",
+      "question": {
+        "en": "What causes a heart attack?",
+        "he": "מה גורם להתקף לב?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "The heart beating too fast",
+            "he": "הלב פועם מהר מדי"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Blockage of blood supply to part of the heart muscle",
+            "he": "חסימת אספקת הדם לחלק משריר הלב"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Too much blood reaching the heart",
+            "he": "יותר מדי דם מגיע ללב"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Infection of the heart valves",
+            "he": "זיהום של מסתמי הלב"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "A heart attack (myocardial infarction) occurs when a coronary artery becomes blocked, cutting off the blood supply to part of the heart muscle. Without oxygen, that heart tissue begins to die.",
+        "he": "התקף לב (אוטם שריר הלב) מתרחש כאשר עורק כלילי נחסם, מנתק את אספקת הדם לחלק משריר הלב. ללא חמצן, רקמת הלב הזו מתחילה למות."
+      }
+    },
+    {
+      "id": "q07-07",
+      "question": {
+        "en": "Why does the left ventricle have thicker walls than the right ventricle?",
+        "he": "מדוע לחדר השמאלי יש דפנות עבות יותר מהחדר הימני?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "It pumps blood to the lungs, which are nearby",
+            "he": "הוא שואב דם לריאות שנמצאות בקרבת מקום"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "It must generate high pressure to pump blood to the entire body",
+            "he": "הוא חייב לייצר לחץ גבוה לשאיבת דם לכל הגוף"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "It holds more blood than the right ventricle",
+            "he": "הוא מכיל יותר דם מהחדר הימני"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "It beats at a different rate than the right ventricle",
+            "he": "הוא פועם בקצב שונה מהחדר הימני"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The left ventricle pumps blood through the systemic circulation — all the way around the body to the toes and back. This requires much greater pressure than pumping to the nearby lungs, so the left ventricle develops much thicker, more muscular walls.",
+        "he": "החדר השמאלי שואב דם דרך מחזור הדם הסיסטמי — בכל הגוף עד לאצבעות הרגליים ובחזרה. זה דורש לחץ גדול הרבה יותר מאשר שאיבה לריאות הסמוכות, ולכן החדר השמאלי מפתח דפנות עבות ושרירותיות הרבה יותר."
+      }
+    },
+    {
+      "id": "q07-08",
+      "question": {
+        "en": "What are the coronary arteries?",
+        "he": "מהם העורקים הכליליים?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Arteries that carry blood from the heart to the lungs",
+            "he": "עורקים המובילים דם מהלב לריאות"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Arteries that supply the heart muscle itself with oxygenated blood",
+            "he": "עורקים המספקים לשריר הלב עצמו דם מחומצן"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Arteries that connect the heart to the kidneys",
+            "he": "עורקים המחברים את הלב לכליות"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "The main vein returning blood to the heart",
+            "he": "הורִיד הראשי המחזיר דם ללב"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The coronary arteries branch from the root of the aorta and wrap around the heart to supply the myocardium with oxygen and nutrients. Narrowing of these arteries due to atherosclerosis causes coronary artery disease.",
+        "he": "העורקים הכליליים מסתעפים משורש האאורטה ומתכרכים סביב הלב כדי לספק למיוקרד חמצן וחומרי מזון. היצרות עורקים אלה עקב טרשת עורקים גורמת למחלת לב כלילית."
+      }
+    },
+    {
+      "id": "q07-09",
+      "question": {
+        "en": "What is atherosclerosis?",
+        "he": "מהי טרשת עורקים?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Hardening of the veins",
+            "he": "התקשות הוורידים"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Buildup of fatty plaques inside artery walls that narrows blood flow",
+            "he": "הצטברות לוחות שומניים בתוך דפנות העורקים המצמצמת את זרימת הדם"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Inflammation of the heart valves",
+            "he": "דלקת של מסתמי הלב"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Abnormal heart rhythm",
+            "he": "קצב לב לא תקין"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Atherosclerosis develops when cholesterol-rich plaques build up inside artery walls over years. The plaques narrow the vessel and can rupture, triggering a blood clot that causes a heart attack or stroke.",
+        "he": "טרשת עורקים מתפתחת כאשר לוחות עשירות בכולסטרול מצטברות בתוך דפנות העורקים לאורך שנים. הלוחות מצמצמות את כלי הדם ויכולות להיסדק, ומפעילות קריש דם שגורם להתקף לב או שבץ."
+      }
+    },
+    {
+      "id": "q07-10",
+      "question": {
+        "en": "What does a resting heart rate below 60 bpm in an athlete indicate?",
+        "he": "מה מעיד קצב לב מנוחה מתחת ל-60 פעימות לדקה אצל ספורטאי?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "A dangerous heart condition",
+            "he": "מצב לב מסוכן"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "A strong, efficient heart that pumps more blood per beat",
+            "he": "לב חזק ויעיל המשאב יותר דם בכל פעימה"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Low blood pressure",
+            "he": "לחץ דם נמוך"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Dehydration",
+            "he": "התייבשות"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Regular aerobic exercise strengthens the heart muscle, increasing the stroke volume — the amount of blood pumped per beat. Because each beat delivers more blood, the heart does not need to beat as frequently, resulting in a lower resting heart rate — a sign of cardiovascular fitness.",
+        "he": "פעילות גופנית אירובית קבועה מחזקת את שריר הלב ומגדילה את נפח הפליטה — כמות הדם הנשאבת בכל פעימה. מכיוון שכל פעימה מספקת יותר דם, הלב אינו צריך לפעום בתדירות כה גבוהה, מה שגורם לקצב לב מנוחה נמוך יותר — סימן לכושר לב-ריאה."
+      }
+    }
+  ],
+  "videoSources": [
+    "TLdKY6JxCHI",
+    "37q3hvxvldg"
+  ]
+}

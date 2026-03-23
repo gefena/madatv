@@ -1,0 +1,342 @@
+{
+  "id": "24-the-chain-of-life",
+  "episodeNumber": 24,
+  "youtubeId": "wnXHupddGq0",
+  "videoSources": ["wnXHupddGq0", "JxO7fJ0spR0"],
+  "title": {
+    "en": "The Chain of Life",
+    "he": "שרשרת החיים"
+  },
+  "summary": {
+    "en": "This episode explores human reproduction and the genetic chain that passes life from one generation to the next. It explains the structure and function of the male and female reproductive systems, and how sperm and egg cells are specially formed through meiosis to carry half the usual number of chromosomes. The episode traces the journey of fertilization, early cell division, and how a unique individual is created from the combination of two parents' genetic material. It also introduces concepts of heredity — how traits are inherited and how DNA serves as the blueprint passed down through generations.",
+    "he": "פרק זה חוקר את רבייה האנושית ואת שרשרת הגנטיקה שמעבירה חיים מדור לדור. הוא מסביר את המבנה והתפקוד של מערכות הרבייה הזכרית והנקבית, וכיצד תאי זרע וביצית נוצרים באופן מיוחד דרך מיוזה כדי לשאת מחצית ממספר הכרומוזומים הרגיל. הפרק עוקב אחרי מסע ההפריה, חלוקת התאים המוקדמת, וכיצד נוצר פרט ייחודי משילוב החומר הגנטי של שני ההורים. הוא גם מציג את מושגי הירושה — כיצד תכונות מתורשות וכיצד DNA משמש כתוכנית העוברת לדורות."
+  },
+  "thumbnail": "https://img.youtube.com/vi/wnXHupddGq0/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": [
+    "reproduction",
+    "genetics",
+    "heredity",
+    "meiosis",
+    "DNA inheritance"
+  ],
+  "terminology": [
+    {
+      "id": "t21-01",
+      "term": { "en": "Meiosis", "he": "מיוזה" },
+      "definition": {
+        "en": "A type of cell division that produces sex cells (gametes) with half the normal chromosome number (23 instead of 46).",
+        "he": "סוג של חלוקת תאים המייצרת תאי מין (גמטות) עם מחצית ממספר הכרומוזומים הרגיל (23 במקום 46)."
+      },
+      "category": "genetics"
+    },
+    {
+      "id": "t21-02",
+      "term": { "en": "Gamete", "he": "גמטה" },
+      "definition": {
+        "en": "A mature reproductive cell (sperm or egg) containing 23 chromosomes that fuses with another gamete during fertilization.",
+        "he": "תא רבייה בשל (זרע או ביצית) המכיל 23 כרומוזומים ומתמזג עם גמטה אחרת במהלך ההפריה."
+      },
+      "category": "genetics"
+    },
+    {
+      "id": "t21-03",
+      "term": { "en": "Gene", "he": "גן" },
+      "definition": {
+        "en": "A segment of DNA that carries the instructions for making a specific protein and determines a particular trait or biological function.",
+        "he": "קטע DNA הנושא את ההוראות לייצור חלבון ספציפי וקובע תכונה מסוימת או תפקוד ביולוגי."
+      },
+      "category": "genetics"
+    },
+    {
+      "id": "t21-04",
+      "term": { "en": "Chromosome", "he": "כרומוזום" },
+      "definition": {
+        "en": "A tightly coiled structure of DNA and proteins; humans have 46 chromosomes in 23 pairs, one set from each parent.",
+        "he": "מבנה של DNA וחלבונים המפותל בצפיפות; לבני אדם יש 46 כרומוזומים ב-23 זוגות, סדרה אחת מכל הורה."
+      },
+      "category": "genetics"
+    },
+    {
+      "id": "t21-05",
+      "term": { "en": "Heredity", "he": "תורשה" },
+      "definition": {
+        "en": "The biological process by which traits and genetic information are passed from parents to their offspring.",
+        "he": "התהליך הביולוגי שבו תכונות ומידע גנטי מועברים מהורים לצאצאיהם."
+      },
+      "category": "genetics"
+    },
+    {
+      "id": "t21-06",
+      "term": { "en": "Dominant and Recessive Alleles", "he": "אלל דומיננטי ורצסיבי" },
+      "definition": {
+        "en": "Different versions of a gene. A dominant allele masks the effect of a recessive allele when both are present.",
+        "he": "גרסאות שונות של גן. אלל דומיננטי מסתיר את השפעת האלל הרצסיבי כאשר שניהם נוכחים."
+      },
+      "category": "genetics"
+    },
+    {
+      "id": "t21-07",
+      "term": { "en": "Sex Chromosomes", "he": "כרומוזומי מין" },
+      "definition": {
+        "en": "The X and Y chromosomes that determine biological sex; females have XX and males have XY.",
+        "he": "כרומוזומי X ו-Y הקובעים את המין הביולוגי; לנקבות יש XX ולזכרים יש XY."
+      },
+      "category": "genetics"
+    },
+    {
+      "id": "t21-08",
+      "term": { "en": "Genetic Mutation", "he": "מוטציה גנטית" },
+      "definition": {
+        "en": "A change in the DNA sequence that may affect how a gene functions, sometimes causing inherited diseases.",
+        "he": "שינוי ברצף ה-DNA שעשוי להשפיע על תפקוד גן, ולעיתים גורם למחלות תורשתיות."
+      },
+      "category": "genetics"
+    },
+    {
+      "id": "t21-09",
+      "term": { "en": "Ovulation", "he": "ביוץ" },
+      "definition": {
+        "en": "The monthly release of a mature egg from the ovary into the fallopian tube, where it may be fertilized.",
+        "he": "שחרור חודשי של ביצית בשלה מהשחלה לחצוצרה, שבה היא עשויה להיות מופרית."
+      },
+      "category": "reproduction"
+    },
+    {
+      "id": "t21-10",
+      "term": { "en": "Sperm Cell", "he": "תא זרע" },
+      "definition": {
+        "en": "The male reproductive cell produced in the testes, with a head containing DNA and a tail for swimming toward the egg.",
+        "he": "תא הרבייה הזכרי המיוצר באשכים, עם ראש המכיל DNA וזנב לשחייה לכיוון הביצית."
+      },
+      "category": "reproduction"
+    },
+    {
+      "id": "t21-11",
+      "term": { "en": "Fertilization", "he": "הפריה" },
+      "definition": {
+        "en": "The fusion of a sperm cell and an egg cell to form a zygote — the first cell of a new individual — containing a full set of 46 chromosomes.",
+        "he": "מיזוג של תא זרע ותא ביצית ליצירת זיגוטה — התא הראשון של פרט חדש — המכיל סט מלא של 46 כרומוזומים."
+      },
+      "category": "reproduction"
+    },
+    {
+      "id": "t21-12",
+      "term": { "en": "Zygote", "he": "זיגוטה" },
+      "definition": {
+        "en": "The single cell formed when a sperm and egg fuse during fertilization; it contains the complete genetic blueprint for a new human being.",
+        "he": "התא היחיד הנוצר כאשר זרע וביצית מתמזגים בהפריה; הוא מכיל את התוכנית הגנטית המלאה לאדם חדש."
+      },
+      "category": "reproduction"
+    },
+    {
+      "id": "t21-13",
+      "term": { "en": "DNA (Deoxyribonucleic Acid)", "he": "DNA (חומצה דאוקסיריבונוקלאית)" },
+      "definition": {
+        "en": "The molecule that carries the genetic instructions for the development, function, and reproduction of all known living organisms; it is shaped like a twisted ladder (double helix).",
+        "he": "המולקולה הנושאת את ההוראות הגנטיות להתפתחות, תפקוד ורבייה של כל האורגניזמים החיים הידועים; היא בצורת סולם מפותל (סליל כפול)."
+      },
+      "category": "genetics"
+    },
+    {
+      "id": "t21-14",
+      "term": { "en": "Mitosis", "he": "מיטוזה" },
+      "definition": {
+        "en": "The type of cell division used for growth and repair in which one cell divides into two genetically identical daughter cells, each with the full 46 chromosomes.",
+        "he": "סוג חלוקת התאים המשמש לגדילה ותיקון שבו תא אחד מתחלק לשני תאי בת זהים גנטית, כל אחד עם 46 הכרומוזומים המלאים."
+      },
+      "category": "cell biology"
+    },
+    {
+      "id": "t21-15",
+      "term": { "en": "Genome", "he": "גנום" },
+      "definition": {
+        "en": "The complete set of genetic information in an organism, including all of its genes and non-coding DNA sequences; the human genome contains about 3 billion base pairs.",
+        "he": "מכלול המידע הגנטי באורגניזם, כולל כל הגנים ורצפי ה-DNA הלא-מקודדים; הגנום האנושי מכיל כ-3 מיליארד זוגות בסיסים."
+      },
+      "category": "genetics"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q21-01",
+      "question": {
+        "en": "How many chromosomes are in a human egg or sperm cell?",
+        "he": "כמה כרומוזומים יש בתא ביצית או זרע אנושי?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "46", "he": "46" } },
+        { "id": "b", "text": { "en": "23", "he": "23" } },
+        { "id": "c", "text": { "en": "12", "he": "12" } },
+        { "id": "d", "text": { "en": "92", "he": "92" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Sperm and egg cells (gametes) are produced by meiosis and contain only 23 chromosomes — half the normal complement. When sperm and egg fuse at fertilization, the resulting zygote has the full 46 chromosomes.",
+        "he": "תאי זרע וביצית (גמטות) מיוצרים על ידי מיוזה ומכילים רק 23 כרומוזומים — מחצית מהמשלים הרגיל. כאשר זרע וביצית מתמזגים בהפריה, הזיגוטה המתקבלת מכילה את 46 הכרומוזומים המלאים."
+      }
+    },
+    {
+      "id": "q21-02",
+      "question": {
+        "en": "What determines whether a baby will be male or female?",
+        "he": "מה קובע אם תינוק יהיה זכר או נקבה?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "The age of the mother", "he": "גיל האם" } },
+        { "id": "b", "text": { "en": "The sex chromosomes from the sperm (X or Y)", "he": "כרומוזומי המין מהזרע (X או Y)" } },
+        { "id": "c", "text": { "en": "The diet of the parents", "he": "תזונת ההורים" } },
+        { "id": "d", "text": { "en": "The temperature in the womb", "he": "הטמפרטורה ברחם" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "All eggs carry an X chromosome, while sperm carry either an X or a Y. If an X-carrying sperm fertilizes the egg, the baby will be female (XX). If a Y-carrying sperm fertilizes the egg, the baby will be male (XY).",
+        "he": "כל הביציות נושאות כרומוזום X, בעוד שזרעים נושאים X או Y. אם זרע נושא X מפרה את הביצית, התינוק יהיה נקבה (XX). אם זרע נושא Y מפרה את הביצית, התינוק יהיה זכר (XY)."
+      }
+    },
+    {
+      "id": "q21-03",
+      "question": {
+        "en": "What is a gene?",
+        "he": "מהו גן?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "A type of protein in the blood", "he": "סוג של חלבון בדם" } },
+        { "id": "b", "text": { "en": "A segment of DNA that codes for a specific protein or trait", "he": "קטע DNA המקודד חלבון ספציפי או תכונה" } },
+        { "id": "c", "text": { "en": "The entire DNA of an organism", "he": "כל ה-DNA של אורגניזם" } },
+        { "id": "d", "text": { "en": "A type of chromosome", "he": "סוג של כרומוזום" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "A gene is a specific sequence of DNA bases that serves as the instruction set for building a protein or RNA molecule. Humans have about 20,000–25,000 protein-coding genes spread across their 46 chromosomes.",
+        "he": "גן הוא רצף ספציפי של בסיסי DNA המשמש כסדרת ההוראות לבניית חלבון או מולקולת RNA. לבני אדם יש כ-20,000–25,000 גנים מקודדי חלבון הפזורים על פני 46 הכרומוזומים שלהם."
+      }
+    },
+    {
+      "id": "q21-04",
+      "question": {
+        "en": "What type of cell division produces gametes?",
+        "he": "איזה סוג חלוקת תאים מייצר גמטות?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Mitosis", "he": "מיטוזה" } },
+        { "id": "b", "text": { "en": "Meiosis", "he": "מיוזה" } },
+        { "id": "c", "text": { "en": "Binary fission", "he": "פיצול בינארי" } },
+        { "id": "d", "text": { "en": "Budding", "he": "ניצנוץ" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Meiosis is a special type of cell division that occurs in the ovaries and testes. It reduces the chromosome number by half, producing four genetically unique cells (gametes) that are used in sexual reproduction.",
+        "he": "מיוזה היא סוג מיוחד של חלוקת תאים המתרחשת בשחלות ובאשכים. היא מפחיתה את מספר הכרומוזומים בחצי ומייצרת ארבעה תאים ייחודיים גנטית (גמטות) המשמשים ברבייה מינית."
+      }
+    },
+    {
+      "id": "q21-05",
+      "question": {
+        "en": "What is ovulation?",
+        "he": "מהו ביוץ?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "The fertilization of an egg", "he": "הפריית ביצית" } },
+        { "id": "b", "text": { "en": "The monthly release of a mature egg from the ovary", "he": "שחרור חודשי של ביצית בשלה מהשחלה" } },
+        { "id": "c", "text": { "en": "The implantation of an embryo in the uterus", "he": "השרשת עובר ברחם" } },
+        { "id": "d", "text": { "en": "The production of sperm in the testes", "he": "ייצור זרע באשכים" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Ovulation occurs approximately mid-cycle (around day 14 of a 28-day cycle) when a mature egg is released from a follicle in the ovary. The egg travels into the fallopian tube, where it can be fertilized by a sperm within about 24 hours.",
+        "he": "ביוץ מתרחש בערך באמצע המחזור (סביב יום 14 של מחזור בן 28 יום) כאשר ביצית בשלה משתחררת מזקיק בשחלה. הביצית עוברת לחצוצרה, שבה ניתן להפרות אותה על ידי זרע תוך כ-24 שעות."
+      }
+    },
+    {
+      "id": "q21-06",
+      "question": {
+        "en": "If a trait is recessive, when will it be expressed (visible) in a person?",
+        "he": "אם תכונה היא רצסיבית, מתי היא תתבטא (תהיה גלויה) אצל אדם?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Always, because it is stronger", "he": "תמיד, כי היא חזקה יותר" } },
+        { "id": "b", "text": { "en": "Only when two copies of the recessive allele are inherited (one from each parent)", "he": "רק כאשר עותקים שני של האלל הרצסיבי עוברים בירושה (אחד מכל הורה)" } },
+        { "id": "c", "text": { "en": "Only in females", "he": "רק אצל נקבות" } },
+        { "id": "d", "text": { "en": "Never, because dominant alleles always mask it", "he": "לעולם לא, כי אלל דומיננטי תמיד מסתיר אותה" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "A recessive trait is only expressed when a person inherits two copies of the recessive allele — one from each parent (homozygous recessive). If even one dominant allele is present, it masks the recessive one.",
+        "he": "תכונה רצסיבית מתבטאת רק כאשר אדם יורש שני עותקים של האלל הרצסיבי — אחד מכל הורה (הומוזיגוט רצסיבי). אם אלל דומיננטי אחד בכלל נוכח, הוא מסתיר את הרצסיבי."
+      }
+    },
+    {
+      "id": "q21-07",
+      "question": {
+        "en": "What is fertilization?",
+        "he": "מהי הפריה?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "The growth of the embryo in the uterus", "he": "גדילת העובר ברחם" } },
+        { "id": "b", "text": { "en": "The fusion of a sperm and an egg to form a single cell with 46 chromosomes", "he": "מיזוג של זרע וביצית ליצירת תא יחיד עם 46 כרומוזומים" } },
+        { "id": "c", "text": { "en": "The release of an egg from the ovary", "he": "שחרור ביצית מהשחלה" } },
+        { "id": "d", "text": { "en": "The production of hormones for reproduction", "he": "ייצור הורמונים לרבייה" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Fertilization is the moment when a single sperm penetrates and fuses with an egg cell. The two sets of 23 chromosomes combine to create a zygote with the full human complement of 46 chromosomes — and a unique combination of DNA that has never existed before.",
+        "he": "הפריה היא הרגע שבו זרע יחיד חודר ומתמזג עם תא ביצית. שני הסטים של 23 כרומוזומים מתחברים ליצירת זיגוטה עם המשלים האנושי המלא של 46 כרומוזומים — ושילוב ייחודי של DNA שמעולם לא היה קיים קודם לכן."
+      }
+    },
+    {
+      "id": "q21-08",
+      "question": {
+        "en": "What is the difference between mitosis and meiosis?",
+        "he": "מה ההבדל בין מיטוזה למיוזה?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "They are the same process", "he": "הם אותו תהליך" } },
+        { "id": "b", "text": { "en": "Mitosis produces two identical cells with 46 chromosomes for growth; meiosis produces four unique cells with 23 chromosomes for reproduction", "he": "מיטוזה מייצרת שני תאים זהים עם 46 כרומוזומים לצורך גדילה; מיוזה מייצרת ארבעה תאים ייחודיים עם 23 כרומוזומים לצורך רבייה" } },
+        { "id": "c", "text": { "en": "Meiosis only happens in bone marrow", "he": "מיוזה מתרחשת רק במח העצם" } },
+        { "id": "d", "text": { "en": "Mitosis produces sex cells; meiosis produces body cells", "he": "מיטוזה מייצרת תאי מין; מיוזה מייצרת תאי גוף" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Mitosis is the cell division used for growth, tissue repair, and replacement of old cells — it produces two genetically identical daughter cells each with 46 chromosomes. Meiosis is the special division used only in the gonads to produce sex cells (eggs and sperm) — it produces four cells that are genetically unique and each contain only 23 chromosomes.",
+        "he": "מיטוזה היא חלוקת התאים המשמשת לצורך גדילה, תיקון רקמות והחלפת תאים ישנים — היא מייצרת שני תאי בת זהים גנטית כל אחד עם 46 כרומוזומים. מיוזה היא החלוקה המיוחדת המשמשת רק בבלוטות המין לייצר תאי מין (ביציות וזרע) — היא מייצרת ארבעה תאים ייחודיים גנטית ומכיל כל אחד רק 23 כרומוזומים."
+      }
+    },
+    {
+      "id": "q21-09",
+      "question": {
+        "en": "What is DNA, and what shape is it?",
+        "he": "מהו DNA, ומה צורתו?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "A protein shaped like a ball, found in the cell membrane", "he": "חלבון בצורת כדור, הנמצא בממברנת התא" } },
+        { "id": "b", "text": { "en": "A molecule shaped like a twisted ladder (double helix) that carries genetic instructions", "he": "מולקולה בצורת סולם מפותל (סליל כפול) הנושאת הוראות גנטיות" } },
+        { "id": "c", "text": { "en": "A flat disc found in the nucleus", "he": "דיסק שטוח הנמצא בגרעין" } },
+        { "id": "d", "text": { "en": "A type of fat that stores energy", "he": "סוג של שומן האוגר אנרגיה" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "DNA (deoxyribonucleic acid) is the molecule of life. It is shaped like a twisted ladder — two strands wound around each other in a double helix. The 'rungs' of the ladder are pairs of chemical bases (A-T and G-C) that form the genetic code. All the DNA in a human cell, if uncoiled and stretched out, would be about 2 metres long!",
+        "he": "DNA (חומצה דאוקסיריבונוקלאית) היא מולקולת החיים. היא בצורת סולם מפותל — שני גדילים כרוכים סביב זה בסליל כפול. 'שלבי' הסולם הם זוגות של בסיסים כימיים (A-T ו-G-C) היוצרים את הקוד הגנטי. כל ה-DNA בתא אנושי, אם יפרשו ויישרו אותו, יהיה ארוך כ-2 מטרים!"
+      }
+    },
+    {
+      "id": "q21-10",
+      "question": {
+        "en": "Why is each person (except identical twins) genetically unique?",
+        "he": "מדוע כל אדם (למעט תאומים זהים) הוא ייחודי גנטית?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Because every person eats different food", "he": "כי כל אדם אוכל מזון שונה" } },
+        { "id": "b", "text": { "en": "Because meiosis randomly shuffles and recombines genes, and fertilization combines one unique sperm with one unique egg", "he": "כי מיוזה מערבבת ומשלבת גנים באופן אקראי, והפריה משלבת זרע ייחודי אחד עם ביצית ייחודית אחת" } },
+        { "id": "c", "text": { "en": "Because mutations occur in every person after birth", "he": "כי מוטציות מתרחשות אצל כל אדם לאחר לידה" } },
+        { "id": "d", "text": { "en": "Because the environment changes DNA during childhood", "he": "כי הסביבה משנה DNA במהלך הילדות" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "During meiosis, chromosomes swap segments of DNA (a process called crossing over) and are randomly sorted into four different gametes. Then, fertilization joins one of billions of possible sperm with one of hundreds of thousands of possible eggs. The result is a virtually infinite number of possible genetic combinations — making each person genetically one-of-a-kind.",
+        "he": "במהלך מיוזה, כרומוזומים מחליפים קטעי DNA (תהליך הנקרא כיאזמה) ומסודרים באקראי לארבע גמטות שונות. לאחר מכן, ההפריה מחברת אחד ממיליארדי זרעים אפשריים עם אחת ממאות אלפי הביציות האפשריות. התוצאה היא מספר כמעט אינסופי של שילובים גנטיים אפשריים — מה שהופך כל אדם לייחודי גנטית."
+      }
+    }
+  ]
+}

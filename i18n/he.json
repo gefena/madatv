@@ -1,0 +1,64 @@
+{
+  "nav": {
+    "home": "בית",
+    "series": "סדרת חיים",
+    "allEpisodes": "כל הפרקים"
+  },
+  "madatv": {
+    "tagline": "טלוויזיית מדע לילדים",
+    "subtitle": "צפה, למד ובחן את עצמך על נושאי מדע מדהימים!",
+    "chooseSeries": "בחר סדרה",
+    "episodes": "פרקים",
+    "ages": "גילאי",
+    "watchSeries": "צפה בסדרה",
+    "allSeries": "כל הסדרות",
+    "comingSoon": "עוד סדרות בקרוב!",
+    "moreSeries": "סדרות מדע חדשות בדרך"
+  },
+  "home": {
+    "title": "חיים",
+    "subtitle": "כיצד גוף האדם עובד",
+    "progress": "ההתקדמות שלך",
+    "episodesWatched": "{count} מתוך {total} פרקים נצפו",
+    "continueWatching": "המשך לצפות",
+    "startWatching": "התחל לצפות"
+  },
+  "episode": {
+    "episode": "פרק",
+    "minutes": "{count} דק'",
+    "watchNow": "צפה עכשיו",
+    "markWatched": "סמן כנצפה",
+    "watched": "נצפה",
+    "intro": "מבוא לפרק",
+    "terminology": "מונחי מפתח",
+    "termCount": "{count} מונחים",
+    "readIntro": "קרא את המבוא לפני הצפייה",
+    "backToAll": "← כל הפרקים"
+  },
+  "quiz": {
+    "title": "בחן את עצמך",
+    "subtitle": "בדוק מה למדת מהפרק הזה",
+    "startQuiz": "התחל חידון",
+    "question": "שאלה {current} מתוך {total}",
+    "nextQuestion": "שאלה הבאה",
+    "seeResults": "ראה תוצאות",
+    "score": "הציון שלך",
+    "correct": "נכון!",
+    "incorrect": "לא נכון",
+    "explanation": "הסבר",
+    "retake": "נסה שוב",
+    "backToEpisode": "חזור לפרק",
+    "grade": {
+      "excellent": "מצוין!",
+      "good": "כל הכבוד!",
+      "keepWatching": "המשך ללמוד!"
+    },
+    "lockedTitle": "החידון נעול",
+    "lockedDesc": "צפה בפרק תחילה כדי לפתוח את החידון",
+    "unlockQuiz": "פתח את החידון בכל זאת"
+  },
+  "lang": {
+    "toggle": "English",
+    "current": "עברית"
+  }
+}

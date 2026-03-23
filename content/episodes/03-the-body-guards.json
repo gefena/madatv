@@ -1,0 +1,629 @@
+{
+  "id": "03-the-body-guards",
+  "episodeNumber": 3,
+  "youtubeId": "c-_sDs0wiZs",
+  "title": {
+    "en": "The Body's Guards",
+    "he": "הזקיפים השומרים על הגוף"
+  },
+  "summary": {
+    "en": "This episode introduces the white blood cells — the body's dedicated defense force that stands guard against the constant threat of infection. It explains how different types of leukocytes patrol the bloodstream and tissues, each with a specialized role: neutrophils that rush to infection sites and engulf bacteria, macrophages that devour pathogens and alert other immune cells, and lymphocytes that orchestrate targeted immune responses. The episode shows how these cellular soldiers are continuously produced in the bone marrow and can rapidly multiply when the body is under attack. It also explains the concept of innate immunity — the body's immediate, non-specific first line of defense — and introduces how white blood cells recognize pathogens through the antigens on their surfaces, triggering a coordinated immune response that can defeat most infections within days.",
+    "he": "פרק זה מציג את כדוריות הדם הלבנות — כוח ההגנה הייעודי של הגוף השומר מפני האיום המתמיד של זיהום. הוא מסביר כיצד סוגים שונים של לויקוציטים סורקים את זרם הדם והרקמות, כל אחד עם תפקיד מתמחה: נויטרופילים הממהרים לאתרי זיהום ובולעים חיידקים, מקרופאגים הבולעים פתוגנים ומתריעים לתאי חיסון אחרים, ולימפוציטים המתזמרים תגובות חיסוניות ממוקדות. הפרק מראה כיצד 'חיילים תאיים' אלה מיוצרים ברציפות במח העצמות ויכולים להתרבות במהירות כאשר הגוף מותקף. הוא גם מסביר את מושג החסינות המולדת — קו ההגנה הראשון המיידי והלא-ספציפי של הגוף — ומציג כיצד כדוריות הדם הלבנות מזהות פתוגנים דרך האנטיגנים על פניהם, ומפעילות תגובה חיסונית מתואמת שיכולה להביס רוב הזיהומים תוך ימים."
+  },
+  "thumbnail": "https://img.youtube.com/vi/c-_sDs0wiZs/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": [
+    "white blood cells",
+    "immune defense",
+    "pathogens",
+    "leukocytes"
+  ],
+  "terminology": [
+    {
+      "id": "t03-01",
+      "term": {
+        "en": "White Blood Cell (Leukocyte)",
+        "he": "כדורית דם לבנה (לויקוציט)"
+      },
+      "definition": {
+        "en": "A cell of the immune system that defends the body against infections and foreign substances. There are several types, each with a different role, and a normal adult has about 4,000–11,000 white blood cells per microliter of blood.",
+        "he": "תא של מערכת החיסון המגן על הגוף מפני זיהומים וחומרים זרים. יש מספר סוגים, כל אחד עם תפקיד שונה, ולמבוגר בריא יש כ-4,000–11,000 כדוריות דם לבנות לכל מיקרוליטר דם."
+      },
+      "category": "immune cell"
+    },
+    {
+      "id": "t03-02",
+      "term": {
+        "en": "Neutrophil",
+        "he": "נויטרופיל"
+      },
+      "definition": {
+        "en": "The most common type of white blood cell, making up 55–70% of all leukocytes. Neutrophils rapidly arrive at infection sites and engulf and destroy bacteria through phagocytosis, often dying in the process and forming pus.",
+        "he": "הסוג הנפוץ ביותר של כדוריות דם לבנות, המהווה 55–70% מכלל הלויקוציטים. נויטרופילים מגיעים במהירות לאתרי זיהום ובולעים ומשמידים חיידקים דרך פגוציטוזה, לרוב מתים בתהליך ויוצרים מוגלה."
+      },
+      "category": "immune cell"
+    },
+    {
+      "id": "t03-03",
+      "term": {
+        "en": "Macrophage",
+        "he": "מקרופאג'"
+      },
+      "definition": {
+        "en": "A large, long-lived white blood cell that engulfs pathogens, dead cells, and debris — a process called phagocytosis. Macrophages also display pathogen fragments on their surface to alert T cells, making them a crucial bridge between innate and adaptive immunity.",
+        "he": "כדורית דם לבנה גדולה וארוכת חיים הבולעת פתוגנים, תאים מתים ופסולת — תהליך הנקרא פגוציטוזה. מקרופאגים גם מציגים שברי פתוגנים על פניהם כדי להתריע לתאי T, מה שהופך אותם לגשר קריטי בין חסינות מולדת לנרכשת."
+      },
+      "category": "immune cell"
+    },
+    {
+      "id": "t03-04",
+      "term": {
+        "en": "Pathogen",
+        "he": "פתוגן"
+      },
+      "definition": {
+        "en": "A microorganism such as a bacterium, virus, fungus, or parasite that can invade the body and cause disease. Pathogens are recognized by the immune system through molecular patterns on their surfaces that differ from the body's own cells.",
+        "he": "מיקרואורגניזם כגון חיידק, וירוס, פטרייה או טפיל שיכול לפלוש לגוף ולגרום למחלה. פתוגנים מזוהים על ידי מערכת החיסון דרך דפוסים מולקולריים על פניהם השונים מתאי הגוף עצמו."
+      },
+      "category": "microbiology"
+    },
+    {
+      "id": "t03-05",
+      "term": {
+        "en": "Phagocytosis",
+        "he": "פגוציטוזה"
+      },
+      "definition": {
+        "en": "The process by which certain immune cells (phagocytes) engulf and digest foreign particles, bacteria, or dead cells. The cell wraps its membrane around the target, pulls it inside, and destroys it using digestive enzymes in lysosomes.",
+        "he": "התהליך שבו תאי חיסון מסוימים (פגוציטים) בולעים ומעכלים חלקיקים זרים, חיידקים או תאים מתים. התא עוטף את ממברנתו סביב המטרה, מושך אותה פנימה ומשמידה באמצעות אנזימים עיכוליים בליזוזומים."
+      },
+      "category": "process"
+    },
+    {
+      "id": "t03-06",
+      "term": {
+        "en": "Antigen",
+        "he": "אנטיגן"
+      },
+      "definition": {
+        "en": "A molecule (usually a protein or polysaccharide) found on the surface of a pathogen that is recognized as foreign by the immune system and triggers an immune response. The word comes from 'antibody generator'.",
+        "he": "מולקולה (לרוב חלבון או פוליסכריד) הנמצאת על פני הפתוגן שמזוהה כזרה על ידי מערכת החיסון ומעוררת תגובה חיסונית. המילה נגזרת מ'מחולל נוגדנים'."
+      },
+      "category": "immunology"
+    },
+    {
+      "id": "t03-07",
+      "term": {
+        "en": "Lymphocyte",
+        "he": "לימפוציט"
+      },
+      "definition": {
+        "en": "A type of white blood cell that includes B cells (which produce antibodies) and T cells (which directly destroy infected cells). Lymphocytes are the key players in adaptive immunity — the body's targeted, learned defense system.",
+        "he": "סוג של כדורית דם לבנה הכוללת תאי B (המייצרים נוגדנים) ותאי T (המשמידים ישירות תאים נגועים). לימפוציטים הם השחקנים המרכזיים בחסינות נרכשת — מערכת ההגנה הממוקדת והנלמדת של הגוף."
+      },
+      "category": "immune cell"
+    },
+    {
+      "id": "t03-08",
+      "term": {
+        "en": "Inflammation",
+        "he": "דלקת"
+      },
+      "definition": {
+        "en": "A protective response by the body to injury or infection, characterized by redness, heat, swelling, and pain. These signs result from increased blood flow and the arrival of immune cells at the site — the heat and swelling help fight off pathogens.",
+        "he": "תגובת הגנה של הגוף לפציעה או זיהום, המאופיינת באדמומיות, חום, נפיחות וכאב. סימנים אלה נובעים מזרימת דם מוגברת והגעת תאי חיסון לאתר — החום והנפיחות עוזרים להילחם בפתוגנים."
+      },
+      "category": "process"
+    },
+    {
+      "id": "t03-09",
+      "term": {
+        "en": "Bone Marrow",
+        "he": "מח עצמות"
+      },
+      "definition": {
+        "en": "The soft tissue inside bones where all blood cells — including white blood cells — are produced from hematopoietic stem cells. The bone marrow can rapidly increase white blood cell production during infection, sometimes doubling output within hours.",
+        "he": "הרקמה הרכה בתוך העצמות שבה מיוצרים כל תאי הדם — כולל כדוריות דם לבנות — מתאי גזע המטופואטיים. מח העצמות יכול להגביר במהירות את ייצור כדוריות הדם הלבנות במהלך זיהום, לעיתים כפולת תפוקה בתוך שעות."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t03-10",
+      "term": {
+        "en": "Pus",
+        "he": "מוגלה"
+      },
+      "definition": {
+        "en": "A thick, yellowish fluid that accumulates at the site of an infection, consisting mainly of dead white blood cells that died while fighting bacteria, dead bacteria, and tissue debris. Its presence is a visible sign that the immune system has been actively fighting an infection.",
+        "he": "נוזל סמיך וצהבהב המצטבר באתר הזיהום, המורכב בעיקר מכדוריות דם לבנות שמתו תוך כדי מלחמה בחיידקים, חיידקים מתים ופסולת רקמות. נוכחותה היא סימן גלוי לכך שמערכת החיסון נלחמה באופן פעיל בזיהום."
+      },
+      "category": "pathology"
+    },
+    {
+      "id": "t03-11",
+      "term": {
+        "en": "Eosinophil",
+        "he": "אאוזינופיל"
+      },
+      "definition": {
+        "en": "A type of white blood cell that plays a major role in fighting parasitic infections and in allergic reactions. Elevated eosinophil levels in the blood often indicate an ongoing allergic response or parasitic infestation.",
+        "he": "סוג של כדורית דם לבנה הממלאת תפקיד עיקרי במלחמה בזיהומים טפיליים ובתגובות אלרגיות. רמות אאוזינופילים מוגברות בדם לרוב מעידות על תגובה אלרגית מתמשכת או על הדבקה טפילית."
+      },
+      "category": "immune cell"
+    },
+    {
+      "id": "t03-12",
+      "term": {
+        "en": "Monocyte",
+        "he": "מונוציט"
+      },
+      "definition": {
+        "en": "A large white blood cell that circulates in the blood and, upon entering tissues, matures into a macrophage. Monocytes are important for cleaning up cellular debris and are among the first cells to respond to infection.",
+        "he": "כדורית דם לבנה גדולה המסתובבת בדם ובכניסתה לרקמות מבשילה למקרופאג'. מונוציטים חשובים לניקוי פסולת תאית והם בין התאים הראשונים להגיב לזיהום."
+      },
+      "category": "immune cell"
+    },
+    {
+      "id": "t03-13",
+      "term": {
+        "en": "Dendritic Cell",
+        "he": "תא דנדריטי"
+      },
+      "definition": {
+        "en": "A specialized sentinel immune cell found in tissues that captures antigens from pathogens and travels to lymph nodes to present them to T cells, thereby initiating the adaptive immune response.",
+        "he": "תא חיסוני סנטינל מתמחה הנמצא ברקמות, הלוכד אנטיגנים מפתוגנים ונוסע לבלוטות הלימפה כדי להציגם לתאי T, ובכך מפעיל את התגובה החיסונית הנרכשת."
+      },
+      "category": "immune cell"
+    },
+    {
+      "id": "t03-14",
+      "term": {
+        "en": "Complement System",
+        "he": "מערכת המשלים"
+      },
+      "definition": {
+        "en": "A group of proteins in the blood that form part of innate immunity. They can be activated by pathogens and work together to puncture bacterial membranes, mark pathogens for destruction, and attract more immune cells to the site.",
+        "he": "קבוצת חלבונים בדם המהווים חלק מהחסינות המולדת. הם יכולים להיות מופעלים על ידי פתוגנים ולעבוד יחד כדי לנקב ממברנות חיידקים, לסמן פתוגנים להשמדה ולמשוך יותר תאי חיסון לאתר."
+      },
+      "category": "immunology"
+    },
+    {
+      "id": "t03-15",
+      "term": {
+        "en": "Basophil",
+        "he": "בזופיל"
+      },
+      "definition": {
+        "en": "A rare type of white blood cell that releases histamine and other chemicals during allergic reactions and inflammation. Though present in small numbers, basophils play a significant role in triggering the symptoms of allergies and asthma.",
+        "he": "סוג נדיר של כדורית דם לבנה המשחררת היסטמין וכימיקלים אחרים במהלך תגובות אלרגיות ודלקת. למרות שנמצאים במספרים קטנים, בזופילים ממלאים תפקיד משמעותי בהפעלת תסמיני אלרגיות ואסתמה."
+      },
+      "category": "immune cell"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q03-01",
+      "question": {
+        "en": "What are the body's 'guards' described in this episode?",
+        "he": "מהם 'הזקיפים' של הגוף המתוארים בפרק זה?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Red blood cells",
+            "he": "כדוריות דם אדומות"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "White blood cells",
+            "he": "כדוריות דם לבנות"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Platelets",
+            "he": "טסיות דם"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Neurons",
+            "he": "נוירונים"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "White blood cells (leukocytes) are the body's defense force. They patrol the bloodstream and tissues, detecting and destroying pathogens before they can cause serious harm. Unlike red blood cells, white blood cells have a nucleus and can actively move toward threats.",
+        "he": "כדוריות דם לבנות (לויקוציטים) הן כוח ההגנה של הגוף. הן סורקות את זרם הדם והרקמות, מאתרות ומשמידות פתוגנים לפני שיוכלו לגרום נזק חמור. בניגוד לכדוריות דם אדומות, לכדוריות הלבנות יש גרעין והן יכולות לנוע באופן פעיל לעבר איומים."
+      }
+    },
+    {
+      "id": "q03-02",
+      "question": {
+        "en": "What is the process called when a white blood cell engulfs and destroys a bacterium?",
+        "he": "כיצד נקרא התהליך שבו כדורית דם לבנה בולעת ומשמידה חיידק?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Mitosis",
+            "he": "מיטוזה"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Osmosis",
+            "he": "אוסמוזה"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Phagocytosis",
+            "he": "פגוציטוזה"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Diffusion",
+            "he": "דיפוזיה"
+          }
+        }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Phagocytosis is the process by which white blood cells surround and engulf foreign particles or bacteria, pulling them into a pouch inside the cell called a phagosome, where they are destroyed with special digestive enzymes from lysosomes.",
+        "he": "פגוציטוזה הוא התהליך שבו כדוריות דם לבנות מקיפות ובולעות חלקיקים זרים או חיידקים, ומושכות אותם לתוך כיס בתוך התא הנקרא פגוזום, שבו הם מושמדים עם אנזימים עיכוליים מיוחדים מליזוזומים."
+      }
+    },
+    {
+      "id": "q03-03",
+      "question": {
+        "en": "Where are white blood cells produced?",
+        "he": "היכן מיוצרות כדוריות הדם הלבנות?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "In the liver",
+            "he": "בכבד"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "In the lungs",
+            "he": "בריאות"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "In the bone marrow",
+            "he": "במח העצמות"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "In the kidneys",
+            "he": "בכליות"
+          }
+        }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "White blood cells are produced in the bone marrow from hematopoietic stem cells, the same cells that produce red blood cells and platelets. During an infection, the bone marrow dramatically increases production to supply more defenders — which is why white blood cell counts rise during illness.",
+        "he": "כדוריות דם לבנות מיוצרות במח העצמות מתאי גזע המטופואטיים, אותם תאים המייצרים כדוריות דם אדומות וטסיות. במהלך זיהום, מח העצמות מגביר באופן דרמטי את הייצור כדי לספק יותר מגנים — זו הסיבה שספירת כדוריות הדם הלבנות עולה במהלך מחלה."
+      }
+    },
+    {
+      "id": "q03-04",
+      "question": {
+        "en": "What is the most common type of white blood cell?",
+        "he": "מהו הסוג הנפוץ ביותר של כדוריות דם לבנות?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Lymphocyte",
+            "he": "לימפוציט"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Monocyte",
+            "he": "מונוציט"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Neutrophil",
+            "he": "נויטרופיל"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Eosinophil",
+            "he": "אאוזינופיל"
+          }
+        }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Neutrophils make up about 55–70% of all white blood cells. They are the fastest-responding immune cells, typically arriving at a site of bacterial infection within minutes. Their short lifespan (1–5 days) means they must be constantly replaced by the bone marrow.",
+        "he": "נויטרופילים מהווים כ-55–70% מכלל כדוריות הדם הלבנות. הם תאי החיסון המגיבים הכי מהר, ומגיעים בדרך כלל לאתר זיהום חיידקי תוך דקות. אורך חייהם הקצר (1–5 ימים) אומר שיש להחליפם ברציפות על ידי מח העצמות."
+      }
+    },
+    {
+      "id": "q03-05",
+      "question": {
+        "en": "What triggers the immune system to respond to an invader?",
+        "he": "מה מפעיל את מערכת החיסון להגיב לפולש?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "The antigen on the pathogen's surface",
+            "he": "האנטיגן על פני הפתוגן"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "The temperature of the blood",
+            "he": "טמפרטורת הדם"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "The size of the pathogen",
+            "he": "גודל הפתוגן"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "The color of the pathogen",
+            "he": "צבע הפתוגן"
+          }
+        }
+      ],
+      "correctChoice": "a",
+      "explanation": {
+        "en": "Antigens are molecular 'identity tags' on the surface of pathogens that the immune system recognizes as foreign. When an antigen is detected, it triggers both the innate immune response (immediate, non-specific) and the adaptive response (targeted, learned).",
+        "he": "אנטיגנים הם 'תגיות זהות' מולקולריות על פני הפתוגן שמערכת החיסון מזהה כזרות. כאשר מתגלה אנטיגן, הוא מפעיל גם את התגובה החיסונית המולדת (מיידית, לא ספציפית) וגם את התגובה הנרכשת (ממוקדת, נלמדת)."
+      }
+    },
+    {
+      "id": "q03-06",
+      "question": {
+        "en": "What is pus made of?",
+        "he": "ממה מורכבת מוגלה?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Only bacteria",
+            "he": "חיידקים בלבד"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Dead white blood cells, bacteria, and tissue debris",
+            "he": "כדוריות דם לבנות מתות, חיידקים ופסולת רקמות"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Only white blood cells",
+            "he": "כדוריות דם לבנות בלבד"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Platelets and plasma",
+            "he": "טסיות ופלזמה"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Pus is a yellowish-white fluid that accumulates at infection sites. It is the 'aftermath of battle' — made up of dead neutrophils that died while fighting bacteria, the destroyed bacteria themselves, and fragments of damaged tissue. Its formation actually signals that the immune system is actively fighting the infection.",
+        "he": "מוגלה היא נוזל צהבהב-לבן המצטבר באתרי זיהום. היא 'שרידי המערכה' — מורכבת מנויטרופילים מתים שמתו תוך כדי מלחמה בחיידקים, החיידקים שנהרסו עצמם, ושברי רקמה פגועה. היווצרותה בעצם מסמנת שמערכת החיסון נלחמת באופן פעיל בזיהום."
+      }
+    },
+    {
+      "id": "q03-07",
+      "question": {
+        "en": "What is the role of macrophages in the immune response?",
+        "he": "מה תפקיד המקרופאגים בתגובה החיסונית?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "They only carry oxygen to tissues",
+            "he": "הם רק מובילים חמצן לרקמות"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "They engulf pathogens and also alert other immune cells by presenting antigens",
+            "he": "הם בולעים פתוגנים וגם מתריעים לתאי חיסון אחרים על ידי הצגת אנטיגנים"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "They produce all antibodies in the body",
+            "he": "הם מייצרים את כל הנוגדנים בגוף"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "They only function during allergic reactions",
+            "he": "הם פועלים רק במהלך תגובות אלרגיות"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Macrophages play a dual role: first, they act as direct killers by engulfing and digesting pathogens (phagocytosis). Second, they are 'antigen-presenting cells' — they display fragments of the pathogens on their surface to alert T lymphocytes, linking the innate and adaptive immune systems.",
+        "he": "מקרופאגים ממלאים תפקיד כפול: ראשית, הם פועלים כקוטלים ישירים על ידי בליעה ועיכול פתוגנים (פגוציטוזה). שנית, הם 'תאים מציגי אנטיגן' — הם מציגים שברי הפתוגנים על פניהם כדי להתריע ללימפוציטים T, ומקשרים בין מערכות החיסון המולדת והנרכשת."
+      }
+    },
+    {
+      "id": "q03-08",
+      "question": {
+        "en": "Why does body temperature rise (fever) during an infection?",
+        "he": "מדוע טמפרטורת הגוף עולה (חום) במהלך זיהום?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Because the body is trying to cool down",
+            "he": "מפני שהגוף מנסה להתקרר"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Because elevated temperature helps fight pathogens and speeds up immune cell activity",
+            "he": "מפני שטמפרטורה מוגברת עוזרת להילחם בפתוגנים ומאיצה את פעילות תאי החיסון"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Because the heart beats faster during infection",
+            "he": "מפני שהלב פועם מהר יותר במהלך זיהום"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Because the brain overheats when fighting pathogens",
+            "he": "מפני שהמוח מתחמם יתר על המידה כאשר הוא נלחם בפתוגנים"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Fever is a deliberate immune response, triggered by chemicals called pyrogens released by immune cells. The higher temperature inhibits the growth of many bacteria and viruses (which thrive at normal body temperature), while simultaneously accelerating the activity of white blood cells.",
+        "he": "חום הוא תגובה חיסונית מכוונת, המופעלת על ידי כימיקלים הנקראים פירוגנים המשתחררים על ידי תאי חיסון. הטמפרטורה הגבוהה יותר מעכבת את גדילתם של חיידקים ווירוסים רבים (השגשגים בטמפרטורת גוף תקינה), ובמקביל מאיצה את פעילות כדוריות הדם הלבנות."
+      }
+    },
+    {
+      "id": "q03-09",
+      "question": {
+        "en": "What distinguishes innate immunity from adaptive immunity?",
+        "he": "מה מבדיל בין חסינות מולדת לחסינות נרכשת?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Innate immunity is specific to one pathogen; adaptive is general",
+            "he": "חסינות מולדת ספציפית לפתוגן אחד; נרכשת היא כללית"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Innate is a fast, general first response; adaptive is slower but targeted and creates memory",
+            "he": "מולדת היא תגובה ראשונה מהירה וכללית; נרכשת היא איטית יותר אבל ממוקדת ויוצרת זיכרון"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Innate immunity only works in children; adaptive works in adults",
+            "he": "חסינות מולדת פועלת רק אצל ילדים; נרכשת פועלת אצל מבוגרים"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "There is no real difference between the two",
+            "he": "אין הבדל אמיתי בין השניים"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Innate immunity is the body's first-line, non-specific defense that responds within minutes to hours — using physical barriers, neutrophils, macrophages, and the complement system. Adaptive immunity (B and T cells) takes days to ramp up but is precisely targeted to the specific pathogen and creates lasting memory cells.",
+        "he": "חסינות מולדת היא ההגנה הקו-ראשוני, הלא-ספציפית של הגוף המגיבה תוך דקות עד שעות — תוך שימוש במחסומים פיזיים, נויטרופילים, מקרופאגים ומערכת המשלים. חסינות נרכשת (תאי B ו-T) לוקחת ימים להאיץ אבל ממוקדת במדויק לפתוגן הספציפי ויוצרת תאי זיכרון מתמשכים."
+      }
+    },
+    {
+      "id": "q03-10",
+      "question": {
+        "en": "What happens to white blood cell count during a bacterial infection?",
+        "he": "מה קורה לספירת כדוריות הדם הלבנות במהלך זיהום חיידקי?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "It drops significantly",
+            "he": "היא יורדת משמעותית"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "It rises significantly as the bone marrow produces more",
+            "he": "היא עולה משמעותית כאשר מח העצמות מייצר יותר"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "It stays exactly the same",
+            "he": "היא נשארת בדיוק אותו הדבר"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Red blood cells convert to white blood cells",
+            "he": "כדוריות דם אדומות הופכות לכדוריות דם לבנות"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "During a bacterial infection, the bone marrow is stimulated to produce more white blood cells — especially neutrophils. A high white blood cell count (leukocytosis) in a blood test is one of the key signs doctors look for to diagnose a bacterial infection, and it indicates the immune system is actively responding.",
+        "he": "במהלך זיהום חיידקי, מח העצמות מגורה לייצר יותר כדוריות דם לבנות — במיוחד נויטרופילים. ספירת כדוריות דם לבנות גבוהה (לויקוציטוזה) בבדיקת דם היא אחד הסימנים המרכזיים שרופאים מחפשים כדי לאבחן זיהום חיידקי, ומעידה שמערכת החיסון מגיבה באופן פעיל."
+      }
+    }
+  ],
+  "videoSources": [
+    "c-_sDs0wiZs",
+    "_pwbLHaZP7k"
+  ]
+}

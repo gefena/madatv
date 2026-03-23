@@ -1,0 +1,631 @@
+{
+  "id": "12-the-ear",
+  "episodeNumber": 12,
+  "youtubeId": "nrauzttA5tI",
+  "videoSources": ["nrauzttA5tI", "RNYnhlZTZgU"],
+  "title": {
+    "en": "The Ear",
+    "he": "האוזן"
+  },
+  "summary": {
+    "en": "This episode takes a detailed journey through the human ear, revealing how the body converts invisible sound waves into the nerve signals we experience as hearing. It walks through each anatomical region — the outer ear that funnels sound, the middle ear where the eardrum and three tiny ossicle bones amplify vibrations, and the fluid-filled cochlea of the inner ear where thousands of specialized hair cells translate movement into electrical impulses sent to the brain. The episode also explains the vestibular system, housed in the same inner-ear structure, which provides the sense of balance and spatial orientation. Finally, it addresses how prolonged exposure to loud noise can permanently damage delicate hair cells, leading to irreversible hearing loss, and why protecting hearing from an early age matters.",
+    "he": "פרק זה יוצא למסע מפורט דרך האוזן האנושית, וחושף כיצד הגוף ממיר גלי קול בלתי נראים לאותות עצביים שאנו חווים כשמיעה. הוא עובר דרך כל אזור אנטומי — האוזן החיצונית המרכזת קול, האוזן התיכונה שבה תוף האוזן ושלושה עצמות קטנות (עצמיות) מגבירים תנודות, וה-קוכלאה המלאה בנוזל של האוזן הפנימית שבה אלפי תאי שיער מיוחדים מתרגמים תנועה לדחפים חשמליים הנשלחים למוח. הפרק מסביר גם את המערכת הוסטיבולרית, הממוקמת באותו מבנה של האוזן הפנימית, המספקת את חוש שיווי המשקל וההתמצאות המרחבית. לבסוף, הוא מתייחס לאופן שבו חשיפה ממושכת לרעש חזק עלולה לפגוע לצמיתות בתאי השיער העדינים ולגרום לאובדן שמיעה בלתי הפיך, ומדוע חשוב להגן על השמיעה מגיל צעיר."
+  },
+  "thumbnail": "https://img.youtube.com/vi/nrauzttA5tI/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": [
+    "outer ear",
+    "eardrum",
+    "cochlea",
+    "ossicles",
+    "hair cells",
+    "sound waves",
+    "balance",
+    "inner ear",
+    "hearing loss"
+  ],
+  "terminology": [
+    {
+      "id": "t12-01",
+      "term": {
+        "en": "Pinna (Auricle)",
+        "he": "אפרכסת (פינה)"
+      },
+      "definition": {
+        "en": "The visible outer part of the ear that collects and funnels sound waves into the ear canal.",
+        "he": "החלק החיצוני הנראה של האוזן האוספת וממנלת גלי קול לתוך תעלת האוזן."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t12-02",
+      "term": {
+        "en": "Ear Canal (External Auditory Meatus)",
+        "he": "תעלת האוזן"
+      },
+      "definition": {
+        "en": "The tube-like passage leading from the outer ear to the eardrum, lined with hair and cerumen-producing glands to protect against debris.",
+        "he": "מעבר דמוי צינור המוביל מהאוזן החיצונית לתוף האוזן, מרופד בשיערות ובבלוטות מייצרות שעוות אוזן להגנה מפני זיהומים."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t12-03",
+      "term": {
+        "en": "Eardrum (Tympanic Membrane)",
+        "he": "תוף האוזן (הממברנה הטימפנית)"
+      },
+      "definition": {
+        "en": "A thin, cone-shaped membrane at the boundary between the outer and middle ear that vibrates in response to incoming sound waves.",
+        "he": "ממברנה דקה בצורת קונוס בגבול שבין האוזן החיצונית לאוזן התיכונה, הרוטטת בתגובה לגלי קול נכנסים."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t12-04",
+      "term": {
+        "en": "Ossicles",
+        "he": "עצמיות האוזן"
+      },
+      "definition": {
+        "en": "The three smallest bones in the human body — the malleus, incus, and stapes — located in the middle ear, transmitting and amplifying vibrations from the eardrum to the inner ear.",
+        "he": "שלוש העצמות הקטנות ביותר בגוף האדם — הפטיש, הסדן והאוכף — הממוקמות באוזן התיכונה ומעבירות ומגבירות תנודות מתוף האוזן לאוזן הפנימית."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t12-05",
+      "term": {
+        "en": "Cochlea",
+        "he": "שבלול האוזן (קוכלאה)"
+      },
+      "definition": {
+        "en": "A snail-shaped, fluid-filled structure in the inner ear that converts mechanical vibrations into nerve signals through the action of hair cells.",
+        "he": "מבנה מלולייני מלא נוזל באוזן הפנימית, הממיר תנודות מכניות לאותות עצביים באמצעות פעולת תאי השיער."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t12-06",
+      "term": {
+        "en": "Hair Cells",
+        "he": "תאי שיער"
+      },
+      "definition": {
+        "en": "Specialized sensory cells in the cochlea bearing tiny stereocilia that bend when fluid moves, generating electrical signals that travel to the auditory nerve.",
+        "he": "תאי חישה מיוחדים בשבלול הנושאים סטריאוציליה זעירה המתכופפת כאשר הנוזל זז, ומייצרת אותות חשמליים המועברים לעצב השמיעה."
+      },
+      "category": "cell biology"
+    },
+    {
+      "id": "t12-07",
+      "term": {
+        "en": "Auditory Nerve (Cochlear Nerve)",
+        "he": "עצב השמיעה (העצב הקוכלארי)"
+      },
+      "definition": {
+        "en": "The nerve that carries electrical impulses from the cochlea's hair cells to the auditory cortex in the brain, where they are interpreted as sound.",
+        "he": "העצב המעביר דחפים חשמליים מתאי השיער של השבלול לקורטקס השמיעתי במוח, שם הם מתפרשים כצליל."
+      },
+      "category": "neuroscience"
+    },
+    {
+      "id": "t12-08",
+      "term": {
+        "en": "Vestibular System",
+        "he": "המערכת הוסטיבולרית"
+      },
+      "definition": {
+        "en": "The part of the inner ear that includes the semicircular canals and otolith organs, responsible for detecting head motion and maintaining balance.",
+        "he": "החלק של האוזן הפנימית הכולל את התעלות החצי-עגולות ואיברי האוטוליט, האחראי לזיהוי תנועת הראש ושמירה על שיווי המשקל."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t12-09",
+      "term": {
+        "en": "Semicircular Canals",
+        "he": "התעלות החצי-עגולות"
+      },
+      "definition": {
+        "en": "Three fluid-filled loops in the inner ear oriented in different planes that detect rotational head movements and help maintain balance.",
+        "he": "שלוש לולאות מלאות נוזל באוזן הפנימית המכוונות במישורים שונים, המזהות תנועות ראש סיבוביות ועוזרות לשמור על שיווי המשקל."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t12-10",
+      "term": {
+        "en": "Sound Wave",
+        "he": "גל קול"
+      },
+      "definition": {
+        "en": "A mechanical pressure wave produced by vibrating objects that travels through air (or other media) and is detectable by the ear.",
+        "he": "גל לחץ מכני הנוצר על ידי עצמים רוטטים, המתפשט דרך האוויר (או מדיה אחרת) וניתן לגילוי על ידי האוזן."
+      },
+      "category": "physics"
+    },
+    {
+      "id": "t12-11",
+      "term": {
+        "en": "Frequency (Pitch)",
+        "he": "תדירות (גובה צליל)"
+      },
+      "definition": {
+        "en": "The number of sound-wave cycles per second, measured in hertz (Hz); higher frequency produces a higher-pitched sound.",
+        "he": "מספר מחזורי גל הקול לשנייה, הנמדד בהרץ (Hz); תדירות גבוהה יותר מייצרת צליל חד יותר."
+      },
+      "category": "physics"
+    },
+    {
+      "id": "t12-12",
+      "term": {
+        "en": "Eustachian Tube",
+        "he": "חצוצרת אוסטכיוס"
+      },
+      "definition": {
+        "en": "A narrow tube connecting the middle ear to the back of the throat that equalizes air pressure on both sides of the eardrum.",
+        "he": "צינור צר המחבר את האוזן התיכונה לחלק האחורי של הגרון, המאזן את לחץ האוויר משני צידי תוף האוזן."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t12-13",
+      "term": {
+        "en": "Sensorineural Hearing Loss",
+        "he": "אובדן שמיעה חישה-עצבי"
+      },
+      "definition": {
+        "en": "Permanent hearing impairment caused by damage to the inner ear's hair cells or auditory nerve, often due to loud noise exposure, aging, or genetic factors.",
+        "he": "לקות שמיעה קבועה הנגרמת מנזק לתאי השיער של האוזן הפנימית או לעצב השמיעה, לעיתים קרובות עקב חשיפה לרעש חזק, הזדקנות או גורמים גנטיים."
+      },
+      "category": "pathology"
+    },
+    {
+      "id": "t12-14",
+      "term": {
+        "en": "Decibel (dB)",
+        "he": "דציבל (dB)"
+      },
+      "definition": {
+        "en": "The unit used to measure the intensity (loudness) of sound; sounds above 85 dB with prolonged exposure can damage hearing.",
+        "he": "היחידה המשמשת למדידת עוצמת (עוצמת הקול) הצליל; צלילים מעל 85 dB עם חשיפה ממושכת עלולים לפגוע בשמיעה."
+      },
+      "category": "physics"
+    },
+    {
+      "id": "t12-15",
+      "term": {
+        "en": "Auditory Cortex",
+        "he": "הקורטקס השמיעתי"
+      },
+      "definition": {
+        "en": "The region of the brain's temporal lobe that processes auditory information received from the cochlear nerve and interprets it as recognizable sounds.",
+        "he": "אזור האונה הרקתית של המוח המעבד מידע שמיעתי המתקבל מעצב הקוכלאה ומפרש אותו כצלילים מוכרים."
+      },
+      "category": "neuroscience"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q1",
+      "question": {
+        "en": "What is the function of the ossicles in the middle ear?",
+        "he": "מה תפקיד העצמיות באוזן התיכונה?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "To produce earwax",
+            "he": "לייצר שעוות אוזן"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "To transmit and amplify vibrations from the eardrum to the inner ear",
+            "he": "להעביר ולהגביר תנודות מתוף האוזן לאוזן הפנימית"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "To equalize pressure between the ear and the throat",
+            "he": "לאזן לחץ בין האוזן לגרון"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "To convert sound into electrical signals",
+            "he": "להמיר קול לאותות חשמליים"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The three ossicles — malleus, incus, and stapes — form a mechanical chain that transmits vibrations from the eardrum to the oval window of the cochlea. Their lever-like arrangement also amplifies the force of the vibrations, allowing quieter sounds to be heard.",
+        "he": "שלוש העצמיות — הפטיש, הסדן והאוכף — יוצרות שרשרת מכנית המעבירה תנודות מתוף האוזן לחלון הסגלגל של השבלול. הסידור הדמוי מנוף שלהן גם מגביר את כוח התנודות, ומאפשר לשמוע צלילים שקטים יותר."
+      }
+    },
+    {
+      "id": "q2",
+      "question": {
+        "en": "Where in the ear are sound vibrations converted into electrical nerve signals?",
+        "he": "היכן באוזן ממירים תנודות קול לאותות עצביים חשמליים?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "In the eardrum",
+            "he": "בתוף האוזן"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "In the ossicles",
+            "he": "בעצמיות"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "In the cochlea, by hair cells",
+            "he": "בשבלול, על ידי תאי שיער"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "In the outer ear canal",
+            "he": "בתעלת האוזן החיצונית"
+          }
+        }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Inside the fluid-filled cochlea, thousands of hair cells bear tiny stereocilia. When fluid waves bend these cilia, the hair cells generate electrical impulses that travel via the auditory nerve to the brain's auditory cortex, where sound is perceived.",
+        "he": "בתוך השבלול המלא נוזל, אלפי תאי שיער נושאים סטריאוציליה זעירה. כאשר גלי נוזל מכופפים ציליות אלה, תאי השיער מייצרים דחפים חשמליים העוברים דרך עצב השמיעה לקורטקס השמיעתי במוח, שם נתפס הצליל."
+      }
+    },
+    {
+      "id": "q3",
+      "question": {
+        "en": "Which structure in the inner ear is responsible for our sense of balance?",
+        "he": "איזה מבנה באוזן הפנימית אחראי לחוש שיווי המשקל שלנו?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "The cochlea",
+            "he": "השבלול"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "The Eustachian tube",
+            "he": "חצוצרת אוסטכיוס"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "The semicircular canals and vestibular system",
+            "he": "התעלות החצי-עגולות והמערכת הוסטיבולרית"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "The eardrum",
+            "he": "תוף האוזן"
+          }
+        }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "The vestibular system — which includes three fluid-filled semicircular canals oriented in three different planes — detects rotational and linear movements of the head. It continuously sends signals to the brain to help maintain posture and balance.",
+        "he": "המערכת הוסטיבולרית — הכוללת שלוש תעלות חצי-עגולות מלאות נוזל המכוונות בשלושה מישורים שונים — מזהה תנועות סיבוביות וליניאריות של הראש. היא שולחת ללא הרף אותות למוח לסיוע בשמירה על יציבה ושיווי משקל."
+      }
+    },
+    {
+      "id": "q4",
+      "question": {
+        "en": "What is the purpose of the Eustachian tube?",
+        "he": "מה מטרת חצוצרת אוסטכיוס?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "To drain fluid from the cochlea",
+            "he": "לנקז נוזל מהשבלול"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "To equalize air pressure between the middle ear and the throat",
+            "he": "לאזן לחץ אוויר בין האוזן התיכונה לגרון"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "To carry sound waves directly to the brain",
+            "he": "להעביר גלי קול ישירות למוח"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "To produce earwax",
+            "he": "לייצר שעוות אוזן"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The Eustachian tube connects the middle ear to the nasopharynx and opens briefly when we swallow or yawn, equalizing air pressure on both sides of the eardrum. When it is blocked — during a cold or altitude change — the pressure imbalance causes discomfort and muffled hearing.",
+        "he": "חצוצרת אוסטכיוס מחברת את האוזן התיכונה לנאזופרינקס ונפתחת בקצרה כאשר אנו בולעים או פוערים פה, מאזנת לחץ אוויר משני צידי תוף האוזן. כאשר היא חסומה — במהלך הצטננות או שינוי גובה — חוסר האיזון בלחץ גורם לאי-נוחות ולשמיעה עמומה."
+      }
+    },
+    {
+      "id": "q5",
+      "question": {
+        "en": "How does very loud noise cause permanent hearing loss?",
+        "he": "כיצד גורם רעש חזק מאוד לאובדן שמיעה קבוע?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "It breaks the eardrum",
+            "he": "הוא שובר את תוף האוזן"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "It destroys the hair cells in the cochlea, which cannot regenerate",
+            "he": "הוא משמיד את תאי השיער בשבלול, שאינם יכולים להתחדש"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "It disconnects the auditory nerve from the brain",
+            "he": "הוא מנתק את עצב השמיעה מהמוח"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "It drains the fluid from the cochlea",
+            "he": "הוא מנקז את הנוזל מהשבלול"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Intense sound creates powerful fluid waves in the cochlea that physically damage the delicate stereocilia of hair cells. Unlike many other body cells, human cochlear hair cells cannot regenerate once destroyed, leading to permanent sensorineural hearing loss.",
+        "he": "צליל עז יוצר גלי נוזל חזקים בשבלול הפוגעים פיזית בסטריאוציליה העדינה של תאי השיער. בשונה מתאי גוף רבים אחרים, תאי השיער הקוכלאריים האנושיים אינם יכולים להתחדש לאחר שנהרסו, מה שמוביל לאובדן שמיעה חישה-עצבי קבוע."
+      }
+    },
+    {
+      "id": "q6",
+      "question": {
+        "en": "What does the outer ear (pinna) primarily do?",
+        "he": "מה עושה האוזן החיצונית (האפרכסת) בעיקר?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "It amplifies all frequencies equally",
+            "he": "היא מגבירה את כל התדרים באותה מידה"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "It collects and funnels sound waves toward the ear canal",
+            "he": "היא אוספת ומנתבת גלי קול לכיוון תעלת האוזן"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "It filters out harmful high-frequency sounds",
+            "he": "היא מסננת צלילים מזיקים בתדר גבוה"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "It converts sound waves into electrical signals",
+            "he": "היא ממירה גלי קול לאותות חשמליים"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The pinna's curved shape collects sound waves from the environment and funnels them into the ear canal toward the eardrum. Its asymmetrical ridges also help the brain determine the direction and elevation of a sound source.",
+        "he": "צורתה המעוקלת של האפרכסת אוספת גלי קול מהסביבה ומנתבת אותם לתוך תעלת האוזן לכיוון תוף האוזן. הרכסים האסימטריים שלה גם עוזרים למוח לקבוע את כיוון ורום מקור הצליל."
+      }
+    },
+    {
+      "id": "q7",
+      "question": {
+        "en": "What unit is used to measure the loudness of sound?",
+        "he": "באיזו יחידה מודדים את עוצמת הקול?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Hertz (Hz)",
+            "he": "הרץ (Hz)"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Decibel (dB)",
+            "he": "דציבל (dB)"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Watt (W)",
+            "he": "וואט (W)"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Volt (V)",
+            "he": "וולט (V)"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Sound intensity is measured in decibels (dB). Normal conversation is about 60 dB, while a rock concert can exceed 110 dB. Health guidelines recommend limiting exposure to sounds above 85 dB to prevent hearing damage.",
+        "he": "עוצמת קול נמדדת בדציבלים (dB). שיחה רגילה היא כ-60 dB, בעוד שקונצרט רוק יכול לעלות על 110 dB. הנחיות בריאות ממליצות להגביל חשיפה לצלילים מעל 85 dB כדי למנוע נזק לשמיעה."
+      }
+    },
+    {
+      "id": "q8",
+      "question": {
+        "en": "Which of the ossicles directly touches the oval window of the cochlea?",
+        "he": "איזה מהעצמיות נוגעת ישירות בחלון הסגלגל של השבלול?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Malleus (hammer)",
+            "he": "הפטיש (malleus)"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Incus (anvil)",
+            "he": "הסדן (incus)"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Stapes (stirrup)",
+            "he": "האוכף (stapes)"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Tympanic membrane",
+            "he": "הממברנה הטימפנית"
+          }
+        }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "The stapes (stirrup) is the innermost and smallest of the three ossicles. Its flat footplate fits into the oval window of the cochlea, transmitting vibrations from the incus directly into the cochlear fluid.",
+        "he": "האוכף (stapes) הוא הפנימי והקטן ביותר משלוש העצמיות. בסיסו השטוח מתאים לחלון הסגלגל של השבלול, ומעביר תנודות מהסדן ישירות לנוזל הקוכלארי."
+      }
+    },
+    {
+      "id": "q9",
+      "question": {
+        "en": "What is the role of the auditory cortex?",
+        "he": "מה תפקיד הקורטקס השמיעתי?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "To balance fluid pressure in the cochlea",
+            "he": "לאזן לחץ נוזל בשבלול"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "To receive and interpret electrical signals from the auditory nerve as sound",
+            "he": "לקבל ולפרש אותות חשמליים מעצב השמיעה כצליל"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "To vibrate in response to sound waves",
+            "he": "לרטוט בתגובה לגלי קול"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "To produce the sense of balance",
+            "he": "לייצר את תחושת שיווי המשקל"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The auditory cortex, located in the temporal lobe of the brain, is the final destination of auditory signals. It processes the electrical impulses sent from the cochlea via the auditory nerve and translates them into what we consciously experience as speech, music, or other sounds.",
+        "he": "הקורטקס השמיעתי, הממוקם באונה הרקתית של המוח, הוא היעד הסופי של אותות שמיעה. הוא מעבד את הדחפים החשמליים הנשלחים מהשבלול דרך עצב השמיעה ומתרגם אותם למה שאנו חווים במודע כדיבור, מוזיקה או צלילים אחרים."
+      }
+    },
+    {
+      "id": "q10",
+      "question": {
+        "en": "Why do your ears sometimes 'pop' when you travel in an airplane or go up a mountain?",
+        "he": "מדוע האוזניים שלך לעיתים 'מתפוצצות' כשנוסעים במטוס או עולים להר?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "The cochlear fluid boils at high altitude",
+            "he": "נוזל השבלול רותח בגובה רב"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "The ossicles expand in thinner air",
+            "he": "העצמיות מתרחבות באוויר דליל יותר"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "The Eustachian tube opens to equalize air pressure across the eardrum",
+            "he": "חצוצרת אוסטכיוס נפתחת לאיזון לחץ האוויר על פני תוף האוזן"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "The eardrum ruptures temporarily",
+            "he": "תוף האוזן נקרע באופן זמני"
+          }
+        }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "As altitude increases, outside air pressure drops while pressure in the sealed middle ear remains higher. The brief 'pop' is the Eustachian tube opening — often triggered by swallowing or yawning — to let air escape and equalize the pressure, relieving the sensation of fullness.",
+        "he": "כאשר הגובה עולה, לחץ האוויר החיצוני יורד בעוד הלחץ באוזן התיכונה הסגורה נשאר גבוה יותר. ה'פצצה' הקצרה היא חצוצרת אוסטכיוס הנפתחת — לעיתים קרובות מופעלת על ידי בליעה או פיהוק — לאפשר לאוויר לצאת ולאזן את הלחץ, ומקלה על תחושת המלאות."
+      }
+    }
+  ]
+}

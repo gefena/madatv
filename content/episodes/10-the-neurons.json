@@ -1,0 +1,630 @@
+{
+  "id": "10-the-neurons",
+  "episodeNumber": 10,
+  "youtubeId": "ds3Ic4W-BgI",
+  "title": {
+    "en": "The Neurons",
+    "he": "הנוירונים"
+  },
+  "summary": {
+    "en": "This episode focuses on neurons — the specialized cells that form the brain and nervous system. It explains the anatomy of a neuron: dendrites that receive signals, the cell body that processes them, and the axon that transmits them onward. The episode describes how electrical impulses travel along axons and how chemical neurotransmitters carry messages across the tiny gaps between neurons called synapses. It explores the role of the myelin sheath in dramatically accelerating nerve signal transmission, and distinguishes among sensory neurons that carry information toward the brain, motor neurons that carry commands to muscles, and interneurons that integrate signals within the central nervous system. The episode also examines the remarkable concept of neuroplasticity — the brain's ability to rewire itself through learning and experience — and what happens when neurons or myelin are damaged by disease.",
+    "he": "פרק זה מתמקד בנוירונים — התאים המיוחדים המרכיבים את המוח ומערכת העצבים. הוא מסביר את האנטומיה של נוירון: דנדריטים המקבלים אותות, גוף התא המעבד אותם, והאקסון המעביר אותם הלאה. הפרק מתאר כיצד דחפים חשמליים נוסעים לאורך אקסונים וכיצד נוירוטרנסמיטרים כימיים מעבירים הודעות דרך הפערים הזעירים בין נוירונים הנקראים סינפסות. הוא בוחן את תפקיד נדן המיאלין בהאצה דרמטית של העברת אותות עצביים, ומבחין בין נוירונים חושיים המעבירים מידע למוח, נוירונים מוטוריים המעבירים פקודות לשרירים, ונוירונים בין-ביניים המשלבים אותות במערכת העצבים המרכזית. הפרק גם בוחן את המושג המרהיב של נוירופלסטיות — יכולת המוח לחוט מחדש את עצמו דרך למידה וחוויה — ומה קורה כאשר נוירונים או מיאלין ניזוקים על ידי מחלה."
+  },
+  "thumbnail": "https://img.youtube.com/vi/ds3Ic4W-BgI/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": [
+    "neurons",
+    "nervous system",
+    "synapses",
+    "neurotransmitters",
+    "nerve signals"
+  ],
+  "terminology": [
+    {
+      "id": "t10-01",
+      "term": {
+        "en": "Neuron",
+        "he": "נוירון"
+      },
+      "definition": {
+        "en": "A specialized cell of the nervous system that receives, processes, and transmits electrical and chemical signals. Neurons are the basic functional units of the brain; unlike most body cells, they typically cannot divide and replace themselves after birth.",
+        "he": "תא מיוחד של מערכת העצבים המקבל, מעבד ומעביר אותות חשמליים וכימיים. נוירונים הם היחידות התפקודיות הבסיסיות של המוח; בניגוד לרוב תאי הגוף, הם בדרך כלל אינם יכולים להתחלק ולהחליף את עצמם לאחר הלידה."
+      },
+      "category": "cell biology"
+    },
+    {
+      "id": "t10-02",
+      "term": {
+        "en": "Axon",
+        "he": "אקסון"
+      },
+      "definition": {
+        "en": "The long, slender projection of a neuron that conducts electrical impulses away from the cell body toward other neurons or muscles. Some axons in the human body can be over a meter long — for example, the axons running from the spinal cord to the toes.",
+        "he": "הזיז הארוך והדק של נוירון המוביל דחפים חשמליים מגוף התא לכיוון נוירונים אחרים או שרירים. חלק מהאקסונים בגוף האדם יכולים להיות ארוכים מעל מטר — לדוגמה, האקסונים הפועלים מחוט השדרה לאצבעות הרגליים."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t10-03",
+      "term": {
+        "en": "Dendrite",
+        "he": "דנדריט"
+      },
+      "definition": {
+        "en": "Branch-like projections of a neuron that receive incoming signals from other neurons. A single neuron can have thousands of dendrites, allowing it to integrate signals from thousands of other neurons simultaneously.",
+        "he": "זיזים דמויי ענפים של נוירון המקבלים אותות נכנסים מנוירונים אחרים. לנוירון בודד יכולים להיות אלפי דנדריטים, המאפשרים לו לשלב אותות מאלפי נוירונים אחרים בו-זמנית."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t10-04",
+      "term": {
+        "en": "Synapse",
+        "he": "סינפסה"
+      },
+      "definition": {
+        "en": "The gap between the axon terminal of one neuron and the dendrite of the next, where chemical signals are passed. When an electrical impulse reaches the axon terminal, it triggers the release of neurotransmitters into the synaptic cleft.",
+        "he": "הפער בין קצה האקסון של נוירון אחד לדנדריט של הנוירון הבא, שבו מועברים אותות כימיים. כאשר דחף חשמלי מגיע לקצה האקסון, הוא מפעיל שחרור נוירוטרנסמיטרים לתוך הפסיגה הסינפטית."
+      },
+      "category": "neuroscience"
+    },
+    {
+      "id": "t10-05",
+      "term": {
+        "en": "Neurotransmitter",
+        "he": "נוירוטרנסמיטר"
+      },
+      "definition": {
+        "en": "A chemical messenger released from an axon terminal that crosses the synaptic gap and binds to receptors on the next neuron. Common neurotransmitters include dopamine (reward and movement), serotonin (mood), acetylcholine (muscle activation), and GABA (inhibition).",
+        "he": "מסר כימי המשתחרר מקצה אקסון, חוצה את הפער הסינפטי ונקשר לקולטנים על הנוירון הבא. נוירוטרנסמיטרים נפוצים כוללים דופמין (תגמול ותנועה), סרוטונין (מצב רוח), אצטילכולין (הפעלת שרירים) ו-GABA (עיכוב)."
+      },
+      "category": "biochemistry"
+    },
+    {
+      "id": "t10-06",
+      "term": {
+        "en": "Myelin Sheath",
+        "he": "נדן מיאלין"
+      },
+      "definition": {
+        "en": "A fatty insulating layer wrapped around axons that speeds up the transmission of nerve impulses. Myelin is produced by Schwann cells in the peripheral nervous system and oligodendrocytes in the brain. Multiple sclerosis is a disease in which the immune system attacks myelin, disrupting nerve transmission.",
+        "he": "שכבת בידוד שמנה המעוטפת סביב אקסונים ומאיצה את העברת הדחפים העצביים. מיאלין מיוצר על ידי תאי שוואן במערכת העצבים ההיקפית ואוליגודנדרוציטים במוח. טרשת נפוצה היא מחלה שבה מערכת החיסון תוקפת מיאלין ומפריעה להעברה עצבית."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t10-07",
+      "term": {
+        "en": "Action Potential",
+        "he": "פוטנציאל פעולה"
+      },
+      "definition": {
+        "en": "The brief electrical signal that travels along the axon, triggered when the neuron is sufficiently stimulated. It is an all-or-nothing event: once the threshold is reached, the signal travels at full strength along the entire length of the axon.",
+        "he": "האות החשמלי הקצר הנוסע לאורך האקסון, המופעל כאשר הנוירון מגורה דיו. זהו אירוע הכל-או-כלום: ברגע שהסף מגיע, האות נוסע בעוצמה מלאה לאורך כל האקסון."
+      },
+      "category": "physiology"
+    },
+    {
+      "id": "t10-08",
+      "term": {
+        "en": "Sensory Neuron",
+        "he": "נוירון חושי"
+      },
+      "definition": {
+        "en": "A neuron that carries signals from sensory receptors (eyes, skin, etc.) to the brain or spinal cord. Sensory neurons are also called afferent neurons; they inform the brain about conditions both inside and outside the body.",
+        "he": "נוירון המעביר אותות מקולטנים חושיים (עיניים, עור וכו') למוח או לחוט השדרה. נוירונים חושיים נקראים גם נוירונים אפרנטיים; הם מודיעים למוח על תנאים הן בתוך הגוף והן מחוצה לו."
+      },
+      "category": "neuroscience"
+    },
+    {
+      "id": "t10-09",
+      "term": {
+        "en": "Motor Neuron",
+        "he": "נוירון מוטורי"
+      },
+      "definition": {
+        "en": "A neuron that carries signals from the brain or spinal cord to muscles, causing them to contract. Motor neurons are also called efferent neurons. Diseases that destroy motor neurons — such as ALS (Lou Gehrig's disease) — progressively paralyze the body.",
+        "he": "נוירון המעביר אותות מהמוח או מחוט השדרה לשרירים, וגורם להם להתכווץ. נוירונים מוטוריים נקראים גם נוירונים אפרנטיים. מחלות המשמידות נוירונים מוטוריים — כגון ALS (מחלת לו גריג) — משתקות את הגוף בהדרגה."
+      },
+      "category": "neuroscience"
+    },
+    {
+      "id": "t10-10",
+      "term": {
+        "en": "Neuroplasticity",
+        "he": "נוירופלסטיות"
+      },
+      "definition": {
+        "en": "The brain's ability to reorganize itself by forming new neural connections in response to learning, experience, or injury. This adaptability means that repeated practice strengthens specific neural pathways, while unused pathways weaken — the cellular basis of learning and memory.",
+        "he": "יכולת המוח לארגן מחדש את עצמו על ידי יצירת חיבורים עצביים חדשים בתגובה ללמידה, חוויה או פציעה. יכולת הסתגלות זו אומרת שתרגול חוזר מחזק נתיבים עצביים ספציפיים, בעוד שנתיבים שאינם בשימוש נחלשים — הבסיס התאי ללמידה ולזיכרון."
+      },
+      "category": "neuroscience"
+    },
+    {
+      "id": "t10-11",
+      "term": {
+        "en": "Interneuron",
+        "he": "נוירון בין-ביניים"
+      },
+      "definition": {
+        "en": "A neuron found entirely within the central nervous system (brain and spinal cord) that integrates and processes signals between sensory and motor neurons. Interneurons make up the vast majority of neurons in the human brain.",
+        "he": "נוירון הנמצא כולו בתוך מערכת העצבים המרכזית (מוח וחוט שדרה) המשלב ומעבד אותות בין נוירונים חושיים למוטוריים. נוירוני בין-ביניים מהווים את הרוב המוחלט של הנוירונים במוח האנושי."
+      },
+      "category": "neuroscience"
+    },
+    {
+      "id": "t10-12",
+      "term": {
+        "en": "Dopamine",
+        "he": "דופמין"
+      },
+      "definition": {
+        "en": "A neurotransmitter that plays a key role in motivation, reward, pleasure, and voluntary movement. Dopamine release reinforces behaviors that feel rewarding. The loss of dopamine-producing neurons in the substantia nigra is the hallmark of Parkinson's disease.",
+        "he": "נוירוטרנסמיטר הממלא תפקיד מרכזי במוטיבציה, תגמול, הנאה ותנועה רצונית. שחרור דופמין מחזק התנהגויות שמרגישות מתגמלות. אובדן נוירונים מייצרי דופמין ב-substantia nigra הוא הסימן המאפיין של מחלת פרקינסון."
+      },
+      "category": "biochemistry"
+    },
+    {
+      "id": "t10-13",
+      "term": {
+        "en": "Multiple Sclerosis (MS)",
+        "he": "טרשת נפוצה"
+      },
+      "definition": {
+        "en": "An autoimmune disease in which the immune system attacks the myelin sheath around neurons in the brain and spinal cord, disrupting nerve signal transmission and causing symptoms such as weakness, numbness, and vision loss.",
+        "he": "מחלה אוטואימונית שבה מערכת החיסון תוקפת את נדן המיאלין סביב נוירונים במוח ובחוט השדרה, מפריעה להעברת אותות עצביים וגורמת לתסמינים כגון חולשה, חוסר תחושה ואובדן ראייה."
+      },
+      "category": "pathology"
+    },
+    {
+      "id": "t10-14",
+      "term": {
+        "en": "Nodes of Ranvier",
+        "he": "צמתי רנוויה"
+      },
+      "definition": {
+        "en": "Small gaps in the myelin sheath along a myelinated axon where ion channels are concentrated and the action potential is regenerated. This arrangement (saltatory conduction) allows impulses to 'jump' between nodes, dramatically increasing conduction speed.",
+        "he": "פערים קטנים בנדן המיאלין לאורך אקסון מיאלינוזה שבהם מרוכזים תעלות יונים ופוטנציאל הפעולה מתחדש. הסדר הזה (הולכה סלטטורית) מאפשר לדחפים 'לקפוץ' בין צמתים, ומגביר בצורה דרמטית את מהירות ההולכה."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t10-15",
+      "term": {
+        "en": "Serotonin",
+        "he": "סרוטונין"
+      },
+      "definition": {
+        "en": "A neurotransmitter that contributes to feelings of well-being, mood regulation, sleep, and appetite. About 90% of the body's serotonin is produced in the gut, not the brain. Many antidepressant drugs work by increasing serotonin availability at synapses.",
+        "he": "נוירוטרנסמיטר התורם לתחושות של רווחה, ויסות מצב רוח, שינה ותיאבון. כ-90% מהסרוטונין של הגוף מיוצר במעי, לא במוח. תרופות נוגדות דיכאון רבות פועלות על ידי הגדלת זמינות הסרוטונין בסינפסות."
+      },
+      "category": "biochemistry"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q10-01",
+      "question": {
+        "en": "What is the long projection of a neuron that sends signals to other cells?",
+        "he": "מה הזיז הארוך של נוירון השולח אותות לתאים אחרים?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Dendrite",
+            "he": "דנדריט"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Axon",
+            "he": "אקסון"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Synapse",
+            "he": "סינפסה"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Nucleus",
+            "he": "גרעין"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The axon is the long, slender fiber that conducts electrical impulses away from the neuron's cell body. Some axons in the human body can be over a meter long.",
+        "he": "האקסון הוא הסיב הארוך והדק המוביל דחפים חשמליים מגוף התא של הנוירון. חלק מהאקסונים בגוף האדם יכולים להיות ארוכים מעל מטר."
+      }
+    },
+    {
+      "id": "q10-02",
+      "question": {
+        "en": "What is the purpose of the myelin sheath around an axon?",
+        "he": "מה מטרת נדן המיאלין סביב אקסון?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "To produce neurotransmitters",
+            "he": "לייצר נוירוטרנסמיטרים"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "To speed up nerve impulse transmission",
+            "he": "להאיץ את העברת הדחף העצבי"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "To receive signals from other neurons",
+            "he": "לקבל אותות מנוירונים אחרים"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "To anchor the neuron in place",
+            "he": "לעגן את הנוירון במקומו"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The myelin sheath is a fatty insulating layer that wraps around axons in segments. It allows nerve impulses to jump between gaps (nodes of Ranvier) rather than traveling continuously, greatly speeding up signal transmission.",
+        "he": "נדן המיאלין הוא שכבת בידוד שמנה המעוטפת סביב אקסונים בפלחים. הוא מאפשר לדחפים עצביים לקפוץ בין פערים (צמתי רנוויה) במקום לנסוע ברציפות, ובכך מאיץ מאוד את העברת האות."
+      }
+    },
+    {
+      "id": "q10-03",
+      "question": {
+        "en": "What are the chemicals that carry signals across a synapse called?",
+        "he": "כיצד נקראים הכימיקלים המעבירים אותות דרך סינפסה?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Hormones",
+            "he": "הורמונים"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Enzymes",
+            "he": "אנזימים"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Neurotransmitters",
+            "he": "נוירוטרנסמיטרים"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Antibodies",
+            "he": "נוגדנים"
+          }
+        }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Neurotransmitters are chemical messengers released by one neuron into the synapse. They diffuse across the gap and bind to receptors on the receiving neuron, either exciting or inhibiting it.",
+        "he": "נוירוטרנסמיטרים הם מסרים כימיים המשתחררים על ידי נוירון אחד לתוך הסינפסה. הם מתפזרים דרך הפער ונקשרים לקולטנים על הנוירון המקבל, מעוררים או מעכבים אותו."
+      }
+    },
+    {
+      "id": "q10-04",
+      "question": {
+        "en": "What type of neuron carries signals FROM sensory organs TO the brain?",
+        "he": "איזה סוג נוירון מעביר אותות מאיברי חישה אל המוח?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Motor neuron",
+            "he": "נוירון מוטורי"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Interneuron",
+            "he": "נוירון בין-ביניים"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Sensory neuron",
+            "he": "נוירון חושי"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Glial cell",
+            "he": "תא גליה"
+          }
+        }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Sensory neurons (afferent neurons) carry information from the sense organs — eyes, ears, skin, nose, and tongue — to the brain and spinal cord for processing.",
+        "he": "נוירונים חושיים (נוירונים אפרנטיים) מעבירים מידע מאיברי החישה — עיניים, אוזניים, עור, אף ולשון — למוח ולחוט השדרה לעיבוד."
+      }
+    },
+    {
+      "id": "q10-05",
+      "question": {
+        "en": "What does neuroplasticity refer to?",
+        "he": "למה מתייחסת נוירופלסטיות?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "The brain's rigidity and inability to change",
+            "he": "נוקשות המוח וחוסר יכולתו להשתנות"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "The brain's ability to form new neural connections",
+            "he": "יכולת המוח ליצור חיבורים עצביים חדשים"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "The plastic material protecting the skull",
+            "he": "החומר הפלסטי המגן על הגולגולת"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "The liquid surrounding the brain",
+            "he": "הנוזל המקיף את המוח"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Neuroplasticity is the brain's remarkable ability to rewire itself by forming new synaptic connections. It underlies learning, memory, and recovery from brain injuries.",
+        "he": "נוירופלסטיות היא יכולת המוח המדהימה לחווט עצמו מחדש על ידי יצירת חיבורים סינפטיים חדשים. היא עומדת בבסיס הלמידה, הזיכרון וההתאוששות מפגיעות מוחיות."
+      }
+    },
+    {
+      "id": "q10-06",
+      "question": {
+        "en": "At approximately what speed do nerve signals travel along a myelinated axon?",
+        "he": "באיזה מהירות בערך עוברים אותות עצביים לאורך אקסון מיאלינוזה?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "1 km/h",
+            "he": "1 קמ\"ש"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "10 km/h",
+            "he": "10 קמ\"ש"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Up to 430 km/h",
+            "he": "עד 430 קמ\"ש"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Speed of light",
+            "he": "מהירות האור"
+          }
+        }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Nerve signals in myelinated axons can travel at speeds up to about 120 meters per second, or roughly 430 km/h. This rapid transmission allows for near-instant reactions.",
+        "he": "אותות עצביים באקסונים מיאלינוזים יכולים לנסוע במהירות של עד כ-120 מטר לשנייה, או כ-430 קמ\"ש. העברה מהירה זו מאפשרת תגובות כמעט מיידיות."
+      }
+    },
+    {
+      "id": "q10-07",
+      "question": {
+        "en": "What is dopamine, and what role does it play in the brain?",
+        "he": "מהו דופמין, ואיזה תפקיד הוא ממלא במוח?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "A hormone that regulates sleep",
+            "he": "הורמון המווסת שינה"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "A neurotransmitter linked to reward, motivation, and movement",
+            "he": "נוירוטרנסמיטר הקשור לתגמול, מוטיבציה ותנועה"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "An enzyme that breaks down waste in neurons",
+            "he": "אנזים שפורק פסולת בנוירונים"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "A protein that forms the myelin sheath",
+            "he": "חלבון שיוצר את נדן המיאלין"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Dopamine is a key neurotransmitter in the brain's reward pathways. It is released when we experience something pleasurable, reinforcing that behavior. Parkinson's disease results from the death of dopamine-producing neurons, causing tremors and movement difficulties.",
+        "he": "דופמין הוא נוירוטרנסמיטר מרכזי בנתיבי התגמול של המוח. הוא משתחרר כאשר אנו חווים משהו מהנה, מחזק התנהגות זו. מחלת פרקינסון נגרמת ממות נוירונים מייצרי דופמין, וגורמת לרעידות וקשיי תנועה."
+      }
+    },
+    {
+      "id": "q10-08",
+      "question": {
+        "en": "What happens to nerve signals if the myelin sheath is damaged?",
+        "he": "מה קורה לאותות עצביים אם נדן המיאלין ניזוק?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Signals travel faster than normal",
+            "he": "האותות נוסעים מהר יותר מהרגיל"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Signals slow down, become distorted, or fail to arrive",
+            "he": "האותות מאטים, מתעוותים, או אינם מגיעים"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "More neurotransmitters are produced",
+            "he": "מיוצרים יותר נוירוטרנסמיטרים"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "The axon produces new myelin immediately",
+            "he": "האקסון מייצר מיאלין חדש מיידית"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Myelin insulation is essential for fast nerve conduction. When myelin is damaged — as in multiple sclerosis — nerve signals slow, become unreliable, or are completely blocked, causing symptoms such as weakness, numbness, and vision problems.",
+        "he": "בידוד המיאלין חיוני להולכה עצבית מהירה. כאשר מיאלין ניזוק — כמו בטרשת נפוצה — אותות עצביים מאטים, הופכים לבלתי אמינים, או נחסמים לחלוטין, וגורמים לתסמינים כגון חולשה, חוסר תחושה ובעיות ראייה."
+      }
+    },
+    {
+      "id": "q10-09",
+      "question": {
+        "en": "Is the action potential 'all-or-nothing'? What does this mean?",
+        "he": "האם פוטנציאל הפעולה הוא 'הכל-או-כלום'? מה זה אומר?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Yes — once the threshold is reached, the signal travels at full strength regardless of stimulus size",
+            "he": "כן — ברגע שהסף מגיע, האות נוסע בעוצמה מלאה ללא קשר לגודל הגירוי"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "No — stronger stimuli produce stronger signals",
+            "he": "לא — גירויים חזקים יותר מייצרים אותות חזקים יותר"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Only in motor neurons",
+            "he": "רק בנוירונים מוטוריים"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "It depends on the type of neurotransmitter",
+            "he": "זה תלוי בסוג הנוירוטרנסמיטר"
+          }
+        }
+      ],
+      "correctChoice": "a",
+      "explanation": {
+        "en": "An action potential follows the all-or-nothing principle: if a neuron is stimulated enough to reach threshold, it fires a full-strength action potential. A stronger stimulus doesn't produce a stronger signal — instead, it causes the neuron to fire more frequently.",
+        "he": "פוטנציאל פעולה עוקב אחר עקרון הכל-או-כלום: אם נוירון מגורה מספיק כדי להגיע לסף, הוא יורה פוטנציאל פעולה בעוצמה מלאה. גירוי חזק יותר אינו מייצר אות חזק יותר — במקום זאת, הוא גורם לנוירון לירות בתדירות גבוהה יותר."
+      }
+    },
+    {
+      "id": "q10-10",
+      "question": {
+        "en": "What is the role of serotonin in the brain?",
+        "he": "מה תפקיד הסרוטונין במוח?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "To control voluntary muscle movement",
+            "he": "לשלוט בתנועת שרירים רצונית"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "To contribute to mood regulation, well-being, and sleep",
+            "he": "לתרום לוויסות מצב רוח, רווחה ושינה"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "To form new myelin around axons",
+            "he": "ליצור מיאלין חדש סביב אקסונים"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "To increase heart rate during stress",
+            "he": "להגביר קצב לב בזמן לחץ"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Serotonin is a neurotransmitter associated with feelings of happiness, calm, and well-being. It also helps regulate sleep, appetite, and digestion. Many antidepressants (SSRIs) work by preventing the reabsorption of serotonin at synapses, keeping more available to act on receiving neurons.",
+        "he": "סרוטונין הוא נוירוטרנסמיטר הקשור לתחושות של אושר, שלווה ורווחה. הוא גם עוזר לווסת שינה, תיאבון ועיכול. תרופות נוגדות דיכאון רבות (SSRI) פועלות על ידי מניעת ספיגה מחדש של סרוטונין בסינפסות, ושומרות על יותר זמין לפעול על נוירונים מקבלים."
+      }
+    }
+  ],
+  "videoSources": [
+    "ds3Ic4W-BgI",
+    "vWbnovFRBqQ"
+  ]
+}

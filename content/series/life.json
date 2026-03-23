@@ -1,0 +1,16 @@
+{
+  "id": "life",
+  "title": { "en": "Life", "he": "חיים" },
+  "originalTitle": "Il était une fois… la vie",
+  "description": {
+    "en": "Follow tiny heroes on adventures inside the human body! Explore cells, organs, blood, and everything that keeps you alive — 26 amazing episodes.",
+    "he": "עקוב אחר גיבורים זעירים בהרפתקאות בתוך גוף האדם! גלה תאים, איברים, דם וכל מה שמחזיק אותך בחיים — 26 פרקים מדהימים."
+  },
+  "episodeCount": 26,
+  "thumbnail": "https://img.youtube.com/vi/OoXE0pypuuQ/maxresdefault.jpg",
+  "emoji": "🧬",
+  "gradient": "from-indigo-500 to-purple-600",
+  "badgeColor": "bg-indigo-500",
+  "year": "1987",
+  "ageRange": "7+"
+}

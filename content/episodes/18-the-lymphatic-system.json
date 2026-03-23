@@ -1,0 +1,630 @@
+{
+  "id": "18-the-lymphatic-system",
+  "episodeNumber": 18,
+  "youtubeId": "XERxQOLH2Pg",
+  "title": {
+    "en": "The Lymphatic System",
+    "he": "המערכת הלימפטית"
+  },
+  "summary": {
+    "en": "This episode explores the lymphatic system — a vast network of vessels, nodes, and organs that works alongside the circulatory system to maintain fluid balance and defend against infection. It explains how lymph fluid originates from blood plasma that leaks out of capillaries into surrounding tissues and is then collected and returned to the bloodstream through lymphatic vessels. The episode highlights the crucial role of lymph nodes as biological filtering stations that trap, identify, and destroy pathogens before they can spread. Key lymphoid organs are introduced — including the spleen, which filters blood; the thymus, where T cells mature; and the tonsils and adenoids, which guard the body's entry points. The episode shows how the lymphatic system is not just about fluid balance but is an integral part of the immune system's rapid response to infection.",
+    "he": "פרק זה בוחן את המערכת הלימפטית — רשת ענפה של כלי דם, בלוטות ואיברים הפועלת לצד מערכת הדם לשמירה על איזון נוזלים ולהגנה מפני זיהום. הוא מסביר כיצד נוזל לימפה מקורו בפלזמת דם הדולפת מנימים לרקמות הסמוכות ואז נאסף ומוחזר לזרם הדם דרך כלי הלימפה. הפרק מדגיש את התפקיד המכריע של בלוטות הלימפה כתחנות סינון ביולוגיות הלוכדות, מזהות ומשמידות פתוגנים לפני שיוכלו להתפשט. מוצגים איברי לימפה מרכזיים — כולל הטחול, הסוגן דם; בלוטת התימוס, שבה מבשילים תאי T; והשקדים והאדנואידים, השומרים על נקודות הכניסה של הגוף. הפרק מראה כיצד המערכת הלימפטית אינה עוסקת רק באיזון נוזלים אלא היא חלק בלתי נפרד מהתגובה המהירה של מערכת החיסון לזיהום."
+  },
+  "thumbnail": "https://img.youtube.com/vi/XERxQOLH2Pg/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": [
+    "lymphatic system",
+    "lymph nodes",
+    "immune system",
+    "fluid balance",
+    "spleen"
+  ],
+  "terminology": [
+    {
+      "id": "t15-01",
+      "term": {
+        "en": "Lymph",
+        "he": "לימפה"
+      },
+      "definition": {
+        "en": "A clear, colorless fluid that circulates through the lymphatic vessels, carrying white blood cells, waste products, and fat absorbed from the intestines. Lymph originates from blood plasma that leaks out of capillaries into surrounding tissues.",
+        "he": "נוזל שקוף וחסר צבע המסתובב דרך כלי הלימפה, נושא כדוריות דם לבנות, תוצרי פסולת ושומן הנספג מהמעיים. הלימפה מקורה בפלזמת דם הדולפת מנימים לרקמות הסמוכות."
+      },
+      "category": "physiology"
+    },
+    {
+      "id": "t15-02",
+      "term": {
+        "en": "Lymph Node",
+        "he": "בלוטת לימפה"
+      },
+      "definition": {
+        "en": "A small, bean-shaped structure located along lymphatic vessels that acts as a biological filter — trapping bacteria, viruses, and cellular debris in the lymph and activating immune cells to destroy them. The body has hundreds of lymph nodes, concentrated in the neck, armpits, and groin.",
+        "he": "מבנה קטן בצורת שעועית הממוקם לאורך כלי הלימפה הפועל כמסנן ביולוגי — לוכד חיידקים, וירוסים ופסולת תאית בלימפה ומפעיל תאי חיסון להשמידם. לגוף מאות בלוטות לימפה, המרוכזות בצוואר, בבתי השחי ובמפשעה."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t15-03",
+      "term": {
+        "en": "Spleen",
+        "he": "טחול"
+      },
+      "definition": {
+        "en": "The largest lymphoid organ, located in the upper left abdomen, that filters blood rather than lymph. It destroys old or damaged red blood cells, stores platelets and immune cells, and mounts immune responses to blood-borne pathogens.",
+        "he": "האיבר הלימפואידי הגדול ביותר, הממוקם בחלק העליון השמאלי של הבטן, הסוגן דם ולא לימפה. הוא משמיד כדוריות דם אדומות ישנות או פגועות, מאחסן טסיות ותאי חיסון, ומגייס תגובות חיסוניות לפתוגנים בדם."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t15-04",
+      "term": {
+        "en": "Thymus",
+        "he": "בלוטת התימוס"
+      },
+      "definition": {
+        "en": "A gland located behind the sternum where T lymphocytes migrate after being produced in bone marrow and undergo maturation to become fully functional immune cells. The thymus is most active during childhood and gradually shrinks after puberty.",
+        "he": "בלוטה הממוקמת מאחורי עצם החזה שאליה עוברים לימפוציטים T לאחר ייצורם במח העצמות ועוברים בשלות להפוך לתאי חיסון פונקציונליים לחלוטין. בלוטת התימוס פעילה ביותר בילדות ומתכווצת בהדרגה לאחר גיל ההתבגרות."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t15-05",
+      "term": {
+        "en": "Lymphocyte",
+        "he": "לימפוציט"
+      },
+      "definition": {
+        "en": "A type of white blood cell — including B cells and T cells — that is the primary cell of the adaptive immune response. B lymphocytes produce antibodies while T lymphocytes directly attack infected cells or coordinate immune responses.",
+        "he": "סוג של כדורית דם לבנה — כולל תאי B ותאי T — שהוא התא העיקרי של התגובה החיסונית ההסתגלותית. לימפוציטים B מייצרים נוגדנים בעוד לימפוציטים T תוקפים ישירות תאים נגועים או מתאמים תגובות חיסוניות."
+      },
+      "category": "immune cell"
+    },
+    {
+      "id": "t15-06",
+      "term": {
+        "en": "Tonsils",
+        "he": "שקדים"
+      },
+      "definition": {
+        "en": "Masses of lymphoid tissue at the back of the throat that serve as a first line of defense against pathogens entering through the mouth and nose. They sample microorganisms in inhaled and ingested material and trigger immune responses when infection is detected.",
+        "he": "מסות של רקמה לימפואידית בגב הגרון המשמשות כקו הגנה ראשון מפני פתוגנים הנכנסים דרך הפה והאף. הן דוגמות מיקרואורגניזמים בחומר הנשאף ונבלע ומפעילות תגובות חיסוניות כאשר מתגלה זיהום."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t15-07",
+      "term": {
+        "en": "Edema",
+        "he": "בצקת"
+      },
+      "definition": {
+        "en": "Abnormal swelling caused by the accumulation of excess fluid in tissues, often due to lymphatic system dysfunction or blockage. When lymph vessels cannot drain fluid properly, it builds up in surrounding tissues causing visible swelling, heaviness, and discomfort.",
+        "he": "נפיחות חריגה הנגרמת מהצטברות נוזל עודף ברקמות, לרוב עקב תפקוד לקוי של המערכת הלימפטית או חסימה. כאשר כלי הלימפה אינם יכולים לנקז נוזלים כראוי, הוא מצטבר ברקמות הסמוכות וגורם לנפיחות גלויה, כובד ואי-נוחות."
+      },
+      "category": "pathology"
+    },
+    {
+      "id": "t15-08",
+      "term": {
+        "en": "Lymphatic Vessels",
+        "he": "כלי לימפה"
+      },
+      "definition": {
+        "en": "A network of thin-walled tubes that collect lymph from tissues throughout the body and transport it back toward the bloodstream. Lymphatic vessels contain one-way valves to prevent backflow and rely on muscle contractions and breathing movements to propel lymph.",
+        "he": "רשת של צינורות דפנות-דקות האוספים לימפה מרקמות בכל הגוף ומעבירים אותה חזרה לזרם הדם. כלי הלימפה מכילים שסתומים חד-כיווניים למניעת זרימה חוזרת ומסתמכים על התכווצויות שרירים ותנועות נשימה להנעת הלימפה."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t15-09",
+      "term": {
+        "en": "Thoracic Duct",
+        "he": "צינור החזה"
+      },
+      "definition": {
+        "en": "The largest lymphatic vessel in the body, which collects lymph from the lower body and left upper body and drains it into the left subclavian vein near the heart. It is also the main route for transporting dietary fat (as chylomicrons) from the intestines into the bloodstream.",
+        "he": "כלי הלימפה הגדול ביותר בגוף, האוסף לימפה מהחלק התחתון של הגוף וחלק עליון שמאלי ומנקז אותה לורִיד הבריח השמאלי ליד הלב. הוא גם הנתיב הראשי להעברת שומן תזונתי (כילומיקרונים) מהמעיים לזרם הדם."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t15-10",
+      "term": {
+        "en": "Adenoids",
+        "he": "אדנואידים (צמחיית בשר)"
+      },
+      "definition": {
+        "en": "Lymphoid tissue located at the back of the nasal passage that helps trap airborne pathogens inhaled through the nose. Adenoids are especially prominent in young children and typically shrink during adolescence. Together with the tonsils they form the body's first lymphoid defense ring.",
+        "he": "רקמה לימפואידית הממוקמת בגב הנחיר העוזרת ללכוד פתוגנים בהיר שנשאפים דרך האף. האדנואידים בולטים במיוחד אצל ילדים צעירים ומתכווצים בדרך כלל בגיל ההתבגרות. יחד עם השקדים הם יוצרים את טבעת ההגנה הלימפואידית הראשונה של הגוף."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t15-11",
+      "term": {
+        "en": "Lacteals",
+        "he": "לקטאלים"
+      },
+      "definition": {
+        "en": "Specialized lymphatic capillaries found in the villi of the small intestine that absorb dietary fat and fat-soluble vitamins. Fat cannot enter blood capillaries directly, so it is absorbed into lacteals as chylomicrons and transported through the lymphatic system before joining the bloodstream.",
+        "he": "נימי לימפה מיוחדים הנמצאים בוילוסיות של המעי הדק הסופגים שומן תזונתי וויטמינים מסיסים בשומן. שומן אינו יכול להיכנס לנימי דם ישירות, לכן הוא נספג ללקטאלים כילומיקרונים ומועבר דרך המערכת הלימפטית לפני שמצטרף לזרם הדם."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t15-12",
+      "term": {
+        "en": "Interstitial Fluid",
+        "he": "נוזל בין-תאי (אינטרסטיציאלי)"
+      },
+      "definition": {
+        "en": "The fluid that surrounds cells in body tissues, formed when plasma leaks out of blood capillaries. It delivers nutrients and oxygen to cells and collects their waste. Most interstitial fluid is reabsorbed by blood capillaries; the remainder enters lymphatic capillaries and becomes lymph.",
+        "he": "הנוזל המקיף תאים ברקמות הגוף, הנוצר כאשר פלזמה דולפת מנימי דם. הוא מספק חומרים מזינים וחמצן לתאים ואוסף את פסולתם. רוב הנוזל הבין-תאי נספג מחדש על ידי נימי דם; השאר נכנס לנימי לימפה והופך ללימפה."
+      },
+      "category": "physiology"
+    },
+    {
+      "id": "t15-13",
+      "term": {
+        "en": "Macrophage",
+        "he": "מקרופאג"
+      },
+      "definition": {
+        "en": "A large immune cell found in lymph nodes and throughout the body that engulfs and destroys pathogens, dead cells, and debris. Macrophages also present antigens to T cells, helping activate the adaptive immune response.",
+        "he": "תא חיסוני גדול הנמצא בבלוטות הלימפה ובכל הגוף הבולע ומשמיד פתוגנים, תאים מתים ופסולת. מקרופאגים גם מציגים אנטיגנים לתאי T, ועוזרים להפעיל את התגובה החיסונית ההסתגלותית."
+      },
+      "category": "immune cell"
+    },
+    {
+      "id": "t15-14",
+      "term": {
+        "en": "Chylomicron",
+        "he": "כילומיקרון"
+      },
+      "definition": {
+        "en": "A tiny lipoprotein particle formed in intestinal cells to package dietary fats and fat-soluble vitamins for transport through the lymphatic system. Chylomicrons enter the lacteals, travel through the thoracic duct, and ultimately reach the bloodstream for distribution to tissues.",
+        "he": "חלקיק ליפופרוטאין זעיר הנוצר בתאי המעי לאריזת שומנים תזונתיים וויטמינים מסיסים בשומן לצורך הובלה דרך המערכת הלימפטית. כילומיקרונים נכנסים ללקטאלים, עוברים דרך צינור החזה ובסופו של דבר מגיעים לזרם הדם להפצה לרקמות."
+      },
+      "category": "biochemistry"
+    },
+    {
+      "id": "t15-15",
+      "term": {
+        "en": "Lymphedema",
+        "he": "לימפאדמה"
+      },
+      "definition": {
+        "en": "A chronic condition of localized swelling caused by damage to or removal of lymph nodes, often following cancer treatment. Without functioning lymph vessels to drain the area, fluid builds up in tissues causing persistent swelling, tightness, and increased infection risk.",
+        "he": "מצב כרוני של נפיחות מקומית הנגרמת מנזק לבלוטות הלימפה או הסרתן, לרוב בעקבות טיפול בסרטן. ללא כלי לימפה תפקודיים לניקוז האזור, נוזל מצטבר ברקמות וגורם לנפיחות מתמשכת, מתח וסיכון מוגבר לזיהום."
+      },
+      "category": "pathology"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q15-01",
+      "question": {
+        "en": "What is the main function of lymph nodes?",
+        "he": "מה התפקיד העיקרי של בלוטות הלימפה?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "To produce red blood cells",
+            "he": "לייצר כדוריות דם אדומות"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "To filter lymph and trap pathogens",
+            "he": "לסנן לימפה וללכוד פתוגנים"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "To store fat",
+            "he": "לאחסן שומן"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "To produce hormones",
+            "he": "לייצר הורמונים"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Lymph nodes act as biological filters. Lymph flows through them and specialized immune cells (macrophages, lymphocytes) capture and destroy bacteria, viruses, and other foreign particles.",
+        "he": "בלוטות הלימפה פועלות כמסנני ביולוגי. לימפה זורמת דרכם ותאי חיסון מיוחדים (מקרופאגים, לימפוציטים) לוכדים ומשמידים חיידקים, וירוסים וחלקיקים זרים אחרים."
+      }
+    },
+    {
+      "id": "q15-02",
+      "question": {
+        "en": "Why do lymph nodes sometimes become swollen during illness?",
+        "he": "מדוע בלוטות הלימפה לעיתים מתנפחות בזמן מחלה?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Because they are filling with blood",
+            "he": "מכיוון שהן מתמלאות בדם"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Because immune cells are multiplying inside them to fight infection",
+            "he": "מכיוון שתאי חיסון מתרבים בתוכן כדי להילחם בזיהום"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Because they are releasing hormones",
+            "he": "מכיוון שהן משחררות הורמונים"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Because food particles collect in them",
+            "he": "מכיוון שחלקיקי מזון מצטברים בהן"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "During an infection, lymph nodes fill with immune cells (especially lymphocytes) that are rapidly multiplying to mount a defense. This increased cell activity causes the nodes to enlarge and become tender.",
+        "he": "במהלך זיהום, בלוטות הלימפה מתמלאות בתאי חיסון (במיוחד לימפוציטים) המתרבים במהירות כדי להקים הגנה. פעילות תאית מוגברת זו גורמת לבלוטות להתגדל ולהיות כואבות."
+      }
+    },
+    {
+      "id": "q15-03",
+      "question": {
+        "en": "What is the largest lymphoid organ in the body?",
+        "he": "מהו האיבר הלימפואידי הגדול ביותר בגוף?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Thymus",
+            "he": "בלוטת התימוס"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Lymph node",
+            "he": "בלוטת לימפה"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Spleen",
+            "he": "טחול"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Tonsils",
+            "he": "שקדים"
+          }
+        }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "The spleen is the largest lymphoid organ. It filters blood (not lymph), removing old or damaged red blood cells, and acts as a reservoir for immune cells that can be rapidly deployed during infection.",
+        "he": "הטחול הוא האיבר הלימפואידי הגדול ביותר. הוא סוגן דם (לא לימפה), מסיר כדוריות דם אדומות ישנות או פגועות, ומשמש כמאגר לתאי חיסון שניתן לפרוס אותם במהירות במהלך זיהום."
+      }
+    },
+    {
+      "id": "q15-04",
+      "question": {
+        "en": "Where do T lymphocytes mature?",
+        "he": "היכן מבשילים לימפוציטים T?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "In the spleen",
+            "he": "בטחול"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "In the bone marrow",
+            "he": "במח העצמות"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "In the thymus",
+            "he": "בבלוטת התימוס"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "In the tonsils",
+            "he": "בשקדים"
+          }
+        }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "T cells are produced in the bone marrow but travel to the thymus — a gland behind the breastbone — where they mature and develop the ability to recognize and respond to specific antigens.",
+        "he": "תאי T מיוצרים במח העצמות אך עוברים לבלוטת התימוס — בלוטה מאחורי עצם החזה — שם הם מבשילים ומפתחים את היכולת לזהות ולהגיב לאנטיגנים ספציפיים."
+      }
+    },
+    {
+      "id": "q15-05",
+      "question": {
+        "en": "What happens when the lymphatic system fails to drain fluid properly?",
+        "he": "מה קורה כאשר המערכת הלימפטית אינה מנקזת נוזלים כראוי?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "The blood becomes thicker",
+            "he": "הדם הופך לסמיך יותר"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Edema (tissue swelling) occurs",
+            "he": "מתרחשת בצקת (נפיחות רקמות)"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "The person becomes immune to disease",
+            "he": "האדם הופך חסין למחלות"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "The heart beats faster",
+            "he": "הלב פועם מהר יותר"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "If lymphatic vessels are blocked or damaged, lymph fluid accumulates in tissues causing edema — swelling, heaviness, and discomfort. This condition is called lymphedema.",
+        "he": "אם כלי הלימפה חסומים או פגועים, נוזל לימפה מצטבר ברקמות וגורם לבצקת — נפיחות, כובד ואי-נוחות. מצב זה נקרא לימפאדמה."
+      }
+    },
+    {
+      "id": "q15-06",
+      "question": {
+        "en": "What is the origin of the lymph fluid?",
+        "he": "מה מקורו של נוזל הלימפה?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "It is produced by the liver",
+            "he": "הוא מיוצר בכבד"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "It is blood plasma that leaks out of capillaries into tissues",
+            "he": "הוא פלזמת דם הדולפת מנימים לרקמות"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "It comes from digested food",
+            "he": "הוא מגיע ממזון מעוכל"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "It is secreted by the kidneys",
+            "he": "הוא מופרש על ידי הכליות"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Lymph originates from blood plasma. As blood flows through capillaries, some plasma leaks into surrounding tissues to deliver nutrients. This fluid (now called interstitial fluid) is collected by lymphatic capillaries and becomes lymph.",
+        "he": "הלימפה מקורה בפלזמת הדם. כאשר דם זורם דרך נימים, חלק מהפלזמה דולף לרקמות הסמוכות כדי לספק חומרים מזינים. נוזל זה (הנקרא כעת נוזל אינטרסטיציאלי) נאסף על ידי נימי לימפה והופך ללימפה."
+      }
+    },
+    {
+      "id": "q15-07",
+      "question": {
+        "en": "Why is the lymphatic system important for fat absorption from food?",
+        "he": "מדוע המערכת הלימפטית חשובה לספיגת שומן מהמזון?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "It produces lipase enzymes that digest fat in the intestine",
+            "he": "היא מייצרת אנזימי ליפאז המעכלים שומן במעי"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Dietary fat is too large to enter blood capillaries and must be transported through lymphatic lacteals first",
+            "he": "שומן תזונתי גדול מדי לכניסה לנימי דם וחייב להיות מועבר תחילה דרך לקטאלים לימפטיים"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "It filters bile from the blood before it reaches the intestine",
+            "he": "היא מסגננת מרה מהדם לפני שמגיעה למעי"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "It has no role in fat absorption",
+            "he": "אין לה תפקיד בספיגת שומן"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "After fat is digested in the small intestine, it is packaged into chylomicrons — particles too large to enter tiny blood capillaries. Instead, chylomicrons are absorbed by specialized lymphatic vessels called lacteals in the villi, travel through the lymphatic system, and eventually reach the bloodstream via the thoracic duct.",
+        "he": "לאחר שהשומן מעוכל במעי הדק, הוא ארוז לכילומיקרונים — חלקיקים גדולים מדי לכניסה לנימי דם זעירים. במקום זאת, כילומיקרונים נספגים על ידי כלי לימפה מיוחדים הנקראים לקטאלים בוילוסיות, עוברים דרך המערכת הלימפטית ובסופו של דבר מגיעים לזרם הדם דרך צינור החזה."
+      }
+    },
+    {
+      "id": "q15-08",
+      "question": {
+        "en": "How does lymph move through the body without a pump like the heart?",
+        "he": "כיצד לימפה נעה בגוף ללא משאבה כמו הלב?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "It is pushed by blood pressure from nearby arteries",
+            "he": "היא נדחפת על ידי לחץ דם מעורקים סמוכים"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "It flows by gravity only, which is why we must stay upright",
+            "he": "היא זורמת רק בכוח הכבידה, לכן חייבים להישאר בעמידה"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Skeletal muscle contractions, breathing movements, and one-way valves propel it forward",
+            "he": "התכווצויות שרירי שלד, תנועות נשימה ושסתומים חד-כיווניים מניעים אותה קדימה"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "The lymph nodes pump it between sections",
+            "he": "בלוטות הלימפה שואבות אותה בין מקטעים"
+          }
+        }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Unlike the blood circulatory system, the lymphatic system has no central pump. Instead, lymph is propelled by the squeezing action of surrounding skeletal muscles during movement, pressure changes created by breathing, and one-way valves inside lymphatic vessels that prevent backflow.",
+        "he": "בניגוד למערכת הדם, למערכת הלימפטית אין משאבה מרכזית. במקום זאת, הלימפה מונעת על ידי פעולת הלחיצה של שרירי השלד הסמוכים בזמן תנועה, שינויי לחץ הנוצרים על ידי נשימה, ושסתומים חד-כיווניים בתוך כלי הלימפה המונעים זרימה חוזרת."
+      }
+    },
+    {
+      "id": "q15-09",
+      "question": {
+        "en": "What is the role of the thoracic duct?",
+        "he": "מה תפקיד צינור החזה?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "It carries air from the lungs to the bloodstream",
+            "he": "הוא מוביל אוויר מהריאות לזרם הדם"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "It is the largest lymphatic vessel, draining lymph from most of the body into the bloodstream",
+            "he": "הוא כלי הלימפה הגדול ביותר, המנקז לימפה מרוב הגוף לזרם הדם"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "It connects the thymus to the spleen",
+            "he": "הוא מחבר את בלוטת התימוס לטחול"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "It filters lymph before it reaches the lymph nodes",
+            "he": "הוא מסנן לימפה לפני שמגיעה לבלוטות הלימפה"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The thoracic duct is the main lymphatic drainage vessel of the body. It collects lymph from the left side of the head/chest, both legs, and the abdomen — essentially most of the body — and empties it into the left subclavian vein, returning fluid to the bloodstream.",
+        "he": "צינור החזה הוא כלי הניקוז הלימפטי הראשי של הגוף. הוא אוסף לימפה מהצד השמאלי של הראש/חזה, שתי הרגליים והבטן — בעצם רוב הגוף — ומרוקן אותה לורִיד הבריח השמאלי, ומחזיר נוזל לזרם הדם."
+      }
+    },
+    {
+      "id": "q15-10",
+      "question": {
+        "en": "What happens to the thymus after puberty?",
+        "he": "מה קורה לבלוטת התימוס לאחר גיל ההתבגרות?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "It doubles in size to handle adult immune needs",
+            "he": "היא מכפילה את גודלה כדי לטפל בצרכי החיסון של מבוגר"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "It gradually shrinks and is replaced by fatty tissue",
+            "he": "היא מתכווצת בהדרגה ומוחלפת ברקמת שומן"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "It moves to the abdomen",
+            "he": "היא עוברת לבטן"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "It disappears completely by age 20",
+            "he": "היא נעלמת לחלוטין עד גיל 20"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The thymus is largest and most active during childhood, when the immune system is still developing its repertoire of T cells. After puberty, it gradually involutes (shrinks) and is replaced by fatty tissue, though it never disappears completely. By adulthood, most T cell maturation relies on the long-lived memory cells already established.",
+        "he": "בלוטת התימוס היא הגדולה והפעילה ביותר בילדות, כאשר מערכת החיסון עדיין מפתחת את מאגר תאי ה-T שלה. לאחר גיל ההתבגרות, היא מתכווצת בהדרגה (אינוולוציה) ומוחלפת ברקמת שומן, אם כי אינה נעלמת לגמרי. בבגרות, רוב בשלות תאי ה-T מסתמכת על תאי הזיכרון ארוכי החיים שכבר נוצרו."
+      }
+    }
+  ],
+  "videoSources": [
+    "XERxQOLH2Pg",
+    "UGFvoJUyzHQ"
+  ]
+}

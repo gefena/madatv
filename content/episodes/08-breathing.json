@@ -1,0 +1,629 @@
+{
+  "id": "08-breathing",
+  "episodeNumber": 8,
+  "youtubeId": "LrnYAMVUVjA",
+  "title": {
+    "en": "Breathing",
+    "he": "הנשימה"
+  },
+  "summary": {
+    "en": "This episode explores the respiratory system and the mechanics of breathing. It explains how air travels from the nose and mouth through the trachea and bronchi into the lungs, where millions of tiny air sacs called alveoli carry out the vital gas exchange — absorbing oxygen into the blood and releasing carbon dioxide. The episode describes the roles of the diaphragm and rib muscles in creating the pressure changes that move air in and out, and explains how the brain continuously monitors carbon dioxide levels in the blood to regulate breathing rate to meet the body's changing needs. It also covers the protective features of the airway — including cilia, mucus, and the cough reflex — as well as respiratory conditions such as asthma and the long-term damage caused by smoking.",
+    "he": "פרק זה חוקר את מערכת הנשימה ומכניקת הנשימה. הוא מסביר כיצד אוויר עובר מהאף והפה דרך קנה הנשימה ועצי הסימפונות לתוך הריאות, שם מיליוני שקיקי אוויר זעירים הנקראים מכתשיות מבצעים את חילוף הגזים החיוני — קולטים חמצן לדם ומשחררים פחמן דו-חמצני. הפרק מתאר את תפקידי הסרעפת ושרירי הצלעות ביצירת שינויי הלחץ המניעים אוויר פנימה והחוצה, ומסביר כיצד המוח מנטר ברציפות את רמות הפחמן הדו-חמצני בדם לוויסות קצב הנשימה. הוא גם סוקר את מאפייני ההגנה של דרכי הנשימה — כולל ריסים, ריר ורפלקס השיעול — וכן מצבים נשימתיים כגון אסתמה והנזק ארוך הטווח הנגרם מעישון."
+  },
+  "thumbnail": "https://img.youtube.com/vi/LrnYAMVUVjA/maxresdefault.jpg",
+  "durationMinutes": 24,
+  "topics": [
+    "respiratory system",
+    "gas exchange",
+    "lungs",
+    "breathing mechanics"
+  ],
+  "terminology": [
+    {
+      "id": "t08-01",
+      "term": {
+        "en": "Trachea (Windpipe)",
+        "he": "קנה הנשימה (טרכיאה)"
+      },
+      "definition": {
+        "en": "The tube that carries air from the throat down to the bronchi and into the lungs. The trachea is reinforced by C-shaped rings of cartilage that keep it open during breathing and prevent it from collapsing when we swallow.",
+        "he": "הצינור המוביל אוויר מהגרון מטה אל הסמפונות ולתוך הריאות. קנה הנשימה מחוזק על ידי טבעות סחוס בצורת C השומרות עליו פתוח במהלך הנשימה ומונעות ממנו לקרוס כשבולעים."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t08-02",
+      "term": {
+        "en": "Bronchi",
+        "he": "סמפונות (ברונכי)"
+      },
+      "definition": {
+        "en": "The two large airways that branch from the trachea and lead into the left and right lungs. The bronchi subdivide into smaller bronchioles, which ultimately end in the tiny alveolar sacs where gas exchange occurs.",
+        "he": "שני נתיבי האוויר הגדולים המסתעפים מקנה הנשימה ומוליכים אל הריאה השמאלית והימנית. הסמפונות מתפצלים לסמפוניות קטנות יותר, המסתיימות בסופו של דבר בשקיקים המכתשיים שבהם מתרחש חילוף הגזים."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t08-03",
+      "term": {
+        "en": "Alveoli",
+        "he": "מכתשיות (אלבאולי)"
+      },
+      "definition": {
+        "en": "Tiny air sacs in the lungs where oxygen diffuses into the blood and carbon dioxide diffuses out. The human lungs contain 300–700 million alveoli; their combined surface area equals roughly that of a tennis court, enabling highly efficient gas exchange.",
+        "he": "שקיקי אוויר זעירים בריאות שבהם חמצן מתפזר לדם ופחמן דו-חמצני מתפזר החוצה. הריאות האנושיות מכילות 300–700 מיליון מכתשיות; שטח הפנים המשולב שלהן שווה בערך לשטח מגרש טניס, ומאפשר חילוף גזים יעיל ביותר."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t08-04",
+      "term": {
+        "en": "Diaphragm",
+        "he": "סרעפת"
+      },
+      "definition": {
+        "en": "A dome-shaped muscle below the lungs that contracts to draw air in during inhalation and relaxes to push air out during exhalation. It is the primary breathing muscle, responsible for about 70–80% of the work of normal quiet breathing.",
+        "he": "שריר בצורת כיפה מתחת לריאות המתכווץ כדי למשוך אוויר פנימה בעת שאיפה ומרפה כדי לדחוף אוויר החוצה בעת נשיפה. הוא שריר הנשימה הראשי, האחראי לכ-70–80% מעבודת הנשימה השקטה הרגילה."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t08-05",
+      "term": {
+        "en": "Gas Exchange",
+        "he": "חילוף גזים"
+      },
+      "definition": {
+        "en": "The process by which oxygen moves from the alveoli into the blood capillaries and carbon dioxide moves from the blood back into the alveoli. Gas exchange occurs by simple diffusion — both gases move from areas of higher concentration to lower concentration across the thin alveolar walls.",
+        "he": "התהליך שבו חמצן עובר מהמכתשיות לנימי הדם ופחמן דו-חמצני עובר מהדם חזרה למכתשיות. חילוף הגזים מתרחש על ידי דיפוזיה פשוטה — שני הגזים נעים מאזורי ריכוז גבוה יותר לנמוך יותר דרך דפנות המכתשיות הדקות."
+      },
+      "category": "process"
+    },
+    {
+      "id": "t08-06",
+      "term": {
+        "en": "Inhalation",
+        "he": "שאיפה"
+      },
+      "definition": {
+        "en": "The act of breathing in, during which the diaphragm contracts, expanding the chest cavity and pulling air into the lungs. The intercostal muscles between the ribs also contract, further enlarging the thoracic space and lowering air pressure inside the lungs.",
+        "he": "פעולת הנשימה פנימה, שבמהלכה הסרעפת מתכווצת, מרחיבה את חלל החזה ומושכת אוויר לריאות. שרירי הבין-צלעיים בין הצלעות גם מתכווצים, ומגדילים עוד יותר את החלל בבית החזה ומורידים את לחץ האוויר בתוך הריאות."
+      },
+      "category": "process"
+    },
+    {
+      "id": "t08-07",
+      "term": {
+        "en": "Exhalation",
+        "he": "נשיפה"
+      },
+      "definition": {
+        "en": "The act of breathing out, during which the diaphragm relaxes, the chest cavity shrinks, and air is pushed out of the lungs. At rest, exhalation is mostly passive; during exercise, the abdominal muscles actively contract to force more air out.",
+        "he": "פעולת הנשימה החוצה, שבמהלכה הסרעפת מרפה, חלל החזה מתכווץ ואוויר נדחף מהריאות. במנוחה, הנשיפה היא ברובה פסיבית; במהלך פעילות גופנית, שרירי הבטן מתכווצים באופן פעיל כדי לאלץ יותר אוויר לצאת."
+      },
+      "category": "process"
+    },
+    {
+      "id": "t08-08",
+      "term": {
+        "en": "Oxygen (O₂)",
+        "he": "חמצן"
+      },
+      "definition": {
+        "en": "A colorless, odorless gas that cells need to produce energy through cellular respiration. In the blood, oxygen is carried mainly by hemoglobin inside red blood cells; only about 1.5% dissolves directly in the plasma.",
+        "he": "גז חסר צבע וריח שתאים זקוקים לו לייצור אנרגיה דרך נשימה תאית. בדם, חמצן מועבר בעיקר על ידי המוגלובין בתוך כדוריות הדם האדומות; רק כ-1.5% מתמוסס ישירות בפלזמה."
+      },
+      "category": "biochemistry"
+    },
+    {
+      "id": "t08-09",
+      "term": {
+        "en": "Carbon Dioxide (CO₂)",
+        "he": "פחמן דו-חמצני"
+      },
+      "definition": {
+        "en": "A waste gas produced by cells during energy production; it is carried by the blood to the lungs and exhaled. Blood CO₂ levels are the primary signal the brainstem uses to regulate breathing — rising CO₂ immediately triggers faster, deeper breaths.",
+        "he": "גז פסולת המיוצר על ידי תאים במהלך ייצור אנרגיה; הוא מועבר בדם לריאות ונשאף החוצה. רמות CO₂ בדם הן האות העיקרי שגזע המוח משתמש בו לוויסות הנשימה — עלייה ב-CO₂ מפעילה מיידית נשימות מהירות ועמוקות יותר."
+      },
+      "category": "biochemistry"
+    },
+    {
+      "id": "t08-10",
+      "term": {
+        "en": "Asthma",
+        "he": "אסתמה"
+      },
+      "definition": {
+        "en": "A chronic respiratory condition in which the airways become inflamed and narrowed, making breathing difficult. During an asthma attack, smooth muscle in the bronchial walls contracts, mucus secretion increases, and the airway lining swells, all combining to restrict airflow.",
+        "he": "מצב נשימתי כרוני שבו דרכי האוויר מתלהבות ומתצרות, מה שמקשה על הנשימה. במהלך התקף אסתמה, שריר חלק בדפנות הסמפוניות מתכווץ, הפרשת ריר גדלה ורירית דרכי האוויר מתנפחת — כולם ביחד מגבילים את זרימת האוויר."
+      },
+      "category": "pathology"
+    },
+    {
+      "id": "t08-11",
+      "term": {
+        "en": "Cilia",
+        "he": "ריסים (ציליה)"
+      },
+      "definition": {
+        "en": "Microscopic hair-like projections lining the airways that beat rhythmically to sweep mucus and trapped particles up and out of the lungs. Smoking destroys cilia, impairing the lung's self-cleaning mechanism and leading to chronic cough and infection.",
+        "he": "בליטות דמויות שיער מיקרוסקופיות המצפות את דרכי הנשימה, הפועמות בקצביות כדי לאסוף ריר וחלקיקים לכודים ולסלקם מהריאות. עישון משמיד ריסים, פוגע במנגנון הניקוי העצמי של הריאה ומוביל לשיעול כרוני ולזיהום."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t08-12",
+      "term": {
+        "en": "Pleura",
+        "he": "צדר"
+      },
+      "definition": {
+        "en": "The two-layered membrane surrounding each lung that allows frictionless movement during breathing. The thin film of fluid between the two pleural layers acts like a lubricant; if air enters this space (pneumothorax), the lung collapses.",
+        "he": "הממברנה דו-שכבתית המקיפה כל ריאה, המאפשרת תנועה ללא חיכוך בזמן הנשימה. סרט הנוזל הדק בין שתי שכבות הצדר פועל כמשמן; אם אוויר נכנס לחלל זה (פנאומוטורקס), הריאה קורסת."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t08-13",
+      "term": {
+        "en": "Respiratory Rate",
+        "he": "קצב נשימה"
+      },
+      "definition": {
+        "en": "The number of breaths taken per minute; normally 12–20 per minute in a resting adult. During exercise, the respiratory rate can rise to 40–60 breaths per minute to meet increased oxygen demand and expel the extra CO₂ produced by working muscles.",
+        "he": "מספר הנשימות הנלקחות בדקה; בדרך כלל 12–20 בדקה במבוגר במנוחה. במהלך פעילות גופנית, קצב הנשימה יכול לעלות ל-40–60 נשימות בדקה כדי לעמוד בדרישה המוגברת לחמצן ולסלק את ה-CO₂ הנוסף המיוצר על ידי השרירים הפעילים."
+      },
+      "category": "physiology"
+    },
+    {
+      "id": "t08-14",
+      "term": {
+        "en": "Mucus",
+        "he": "ריר"
+      },
+      "definition": {
+        "en": "A sticky substance secreted by cells lining the airways that traps dust, pollen, bacteria, and other particles, preventing them from reaching the delicate alveoli. The cilia then beat to move mucus up to the throat where it is swallowed.",
+        "he": "חומר דביק המופרש על ידי תאים המצפים את דרכי הנשימה, הלוכד אבק, אבקת פרחים, חיידקים וחלקיקים אחרים ומונע מהם להגיע למכתשיות העדינות. הריסים פועמים אז כדי להניע את הריר לכיוון הגרון שבו הוא נבלע."
+      },
+      "category": "physiology"
+    },
+    {
+      "id": "t08-15",
+      "term": {
+        "en": "Pulmonary Surfactant",
+        "he": "חומר פעיל שטח ריאתי"
+      },
+      "definition": {
+        "en": "A substance produced by specialized alveolar cells that reduces surface tension inside alveoli, preventing them from collapsing after each breath. Premature infants often lack sufficient surfactant, causing respiratory distress syndrome — a serious complication of early birth.",
+        "he": "חומר המיוצר על ידי תאים מכתשיים מיוחדים המפחית את המתח הפנימי בתוך המכתשיות ומונע מהן לקרוס לאחר כל נשימה. לתינוקות פגים לעיתים קרובות אין מספיק חומר פעיל שטח, מה שגורם לתסמונת מצוקה נשימתית — סיבוך חמור של לידה מוקדמת."
+      },
+      "category": "biochemistry"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q08-01",
+      "question": {
+        "en": "Where does gas exchange between air and blood take place in the lungs?",
+        "he": "היכן מתרחש חילוף הגזים בין האוויר לדם בריאות?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "In the trachea",
+            "he": "בקנה הנשימה"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "In the bronchi",
+            "he": "בסמפונות"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "In the alveoli",
+            "he": "במכתשיות"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "In the pleura",
+            "he": "בצדר"
+          }
+        }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "The alveoli are tiny grape-like air sacs at the ends of the bronchioles. They have very thin walls surrounded by capillaries, allowing oxygen to pass into the blood and carbon dioxide to pass out.",
+        "he": "המכתשיות הן שקיקי אוויר זעירים דמויי-ענב בקצות הסמפונות הדקים. יש להם דפנות דקות מאוד מוקפות נימים, המאפשרות לחמצן לעבור לדם ולפחמן דו-חמצני לצאת."
+      }
+    },
+    {
+      "id": "q08-02",
+      "question": {
+        "en": "What muscle is mainly responsible for the act of breathing?",
+        "he": "איזה שריר אחראי בעיקר לפעולת הנשימה?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "The abdominal muscles",
+            "he": "שרירי הבטן"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "The diaphragm",
+            "he": "הסרעפת"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "The intercostal muscles",
+            "he": "שרירי הבין-צלעיים"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "The trapezius muscle",
+            "he": "שריר הטרפז"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The diaphragm is the primary breathing muscle. When it contracts and flattens, it increases the volume of the chest cavity, lowering air pressure inside and pulling air into the lungs.",
+        "he": "הסרעפת היא שריר הנשימה העיקרי. כאשר היא מתכווצת ומתשטחת, היא מגדילה את נפח חלל החזה, מורידה את לחץ האוויר בפנים ומושכת אוויר לריאות."
+      }
+    },
+    {
+      "id": "q08-03",
+      "question": {
+        "en": "How many alveoli does an average pair of human lungs contain?",
+        "he": "כמה מכתשיות מכיל זוג ריאות אנושי ממוצע?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "About 10,000",
+            "he": "כ-10,000"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "About 1 million",
+            "he": "כ-מיליון אחד"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "About 300–700 million",
+            "he": "כ-300–700 מיליון"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "About 1 billion",
+            "he": "כ-מיליארד אחד"
+          }
+        }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "The human lungs contain between 300 and 700 million alveoli. Their combined surface area is enormous — roughly the size of a tennis court — enabling highly efficient gas exchange.",
+        "he": "הריאות האנושיות מכילות בין 300 ל-700 מיליון מכתשיות. שטח הפנים המשולב שלהן עצום — בערך בגודל מגרש טניס — המאפשר חילוף גזים יעיל ביותר."
+      }
+    },
+    {
+      "id": "q08-04",
+      "question": {
+        "en": "What gas do cells produce as a waste product that must be exhaled?",
+        "he": "איזה גז מייצרים תאים כפסולת שיש להוציאו בנשיפה?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Oxygen",
+            "he": "חמצן"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Nitrogen",
+            "he": "חנקן"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Carbon dioxide",
+            "he": "פחמן דו-חמצני"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Hydrogen",
+            "he": "מימן"
+          }
+        }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Carbon dioxide (CO₂) is the main gaseous waste produced when cells burn fuel for energy. It diffuses from cells into the blood, is carried to the lungs, and is breathed out.",
+        "he": "פחמן דו-חמצני (CO₂) הוא הפסולת הגזית העיקרית המיוצרת כאשר תאים שורפים דלק לאנרגיה. הוא מתפזר מתאים לדם, מועבר לריאות ומנושף החוצה."
+      }
+    },
+    {
+      "id": "q08-05",
+      "question": {
+        "en": "How many times per minute does an adult breathe at rest on average?",
+        "he": "כמה פעמים בדקה נושם מבוגר במנוחה בממוצע?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "5–8 times",
+            "he": "5–8 פעמים"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "12–20 times",
+            "he": "12–20 פעמים"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "30–40 times",
+            "he": "30–40 פעמים"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "60–80 times",
+            "he": "60–80 פעמים"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "A resting adult breathes about 12–20 times per minute, which equals roughly 20,000 breaths per day. During exercise, this rate increases significantly to supply more oxygen to working muscles.",
+        "he": "מבוגר במנוחה נושם כ-12–20 פעמים בדקה, שמסתכם בכ-20,000 נשימות ביום. במהלך פעילות גופנית, קצב זה עולה משמעותית כדי לספק יותר חמצן לשרירים הפעילים."
+      }
+    },
+    {
+      "id": "q08-06",
+      "question": {
+        "en": "What is asthma?",
+        "he": "מהי אסתמה?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Fluid build-up in the alveoli",
+            "he": "הצטברות נוזלים במכתשיות"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "A chronic condition causing airway inflammation and narrowing",
+            "he": "מצב כרוני הגורם לדלקת והצרה של דרכי הנשימה"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "A bacterial infection of the bronchi",
+            "he": "זיהום חיידקי של הסמפונות"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Collapse of a lung",
+            "he": "קריסה של ריאה"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Asthma is a chronic inflammatory condition of the airways. During an asthma attack, the airways swell, produce extra mucus, and the muscles around them tighten, making it difficult to breathe.",
+        "he": "אסתמה היא מצב דלקתי כרוני של דרכי הנשימה. במהלך התקף אסתמה, דרכי הנשימה מתנפחות, מייצרות ריר נוסף, והשרירים סביבן מתכווצים, מה שמקשה על הנשימה."
+      }
+    },
+    {
+      "id": "q08-07",
+      "question": {
+        "en": "What is the role of cilia in the airways?",
+        "he": "מה תפקיד הריסים בדרכי הנשימה?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "To perform gas exchange",
+            "he": "לבצע חילוף גזים"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "To sweep mucus and trapped particles out of the lungs",
+            "he": "לאסוף ריר וחלקיקים לכודים מהריאות"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "To produce oxygen",
+            "he": "לייצר חמצן"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "To control the diameter of bronchi",
+            "he": "לשלוט בקוטר הסמפונות"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Cilia are tiny hair-like projections that line the airway. They beat in coordinated waves to move a layer of mucus — which traps inhaled dust, bacteria, and particles — upward toward the throat to be swallowed or expelled. Smoking destroys cilia, removing this protective barrier.",
+        "he": "ריסים הם בליטות זעירות דמויות שיער המצפות את דרכי הנשימה. הם פועמים בגלים מתואמים כדי להניע שכבת ריר — הלוכדת אבק, חיידקים וחלקיקים שנשאפו — כלפי מעלה לכיוון הגרון כדי לבלוע או לפלוט אותה. עישון משמיד ריסים ומסיר מחסום מגן זה."
+      }
+    },
+    {
+      "id": "q08-08",
+      "question": {
+        "en": "What is the main signal the brain uses to increase the breathing rate?",
+        "he": "מהו האות הראשי שהמוח משתמש בו להגדלת קצב הנשימה?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Low oxygen levels in the blood",
+            "he": "רמות חמצן נמוכות בדם"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Rising carbon dioxide levels in the blood",
+            "he": "עלייה ברמות פחמן דו-חמצני בדם"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Hunger signals from the stomach",
+            "he": "אותות רעב מהקיבה"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Body temperature increase",
+            "he": "עלייה בטמפרטורת הגוף"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The brainstem (specifically the medullary respiratory center) is most sensitive to rising CO₂ levels in the blood, which lower blood pH. Even a small rise in CO₂ powerfully stimulates the brainstem to increase breathing rate and depth to expel the extra CO₂.",
+        "he": "גזע המוח (ספציפית מרכז הנשימה המדולרי) רגיש ביותר לעלייה ברמות CO₂ בדם, המורידות את pH הדם. אפילו עלייה קטנה ב-CO₂ מגרה בעוצמה את גזע המוח להגביר את קצב הנשימה ועומקה כדי לגרש את ה-CO₂ הנוסף."
+      }
+    },
+    {
+      "id": "q08-09",
+      "question": {
+        "en": "What happens to the lungs of a long-term smoker?",
+        "he": "מה קורה לריאות של מעשן לטווח ארוך?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "They become more efficient over time",
+            "he": "הן הופכות יעילות יותר עם הזמן"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Cilia are destroyed, alveoli are damaged, and cancer risk increases significantly",
+            "he": "הריסים נהרסים, המכתשיות נפגעות, וסיכון הסרטן עולה משמעותית"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "The lungs grow larger to compensate",
+            "he": "הריאות גדלות כדי לפצות"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Only the upper lobes are affected",
+            "he": "רק האונות העליונות מושפעות"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Tobacco smoke destroys the cilia that clean the airways, causes chronic inflammation, breaks down alveolar walls (causing emphysema), and contains carcinogens that dramatically raise the risk of lung cancer — the leading smoking-related cause of death.",
+        "he": "עשן הטבק משמיד את הריסים המנקים את דרכי הנשימה, גורם לדלקת כרונית, מפרק את דפנות המכתשיות (וגורם לאמפיזמה) ומכיל חומרים מסרטנים שמעלים בצורה דרמטית את הסיכון לסרטן ריאות — הגורם המוביל למוות הקשור לעישון."
+      }
+    },
+    {
+      "id": "q08-10",
+      "question": {
+        "en": "Why don't alveoli collapse after each breath?",
+        "he": "מדוע מכתשיות לא קורסות לאחר כל נשימה?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Because of the rigid cartilage rings that support them",
+            "he": "בגלל טבעות הסחוס הנוקשות התומכות בהן"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Because of pulmonary surfactant, which reduces surface tension",
+            "he": "בגלל חומר פעיל שטח ריאתי, המפחית את המתח הפנימי"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Because of mucus that keeps them moist",
+            "he": "בגלל ריר שמרטיב אותן"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Because they are always filled with air",
+            "he": "מכיוון שהן תמיד מלאות באוויר"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Pulmonary surfactant is a mixture of lipids and proteins secreted by type II alveolar cells. It reduces the surface tension of the liquid lining the alveoli, preventing them from collapsing during exhalation. Premature babies who lack surfactant can develop life-threatening respiratory distress.",
+        "he": "חומר פעיל שטח ריאתי הוא תערובת של שומנים וחלבונים המופרשת על ידי תאי מכתשית מסוג II. הוא מפחית את המתח הפנימי של הנוזל המצפה את המכתשיות ומונע מהן לקרוס במהלך הנשיפה. תינוקות פגים שחסר להם חומר פעיל שטח עלולים לפתח מצוקה נשימתית מסכנת חיים."
+      }
+    }
+  ],
+  "videoSources": [
+    "LrnYAMVUVjA",
+    "JlgkvUGpR5k"
+  ]
+}

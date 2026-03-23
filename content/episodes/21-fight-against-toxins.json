@@ -1,0 +1,630 @@
+{
+  "id": "21-fight-against-toxins",
+  "episodeNumber": 21,
+  "youtubeId": "l2U2IOlqq_4",
+  "title": {
+    "en": "The Fight Against Toxins",
+    "he": "המלחמה ברעלים"
+  },
+  "summary": {
+    "en": "This episode investigates how the body defends itself against the constant threat of harmful chemicals, pollutants, and toxic substances from both inside and outside the body. It focuses primarily on the liver as the body's main detoxification organ, explaining how enzyme systems — especially the cytochrome P450 family — chemically transform toxins into harmless, water-soluble compounds for elimination. The episode also covers the kidneys, which filter and excrete water-soluble waste products in urine, and the skin, which acts as a physical barrier against external toxins. It explains the damage caused by free radicals and how antioxidants neutralize them, and what happens when the body is overwhelmed by toxins from sources like alcohol, heavy metals, or drugs. The episode highlights that detoxification is a continuous, vital process happening quietly in every cell of the body.",
+    "he": "פרק זה חוקר כיצד הגוף מגן על עצמו מפני האיום המתמיד של כימיקלים מזיקים, מזהמים וחומרים רעילים מתוך הגוף ומחוצה לו. הוא מתמקד בעיקר בכבד כאיבר הניטרול הראשי של הגוף, ומסביר כיצד מערכות אנזים — במיוחד משפחת ציטוכרום P450 — ממירות כימית רעלים לתרכובות לא מזיקות ומסיסות במים לפינוי. הפרק גם סוקר את הכליות, הסוגנות ומפרישות תוצרי פסולת מסיסים במים בשתן, ואת העור, הפועל כמחסום פיזי מפני רעלים חיצוניים. הוא מסביר את הנזק הנגרם על ידי רדיקלים חופשיים וכיצד נוגדי חמצון מנטרלים אותם, ומה קורה כאשר הגוף מוצף על ידי רעלים ממקורות כגון אלכוהול, מתכות כבדות או תרופות. הפרק מדגיש שניטרול רעלים הוא תהליך מתמשך וחיוני המתרחש בשקט בכל תא בגוף."
+  },
+  "thumbnail": "https://img.youtube.com/vi/l2U2IOlqq_4/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": [
+    "detoxification",
+    "liver",
+    "kidneys",
+    "toxins",
+    "body defense"
+  ],
+  "terminology": [
+    {
+      "id": "t18-01",
+      "term": {
+        "en": "Toxin",
+        "he": "רעלן (טוקסין)"
+      },
+      "definition": {
+        "en": "A poisonous substance produced by living organisms (such as bacteria or plants) or introduced from the environment that can harm cells, tissues, and organs. Toxins can be ingested, inhaled, or absorbed through the skin.",
+        "he": "חומר רעיל המיוצר על ידי אורגניזמים חיים (כגון חיידקים או צמחים) או מוכנס מהסביבה שיכול לפגוע בתאים, ברקמות ובאיברים. רעלנים יכולים להיבלע, להישאף או להיספג דרך העור."
+      },
+      "category": "toxicology"
+    },
+    {
+      "id": "t18-02",
+      "term": {
+        "en": "Detoxification",
+        "he": "ניטרול רעלים"
+      },
+      "definition": {
+        "en": "The metabolic process of converting harmful substances into less toxic, water-soluble forms that can be safely excreted from the body. This occurs primarily in the liver in two phases: Phase I chemically modifies the toxin, and Phase II adds a water-soluble group for excretion.",
+        "he": "התהליך המטבולי של המרת חומרים מזיקים לצורות פחות רעילות ומסיסות במים שניתן לפנות בבטחה מהגוף. זה מתרחש בעיקר בכבד בשני שלבים: שלב I משנה כימית את הרעלן, ושלב II מוסיף קבוצה מסיסה במים לפינוי."
+      },
+      "category": "process"
+    },
+    {
+      "id": "t18-03",
+      "term": {
+        "en": "Cytochrome P450",
+        "he": "ציטוכרום P450"
+      },
+      "definition": {
+        "en": "A large family of liver enzymes primarily responsible for the Phase I oxidation of drugs, toxins, and foreign chemicals in the blood. They insert oxygen atoms into the toxin molecule, making it more reactive and preparing it for Phase II processing.",
+        "he": "משפחה גדולה של אנזימי כבד האחראים בעיקר לחמצון שלב I של תרופות, רעלים וכימיקלים זרים בדם. הם מכניסים אטומי חמצן למולקולת הרעלן, הופכים אותה לריאקטיבית יותר ומכינים אותה לעיבוד שלב II."
+      },
+      "category": "biochemistry"
+    },
+    {
+      "id": "t18-04",
+      "term": {
+        "en": "Kidney",
+        "he": "כליה"
+      },
+      "definition": {
+        "en": "One of two bean-shaped organs located in the back of the abdomen that filter about 180 liters of blood per day, removing waste products and excess water to produce urine. The kidneys also regulate blood pressure and electrolyte balance.",
+        "he": "אחד משני איברים בצורת שעועית הממוקמים בגב הבטן הסוגנים כ-180 ליטר דם ביום, ומסירים תוצרי פסולת ומים עודפים לייצור שתן. הכליות גם מווסתות לחץ דם ואיזון אלקטרוליטים."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t18-05",
+      "term": {
+        "en": "Free Radical",
+        "he": "רדיקל חופשי"
+      },
+      "definition": {
+        "en": "A highly reactive molecule with an unpaired electron that can damage cells, proteins, and DNA by stealing electrons from other molecules and triggering destructive chain reactions. Free radicals are produced by toxins, radiation, pollution, and as byproducts of normal metabolism.",
+        "he": "מולקולה ריאקטיבית ביותר עם אלקטרון בלתי מזווג שיכולה לפגוע בתאים, חלבונים ו-DNA על ידי גניבת אלקטרונים ממולקולות אחרות והפעלת תגובות שרשרת הרסניות. רדיקלים חופשיים מיוצרים על ידי רעלים, קרינה, זיהום ותוצרי לוואי של המטבוליזם התקין."
+      },
+      "category": "biochemistry"
+    },
+    {
+      "id": "t18-06",
+      "term": {
+        "en": "Antioxidant",
+        "he": "נוגד חמצון"
+      },
+      "definition": {
+        "en": "A molecule that neutralizes free radicals by donating an electron without becoming dangerous itself, protecting cells from oxidative damage. Key antioxidants include vitamin C, vitamin E, beta-carotene, and glutathione. They are found in abundance in fruits and vegetables.",
+        "he": "מולקולה שמנטרלת רדיקלים חופשיים על ידי תרומת אלקטרון מבלי להפוך לסכנה בעצמה, ומגינה על תאים מנזק חמצוני. נוגדי חמצון מרכזיים כוללים ויטמין C, ויטמין E, בטא-קרוטן וגלוטטיון. הם נמצאים בשפע בפירות וירקות."
+      },
+      "category": "biochemistry"
+    },
+    {
+      "id": "t18-07",
+      "term": {
+        "en": "Urea",
+        "he": "אוריאה"
+      },
+      "definition": {
+        "en": "A nitrogen-containing waste product formed in the liver from the breakdown of proteins and amino acids. Urea is less toxic than its precursor ammonia and is transported in the blood to the kidneys, which filter it out and excrete it in urine.",
+        "he": "תוצר פסולת מכיל חנקן הנוצר בכבד מפירוק חלבונים וחומצות אמינו. אוריאה רעילה פחות מהאמוניה שמקדמת אותה ומועברת בדם לכליות, הסוגנות אותה ומפרישות אותה בשתן."
+      },
+      "category": "biochemistry"
+    },
+    {
+      "id": "t18-08",
+      "term": {
+        "en": "Nephron",
+        "he": "נפרון"
+      },
+      "definition": {
+        "en": "The microscopic functional unit of the kidney; each kidney contains about 1 million nephrons. Each nephron consists of a glomerulus (filtering unit) and a tubule (reabsorption unit) that together filter blood and selectively reabsorb useful substances while allowing waste to become urine.",
+        "he": "היחידה התפקודית המיקרוסקופית של הכליה; כל כליה מכילה כ-מיליון נפרונים. כל נפרון מורכב מגלומרולוס (יחידת סינון) וצינורית (יחידת ספיגה מחדש) שיחד מסגננים דם וסופגים מחדש באופן סלקטיבי חומרים שימושיים בעוד שהם מאפשרים לפסולת להפוך לשתן."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t18-09",
+      "term": {
+        "en": "Heavy Metal Poisoning",
+        "he": "הרעלת מתכות כבדות"
+      },
+      "definition": {
+        "en": "Toxicity caused by the accumulation of heavy metals such as lead, mercury, cadmium, or arsenic in the body, which interfere with enzyme function and damage the nervous system, kidneys, and other organs. Heavy metals cannot be metabolized by the body and must be removed through chelation therapy.",
+        "he": "רעילות הנגרמת מהצטברות מתכות כבדות כגון עופרת, כספית, קדמיום או ארסן בגוף, המפריעות לתפקוד אנזימים ופוגעות במערכת העצבים, בכליות ובאיברים אחרים. מתכות כבדות אינן יכולות להיות מטבוליזציות על ידי הגוף וחייבות להיות מוסרות דרך טיפול כילציה."
+      },
+      "category": "toxicology"
+    },
+    {
+      "id": "t18-10",
+      "term": {
+        "en": "Glutathione",
+        "he": "גלוטטיון"
+      },
+      "definition": {
+        "en": "A small protein and one of the most powerful antioxidants produced naturally in every cell, especially liver cells. It plays a critical role in Phase II detoxification by conjugating (binding to) reactive toxin intermediates, making them water-soluble for excretion.",
+        "he": "חלבון קטן ואחד מנוגדי החמצון החזקים ביותר המיוצרים באופן טבעי בכל תא, במיוחד בתאי כבד. הוא ממלא תפקיד קריטי בניטרול רעלים שלב II על ידי קישור (conjugation) לביניימי רעלן ריאקטיביים, והפיכתם למסיסים במים לפינוי."
+      },
+      "category": "biochemistry"
+    },
+    {
+      "id": "t18-11",
+      "term": {
+        "en": "Oxidative Stress",
+        "he": "עקה חמצונית (סטרס חמצוני)"
+      },
+      "definition": {
+        "en": "A state of imbalance in which free radical production overwhelms the body's antioxidant defenses, leading to cumulative cellular damage. Chronic oxidative stress is linked to aging, cardiovascular disease, cancer, and neurodegenerative diseases.",
+        "he": "מצב של חוסר איזון שבו ייצור רדיקלים חופשיים גובר על הגנות נוגדי החמצון של הגוף, ומוביל לנזק תאי מצטבר. עקה חמצונית כרונית קשורה להזדקנות, מחלות לב וכלי דם, סרטן ומחלות נוירודגנרטיביות."
+      },
+      "category": "biochemistry"
+    },
+    {
+      "id": "t18-12",
+      "term": {
+        "en": "Dialysis",
+        "he": "דיאליזה"
+      },
+      "definition": {
+        "en": "A medical procedure that artificially performs the kidney's filtration function when the kidneys have failed. Blood is passed through a machine (hemodialysis) or a membrane in the abdomen (peritoneal dialysis) that removes waste products and excess fluid.",
+        "he": "פרוצדורה רפואית המבצעת באופן מלאכותי את תפקיד הסינון של הכליה כאשר הכליות כשלו. הדם עובר דרך מכונה (המודיאליזה) או ממברנה בבטן (דיאליזה פריטוניאלית) המסירה תוצרי פסולת ונוזל עודף."
+      },
+      "category": "medicine"
+    },
+    {
+      "id": "t18-13",
+      "term": {
+        "en": "Metabolite",
+        "he": "מטבוליט"
+      },
+      "definition": {
+        "en": "Any substance produced during or as a byproduct of metabolism — including the intermediate and end products of detoxification reactions. Some metabolites are harmless or useful; others are toxic (such as acetaldehyde from alcohol metabolism) and must be quickly processed further.",
+        "he": "כל חומר המיוצר במהלך מטבוליזם או כתוצר לוואי שלו — כולל ביניימים ותוצרי קצה של תגובות ניטרול רעלים. חלק מהמטבוליטים אינם מזיקים או שימושיים; אחרים רעילים (כגון אצטלדהיד ממטבוליזם אלכוהול) וחייבים לעבור עיבוד נוסף במהירות."
+      },
+      "category": "biochemistry"
+    },
+    {
+      "id": "t18-14",
+      "term": {
+        "en": "Skin Barrier",
+        "he": "מחסום העור"
+      },
+      "definition": {
+        "en": "The outermost layer of the skin (stratum corneum) that acts as a physical and chemical barrier preventing most external toxins, pathogens, and harmful chemicals from entering the body. It also reduces water loss. Damage to this barrier (burns, wounds) significantly increases vulnerability to infection and toxic exposure.",
+        "he": "השכבה החיצונית ביותר של העור (שכבת הקרן) הפועלת כמחסום פיזי וכימי המונע מרוב הרעלים החיצוניים, הפתוגנים והכימיקלים המזיקים להיכנס לגוף. הוא גם מפחית אובדן מים. נזק למחסום זה (כוויות, פצעים) מגביר משמעותית את הפגיעות לזיהום ולחשיפה לרעלים."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t18-15",
+      "term": {
+        "en": "Alcohol Metabolism",
+        "he": "מטבוליזם אלכוהול"
+      },
+      "definition": {
+        "en": "The liver's two-step process of breaking down ethanol: first, alcohol dehydrogenase converts it to acetaldehyde (a toxic compound that causes nausea and cell damage); then aldehyde dehydrogenase converts acetaldehyde to acetate, which is further broken down harmlessly. Excessive drinking overwhelms this pathway.",
+        "he": "התהליך הדו-שלבי של הכבד לפירוק אתנול: ראשית, אלכוהול דהידרוגנאז ממיר אותו לאצטלדהיד (תרכובת רעילה הגורמת לבחילה ולנזק תאי); לאחר מכן אלדהיד דהידרוגנאז ממיר אצטלדהיד לאצטט, שמתפרק עוד יותר בצורה לא מזיקה. שתייה מוגזמת מציפה מסלול זה."
+      },
+      "category": "biochemistry"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q18-01",
+      "question": {
+        "en": "Which organ is the body's primary detoxification center?",
+        "he": "איזה איבר הוא מרכז ניטרול הרעלים העיקרי של הגוף?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "The kidneys",
+            "he": "הכליות"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "The liver",
+            "he": "הכבד"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "The skin",
+            "he": "העור"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "The lungs",
+            "he": "הריאות"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The liver is the main detoxification organ. It uses enzyme systems (especially cytochrome P450) to chemically transform toxic substances — including alcohol, drugs, and metabolic waste — into harmless forms that can be excreted.",
+        "he": "הכבד הוא איבר ניטרול הרעלים הראשי. הוא משתמש במערכות אנזים (במיוחד ציטוכרום P450) כדי להמיר כימית חומרים רעילים — כולל אלכוהול, תרופות ופסולת מטבולית — לצורות לא מזיקות שניתן להפריש."
+      }
+    },
+    {
+      "id": "q18-02",
+      "question": {
+        "en": "What is the role of the kidneys in removing toxins?",
+        "he": "מה תפקיד הכליות בסילוק רעלים?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "They produce bile to neutralize toxins",
+            "he": "הן מייצרות מרה לניטרול רעלים"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "They filter blood and excrete water-soluble waste in urine",
+            "he": "הן מסגננות דם ומפרישות פסולת מסיסה במים בשתן"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "They store toxins permanently",
+            "he": "הן מאחסנות רעלים לצמיתות"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "They break down toxins using bile",
+            "he": "הן מפרקות רעלים באמצעות מרה"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The kidneys filter about 180 liters of blood per day. They excrete water-soluble waste products — including urea, creatinine, and water-soluble toxins — in urine, helping maintain the blood's chemical balance.",
+        "he": "הכליות מסגננות כ-180 ליטר דם ביום. הן מפרישות תוצרי פסולת מסיסים במים — כולל אוריאה, קריאטינין ורעלים מסיסים במים — בשתן, ועוזרות לשמור על האיזון הכימי של הדם."
+      }
+    },
+    {
+      "id": "q18-03",
+      "question": {
+        "en": "What is a free radical?",
+        "he": "מהו רדיקל חופשי?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "A vitamin that protects cells",
+            "he": "ויטמין המגן על תאים"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "A reactive molecule that can damage DNA and cells",
+            "he": "מולקולה ריאקטיבית שיכולה לפגוע ב-DNA ובתאים"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "A mineral essential for detoxification",
+            "he": "מינרל החיוני לניטרול רעלים"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "A type of hormone",
+            "he": "סוג של הורמון"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Free radicals are unstable molecules with an unpaired electron. They 'steal' electrons from other molecules, triggering chain reactions that damage DNA, proteins, and cell membranes. They are linked to aging and disease.",
+        "he": "רדיקלים חופשיים הם מולקולות לא יציבות עם אלקטרון בלתי מזווג. הם 'גונבים' אלקטרונים ממולקולות אחרות, ומפעילים תגובות שרשרת שפוגעות ב-DNA, חלבונים וממברנות תאים. הם קשורים להזדקנות ולמחלות."
+      }
+    },
+    {
+      "id": "q18-04",
+      "question": {
+        "en": "What are antioxidants and what do they do?",
+        "he": "מהם נוגדי חמצון ומה הם עושים?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Proteins that speed up digestion",
+            "he": "חלבונים שמאיצים עיכול"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Molecules that neutralize free radicals, protecting cells from damage",
+            "he": "מולקולות שמנטרלות רדיקלים חופשיים ומגינות על תאים מנזק"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Hormones that reduce inflammation",
+            "he": "הורמונים שמפחיתים דלקת"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Bacteria that live in the gut",
+            "he": "חיידקים החיים במעי"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Antioxidants such as vitamins C and E, beta-carotene, and glutathione donate electrons to neutralize free radicals, stopping the chain of cellular damage. They are found naturally in fruits and vegetables.",
+        "he": "נוגדי חמצון כגון ויטמינים C ו-E, בטא-קרוטן וגלוטטיון תורמים אלקטרונים לנטרול רדיקלים חופשיים ועוצרים את שרשרת הנזק התאי. הם נמצאים באופן טבעי בפירות וירקות."
+      }
+    },
+    {
+      "id": "q18-05",
+      "question": {
+        "en": "What happens to alcohol in the liver?",
+        "he": "מה קורה לאלכוהול בכבד?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "It is stored as fat permanently",
+            "he": "הוא מאוחסן כשומן לצמיתות"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "It is broken down by enzymes into less harmful substances",
+            "he": "הוא מפורק על ידי אנזימים לחומרים פחות מזיקים"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "It is immediately excreted unchanged",
+            "he": "הוא מופרש מיד ללא שינוי"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "It is converted into sugar",
+            "he": "הוא מומר לסוכר"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The liver breaks down alcohol in two steps: first converting it to acetaldehyde (a toxic intermediate) and then to acetate, which is further metabolized. Excessive alcohol consumption overwhelms this system, causing liver damage.",
+        "he": "הכבד מפרק אלכוהול בשני שלבים: תחילה ממיר אותו לאצטלדהיד (ביניים רעיל) ואז לאצטט, שמתמטבל עוד יותר. צריכת אלכוהול מוגזמת מציפה מערכת זו וגורמת לנזק לכבד."
+      }
+    },
+    {
+      "id": "q18-06",
+      "question": {
+        "en": "What is urea and how is it excreted?",
+        "he": "מהי אוריאה וכיצד היא מופרשת?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "A sugar excreted in bile",
+            "he": "סוכר המופרש במרה"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "A nitrogen waste from protein breakdown, excreted by the kidneys in urine",
+            "he": "פסולת חנקן מפירוק חלבונים, המופרשת על ידי הכליות בשתן"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "A fat stored in the liver",
+            "he": "שומן המאוחסן בכבד"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "A hormone produced by the adrenal glands",
+            "he": "הורמון המיוצר על ידי בלוטת יותרת הכליה"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "When proteins are broken down, the nitrogen-containing amino groups are converted by the liver into urea — a less toxic compound. Urea travels in the blood to the kidneys, which filter it out and excrete it in urine.",
+        "he": "כאשר חלבונים מתפרקים, קבוצות האמינו המכילות חנקן מומרות על ידי הכבד לאוריאה — תרכובת פחות רעילה. אוריאה נוסעת בדם לכליות, שמסגננות אותה ומפרישות אותה בשתן."
+      }
+    },
+    {
+      "id": "q18-07",
+      "question": {
+        "en": "Why are heavy metals like lead and mercury especially dangerous toxins?",
+        "he": "מדוע מתכות כבדות כגון עופרת וכספית הן רעלנים מסוכנים במיוחד?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "They dissolve in water so are absorbed very quickly",
+            "he": "הן מתמוססות במים ולכן נספגות מהר מאוד"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "The body cannot metabolize them, so they accumulate and damage enzymes and the nervous system",
+            "he": "הגוף אינו יכול לפרק אותן, ולכן הן מצטברות ופוגעות באנזימים ובמערכת העצבים"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "They are only dangerous if inhaled, not if swallowed",
+            "he": "הן מסוכנות רק אם נשאפות, לא אם נבלעות"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "They destroy the liver immediately upon first exposure",
+            "he": "הן משמידות את הכבד מיידית עם חשיפה ראשונה"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Unlike organic toxins that the liver can break down, heavy metals such as lead, mercury, and arsenic cannot be metabolized. Instead, they accumulate in tissues — especially in the nervous system, kidneys, and bones — where they interfere with enzyme activity, disrupt cellular signaling, and cause progressive neurological and organ damage.",
+        "he": "בניגוד לרעלים אורגניים שהכבד יכול לפרק, מתכות כבדות כגון עופרת, כספית וארסן אינן יכולות להיות מטבוליזציות. במקום זאת, הן מצטברות ברקמות — במיוחד במערכת העצבים, בכליות ובעצמות — שם הן מפריעות לפעילות אנזימים, משבשות איתות תאי וגורמות לנזק נוירולוגי ואורגני מתקדם."
+      }
+    },
+    {
+      "id": "q18-08",
+      "question": {
+        "en": "What is oxidative stress?",
+        "he": "מהי עקה חמצונית?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "The feeling of burning during exercise",
+            "he": "תחושת הצריבה במהלך פעילות גופנית"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "An imbalance where free radical production overwhelms antioxidant defenses, damaging cells",
+            "he": "חוסר איזון שבו ייצור רדיקלים חופשיים גובר על הגנות נוגדי חמצון ופוגע בתאים"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "The process of breathing in oxygen from the air",
+            "he": "תהליך שאיפת חמצן מהאוויר"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Acid buildup in the blood from too much exercise",
+            "he": "הצטברות חומצה בדם מפעילות גופנית מוגזמת"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Oxidative stress occurs when the production of free radicals exceeds the body's ability to neutralize them with antioxidants. The resulting cellular damage accumulates over time and is implicated in the development of aging, cardiovascular disease, cancer, and neurological conditions like Alzheimer's disease.",
+        "he": "עקה חמצונית מתרחשת כאשר ייצור הרדיקלים החופשיים עולה על יכולת הגוף לנטרל אותם עם נוגדי חמצון. הנזק התאי המתקבל מצטבר עם הזמן ומעורב בהתפתחות הזדקנות, מחלות לב וכלי דם, סרטן ומצבים נוירולוגיים כגון מחלת אלצהיימר."
+      }
+    },
+    {
+      "id": "q18-09",
+      "question": {
+        "en": "What is the role of the nephron in the kidney?",
+        "he": "מה תפקיד הנפרון בכליה?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "It produces urine by filtering blood and selectively reabsorbing useful substances",
+            "he": "הוא מייצר שתן על ידי סינון דם וספיגה חוזרת סלקטיבית של חומרים שימושיים"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "It stores urine until it is ready to be excreted",
+            "he": "הוא מאחסן שתן עד שהוא מוכן להפרשה"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "It produces the hormone that regulates blood pressure",
+            "he": "הוא מייצר את ההורמון המווסת לחץ דם"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "It connects the kidney to the urinary bladder",
+            "he": "הוא מחבר את הכליה לשלפוחית השתן"
+          }
+        }
+      ],
+      "correctChoice": "a",
+      "explanation": {
+        "en": "Each nephron is a tiny filtration unit. Blood is first filtered at high pressure in the glomerulus, removing water, salts, glucose, urea, and other small molecules. As the filtrate travels through the tubule, the body reabsorbs useful items (glucose, water, salts) back into the blood while leaving waste products to become urine.",
+        "he": "כל נפרון הוא יחידת סינון זעירה. דם מסונן תחילה בלחץ גבוה בגלומרולוס, ומסיר מים, מלחים, גלוקוז, אוריאה ומולקולות קטנות אחרות. כאשר הנוזל המסונן עובר דרך הצינורית, הגוף סופג מחדש פריטים שימושיים (גלוקוז, מים, מלחים) חזרה לדם בעוד הוא משאיר תוצרי פסולת להפוך לשתן."
+      }
+    },
+    {
+      "id": "q18-10",
+      "question": {
+        "en": "Why might two people metabolize the same drug at very different speeds?",
+        "he": "מדוע שני אנשים עשויים לפרק את אותה תרופה במהירויות שונות מאוד?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Because their stomachs produce different amounts of acid",
+            "he": "כי הקיבה שלהם מייצרת כמויות שונות של חומצה"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Because genetic differences in cytochrome P450 enzymes affect how quickly the liver breaks down the drug",
+            "he": "כי הבדלים גנטיים באנזימי ציטוכרום P450 משפיעים על מהירות פירוק התרופה בכבד"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Because the kidneys of different people have different sizes",
+            "he": "כי לכליות של אנשים שונים יש גדלים שונים"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Because fat people absorb drugs more slowly through the skin",
+            "he": "כי אנשים שמנים סופגים תרופות לאט יותר דרך העור"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The cytochrome P450 enzymes that process most drugs in the liver are encoded by genes that vary significantly between individuals. Some people are 'fast metabolizers' whose P450 enzymes work very quickly, clearing drugs rapidly. Others are 'slow metabolizers' who process drugs slowly, causing higher drug concentrations and stronger effects — or more side effects. This is the basis for pharmacogenomics (personalized medicine).",
+        "he": "אנזימי ציטוכרום P450 המעבדים את רוב התרופות בכבד מקודדים על ידי גנים המשתנים משמעותית בין אנשים. חלק מהאנשים הם 'מפרקים מהירים' שאנזימי ה-P450 שלהם עובדים מהר מאוד, ומנקים תרופות במהירות. אחרים הם 'מפרקים איטיים' שמעבדים תרופות לאט, וגורמים לריכוזי תרופה גבוהים יותר ולהשפעות חזקות יותר — או לתופעות לוואי נוספות. זהו הבסיס לפרמקוגנומיקה (רפואה מותאמת אישית)."
+      }
+    }
+  ],
+  "videoSources": [
+    "l2U2IOlqq_4",
+    "kxlQxGdnajk"
+  ]
+}

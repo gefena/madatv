@@ -1,0 +1,630 @@
+{
+  "id": "20-muscles-and-fat",
+  "episodeNumber": 20,
+  "youtubeId": "OqI16GfrcoY",
+  "title": {
+    "en": "Muscles and Fat",
+    "he": "השרירים והשומן"
+  },
+  "summary": {
+    "en": "This episode examines the muscular system and the role of fat in the human body, revealing that both are far more complex than they first appear. It explains the three types of muscle tissue — skeletal muscle for voluntary movement, cardiac muscle in the heart, and smooth muscle in internal organs — and how muscle contraction works through the sliding filament mechanism of actin and myosin protein filaments. The episode also addresses fat (adipose tissue) not just as an energy reserve but as a metabolically active tissue that insulates the body, cushions organs, and secretes hormones such as leptin that regulate appetite and metabolism. It explores how the balance between muscle and fat affects overall health, and why regular exercise builds muscle mass, increases metabolic rate, and reduces the risk of chronic disease.",
+    "he": "פרק זה בוחן את המערכת השרירית ואת תפקיד השומן בגוף האדם, ומגלה ששניהם מורכבים הרבה יותר ממה שנראה בתחילה. הוא מסביר את שלושת סוגי רקמת השריר — שריר שלד לתנועה רצונית, שריר לב בלב ושריר חלק באיברים פנימיים — וכיצד התכווצות השריר פועלת דרך מנגנון הניתוח הגולש של ניתוחי חלבון האקטין והמיוזין. הפרק גם מתייחס לשומן (רקמה שומנית) לא רק כמאגר אנרגיה אלא כרקמה מטבולית פעילה המבדדת את הגוף, מרפדת איברים ומפרישה הורמונים כגון לפטין המווסתים תיאבון ומטבוליזם. הוא חוקר כיצד האיזון בין שריר לשומן משפיע על הבריאות הכללית, ומדוע פעילות גופנית סדירה בונה מסת שריר, מגבירה קצב מטבולי ומפחיתה את סיכון המחלות הכרוניות."
+  },
+  "thumbnail": "https://img.youtube.com/vi/OqI16GfrcoY/maxresdefault.jpg",
+  "durationMinutes": 24,
+  "topics": [
+    "skeletal muscle",
+    "muscle contraction",
+    "adipose tissue",
+    "metabolism",
+    "body composition"
+  ],
+  "terminology": [
+    {
+      "id": "t17-01",
+      "term": {
+        "en": "Skeletal Muscle",
+        "he": "שריר שלד"
+      },
+      "definition": {
+        "en": "Voluntary muscle tissue attached to bones by tendons; it produces movement under conscious control and has a striated (striped) appearance under a microscope. Skeletal muscles account for about 30–40% of total body weight in a typical adult.",
+        "he": "רקמת שריר רצונית המחוברת לעצמות על ידי גידים; היא מייצרת תנועה תחת שליטה מודעת ויש לה מראה מפוספס תחת מיקרוסקופ. שרירי שלד מהווים כ-30–40% ממשקל הגוף הכולל במבוגר טיפוסי."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t17-02",
+      "term": {
+        "en": "Smooth Muscle",
+        "he": "שריר חלק"
+      },
+      "definition": {
+        "en": "Involuntary muscle tissue found in the walls of internal organs (gut, blood vessels, uterus, etc.) that operates without conscious control. Smooth muscle produces slow, sustained contractions and is responsible for movements like peristalsis and blood vessel constriction.",
+        "he": "רקמת שריר לא-רצונית הנמצאת בדפנות איברים פנימיים (מעיים, כלי דם, רחם וכו') הפועלת ללא שליטה מודעת. שריר חלק מייצר התכווצויות איטיות ומתמשכות ואחראי לתנועות כמו פריסטלטיקה והתכווצות כלי דם."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t17-03",
+      "term": {
+        "en": "Actin and Myosin",
+        "he": "אקטין ומיוזין"
+      },
+      "definition": {
+        "en": "The two protein filaments inside muscle cells that interact to produce contraction through the sliding filament mechanism: myosin heads attach to actin filaments and pull them inward, shortening the muscle cell. This process requires ATP (energy).",
+        "he": "שני ניתוחי החלבון בתוך תאי שריר המתקשרים לייצור התכווצות דרך מנגנון הניתוח הגולש: ראשי מיוזין מתחברים לניתוחי אקטין ומושכים אותם פנימה, ומקצרים את תא השריר. תהליך זה דורש ATP (אנרגיה)."
+      },
+      "category": "biochemistry"
+    },
+    {
+      "id": "t17-04",
+      "term": {
+        "en": "Tendon",
+        "he": "גיד"
+      },
+      "definition": {
+        "en": "A tough, rope-like cord of collagen fibers that attaches a skeletal muscle to a bone, transmitting the muscle's contractile force to produce movement. Tendons are strong but have limited elasticity and poor blood supply, making them slow to heal after injury.",
+        "he": "חוט קשה דמוי חבל של סיבי קולגן המחבר שריר שלד לעצם ומעביר את כוח ההתכווצות של השריר לייצור תנועה. גידים חזקים אך בעלי גמישות מוגבלת ואספקת דם ירודה, מה שגורם להם להתרפא לאט לאחר פציעה."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t17-05",
+      "term": {
+        "en": "Adipose Tissue",
+        "he": "רקמה שומנית"
+      },
+      "definition": {
+        "en": "Connective tissue composed mainly of fat cells (adipocytes) that stores energy as triglycerides, insulates the body against heat loss, cushions and protects organs, and produces hormones including leptin and adiponectin that influence metabolism.",
+        "he": "רקמת חיבור המורכבת בעיקר מתאי שומן (אדיפוציטים) המאחסנת אנרגיה כטריגליצרידים, מבדדת את הגוף מאובדן חום, מרפדת ומגינה על איברים, ומייצרת הורמונים כולל לפטין ואדיפונקטין המשפיעים על מטבוליזם."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t17-06",
+      "term": {
+        "en": "Motor Unit",
+        "he": "יחידה מוטורית"
+      },
+      "definition": {
+        "en": "A single motor neuron and all the muscle fibers it innervates and controls. Muscles fine-tune their contraction strength by recruiting more or fewer motor units — precise movements use few small units, while powerful movements recruit many large units.",
+        "he": "נוירון מוטורי יחיד וכל סיבי השריר שהוא מעצבב ושולט בהם. שרירים מכוילים את כוח ההתכווצות על ידי גיוס יחידות מוטוריות יותר או פחות — תנועות מדויקות משתמשות במעט יחידות קטנות, בעוד שתנועות עוצמתיות מגייסות יחידות גדולות רבות."
+      },
+      "category": "physiology"
+    },
+    {
+      "id": "t17-07",
+      "term": {
+        "en": "Muscle Fiber (Myocyte)",
+        "he": "סיב שריר (מיוציט)"
+      },
+      "definition": {
+        "en": "An individual muscle cell, characterized by its long, cylindrical shape and multiple nuclei. Each muscle fiber contains hundreds of myofibrils packed with actin and myosin filaments, and can be classified as slow-twitch (endurance) or fast-twitch (power).",
+        "he": "תא שריר בודד, המאופיין בצורתו הארוכה והגלילית ובגרעינים מרובים. כל סיב שריר מכיל מאות מיופיברילות צפופות בניתוחי אקטין ומיוזין, וניתן לסווגו כסיב איטי-פעימות (סיבולת) או מהיר-פעימות (עוצמה)."
+      },
+      "category": "cell biology"
+    },
+    {
+      "id": "t17-08",
+      "term": {
+        "en": "Lactic Acid",
+        "he": "חומצה לקטית"
+      },
+      "definition": {
+        "en": "A byproduct produced when muscles generate energy anaerobically (without enough oxygen) during intense exercise. Its accumulation lowers pH in the muscle cell, contributing to muscle fatigue and the burning sensation. Lactic acid is later cleared by the liver and converted back to glucose.",
+        "he": "תוצר לוואי המיוצר כאשר שרירים מייצרים אנרגיה אנאירובית (ללא מספיק חמצן) במהלך פעילות גופנית אינטנסיבית. הצטברותה מורידה את ה-pH בתא השריר ותורמת לעייפות שריר ולתחושת הצריבה. חומצה לקטית מנוקה לאחר מכן על ידי הכבד ומומרת חזרה לגלוקוז."
+      },
+      "category": "biochemistry"
+    },
+    {
+      "id": "t17-09",
+      "term": {
+        "en": "Leptin",
+        "he": "לפטין"
+      },
+      "definition": {
+        "en": "A hormone produced and secreted by adipose (fat) cells in proportion to body fat mass. It signals the hypothalamus in the brain to reduce appetite and increase energy expenditure when fat stores are adequate, acting as a long-term regulator of body weight.",
+        "he": "הורמון המיוצר ומופרש על ידי תאי שומן (אדיפוציטים) ביחס למסת שומן הגוף. הוא מאותת להיפותלמוס במוח להפחית תיאבון ולהגדיל הוצאת אנרגיה כאשר מאגרי השומן מספיקים, ופועל כמווסת ארוך-טווח של משקל הגוף."
+      },
+      "category": "biochemistry"
+    },
+    {
+      "id": "t17-10",
+      "term": {
+        "en": "Muscle Atrophy",
+        "he": "ניוון שרירים"
+      },
+      "definition": {
+        "en": "The loss of muscle mass and strength due to inactivity, prolonged bed rest, poor nutrition, aging, or nerve damage. Even a few days of immobility can trigger measurable muscle loss. Regular exercise is the most effective way to prevent and reverse atrophy.",
+        "he": "אובדן מסת שריר וחוזק עקב חוסר פעילות, שכיבה ממושכת במיטה, תזונה לקויה, הזדקנות או נזק עצבי. אפילו כמה ימים של חוסר תנועה יכולים להפעיל אובדן שריר ניתן למדידה. פעילות גופנית סדירה היא הדרך היעילה ביותר למניעה ולהיפוך ניוון."
+      },
+      "category": "pathology"
+    },
+    {
+      "id": "t17-11",
+      "term": {
+        "en": "Cardiac Muscle",
+        "he": "שריר לב"
+      },
+      "definition": {
+        "en": "A specialized type of involuntary, striated muscle found only in the heart. Unlike skeletal muscle, cardiac muscle cells (cardiomyocytes) are interconnected and contract rhythmically without external stimulation, generating the heartbeat throughout life.",
+        "he": "סוג מיוחד של שריר מפוספס לא-רצוני הנמצא רק בלב. בניגוד לשריר שלד, תאי שריר הלב (קרדיומיוציטים) מחוברים ביניהם ומתכווצים בצורה קצבית ללא גירוי חיצוני, ומייצרים את פעימת הלב לאורך החיים."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t17-12",
+      "term": {
+        "en": "ATP (Adenosine Triphosphate)",
+        "he": "ATP (אדנוזין טריפוספט)"
+      },
+      "definition": {
+        "en": "The universal energy currency of cells — the molecule muscles (and all cells) use directly to power contractions and all other energy-requiring processes. ATP is produced by cellular respiration from glucose, fat, and other fuels.",
+        "he": "מטבע האנרגיה האוניברסלי של התאים — המולקולה שאותה שרירים (וכל התאים) משתמשים ישירות להנעת התכווצויות וכל התהליכים האחרים הדורשים אנרגיה. ATP מיוצר על ידי נשימה תאית מגלוקוז, שומן ודלקים אחרים."
+      },
+      "category": "biochemistry"
+    },
+    {
+      "id": "t17-13",
+      "term": {
+        "en": "Hypertrophy",
+        "he": "היפרטרופיה (גדילת שריר)"
+      },
+      "definition": {
+        "en": "The increase in muscle size that results from consistent resistance exercise (such as weightlifting). Hypertrophy occurs when muscle fibers are repeatedly stressed, causing microscopic damage that is repaired with additional protein, making the fibers thicker and stronger.",
+        "he": "הגדלת גודל שריר הנוצרת מפעילות גופנית עם התנגדות עקבית (כמו הרמת משקולות). היפרטרופיה מתרחשת כאשר סיבי שריר מועמסים שוב ושוב, וגורמת לנזק מיקרוסקופי המתוקן עם חלבון נוסף, ומהפך את הסיבים לעבים וחזקים יותר."
+      },
+      "category": "physiology"
+    },
+    {
+      "id": "t17-14",
+      "term": {
+        "en": "Visceral Fat",
+        "he": "שומן קרביים"
+      },
+      "definition": {
+        "en": "Fat stored deep inside the abdominal cavity, surrounding internal organs. Unlike subcutaneous fat (under the skin), excess visceral fat is strongly associated with metabolic disorders, cardiovascular disease, and type 2 diabetes because it is metabolically very active and releases inflammatory substances.",
+        "he": "שומן המאוחסן עמוק בחלל הבטן, מקיף את האיברים הפנימיים. בניגוד לשומן תת-עורי (מתחת לעור), עודף שומן קרביים קשור קשר חזק להפרעות מטבוליות, מחלות לב וכלי דם וסוכרת סוג 2 מכיוון שהוא פעיל מטבולית מאוד ומשחרר חומרים דלקתיים."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t17-15",
+      "term": {
+        "en": "Slow-Twitch vs. Fast-Twitch Fibers",
+        "he": "סיבים איטיים לעומת סיבים מהירים"
+      },
+      "definition": {
+        "en": "Two main types of skeletal muscle fibers: slow-twitch (type I) fibers contract slowly but resist fatigue, making them ideal for endurance activities like marathon running. Fast-twitch (type II) fibers contract powerfully and quickly but fatigue rapidly, suited for sprinting and lifting.",
+        "he": "שני סוגי סיבי שריר שלד עיקריים: סיבים איטיים (סוג I) מתכווצים לאט אך עמידים לעייפות, מה שהופך אותם לאידיאליים לפעילויות סיבולת כמו ריצת מרתון. סיבים מהירים (סוג II) מתכווצים בעוצמה ובמהירות אך מתעייפים במהירות, ומתאימים לספרינט ולהרמה."
+      },
+      "category": "physiology"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q17-01",
+      "question": {
+        "en": "What are the two proteins inside muscle cells responsible for contraction?",
+        "he": "מהם שני החלבונים בתוך תאי שריר האחראים להתכווצות?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Collagen and keratin",
+            "he": "קולגן וקרטין"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Actin and myosin",
+            "he": "אקטין ומיוזין"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Hemoglobin and fibrin",
+            "he": "המוגלובין ופיברין"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Insulin and glucagon",
+            "he": "אינסולין וגלוקגון"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Muscle contraction is produced by the sliding filament mechanism: myosin heads attach to actin filaments and pull them toward the center, shortening the muscle cell. This process requires energy (ATP).",
+        "he": "התכווצות שריר מיוצרת על ידי מנגנון הניתוח הגולש: ראשי מיוזין מתחברים לניתוחי אקטין ומושכים אותם לכיוון המרכז, ומקצרים את תא השריר. תהליך זה דורש אנרגיה (ATP)."
+      }
+    },
+    {
+      "id": "q17-02",
+      "question": {
+        "en": "What connects muscles to bones?",
+        "he": "מה מחבר שרירים לעצמות?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Ligaments",
+            "he": "רצועות"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Cartilage",
+            "he": "סחוס"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Tendons",
+            "he": "גידים"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Nerves",
+            "he": "עצבים"
+          }
+        }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Tendons are strong, rope-like bands of collagen fibers that anchor skeletal muscles to bones. When a muscle contracts, it pulls on its tendon, which in turn pulls the attached bone, producing movement.",
+        "he": "גידים הם סרטים חזקים דמויי חבל של סיבי קולגן המעגנים שרירי שלד לעצמות. כאשר שריר מתכווץ, הוא מושך את גידו, שבתורו מושך את העצם המחוברת ומייצר תנועה."
+      }
+    },
+    {
+      "id": "q17-03",
+      "question": {
+        "en": "What type of muscle is found in the walls of the digestive tract and blood vessels?",
+        "he": "איזה סוג שריר נמצא בדפנות מערכת העיכול וכלי הדם?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Skeletal muscle",
+            "he": "שריר שלד"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Cardiac muscle",
+            "he": "שריר לב"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Smooth muscle",
+            "he": "שריר חלק"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Voluntary muscle",
+            "he": "שריר רצוני"
+          }
+        }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Smooth muscle is involuntary — it works automatically without conscious control. It lines the walls of hollow organs (intestines, stomach, blood vessels, bladder) and controls their internal movements like peristalsis.",
+        "he": "שריר חלק הוא לא-רצוני — הוא פועל אוטומטית ללא שליטה מודעת. הוא מצפה את דפנות האיברים החלולים (מעיים, קיבה, כלי דם, שלפוחית שתן) ושולט בתנועותיהם הפנימיות כמו פריסטלטיקה."
+      }
+    },
+    {
+      "id": "q17-04",
+      "question": {
+        "en": "Approximately what percentage of an average adult's body weight is muscle?",
+        "he": "כמה אחוז ממשקל גוף מבוגר ממוצע הם שריר?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "10–15%",
+            "he": "10–15%"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "30–40%",
+            "he": "30–40%"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "60–70%",
+            "he": "60–70%"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "80–90%",
+            "he": "80–90%"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Skeletal muscle accounts for approximately 30–40% of total body weight in a typical adult, making it the largest tissue type in the body by mass.",
+        "he": "שריר שלד מהווה כ-30–40% ממשקל הגוף הכולל במבוגר טיפוסי, מה שהופך אותו לסוג הרקמה הגדול ביותר בגוף לפי מסה."
+      }
+    },
+    {
+      "id": "q17-05",
+      "question": {
+        "en": "What hormone does fat tissue produce to regulate appetite?",
+        "he": "איזה הורמון מייצרת רקמת שומן לוויסות התיאבון?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Insulin",
+            "he": "אינסולין"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Leptin",
+            "he": "לפטין"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Adrenaline",
+            "he": "אדרנלין"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Estrogen",
+            "he": "אסטרוגן"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Leptin is a hormone secreted by adipose (fat) cells in proportion to fat mass. It signals the hypothalamus in the brain to reduce appetite and increase energy expenditure when fat stores are adequate.",
+        "he": "לפטין הוא הורמון המופרש על ידי תאי שומן (אדיפוציטים) ביחס למסת השומן. הוא מאותת להיפותלמוס במוח להפחית תיאבון ולהגדיל הוצאת אנרגיה כאשר מאגרי השומן מספיקים."
+      }
+    },
+    {
+      "id": "q17-06",
+      "question": {
+        "en": "What is lactic acid and where does it come from?",
+        "he": "מהי חומצה לקטית ומאיפה היא מגיעה?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "A protein produced by resting muscles",
+            "he": "חלבון המיוצר על ידי שרירים במנוחה"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "A byproduct of anaerobic respiration in muscles during intense exercise",
+            "he": "תוצר לוואי של נשימה אנאירובית בשרירים במהלך פעילות גופנית אינטנסיבית"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "A hormone produced by the liver",
+            "he": "הורמון המיוצר בכבד"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "A fat stored in muscle cells",
+            "he": "שומן המאוחסן בתאי שריר"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "During intense exercise when oxygen supply cannot keep up with demand, muscle cells switch to anaerobic respiration and produce lactic acid as a byproduct. Its accumulation causes the burning sensation and fatigue felt in muscles.",
+        "he": "במהלך פעילות גופנית אינטנסיבית כאשר אספקת החמצן אינה מצליחה לעמוד בקצב עם הדרישה, תאי שריר עוברים לנשימה אנאירובית ומייצרים חומצה לקטית כתוצר לוואי. הצטברותה גורמת לתחושת הצריבה ולעייפות המורגשת בשרירים."
+      }
+    },
+    {
+      "id": "q17-07",
+      "question": {
+        "en": "What is the difference between slow-twitch and fast-twitch muscle fibers?",
+        "he": "מה ההבדל בין סיבי שריר איטיים לבין מהירים?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Slow-twitch fibers are larger; fast-twitch fibers are smaller",
+            "he": "סיבים איטיים גדולים יותר; סיבים מהירים קטנים יותר"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Slow-twitch fibers are for endurance and resist fatigue; fast-twitch fibers are for power and tire quickly",
+            "he": "סיבים איטיים מיועדים לסיבולת ועמידים לעייפות; סיבים מהירים מיועדים לעוצמה ומתעייפים במהירות"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Slow-twitch fibers are found only in the heart; fast-twitch in skeletal muscle",
+            "he": "סיבים איטיים נמצאים רק בלב; מהירים בשריר שלד"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Both types do the same job but in different organs",
+            "he": "שני הסוגים עושים את אותה עבודה אך באיברים שונים"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Slow-twitch (Type I) fibers are rich in mitochondria and myoglobin, use aerobic respiration, and are highly fatigue-resistant — ideal for long-distance running and posture maintenance. Fast-twitch (Type II) fibers contract powerfully and quickly using anaerobic respiration but fatigue rapidly — suited for sprinting, jumping, and lifting.",
+        "he": "סיבים איטיים (סוג I) עשירים במיטוכונדריה ומיוגלובין, משתמשים בנשימה אירובית ועמידים מאוד לעייפות — אידיאליים לריצה למרחקים ארוכים ולשמירת יציבה. סיבים מהירים (סוג II) מתכווצים בעוצמה ובמהירות תוך שימוש בנשימה אנאירובית אך מתעייפים במהירות — מתאימים לספרינט, קפיצה והרמה."
+      }
+    },
+    {
+      "id": "q17-08",
+      "question": {
+        "en": "Why is visceral fat considered more dangerous to health than subcutaneous fat?",
+        "he": "מדוע שומן קרביים נחשב מסוכן יותר לבריאות משומן תת-עורי?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Because it is heavier and puts more pressure on joints",
+            "he": "כי הוא כבד יותר ומפעיל יותר לחץ על מפרקים"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Because it surrounds internal organs and releases inflammatory substances linked to heart disease and diabetes",
+            "he": "כי הוא מקיף איברים פנימיים ומשחרר חומרים דלקתיים הקשורים למחלות לב וסוכרת"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Because it prevents muscles from contracting properly",
+            "he": "כי הוא מונע מהשרירים להתכווץ כראוי"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Because it cannot be broken down for energy",
+            "he": "כי לא ניתן לפרקו לאנרגיה"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Visceral fat surrounds internal organs in the abdomen and is metabolically active — it secretes inflammatory cytokines and free fatty acids into the portal circulation. Excess visceral fat is strongly linked to insulin resistance, type 2 diabetes, cardiovascular disease, and other metabolic disorders, making it a more dangerous form of fat than subcutaneous fat.",
+        "he": "שומן קרביים מקיף את האיברים הפנימיים בבטן ופעיל מטבולית — הוא מפריש ציטוקינים דלקתיים וחומצות שומן חופשיות למחזור הדם של ורִיד השער. עודף שומן קרביים קשור קשר חזק לעמידות לאינסולין, סוכרת סוג 2, מחלות לב וכלי דם והפרעות מטבוליות אחרות, מה שהופך אותו לצורה מסוכנת יותר של שומן משומן תת-עורי."
+      }
+    },
+    {
+      "id": "q17-09",
+      "question": {
+        "en": "What causes muscle hypertrophy (muscle growth) from exercise?",
+        "he": "מה גורם להיפרטרופיה של שרירים (גדילת שריר) מפעילות גופנית?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "New muscle cells are created during exercise",
+            "he": "תאי שריר חדשים נוצרים במהלך פעילות גופנית"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Microscopic damage to muscle fibers is repaired with more protein, making fibers thicker",
+            "he": "נזק מיקרוסקופי לסיבי שריר מתוקן עם יותר חלבון, ומהפך סיבים לעבים יותר"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Fat cells convert into muscle cells when the body exercises regularly",
+            "he": "תאי שומן מומרים לתאי שריר כאשר הגוף מתאמן בקביעות"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "The heart pumps more blood to the muscles, permanently enlarging them",
+            "he": "הלב שואב יותר דם לשרירים ומגדיל אותם לצמיתות"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Resistance exercise causes tiny tears in muscle fibers. During recovery, satellite cells (muscle stem cells) and protein synthesis repair and rebuild the fibers slightly thicker than before. With consistent training, this cumulative process leads to visible muscle growth (hypertrophy). This is why adequate protein intake and rest are essential for muscle building.",
+        "he": "פעילות גופנית עם התנגדות גורמת לקרעים זעירים בסיבי שריר. במהלך ההתאוששות, תאי לוויין (תאי גזע של שריר) וסינתזת חלבונים מתקנים ובונים מחדש את הסיבים מעט עבים יותר מקודם. עם אימון עקבי, תהליך מצטבר זה מוביל לגדילת שריר גלויה (היפרטרופיה). לכן צריכת חלבון מספקת ומנוחה חיוניות לבניית שריר."
+      }
+    },
+    {
+      "id": "q17-10",
+      "question": {
+        "en": "What is muscle atrophy and what causes it?",
+        "he": "מהו ניוון שרירים ומה גורם לו?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "The growth of new muscle tissue from exercise",
+            "he": "גדילת רקמת שריר חדשה מפעילות גופנית"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Loss of muscle mass due to inactivity, poor nutrition, aging, or nerve damage",
+            "he": "אובדן מסת שריר עקב חוסר פעילות, תזונה לקויה, הזדקנות או נזק עצבי"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Muscle cramps caused by dehydration",
+            "he": "עוויתות שריר הנגרמות על ידי התייבשות"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "A condition where muscles become too large from overtraining",
+            "he": "מצב שבו שרירים הופכים גדולים מדי מאימון יתר"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Muscle atrophy occurs when muscle fibers shrink because the muscle is not being used or is not receiving adequate nutrients or nerve signals. Prolonged bed rest, spaceflight, cast immobilization, or conditions like ALS all cause muscle atrophy. Even after just a few days of inactivity, measurable muscle loss begins — a reminder of how dynamic muscle tissue is.",
+        "he": "ניוון שרירים מתרחש כאשר סיבי שריר מתכווצים מכיוון שהשריר אינו בשימוש או אינו מקבל חומרים מזינים מספיקים או אותות עצביים. שכיבה ממושכת במיטה, טיסה בחלל, קיבוע בגבס, או מצבים כמו ALS גורמים כולם לניוון שרירים. אפילו לאחר כמה ימים בלבד של חוסר פעילות, אובדן שריר ניתן למדידה מתחיל — תזכורת לכמה דינמית היא רקמת השריר."
+      }
+    }
+  ],
+  "videoSources": [
+    "OqI16GfrcoY",
+    "6-rI1jaVKNM"
+  ]
+}

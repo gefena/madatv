@@ -1,0 +1,629 @@
+{
+  "id": "02-birth",
+  "episodeNumber": 2,
+  "youtubeId": "z8IHw58fZ40",
+  "title": {
+    "en": "Birth",
+    "he": "הלידה"
+  },
+  "summary": {
+    "en": "This episode follows the extraordinary journey of human development from the moment of fertilization to the dramatic event of birth. It explains how a single fertilized egg cell — the zygote — begins to divide and differentiate within days, eventually forming all the trillions of specialized cells that make up a complete human being. The episode explores the three trimesters of pregnancy in detail, showing how the embryo's organs form in the first eight weeks, how the fetus grows and matures through weeks 9–40, and how the placenta and umbilical cord sustain it throughout. Viewers see how amniotic fluid cushions and protects the developing baby, and how hormonal signals at the end of pregnancy trigger the powerful uterine contractions of labor. The episode concludes with the wonder of birth itself — the moment a new, fully independent human being enters the world.",
+    "he": "פרק זה עוקב אחרי המסע יוצא הדופן של ההתפתחות האנושית מרגע ההפריה ועד לאירוע הדרמטי של הלידה. הוא מסביר כיצד תא ביצית מופרית יחיד — הזיגוטה — מתחיל להתחלק ולהתמיין תוך ימים ספורים, ובסופו של דבר יוצר את כל הטריליונים של התאים המתמחים המרכיבים אדם שלם. הפרק חוקר את שלושת שליש ההריון בפירוט, ומראה כיצד איברי העובר נוצרים בשמונת השבועות הראשונים, כיצד הגוף גדל ומבשיל משבוע 9 עד 40, וכיצד השליה וחבל הטבור מקיימים אותו לאורך כל הדרך. הצופים רואים כיצד מי השפיר מרפדים ומגנים על התינוק המתפתח, וכיצד אותות הורמונליים בסוף ההריון מפעילים את צירי הרחם החזקים של הלידה. הפרק מסתיים בפלא הלידה עצמה — הרגע שבו נכנס לעולם אדם חדש ועצמאי לחלוטין."
+  },
+  "thumbnail": "https://img.youtube.com/vi/z8IHw58fZ40/maxresdefault.jpg",
+  "durationMinutes": 25,
+  "topics": [
+    "fertilization",
+    "embryonic development",
+    "pregnancy",
+    "childbirth"
+  ],
+  "terminology": [
+    {
+      "id": "t02-01",
+      "term": {
+        "en": "Fertilization",
+        "he": "הפריה"
+      },
+      "definition": {
+        "en": "The process by which a single sperm cell fuses with an egg cell to form a zygote, combining genetic material from both parents. Fertilization typically occurs in the fallopian tube within 24 hours of ovulation.",
+        "he": "התהליך שבו תא זרע בודד מתמזג עם תא ביצית ויוצר זיגוטה, תוך שילוב חומר גנטי משני ההורים. ההפריה מתרחשת בדרך כלל בחצוצרה תוך 24 שעות מהביוץ."
+      },
+      "category": "reproduction"
+    },
+    {
+      "id": "t02-02",
+      "term": {
+        "en": "Zygote",
+        "he": "זיגוטה"
+      },
+      "definition": {
+        "en": "The single cell formed when a sperm fertilizes an egg, containing the full set of 46 chromosomes — 23 from each parent. The zygote immediately begins to divide, initiating the entire process of human development.",
+        "he": "התא היחיד הנוצר כאשר זרע מפרה ביצית, המכיל את הסט המלא של 46 כרומוזומים — 23 מכל הורה. הזיגוטה מתחילה להתחלק מיידית ומפעילה את כל תהליך ההתפתחות האנושית."
+      },
+      "category": "reproduction"
+    },
+    {
+      "id": "t02-03",
+      "term": {
+        "en": "Embryo",
+        "he": "עובר (שלב מוקדם)"
+      },
+      "definition": {
+        "en": "The developing human organism from fertilization through the end of the eighth week of pregnancy. During this period, all the major organ systems begin to form — a process called organogenesis.",
+        "he": "האורגניזם האנושי המתפתח מההפריה ועד סוף השבוע השמיני של ההריון. בתקופה זו כל מערכות האיברים העיקריות מתחילות להיווצר — תהליך הנקרא אורגנוגנזה."
+      },
+      "category": "development"
+    },
+    {
+      "id": "t02-04",
+      "term": {
+        "en": "Fetus",
+        "he": "עובר (שלב מאוחר)"
+      },
+      "definition": {
+        "en": "The developing human from the ninth week of pregnancy until birth, by which time all major organs have formed. During the fetal stage, the focus shifts to growth, maturation, and refinement of organ function.",
+        "he": "האדם המתפתח מהשבוע התשיעי של ההריון ועד הלידה, אז כל האיברים העיקריים כבר נוצרו. בשלב העוברי, ההתמקדות עוברת לצמיחה, בשלות ושיפור תפקוד האיברים."
+      },
+      "category": "development"
+    },
+    {
+      "id": "t02-05",
+      "term": {
+        "en": "Placenta",
+        "he": "שליה"
+      },
+      "definition": {
+        "en": "A temporary organ that develops in the uterus during pregnancy, providing the fetus with oxygen and nutrients from the mother's blood while removing carbon dioxide and waste products. It also produces hormones that sustain the pregnancy.",
+        "he": "איבר זמני המתפתח ברחם במהלך ההריון, המספק לעובר חמצן וחומרי מזון מדם האם תוך הסרת פחמן דו-חמצני ופסולת. הוא גם מייצר הורמונים הנחוצים לקיום ההריון."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t02-06",
+      "term": {
+        "en": "Umbilical Cord",
+        "he": "חבל הטבור"
+      },
+      "definition": {
+        "en": "The flexible cord connecting the fetus to the placenta, containing two arteries and one vein. Through it, nutrients and oxygen are delivered to the fetus and waste products are returned to the placenta for removal.",
+        "he": "החוט הגמיש המחבר את העובר לשליה, המכיל שני עורקים ורִיד אחד. דרכו מועברים חומרי מזון וחמצן לעובר ופסולת מוחזרת לשליה להסרה."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t02-07",
+      "term": {
+        "en": "Amniotic Fluid",
+        "he": "מי שפיר"
+      },
+      "definition": {
+        "en": "The protective fluid surrounding the fetus inside the amniotic sac, which cushions it from physical shocks, maintains a stable temperature, and allows the fetus to move freely — essential for proper muscle and bone development.",
+        "he": "הנוזל המגן המקיף את העובר בתוך שק השפיר, המגן עליו מפני זעזועים פיזיים, שומר על טמפרטורה יציבה ומאפשר לעובר לנוע בחופשיות — חיוני לפיתוח תקין של שרירים ועצמות."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t02-08",
+      "term": {
+        "en": "Uterus",
+        "he": "רחם"
+      },
+      "definition": {
+        "en": "The muscular organ in the female reproductive system where the embryo implants and the fetus develops during pregnancy. Its muscular walls contract powerfully during labor to push the baby through the birth canal.",
+        "he": "האיבר השרירי במערכת הרבייה הנקבית שבו העובר מתקבע ומתפתח במהלך ההריון. דפנותיו השריריות מתכווצות בכוח במהלך הלידה כדי לדחוף את התינוק דרך תעלת הלידה."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t02-09",
+      "term": {
+        "en": "Cell Differentiation",
+        "he": "התמיינות תאים"
+      },
+      "definition": {
+        "en": "The process by which cells become specialized into different types during development — such as muscle, nerve, or skin cells — while retaining the same DNA. It is controlled by which genes are switched on or off in each cell.",
+        "he": "התהליך שבו תאים הופכים מתמחים לסוגים שונים במהלך ההתפתחות — כגון תאי שריר, עצב או עור — תוך שמירה על אותו DNA. הוא נשלט על ידי אילו גנים מופעלים או מכובים בכל תא."
+      },
+      "category": "process"
+    },
+    {
+      "id": "t02-10",
+      "term": {
+        "en": "Labor Contractions",
+        "he": "צירי לידה"
+      },
+      "definition": {
+        "en": "The rhythmic tightening and relaxing of the uterine muscles during childbirth that gradually dilate the cervix and push the baby through the birth canal. They are triggered by hormones including oxytocin.",
+        "he": "ההידוק והרפיה הקצביים של שרירי הרחם במהלך הלידה שמרחיבים בהדרגה את צוואר הרחם ודוחפים את התינוק דרך תעלת הלידה. הם מופעלים על ידי הורמונים כולל אוקסיטוצין."
+      },
+      "category": "process"
+    },
+    {
+      "id": "t02-11",
+      "term": {
+        "en": "Implantation",
+        "he": "השרשה"
+      },
+      "definition": {
+        "en": "The process by which the blastocyst (an early-stage embryo) burrows into the lining of the uterus about 6–10 days after fertilization, establishing the connection that will become the placenta.",
+        "he": "התהליך שבו הבלסטוציסט (עובר בשלב מוקדם) חופר לתוך רירית הרחם כ-6–10 ימים לאחר ההפריה, ויוצר את הקשר שיהפוך לשליה."
+      },
+      "category": "process"
+    },
+    {
+      "id": "t02-12",
+      "term": {
+        "en": "Trimester",
+        "he": "שליש הריון"
+      },
+      "definition": {
+        "en": "One of the three roughly equal periods of about 13 weeks into which pregnancy is divided. Each trimester is marked by distinct developmental milestones — from organ formation in the first, rapid growth in the second, to final maturation in the third.",
+        "he": "אחד משלושה תקופות שוות בערך של כ-13 שבועות שאליהן מחולק ההריון. כל שליש מאופיין באבני דרך התפתחותיות ייחודיות — מיצירת איברים בראשון, גדילה מהירה בשני ועד לבשלות סופית בשלישי."
+      },
+      "category": "development"
+    },
+    {
+      "id": "t02-13",
+      "term": {
+        "en": "Oxytocin",
+        "he": "אוקסיטוצין"
+      },
+      "definition": {
+        "en": "A hormone produced by the hypothalamus and released by the pituitary gland that triggers and intensifies uterine contractions during labor, and also stimulates milk production after birth. It is sometimes called the 'bonding hormone'.",
+        "he": "הורמון המיוצר בהיפותלמוס ומשתחרר מיותרת המוח שמפעיל ומחזק את התכווצויות הרחם במהלך הלידה, וגם מעורר ייצור חלב לאחר הלידה. הוא נקרא לפעמים 'הורמון הקשר'."
+      },
+      "category": "biochemistry"
+    },
+    {
+      "id": "t02-14",
+      "term": {
+        "en": "Blastocyst",
+        "he": "בלסטוציסט"
+      },
+      "definition": {
+        "en": "An early-stage embryo (about 5–6 days after fertilization) consisting of around 100–200 cells arranged in a hollow sphere. Its outer layer will form the placenta while the inner cell mass develops into the embryo proper.",
+        "he": "עובר בשלב מוקדם (כ-5–6 ימים לאחר ההפריה) המורכב מכ-100–200 תאים המסודרים בכדור חלול. השכבה החיצונית שלו תיצור את השליה בעוד שמסת התאים הפנימית תתפתח לעובר עצמו."
+      },
+      "category": "development"
+    },
+    {
+      "id": "t02-15",
+      "term": {
+        "en": "Organogenesis",
+        "he": "יצירת איברים (אורגנוגנזה)"
+      },
+      "definition": {
+        "en": "The critical developmental process during weeks 3–8 of embryonic development in which all major organ systems begin to form from three germ layers. This is the period of greatest vulnerability to teratogens such as alcohol and certain medications.",
+        "he": "תהליך ההתפתחות הקריטי בשבועות 3–8 של ההתפתחות העוברית שבו כל מערכות האיברים העיקריות מתחילות להיווצר משלוש שכבות נבט. זוהי התקופה שבה הרגישות לטראטוגנים כגון אלכוהול ותרופות מסוימות היא הגבוהה ביותר."
+      },
+      "category": "development"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q02-01",
+      "question": {
+        "en": "What is the name of the cell formed when a sperm fertilizes an egg?",
+        "he": "מה שמו של התא הנוצר כאשר זרע מפרה ביצית?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Embryo",
+            "he": "עובר"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Zygote",
+            "he": "זיגוטה"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Fetus",
+            "he": "עובר (שלב מאוחר)"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Gamete",
+            "he": "גמטה"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "A zygote is the very first cell formed at fertilization. It contains 46 chromosomes — 23 from the sperm and 23 from the egg — and is the starting point of all human development. Within hours it begins to divide, becoming first a morula, then a blastocyst.",
+        "he": "זיגוטה היא התא הראשון הנוצר בהפריה. היא מכילה 46 כרומוזומים — 23 מהזרע ו-23 מהביצית — והיא נקודת המוצא של כל ההתפתחות האנושית. תוך שעות היא מתחילה להתחלק, הופכת תחילה למורולה, ואז לבלסטוציסט."
+      }
+    },
+    {
+      "id": "q02-02",
+      "question": {
+        "en": "What is the function of the placenta?",
+        "he": "מה תפקידה של השליה?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "To protect the baby from physical impact",
+            "he": "להגן על התינוק מפני פגיעה פיזית"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "To supply the fetus with nutrients and oxygen from the mother",
+            "he": "לספק לעובר חומרי מזון וחמצן מהאם"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "To store the amniotic fluid",
+            "he": "לאחסן את מי השפיר"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "To produce hormones for the father",
+            "he": "לייצר הורמונים עבור האב"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The placenta is a temporary organ that acts as an interface between the mother's bloodstream and the fetus, delivering nutrients and oxygen while removing waste products. Crucially, the mother's and fetus's blood do not actually mix — exchange happens across the placental membrane.",
+        "he": "השליה היא איבר זמני המשמש כממשק בין זרם הדם של האם לבין העובר, מעביר חומרי מזון וחמצן תוך הסרת פסולת. חשוב לציין שדם האם ודם העובר לא מתערבבים בפועל — החילוף מתרחש דרך ממברנת השליה."
+      }
+    },
+    {
+      "id": "q02-03",
+      "question": {
+        "en": "After how many weeks of pregnancy is the developing baby called a fetus rather than an embryo?",
+        "he": "לאחר כמה שבועות של הריון קוראים לתינוק המתפתח 'עובר (שלב מאוחר)' ולא 'עובר (שלב מוקדם)'?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "4 weeks",
+            "he": "4 שבועות"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "6 weeks",
+            "he": "6 שבועות"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "9 weeks",
+            "he": "9 שבועות"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "20 weeks",
+            "he": "20 שבועות"
+          }
+        }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "From fertilization through the eighth week, the developing human is called an embryo. From the ninth week until birth it is called a fetus. By week 9, all major organs have begun to form — the fetal stage is primarily about growth and maturation.",
+        "he": "מההפריה ועד השבוע השמיני, האדם המתפתח נקרא עובר (שלב מוקדם). מהשבוע התשיעי ועד הלידה הוא נקרא עובר (שלב מאוחר). עד שבוע 9 כל האיברים העיקריים התחילו להיווצר — שלב העובר עוסק בעיקר בצמיחה ובשלות."
+      }
+    },
+    {
+      "id": "q02-04",
+      "question": {
+        "en": "What surrounds and protects the fetus inside the womb?",
+        "he": "מה מקיף ומגן על העובר בתוך הרחם?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Blood plasma",
+            "he": "פלזמת דם"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Amniotic fluid",
+            "he": "מי שפיר"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Lymphatic fluid",
+            "he": "נוזל לימפטי"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Cerebrospinal fluid",
+            "he": "נוזל מוחי-שדרתי"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Amniotic fluid fills the amniotic sac surrounding the fetus. It cushions the baby from bumps and impacts, maintains a stable temperature, allows the fetus to move freely — which is important for normal muscle and bone development — and the fetus even 'breathes' and swallows it to develop its lungs and digestive system.",
+        "he": "מי שפיר ממלאים את שק השפיר המקיף את העובר. הם מגינים על התינוק מהלמות ופגיעות, שומרים על טמפרטורה יציבה, ומאפשרים לעובר לנוע בחופשיות — דבר חשוב להתפתחות תקינה של שרירים ועצמות — והעובר אפילו 'נושם' ובולע אותם כדי לפתח את ריאותיו ומערכת עיכולו."
+      }
+    },
+    {
+      "id": "q02-05",
+      "question": {
+        "en": "What connects the fetus to the placenta?",
+        "he": "מה מחבר את העובר לשליה?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "The amniotic sac",
+            "he": "שק השפיר"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "The umbilical cord",
+            "he": "חבל הטבור"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "The fallopian tube",
+            "he": "חצוצרה"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "A nerve bundle",
+            "he": "אגד עצבים"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The umbilical cord connects the fetus to the placenta. It contains two umbilical arteries (carrying deoxygenated blood and waste away from the fetus) and one umbilical vein (carrying oxygen-rich blood and nutrients to the fetus). After birth, cutting the cord is painless as it has no nerve fibers.",
+        "he": "חבל הטבור מחבר את העובר לשליה. הוא מכיל שני עורקי טבור (מובילים דם דל חמצן ופסולת מהעובר) ורִיד טבור אחד (מוביל דם עשיר בחמצן וחומרי מזון לעובר). לאחר הלידה, חיתוך החבל אינו כואב מכיוון שאין בו סיבי עצב."
+      }
+    },
+    {
+      "id": "q02-06",
+      "question": {
+        "en": "How long does a typical human pregnancy last?",
+        "he": "כמה זמן נמשך הריון אנושי טיפוסי?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "6 months",
+            "he": "6 חודשים"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "9 months (about 40 weeks)",
+            "he": "9 חודשים (כ-40 שבועות)"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "12 months",
+            "he": "12 חודשים"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "7 months",
+            "he": "7 חודשים"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "A full-term human pregnancy lasts approximately 40 weeks, or about 9 months, counted from the first day of the last menstrual period. During this time, a single fertilized cell develops into a fully formed baby with trillions of specialized cells.",
+        "he": "הריון אנושי מלא נמשך כ-40 שבועות, או כ-9 חודשים, הנספרים מהיום הראשון של המחזור החודשי האחרון. בפרק זמן זה, תא מופרה יחיד מתפתח לתינוק שלם עם טריליוני תאים מתמחים."
+      }
+    },
+    {
+      "id": "q02-07",
+      "question": {
+        "en": "At what stage does the embryo implant itself into the uterine wall?",
+        "he": "באיזה שלב מתקבע העובר בדופן הרחם?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Immediately at fertilization",
+            "he": "מיידית בהפריה"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "About 6–10 days after fertilization, as a blastocyst",
+            "he": "כ-6–10 ימים לאחר ההפריה, כבלסטוציסט"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "At 8 weeks of development",
+            "he": "בשבוע 8 להתפתחות"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Only after the placenta has formed fully",
+            "he": "רק לאחר שהשליה נוצרה לחלוטין"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "After fertilization, the zygote travels down the fallopian tube while dividing. By about day 5–6 it becomes a blastocyst — a hollow ball of ~100 cells. Around days 6–10 it implants into the uterine lining, where it will develop for the rest of pregnancy.",
+        "he": "לאחר ההפריה, הזיגוטה נעה לאורך החצוצרה תוך שהיא מתחלקת. בסביבות יום 5–6 היא הופכת לבלסטוציסט — כדור חלול של כ-100 תאים. בסביבות ימים 6–10 היא מתקבעת ברירית הרחם, שם תתפתח עד סוף ההריון."
+      }
+    },
+    {
+      "id": "q02-08",
+      "question": {
+        "en": "Which hormone triggers uterine contractions during labor?",
+        "he": "איזה הורמון מפעיל את התכווצויות הרחם במהלך הלידה?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Insulin",
+            "he": "אינסולין"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Adrenaline",
+            "he": "אדרנלין"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Oxytocin",
+            "he": "אוקסיטוצין"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Cortisol",
+            "he": "קורטיזול"
+          }
+        }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Oxytocin, produced by the hypothalamus and released by the pituitary gland, is the key hormone that stimulates and strengthens uterine contractions during labor. Synthetic oxytocin (Pitocin) is also used medically to induce or speed up labor.",
+        "he": "אוקסיטוצין, המיוצר בהיפותלמוס ומשתחרר מיותרת המוח, הוא ההורמון המרכזי שמגרה ומחזק את התכווצויות הרחם במהלך הלידה. אוקסיטוצין סינתטי (פיטוצין) משמש גם רפואית לעורר או לזרז לידה."
+      }
+    },
+    {
+      "id": "q02-09",
+      "question": {
+        "en": "Why is the first trimester especially critical for fetal development?",
+        "he": "מדוע השליש הראשון הוא קריטי במיוחד להתפתחות העובר?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Because the fetus grows most rapidly in size",
+            "he": "מפני שהעובר גדל במהירות הגדולה ביותר בגודל"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Because all major organs begin forming, making the embryo most vulnerable to harmful substances",
+            "he": "מפני שכל האיברים העיקריים מתחילים להיווצר, מה שהופך את העובר לרגיש ביותר לחומרים מזיקים"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Because the brain develops only in the first trimester",
+            "he": "מפני שהמוח מתפתח רק בשליש הראשון"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "Because the placenta is not yet present",
+            "he": "מפני שהשליה עדיין לא קיימת"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "During weeks 3–8 (organogenesis), all major organ systems form from scratch. This is the most sensitive period — exposure to teratogens (alcohol, certain drugs, infections) during this time can cause severe malformations, since the organs are being built and are highly vulnerable to disruption.",
+        "he": "במהלך שבועות 3–8 (אורגנוגנזה), כל מערכות האיברים העיקריות נוצרות מאפס. זוהי התקופה הרגישה ביותר — חשיפה לטראטוגנים (אלכוהול, תרופות מסוימות, זיהומים) בתקופה זו יכולה לגרום לעיוותים חמורים, מכיוון שהאיברים נמצאים בבנייה ורגישים מאוד להפרעות."
+      }
+    },
+    {
+      "id": "q02-10",
+      "question": {
+        "en": "How many chromosomes does a sperm cell carry, and why?",
+        "he": "כמה כרומוזומים נושא תא זרע, ומדוע?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "46, because it is a normal body cell",
+            "he": "46, מפני שהוא תא גוף רגיל"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "23, because it is a sex cell produced by meiosis",
+            "he": "23, מפני שהוא תא מין המיוצר על ידי מיוזה"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "92, because it carries double the usual amount",
+            "he": "92, מפני שהוא נושא כפל מהכמות הרגילה"
+          }
+        },
+        {
+          "id": "d",
+          "text": {
+            "en": "12, because sperm are very small cells",
+            "he": "12, מפני שזרעים הם תאים קטנים מאוד"
+          }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Sperm (and egg) cells are produced by a special division called meiosis, which halves the chromosome number to 23. This is essential so that when sperm and egg fuse, the resulting zygote has the correct total of 46 chromosomes — not double (92).",
+        "he": "תאי זרע (וביצית) מיוצרים על ידי חלוקה מיוחדת הנקראת מיוזה, המפחיתה את מספר הכרומוזומים ל-23. זה חיוני כדי שכאשר זרע וביצית יתמזגו, לזיגוטה המתקבלת יהיה הסכום הכולל הנכון של 46 כרומוזומים — לא כפול (92)."
+      }
+    }
+  ],
+  "videoSources": [
+    "z8IHw58fZ40",
+    "C9eiG93vHzk"
+  ]
+}

@@ -1,0 +1,512 @@
+{
+  "id": "13-the-skin",
+  "episodeNumber": 13,
+  "youtubeId": "qnqvCwifctQ",
+  "videoSources": ["qnqvCwifctQ", "BPs9sWaNDOs"],
+  "title": {
+    "en": "The Skin",
+    "he": "העור"
+  },
+  "summary": {
+    "en": "This episode explores the skin — the body's largest organ — and the remarkable range of functions it performs to keep us alive and healthy. It examines the three principal layers: the epidermis, which acts as a waterproof barrier and is continuously renewed by dividing cells; the dermis, packed with collagen fibres, blood vessels, nerve endings, sweat glands, sebaceous glands, and hair follicles; and the hypodermis, a deep layer of fat that insulates the body and cushions it against impact. The episode explains how melanocytes in the epidermis produce melanin pigment that shields DNA from ultraviolet radiation, and how sweating and blood vessel dilation work together to regulate body temperature. It also traces the remarkable stages of wound healing — from immediate clotting and inflammation through tissue repair and, finally, scar formation.",
+    "he": "פרק זה חוקר את העור — האיבר הגדול ביותר של הגוף — ואת מגוון התפקודים המרהיב שהוא ממלא כדי לשמור עלינו בחיים ובריאים. הוא בוחן את שלוש השכבות העיקריות: האפידרמיס, הפועל כמחסום עמיד למים ומתחדש ללא הרף על ידי תאים מתחלקים; הדרמיס, דחוס בסיבי קולגן, כלי דם, קצות עצבים, בלוטות זיעה, בלוטות חלב ושורשי שיער; וההיפודרמיס, שכבת שומן עמוקה המבודדת את הגוף ומרפדת אותו מפני פגיעות. הפרק מסביר כיצד מלנוציטים באפידרמיס מייצרים פיגמנט מלנין המגן על DNA מקרינה אולטרא-סגולה, וכיצד הזעה והרחבת כלי דם פועלות יחד לוויסות טמפרטורת הגוף. הוא גם עוקב אחר שלבי ריפוי הפצעים המרהיבים — מקרישה ודלקת מיידיות דרך תיקון רקמות ועד היווצרות צלקת."
+  },
+  "thumbnail": "https://img.youtube.com/vi/qnqvCwifctQ/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": [
+    "epidermis",
+    "dermis",
+    "hypodermis",
+    "melanin",
+    "keratin",
+    "sweat glands",
+    "sebaceous glands",
+    "hair follicles",
+    "thermoregulation",
+    "wound healing"
+  ],
+  "terminology": [
+    {
+      "id": "t13-01",
+      "term": {
+        "en": "Epidermis",
+        "he": "אפידרמיס"
+      },
+      "definition": {
+        "en": "The outermost layer of the skin, composed mainly of keratinocytes, that forms a waterproof barrier and is continuously shed and renewed.",
+        "he": "השכבה החיצונית ביותר של העור, המורכבת בעיקר מקרטינוציטים, היוצרת מחסום עמיד למים ומתחדשת ללא הרף."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t13-02",
+      "term": {
+        "en": "Dermis",
+        "he": "דרמיס"
+      },
+      "definition": {
+        "en": "The thick middle layer of skin beneath the epidermis, containing collagen, elastic fibres, blood vessels, nerve endings, sweat glands, sebaceous glands, and hair follicles.",
+        "he": "השכבה האמצעית העבה של העור מתחת לאפידרמיס, המכילה קולגן, סיבים אלסטיים, כלי דם, קצות עצבים, בלוטות זיעה, בלוטות חלב ושורשי שיער."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t13-03",
+      "term": {
+        "en": "Hypodermis (Subcutaneous Layer)",
+        "he": "היפודרמיס (שכבה תת-עורית)"
+      },
+      "definition": {
+        "en": "The deepest layer of the skin, composed mainly of fat and connective tissue, providing insulation, energy storage, and cushioning against impact.",
+        "he": "השכבה העמוקה ביותר של העור, המורכבת בעיקר משומן ורקמת חיבור, המספקת בידוד, אחסון אנרגיה וריפוד מפני פגיעות."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t13-04",
+      "term": {
+        "en": "Keratin",
+        "he": "קרטין"
+      },
+      "definition": {
+        "en": "A tough, fibrous structural protein produced by keratinocytes that makes the outer skin layer waterproof and resistant to physical damage.",
+        "he": "חלבון מבני סיבי עמיד המיוצר על ידי קרטינוציטים, שהופך את שכבת העור החיצונית לעמידה למים ולנזק פיזי."
+      },
+      "category": "biochemistry"
+    },
+    {
+      "id": "t13-05",
+      "term": {
+        "en": "Melanin",
+        "he": "מלנין"
+      },
+      "definition": {
+        "en": "A dark pigment produced by melanocytes in the epidermis that absorbs ultraviolet radiation, protecting the DNA of skin cells from UV-induced damage.",
+        "he": "פיגמנט כהה המיוצר על ידי מלנוציטים באפידרמיס הסופג קרינה אולטרא-סגולה, ומגן על ה-DNA של תאי העור מנזק הנגרם על ידי UV."
+      },
+      "category": "biochemistry"
+    },
+    {
+      "id": "t13-06",
+      "term": {
+        "en": "Melanocyte",
+        "he": "מלנוציט"
+      },
+      "definition": {
+        "en": "A specialised cell in the epidermis that synthesises melanin and transfers it to surrounding keratinocytes, determining skin and hair colour.",
+        "he": "תא מיוחד באפידרמיס המסנתז מלנין ומעבירו לקרטינוציטים הסובבים, הקובע את צבע העור והשיער."
+      },
+      "category": "cell biology"
+    },
+    {
+      "id": "t13-07",
+      "term": {
+        "en": "Sweat Gland (Eccrine Gland)",
+        "he": "בלוטת זיעה (בלוטה אקרינה)"
+      },
+      "definition": {
+        "en": "A coiled gland in the dermis that secretes sweat (a dilute salt solution) onto the skin surface; evaporation of sweat cools the body.",
+        "he": "בלוטה מפותלת בדרמיס המפרישה זיעה (תמיסת מלח מדוללת) על פני העור; אידוי הזיעה מקרר את הגוף."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t13-08",
+      "term": {
+        "en": "Sebaceous Gland",
+        "he": "בלוטת חלב (שומן)"
+      },
+      "definition": {
+        "en": "A gland in the dermis that produces sebum, an oily substance that lubricates the skin and hair, preventing dryness and providing a mild antimicrobial barrier.",
+        "he": "בלוטה בדרמיס המייצרת סבום, חומר שומני המשמן את העור והשיער, מונע יובש ומספק מחסום אנטי-מיקרוביאלי קל."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t13-09",
+      "term": {
+        "en": "Hair Follicle",
+        "he": "שורש שיער (זקיק השיער)"
+      },
+      "definition": {
+        "en": "A tubular pocket of cells in the dermis from which a hair grows; stem cells at its base divide to produce the hair shaft.",
+        "he": "כיס צינורי של תאים בדרמיס ממנו צומח שיער; תאי גזע בבסיסו מתחלקים לייצר את גבעול השיער."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t13-10",
+      "term": {
+        "en": "Thermoregulation",
+        "he": "ויסות חום"
+      },
+      "definition": {
+        "en": "The body's ability to maintain a stable core temperature; the skin contributes by sweating (cooling) and controlling blood vessel dilation or constriction.",
+        "he": "יכולת הגוף לשמור על טמפרטורת ליבה יציבה; העור תורם על ידי הזעה (קירור) ושליטה בהרחבה או כיווץ של כלי הדם."
+      },
+      "category": "physiology"
+    },
+    {
+      "id": "t13-11",
+      "term": {
+        "en": "Keratinocyte",
+        "he": "קרטינוציט"
+      },
+      "definition": {
+        "en": "The predominant cell type in the epidermis; it produces keratin and migrates toward the surface over about 4 weeks, eventually dying and forming the tough outer layer.",
+        "he": "סוג התא הדומיננטי באפידרמיס; הוא מייצר קרטין ומהגר לכיוון פני השטח במשך כ-4 שבועות, ובסופו של דבר מת ויוצר את השכבה החיצונית הקשה."
+      },
+      "category": "cell biology"
+    },
+    {
+      "id": "t13-12",
+      "term": {
+        "en": "Wound Healing",
+        "he": "ריפוי פצעים"
+      },
+      "definition": {
+        "en": "The multi-step biological process by which damaged skin is restored, involving haemostasis, inflammation, proliferation (new tissue formation), and remodelling.",
+        "he": "התהליך הביולוגי הרב-שלבי שבו עור פגוע משוחזר, הכולל המוסטזיס, דלקת, שגשוג (היווצרות רקמה חדשה) ועיצוב מחדש."
+      },
+      "category": "physiology"
+    },
+    {
+      "id": "t13-13",
+      "term": {
+        "en": "Collagen",
+        "he": "קולגן"
+      },
+      "definition": {
+        "en": "The most abundant structural protein in the dermis; it forms strong, flexible fibres that give skin its strength, elasticity, and wound-repair scaffolding.",
+        "he": "החלבון המבני השכיח ביותר בדרמיס; הוא יוצר סיבים חזקים וגמישים המעניקים לעור את חוזקו, גמישותו ותשתית לתיקון פצעים."
+      },
+      "category": "biochemistry"
+    },
+    {
+      "id": "t13-14",
+      "term": {
+        "en": "Sebum",
+        "he": "שומן העור (סבום)"
+      },
+      "definition": {
+        "en": "The oily secretion of sebaceous glands that coats the hair shaft and skin surface, maintaining moisture and providing a slight antibacterial effect.",
+        "he": "ההפרשה השמנית של בלוטות החלב המצפה את גבעול השיער ופני העור, שומרת על לחות ומספקת אפקט אנטיבקטריאלי קל."
+      },
+      "category": "biochemistry"
+    },
+    {
+      "id": "t13-15",
+      "term": {
+        "en": "UV Radiation",
+        "he": "קרינה אולטרא-סגולה (UV)"
+      },
+      "definition": {
+        "en": "Electromagnetic radiation from the sun with wavelengths shorter than visible light; prolonged exposure can damage DNA in skin cells, potentially causing skin cancer.",
+        "he": "קרינה אלקטרומגנטית מהשמש עם אורכי גל קצרים מאור נראה; חשיפה ממושכת עלולה לפגוע ב-DNA בתאי העור, ועלולה לגרום לסרטן עור."
+      },
+      "category": "pathology"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q1",
+      "question": {
+        "en": "Which is the outermost layer of the skin?",
+        "he": "מהי השכבה החיצונית ביותר של העור?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": { "en": "Hypodermis", "he": "היפודרמיס" }
+        },
+        {
+          "id": "b",
+          "text": { "en": "Dermis", "he": "דרמיס" }
+        },
+        {
+          "id": "c",
+          "text": { "en": "Epidermis", "he": "אפידרמיס" }
+        },
+        {
+          "id": "d",
+          "text": { "en": "Subcutaneous layer", "he": "שכבה תת-עורית" }
+        }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "The epidermis is the outermost layer of the skin. It is composed mainly of keratinocytes that gradually migrate to the surface and die, forming the tough waterproof barrier that protects deeper tissues from the environment.",
+        "he": "האפידרמיס הוא השכבה החיצונית ביותר של העור. הוא מורכב בעיקר מקרטינוציטים שמהגרים בהדרגה לפני השטח ומתים, ויוצרים את המחסום הקשה העמיד למים המגן על רקמות עמוקות יותר מהסביבה."
+      }
+    },
+    {
+      "id": "q2",
+      "question": {
+        "en": "What protein gives skin its waterproof quality?",
+        "he": "איזה חלבון מעניק לעור את איכותו העמידה למים?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": { "en": "Collagen", "he": "קולגן" }
+        },
+        {
+          "id": "b",
+          "text": { "en": "Melanin", "he": "מלנין" }
+        },
+        {
+          "id": "c",
+          "text": { "en": "Keratin", "he": "קרטין" }
+        },
+        {
+          "id": "d",
+          "text": { "en": "Elastin", "he": "אלסטין" }
+        }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Keratin is the tough, fibrous protein produced by keratinocytes. It fills the cells of the outer epidermis (the stratum corneum), creating a densely packed, hydrophobic layer that resists water penetration and physical abrasion.",
+        "he": "קרטין הוא החלבון הסיבי הקשה המיוצר על ידי קרטינוציטים. הוא ממלא את תאי האפידרמיס החיצוני (השכבה הקרנית), יוצר שכבה הידרופובית דחוסה העמידה לחדירת מים ושחיקה פיזית."
+      }
+    },
+    {
+      "id": "q3",
+      "question": {
+        "en": "What is the role of melanin in the skin?",
+        "he": "מה תפקיד המלנין בעור?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": { "en": "It waterproofs the skin surface", "he": "הוא עושה את פני העור עמידים למים" }
+        },
+        {
+          "id": "b",
+          "text": { "en": "It absorbs UV radiation and protects skin cell DNA", "he": "הוא סופג קרינת UV ומגן על DNA של תאי עור" }
+        },
+        {
+          "id": "c",
+          "text": { "en": "It lubricates the skin to prevent dryness", "he": "הוא משמן את העור כדי למנוע יובש" }
+        },
+        {
+          "id": "d",
+          "text": { "en": "It triggers the immune response to bacteria", "he": "הוא מפעיל את התגובה החיסונית לחיידקים" }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Melanin, produced by melanocytes in the epidermis, acts as a natural sunscreen. It absorbs and scatters UV radiation before it can penetrate deeper and damage the DNA of skin cells, reducing the risk of mutations that can lead to skin cancer.",
+        "he": "מלנין, המיוצר על ידי מלנוציטים באפידרמיס, פועל כקרם הגנה טבעי. הוא סופג ומפזר קרינת UV לפני שהיא יכולה לחדור לעומק ולפגוע ב-DNA של תאי עור, ומקטין את הסיכון למוטציות שעלולות להוביל לסרטן עור."
+      }
+    },
+    {
+      "id": "q4",
+      "question": {
+        "en": "How does sweating help the body maintain a stable temperature?",
+        "he": "כיצד הזעה עוזרת לגוף לשמור על טמפרטורה יציבה?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": { "en": "Sweat warms the body by trapping heat close to the skin", "he": "הזיעה מחממת את הגוף על ידי לכידת חום קרוב לעור" }
+        },
+        {
+          "id": "b",
+          "text": { "en": "Sweat evaporates from the skin surface, absorbing heat and cooling the body", "he": "הזיעה מתאדה מפני העור, סופגת חום ומקררת את הגוף" }
+        },
+        {
+          "id": "c",
+          "text": { "en": "Sweat increases blood pressure, which cools organs", "he": "הזיעה מגבירה לחץ דם, אשר מקרר את האיברים" }
+        },
+        {
+          "id": "d",
+          "text": { "en": "Sweat contains hormones that signal the body to cool down", "he": "הזיעה מכילה הורמונים שמאותתים לגוף להתקרר" }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "When body temperature rises, sweat glands secrete water and salts onto the skin surface. As the sweat evaporates, it carries heat energy away from the body — the same principle as a cooling system — bringing body temperature back toward normal.",
+        "he": "כאשר טמפרטורת הגוף עולה, בלוטות הזיעה מפרישות מים ומלחים על פני העור. כאשר הזיעה מתאדה, היא נושאת אנרגיית חום מהגוף — אותו עיקרון כמו מערכת קירור — ומחזירה את טמפרטורת הגוף לנורמלי."
+      }
+    },
+    {
+      "id": "q5",
+      "question": {
+        "en": "What is the function of sebaceous glands?",
+        "he": "מה תפקיד בלוטות החלב?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": { "en": "To produce sweat that cools the body", "he": "לייצר זיעה שמקררת את הגוף" }
+        },
+        {
+          "id": "b",
+          "text": { "en": "To produce sebum that lubricates skin and hair", "he": "לייצר סבום המשמן עור ושיער" }
+        },
+        {
+          "id": "c",
+          "text": { "en": "To produce melanin for UV protection", "he": "לייצר מלנין להגנה מ-UV" }
+        },
+        {
+          "id": "d",
+          "text": { "en": "To grow hair fibres", "he": "לגדל סיבי שיער" }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Sebaceous glands are found throughout the dermis and are usually attached to hair follicles. They secrete sebum — an oily mixture of lipids — onto the hair and skin surface, keeping them moisturised and providing a mild antibacterial effect.",
+        "he": "בלוטות חלב נמצאות לאורך הדרמיס ובדרך כלל מחוברות לשורשי שיער. הן מפרישות סבום — תערובת שמנית של שומנים — על פני השיער והעור, שומרות עליהם לחים ומספקות אפקט אנטיבקטריאלי קל."
+      }
+    },
+    {
+      "id": "q6",
+      "question": {
+        "en": "What happens during the inflammation stage of wound healing?",
+        "he": "מה קורה בשלב הדלקת של ריפוי פצעים?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": { "en": "New skin cells divide and fill the wound", "he": "תאי עור חדשים מתחלקים וממלאים את הפצע" }
+        },
+        {
+          "id": "b",
+          "text": { "en": "Blood vessels dilate and immune cells rush to the wound to fight infection and remove debris", "he": "כלי דם מתרחבים ותאי חיסון ממהרים לפצע כדי להילחם בזיהום ולסלק פסולת" }
+        },
+        {
+          "id": "c",
+          "text": { "en": "Scar tissue replaces the wound permanently", "he": "רקמת צלקת מחליפה את הפצע לצמיתות" }
+        },
+        {
+          "id": "d",
+          "text": { "en": "Blood clots dissolve and the wound reopens", "he": "קרישי דם מתמוססים והפצע נפתח מחדש" }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Following initial clotting (haemostasis), the inflammation phase begins: blood vessels near the wound dilate, increasing blood flow. Neutrophils and macrophages migrate into the wound to kill bacteria, remove dead cells, and release chemical signals that coordinate tissue repair.",
+        "he": "לאחר הקרישה הראשונית (המוסטזיס), שלב הדלקת מתחיל: כלי דם הסמוכים לפצע מתרחבים ומגבירים את זרימת הדם. נויטרופילים ומקרופאגים מהגרים לתוך הפצע כדי להרוג חיידקים, לסלק תאים מתים ולשחרר אותות כימיים המתאמים תיקון רקמות."
+      }
+    },
+    {
+      "id": "q7",
+      "question": {
+        "en": "Where are hair follicles located in the skin?",
+        "he": "היכן ממוקמים שורשי השיער בעור?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": { "en": "In the outermost layer of the epidermis", "he": "בשכבה החיצונית ביותר של האפידרמיס" }
+        },
+        {
+          "id": "b",
+          "text": { "en": "In the dermis, extending into the hypodermis", "he": "בדרמיס, המתרחבים לתוך ההיפודרמיס" }
+        },
+        {
+          "id": "c",
+          "text": { "en": "Only on the surface of the skin", "he": "רק על פני העור" }
+        },
+        {
+          "id": "d",
+          "text": { "en": "Inside blood vessels", "he": "בתוך כלי דם" }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Hair follicles are deep tubular structures that originate in the dermis and often extend down into the hypodermis. Stem cells at the base of the follicle continuously divide to push the hair shaft upward, while a sebaceous gland attached to the follicle secretes sebum.",
+        "he": "שורשי שיער הם מבנים צינוריים עמוקים שמקורם בדרמיס ולעיתים מתרחבים לתוך ההיפודרמיס. תאי גזע בבסיס הזקיק מתחלקים ללא הרף כדי לדחוף את גבעול השיער כלפי מעלה, בעוד שבלוטת חלב המחוברת לזקיק מפרישה סבום."
+      }
+    },
+    {
+      "id": "q8",
+      "question": {
+        "en": "What is the main role of the hypodermis?",
+        "he": "מה התפקיד העיקרי של ההיפודרמיס?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": { "en": "To produce melanin pigment", "he": "לייצר פיגמנט מלנין" }
+        },
+        {
+          "id": "b",
+          "text": { "en": "To act as a waterproof barrier", "he": "לשמש מחסום עמיד למים" }
+        },
+        {
+          "id": "c",
+          "text": { "en": "To insulate the body, store energy as fat, and cushion against impact", "he": "לבודד את הגוף, לאחסן אנרגיה כשומן ולרפד מפני פגיעות" }
+        },
+        {
+          "id": "d",
+          "text": { "en": "To house sweat glands only", "he": "לאכלס בלוטות זיעה בלבד" }
+        }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "The hypodermis (subcutaneous layer) is primarily adipose (fat) tissue. It serves as thermal insulation to keep the body warm, an energy reserve the body can mobilise when needed, and a mechanical cushion that absorbs shocks and protects underlying muscles and bones.",
+        "he": "ההיפודרמיס (השכבה התת-עורית) היא בעיקרה רקמת שומן (אדיפוז). היא משמשת כבידוד תרמי לחימום הגוף, כמאגר אנרגיה שהגוף יכול לגייס בעת הצורך, וכריפוד מכני הסופג זעזועים ומגן על השרירים והעצמות שמתחת."
+      }
+    },
+    {
+      "id": "q9",
+      "question": {
+        "en": "Why does skin colour vary among different people?",
+        "he": "מדוע צבע העור משתנה בין אנשים שונים?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": { "en": "Different people have different numbers of skin layers", "he": "לאנשים שונים יש מספר שונה של שכבות עור" }
+        },
+        {
+          "id": "b",
+          "text": { "en": "Differences in the amount and type of melanin produced by melanocytes", "he": "הבדלים בכמות ובסוג המלנין המיוצר על ידי מלנוציטים" }
+        },
+        {
+          "id": "c",
+          "text": { "en": "Different people have different amounts of collagen", "he": "לאנשים שונים יש כמויות שונות של קולגן" }
+        },
+        {
+          "id": "d",
+          "text": { "en": "Blood vessels are closer to the surface in some people", "he": "כלי דם קרובים יותר לפני השטח אצל אנשים מסוימים" }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "All humans have roughly the same number of melanocytes, but they differ in how much melanin those cells produce and in the ratio of dark (eumelanin) to light (pheomelanin) pigment. People whose ancestors lived in high-UV environments evolved higher melanin production as UV protection.",
+        "he": "לכל בני האדם יש בערך אותו מספר מלנוציטים, אך הם שונים בכמות המלנין שאותם תאים מייצרים ובחלק של פיגמנט כהה (אאומלנין) לעומת בהיר (פאומלנין). אנשים שאבותיהם חיו בסביבות עם UV גבוה פיתחו ייצור מלנין גבוה יותר כהגנה מ-UV."
+      }
+    },
+    {
+      "id": "q10",
+      "question": {
+        "en": "Approximately how long does it take the human epidermis to completely renew itself?",
+        "he": "כמה זמן לוקח בערך לאפידרמיס האנושי להתחדש לחלוטין?"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": { "en": "24 hours", "he": "24 שעות" }
+        },
+        {
+          "id": "b",
+          "text": { "en": "About 2–4 weeks", "he": "כ-2–4 שבועות" }
+        },
+        {
+          "id": "c",
+          "text": { "en": "About 1 year", "he": "כשנה אחת" }
+        },
+        {
+          "id": "d",
+          "text": { "en": "It never renews", "he": "הוא לעולם לא מתחדש" }
+        }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "New keratinocytes are continuously produced by stem cells in the deepest epidermal layer (stratum basale). They migrate upward over approximately 2–4 weeks, progressively filling with keratin, flattening, and eventually shedding from the surface as dead scales — completely replacing the epidermis.",
+        "he": "קרטינוציטים חדשים מיוצרים ללא הרף על ידי תאי גזע בשכבה העמוקה ביותר של האפידרמיס (שכבת הבסיס). הם מהגרים כלפי מעלה במשך כ-2–4 שבועות, ממלאים בהדרגה בקרטין, מתשטחים ובסופו של דבר נושרים מפני השטח כקשקשים מתים — ומחליפים לחלוטין את האפידרמיס."
+      }
+    }
+  ]
+}

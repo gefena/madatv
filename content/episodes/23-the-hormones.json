@@ -1,0 +1,342 @@
+{
+  "id": "23-the-hormones",
+  "episodeNumber": 23,
+  "youtubeId": "yKSKpouY7yU",
+  "videoSources": ["yKSKpouY7yU", "sFsM5vp0bXs"],
+  "title": {
+    "en": "The Hormones",
+    "he": "ההורמונים"
+  },
+  "summary": {
+    "en": "This episode explores the endocrine system and the chemical messengers called hormones that regulate virtually every function of the human body. It introduces the major hormone-producing glands — including the pituitary, thyroid, adrenal glands, and pancreas — and explains how each secretes specific hormones into the bloodstream. The episode explains how hormones travel to distant target organs and trigger precise physiological responses, from controlling growth and metabolism to regulating sleep, stress, and reproduction. It highlights the delicate feedback loops that keep hormone levels in balance.",
+    "he": "פרק זה חוקר את מערכת האנדוקרין ואת המסרים הכימיים הנקראים הורמונים המווסתים כמעט כל תפקוד של גוף האדם. הוא מציג את בלוטות ייצור ההורמונים העיקריות — כולל יותרת המוח, בלוטת התריס, בלוטות יותרת הכליה והלבלב — ומסביר כיצד כל אחת מפרישה הורמונים ספציפיים לזרם הדם. הפרק מסביר כיצד הורמונים מגיעים לאיברי יעד רחוקים ומפעילים תגובות פיזיולוגיות מדויקות, משליטה על צמיחה ומטבוליזם ועד לוויסות שינה, לחץ ורבייה. הוא מדגיש את לולאות המשוב העדינות השומרות על רמות ההורמונים באיזון."
+  },
+  "thumbnail": "https://img.youtube.com/vi/yKSKpouY7yU/maxresdefault.jpg",
+  "durationMinutes": 25,
+  "topics": [
+    "endocrine system",
+    "hormones",
+    "glands",
+    "feedback loops",
+    "metabolism"
+  ],
+  "terminology": [
+    {
+      "id": "t20-01",
+      "term": { "en": "Hormone", "he": "הורמון" },
+      "definition": {
+        "en": "A chemical messenger produced by an endocrine gland and released into the bloodstream to regulate the activity of distant target cells.",
+        "he": "מסר כימי המיוצר על ידי בלוטת אנדוקרין ומשתחרר לזרם הדם לוויסות פעילות תאי יעד רחוקים."
+      },
+      "category": "physiology"
+    },
+    {
+      "id": "t20-02",
+      "term": { "en": "Pituitary Gland", "he": "יותרת המוח (בלוטת הפיטואיטרי)" },
+      "definition": {
+        "en": "A pea-sized gland at the base of the brain that produces hormones controlling growth, the thyroid, adrenal glands, and reproductive organs.",
+        "he": "בלוטה בגודל אפונה בבסיס המוח המייצרת הורמונים השולטים בצמיחה, בלוטת התריס, בלוטות יותרת הכליה ואיברי הרבייה."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t20-03",
+      "term": { "en": "Thyroid Gland", "he": "בלוטת התריס" },
+      "definition": {
+        "en": "A butterfly-shaped gland in the neck that produces hormones (T3 and T4) that regulate metabolism, growth, and development.",
+        "he": "בלוטה בצורת פרפר בצוואר המייצרת הורמונים (T3 ו-T4) המווסתים מטבוליזם, צמיחה והתפתחות."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t20-04",
+      "term": { "en": "Insulin", "he": "אינסולין" },
+      "definition": {
+        "en": "A hormone produced by the pancreas that signals cells to absorb glucose from the blood, lowering blood sugar levels.",
+        "he": "הורמון המיוצר בלבלב המאותת לתאים לספוג גלוקוז מהדם ומוריד את רמות הסוכר בדם."
+      },
+      "category": "biochemistry"
+    },
+    {
+      "id": "t20-05",
+      "term": { "en": "Adrenaline (Epinephrine)", "he": "אדרנלין (אפינפרין)" },
+      "definition": {
+        "en": "A hormone released by the adrenal glands during stress that triggers the 'fight-or-flight' response: increasing heart rate, blood flow, and energy availability.",
+        "he": "הורמון המשתחרר מבלוטות יותרת הכליה במהלך לחץ ומפעיל את תגובת 'הלחם-או-ברח': מגביר קצב לב, זרימת דם וזמינות אנרגיה."
+      },
+      "category": "biochemistry"
+    },
+    {
+      "id": "t20-06",
+      "term": { "en": "Cortisol", "he": "קורטיזול" },
+      "definition": {
+        "en": "A steroid hormone produced by the adrenal cortex in response to stress; it raises blood sugar, suppresses immune function, and regulates metabolism.",
+        "he": "הורמון סטרואידי המיוצר בקליפת בלוטות יותרת הכליה בתגובה ללחץ; הוא מגביר סוכר בדם, מדכא תפקוד חיסוני ומווסת מטבוליזם."
+      },
+      "category": "biochemistry"
+    },
+    {
+      "id": "t20-07",
+      "term": { "en": "Endocrine System", "he": "מערכת האנדוקרין" },
+      "definition": {
+        "en": "The collection of glands that produce and secrete hormones directly into the bloodstream to regulate body functions.",
+        "he": "אוסף הבלוטות המייצרות ומפרישות הורמונים ישירות לזרם הדם לוויסות תפקודי הגוף."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t20-08",
+      "term": { "en": "Negative Feedback", "he": "משוב שלילי" },
+      "definition": {
+        "en": "A regulatory mechanism in which rising hormone levels signal the gland to reduce production, maintaining hormonal balance.",
+        "he": "מנגנון ויסות שבו עלייה ברמות ההורמון מאותת לבלוטה להפחית ייצור, ושומר על איזון הורמונלי."
+      },
+      "category": "physiology"
+    },
+    {
+      "id": "t20-09",
+      "term": { "en": "Diabetes Mellitus", "he": "סוכרת" },
+      "definition": {
+        "en": "A metabolic disease characterized by high blood sugar due to insufficient insulin production (type 1) or insulin resistance (type 2).",
+        "he": "מחלה מטבולית המאופיינת ברמת סוכר גבוהה בדם עקב ייצור אינסולין לא מספיק (סוג 1) או עמידות לאינסולין (סוג 2)."
+      },
+      "category": "pathology"
+    },
+    {
+      "id": "t20-10",
+      "term": { "en": "Growth Hormone (GH)", "he": "הורמון גדילה" },
+      "definition": {
+        "en": "A hormone secreted by the pituitary gland that stimulates growth, cell reproduction, and regeneration in humans and other animals.",
+        "he": "הורמון המופרש מיותרת המוח המגרה צמיחה, רבייה תאית והתחדשות בבני אדם ובחיות אחרות."
+      },
+      "category": "biochemistry"
+    },
+    {
+      "id": "t20-11",
+      "term": { "en": "Hypothalamus", "he": "היפותלמוס" },
+      "definition": {
+        "en": "A brain region that acts as the link between the nervous system and the endocrine system; it releases hormones that control the pituitary gland and regulates hunger, thirst, and body temperature.",
+        "he": "אזור במוח הפועל כחוליית קישור בין מערכת העצבים למערכת האנדוקרין; הוא משחרר הורמונים השולטים ביותרת המוח ומווסת רעב, צמא וטמפרטורת גוף."
+      },
+      "category": "anatomy"
+    },
+    {
+      "id": "t20-12",
+      "term": { "en": "Glucagon", "he": "גלוקגון" },
+      "definition": {
+        "en": "A hormone produced by the pancreas that raises blood sugar by signaling the liver to convert stored glycogen into glucose — the opposite action of insulin.",
+        "he": "הורמון המיוצר בלבלב המעלה את רמת הסוכר בדם על ידי אות לכבד להמיר גליקוגן מאוחסן לגלוקוז — הפעולה ההפוכה לאינסולין."
+      },
+      "category": "biochemistry"
+    },
+    {
+      "id": "t20-13",
+      "term": { "en": "Melatonin", "he": "מלטונין" },
+      "definition": {
+        "en": "A hormone produced by the pineal gland in response to darkness; it signals the body to prepare for sleep by lowering body temperature and promoting drowsiness.",
+        "he": "הורמון המיוצר על ידי בלוטת האצטרובל בתגובה לחושך; הוא מאותת לגוף להתכונן לשינה על ידי הורדת טמפרטורת הגוף ועידוד ישנוניות."
+      },
+      "category": "biochemistry"
+    },
+    {
+      "id": "t20-14",
+      "term": { "en": "Testosterone", "he": "טסטוסטרון" },
+      "definition": {
+        "en": "The primary male sex hormone produced mainly in the testes; it drives the development of male characteristics at puberty and supports muscle mass and bone density throughout life.",
+        "he": "הורמון המין הזכרי הראשי המיוצר בעיקר באשכים; הוא מניע את התפתחות המאפיינים הזכריים בגיל ההתבגרות ותומך במסת שריר ובצפיפות העצמות לאורך החיים."
+      },
+      "category": "biochemistry"
+    },
+    {
+      "id": "t20-15",
+      "term": { "en": "Oestrogen (Estrogen)", "he": "אסטרוגן" },
+      "definition": {
+        "en": "The primary female sex hormone produced mainly in the ovaries; it regulates the menstrual cycle, female sexual development at puberty, and bone health.",
+        "he": "הורמון המין הנקבי הראשי המיוצר בעיקר בשחלות; הוא מווסת את המחזור החודשי, ההתפתחות המינית הנקבית בגיל ההתבגרות ובריאות העצמות."
+      },
+      "category": "biochemistry"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q20-01",
+      "question": {
+        "en": "Which gland is often called the 'master gland' of the endocrine system?",
+        "he": "איזו בלוטה מכונה לרוב 'הבלוטה הראשית' של מערכת האנדוקרין?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Thyroid gland", "he": "בלוטת התריס" } },
+        { "id": "b", "text": { "en": "Adrenal gland", "he": "בלוטת יותרת הכליה" } },
+        { "id": "c", "text": { "en": "Pituitary gland", "he": "יותרת המוח" } },
+        { "id": "d", "text": { "en": "Pancreas", "he": "לבלב" } }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "The pituitary gland is called the master gland because it produces hormones that control many other endocrine glands, including the thyroid, adrenal glands, and gonads. It is in turn regulated by the hypothalamus.",
+        "he": "יותרת המוח נקראת הבלוטה הראשית מכיוון שהיא מייצרת הורמונים השולטים בבלוטות אנדוקריניות רבות אחרות, כולל בלוטת התריס, בלוטות יותרת הכליה ובלוטות המין. היא בתורה מווסתת על ידי ההיפותלמוס."
+      }
+    },
+    {
+      "id": "q20-02",
+      "question": {
+        "en": "What role does insulin play in the body?",
+        "he": "איזה תפקיד ממלא אינסולין בגוף?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "It raises blood sugar levels", "he": "הוא מעלה את רמות הסוכר בדם" } },
+        { "id": "b", "text": { "en": "It signals cells to absorb glucose, lowering blood sugar", "he": "הוא מאותת לתאים לספוג גלוקוז, ומוריד את הסוכר בדם" } },
+        { "id": "c", "text": { "en": "It controls the heart rate", "he": "הוא שולט בקצב הלב" } },
+        { "id": "d", "text": { "en": "It stimulates bone growth", "he": "הוא מגרה גדילת עצמות" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Insulin is produced by beta cells in the pancreas. After a meal, rising blood glucose triggers insulin release, which signals cells throughout the body to absorb glucose from the blood, bringing blood sugar back to normal.",
+        "he": "אינסולין מיוצר על ידי תאי בטא בלבלב. לאחר ארוחה, עלייה בגלוקוז בדם מפעילה שחרור אינסולין, שמאותת לתאים בכל הגוף לספוג גלוקוז מהדם ומחזיר את הסוכר בדם לנורמלי."
+      }
+    },
+    {
+      "id": "q20-03",
+      "question": {
+        "en": "What triggers the release of adrenaline?",
+        "he": "מה מפעיל שחרור אדרנלין?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "A full stomach after eating", "he": "קיבה מלאה לאחר אכילה" } },
+        { "id": "b", "text": { "en": "A stressful or threatening situation", "he": "מצב מלחיץ או מאיים" } },
+        { "id": "c", "text": { "en": "Deep, relaxed sleep", "he": "שינה עמוקה ורגועה" } },
+        { "id": "d", "text": { "en": "Exposure to sunlight", "he": "חשיפה לאור שמש" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Adrenaline (epinephrine) is released by the adrenal glands in response to stress, fear, or excitement. It prepares the body for 'fight or flight' by rapidly increasing heart rate, dilating pupils, and directing blood to muscles.",
+        "he": "אדרנלין (אפינפרין) משתחרר מבלוטות יותרת הכליה בתגובה ללחץ, פחד או התרגשות. הוא מכין את הגוף ל'לחם או ברח' על ידי הגברה מהירה של קצב הלב, הרחבת האישונים והכוונת דם לשרירים."
+      }
+    },
+    {
+      "id": "q20-04",
+      "question": {
+        "en": "How does the body keep hormone levels from getting too high?",
+        "he": "כיצד הגוף שומר על כך שרמות ההורמונים לא יהיו גבוהות מדי?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Positive feedback loops", "he": "לולאות משוב חיוביות" } },
+        { "id": "b", "text": { "en": "Negative feedback loops", "he": "לולאות משוב שליליות" } },
+        { "id": "c", "text": { "en": "The kidneys constantly filter out hormones", "he": "הכליות מסגננות ברציפות הורמונים" } },
+        { "id": "d", "text": { "en": "The liver destroys all hormones immediately", "he": "הכבד משמיד את כל ההורמונים מיידית" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The endocrine system uses negative feedback: when a hormone reaches adequate levels, it signals the gland (directly or via the pituitary/hypothalamus) to reduce production. This prevents overproduction and maintains hormonal balance.",
+        "he": "מערכת האנדוקרין משתמשת במשוב שלילי: כאשר הורמון מגיע לרמות מספקות, הוא מאותת לבלוטה (ישירות או דרך יותרת המוח/ההיפותלמוס) להפחית ייצור. זה מונע ייצור יתר ושומר על איזון הורמונלי."
+      }
+    },
+    {
+      "id": "q20-05",
+      "question": {
+        "en": "What hormone does the thyroid gland produce, and what does it regulate?",
+        "he": "איזה הורמון מייצרת בלוטת התריס, ומה היא מווסתת?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Insulin — blood sugar", "he": "אינסולין — סוכר בדם" } },
+        { "id": "b", "text": { "en": "Thyroxine (T4) and T3 — metabolism and growth", "he": "תירוקסין (T4) ו-T3 — מטבוליזם וצמיחה" } },
+        { "id": "c", "text": { "en": "Adrenaline — stress response", "he": "אדרנלין — תגובת לחץ" } },
+        { "id": "d", "text": { "en": "Cortisol — inflammation", "he": "קורטיזול — דלקת" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The thyroid gland produces thyroxine (T4) and triiodothyronine (T3), which regulate the body's metabolic rate, heart rate, temperature, growth, and development. Underactive thyroid (hypothyroidism) causes fatigue and weight gain.",
+        "he": "בלוטת התריס מייצרת תירוקסין (T4) וטריאיודוטירונין (T3), המווסתים את קצב המטבוליזם של הגוף, קצב הלב, טמפרטורה, צמיחה והתפתחות. תת-פעילות בלוטת התריס (היפותירואידיזם) גורמת לעייפות ועלייה במשקל."
+      }
+    },
+    {
+      "id": "q20-06",
+      "question": {
+        "en": "What is type 2 diabetes related to regarding insulin?",
+        "he": "כיצד קשורה סוכרת סוג 2 לאינסולין?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "The pancreas produces no insulin at all", "he": "הלבלב לא מייצר אינסולין כלל" } },
+        { "id": "b", "text": { "en": "Cells become resistant to insulin's signals", "he": "תאים הופכים עמידים לאותות האינסולין" } },
+        { "id": "c", "text": { "en": "Too much insulin is always present", "he": "יותר מדי אינסולין תמיד קיים" } },
+        { "id": "d", "text": { "en": "The kidneys destroy insulin before it can act", "he": "הכליות משמידות את האינסולין לפני שהוא יכול לפעול" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "In type 2 diabetes, cells become less responsive to insulin (insulin resistance), so glucose cannot enter them efficiently. Blood sugar remains elevated even though insulin may be present. Over time, the pancreas may also reduce insulin production.",
+        "he": "בסוכרת סוג 2, תאים הופכים פחות רגישים לאינסולין (עמידות לאינסולין), ולכן גלוקוז אינו יכול להיכנס אליהם ביעילות. סוכר הדם נשאר מוגבר למרות שאינסולין עשוי להיות קיים. עם הזמן, הלבלב עשוי גם להפחית ייצור אינסולין."
+      }
+    },
+    {
+      "id": "q20-07",
+      "question": {
+        "en": "What is the role of glucagon, and how does it differ from insulin?",
+        "he": "מה תפקידו של גלוקגון, וכיצד הוא שונה מאינסולין?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Glucagon lowers blood sugar; insulin raises it", "he": "גלוקגון מוריד סוכר בדם; אינסולין מעלה אותו" } },
+        { "id": "b", "text": { "en": "Glucagon raises blood sugar by telling the liver to release glucose; insulin lowers blood sugar", "he": "גלוקגון מעלה סוכר בדם על ידי אות לכבד לשחרר גלוקוז; אינסולין מוריד סוכר בדם" } },
+        { "id": "c", "text": { "en": "Both hormones do exactly the same job", "he": "שני ההורמונים עושים בדיוק את אותה עבודה" } },
+        { "id": "d", "text": { "en": "Glucagon is produced in the thyroid gland", "he": "גלוקגון מיוצר בבלוטת התריס" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Insulin and glucagon are two opposing hormones both produced in the pancreas that work together to keep blood sugar stable. When blood sugar drops (for example between meals), alpha cells in the pancreas release glucagon, which signals the liver to break down glycogen and release glucose. Insulin does the opposite — it drives glucose into cells when blood sugar is high.",
+        "he": "אינסולין וגלוקגון הם שני הורמונים מנוגדים המיוצרים שניהם בלבלב ועובדים יחד לשמירה על יציבות הסוכר בדם. כאשר הסוכר בדם יורד (לדוגמה בין ארוחות), תאי אלפא בלבלב משחררים גלוקגון, שמאותת לכבד לפרק גליקוגן ולשחרר גלוקוז. אינסולין עושה ההיפך — הוא מניע גלוקוז לתאים כאשר הסוכר בדם גבוה."
+      }
+    },
+    {
+      "id": "q20-08",
+      "question": {
+        "en": "Why do we feel sleepy when it gets dark outside?",
+        "he": "מדוע אנחנו מרגישים ישנוניים כאשר מחשיך בחוץ?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "The brain shuts down to save energy at night", "he": "המוח כובה כדי לחסוך אנרגיה בלילה" } },
+        { "id": "b", "text": { "en": "The pineal gland releases melatonin in response to darkness, signalling the body to sleep", "he": "בלוטת האצטרובל משחררת מלטונין בתגובה לחושך, ומאותתת לגוף לישון" } },
+        { "id": "c", "text": { "en": "The adrenal glands stop working at night", "he": "בלוטות יותרת הכליה מפסיקות לפעול בלילה" } },
+        { "id": "d", "text": { "en": "Blood pressure drops sharply after sunset", "he": "לחץ הדם יורד בחדות לאחר שקיעת השמש" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The pineal gland (a tiny gland in the brain) detects the absence of light through signals from the eyes and responds by releasing melatonin. Melatonin travels through the bloodstream and tells the body to prepare for sleep — lowering body temperature and making you feel drowsy. This is why looking at bright screens at night can delay sleep: the light suppresses melatonin release.",
+        "he": "בלוטת האצטרובל (בלוטה זעירה במוח) מזהה את היעדר האור דרך אותות מהעיניים ומגיבה על ידי שחרור מלטונין. מלטונין נוסע דרך זרם הדם ואומר לגוף להתכונן לשינה — מוריד טמפרטורת גוף וגורם לך להרגיש ישנוני. זו הסיבה שהסתכלות על מסכים בהירים בלילה יכולה לעכב שינה: האור מדכא את שחרור המלטונין."
+      }
+    },
+    {
+      "id": "q20-09",
+      "question": {
+        "en": "What is the role of the hypothalamus in the endocrine system?",
+        "he": "מה תפקיד ההיפותלמוס במערכת האנדוקרין?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "It produces insulin and glucagon", "he": "הוא מייצר אינסולין וגלוקגון" } },
+        { "id": "b", "text": { "en": "It acts as the bridge between the brain and the pituitary gland, controlling most of the endocrine system", "he": "הוא פועל כגשר בין המוח ליותרת המוח, ושולט ברוב מערכת האנדוקרין" } },
+        { "id": "c", "text": { "en": "It filters blood hormones in the kidneys", "he": "הוא מסנן הורמוני דם בכליות" } },
+        { "id": "d", "text": { "en": "It stores hormones for later use", "he": "הוא אוחסן הורמונים לשימוש מאוחר" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The hypothalamus sits just above the pituitary gland and is the key link between the nervous and endocrine systems. It monitors the body's internal state and sends releasing or inhibiting hormones to the pituitary gland, which then controls thyroid, adrenal, and reproductive hormone production. It also directly regulates body temperature, hunger, and thirst.",
+        "he": "ההיפותלמוס יושב ממש מעל יותרת המוח והוא החוליה המרכזית בין מערכות העצבים והאנדוקרין. הוא מנטר את המצב הפנימי של הגוף ושולח הורמוני שחרור או עיכוב ליותרת המוח, שאז שולטת בייצור הורמוני בלוטת התריס, יותרת הכליה ואיברי הרבייה. הוא גם מווסת ישירות טמפרטורת גוף, רעב וצמא."
+      }
+    },
+    {
+      "id": "q20-10",
+      "question": {
+        "en": "During puberty, which hormones cause the physical changes in boys and girls?",
+        "he": "במהלך גיל ההתבגרות, אילו הורמונים גורמים לשינויים הפיזיים אצל בנים ובנות?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Insulin and glucagon", "he": "אינסולין וגלוקגון" } },
+        { "id": "b", "text": { "en": "Testosterone (mainly in boys) and oestrogen (mainly in girls)", "he": "טסטוסטרון (בעיקר אצל בנים) ואסטרוגן (בעיקר אצל בנות)" } },
+        { "id": "c", "text": { "en": "Adrenaline and cortisol", "he": "אדרנלין וקורטיזול" } },
+        { "id": "d", "text": { "en": "Melatonin and growth hormone only", "he": "מלטונין והורמון גדילה בלבד" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "At puberty, the pituitary gland signals the gonads (testes in boys, ovaries in girls) to start producing sex hormones. Testosterone in boys triggers voice deepening, muscle growth, and other male characteristics. Oestrogen in girls triggers breast development, widening of the hips, and the start of the menstrual cycle. Both sexes also experience an increase in growth hormone, causing the growth spurt.",
+        "he": "בגיל ההתבגרות, יותרת המוח מאותתת לבלוטות המין (אשכים אצל בנים, שחלות אצל בנות) להתחיל לייצר הורמוני מין. טסטוסטרון אצל בנים מפעיל שינויי קול, גדילת שרירים ומאפיינים זכריים אחרים. אסטרוגן אצל בנות מפעיל התפתחות חזה, הרחבת האגן ותחילת המחזור החודשי. שני המינים חווים גם עלייה בהורמון הגדילה, הגורמת לזינוק בגדילה."
+      }
+    }
+  ]
+}

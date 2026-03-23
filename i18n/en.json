@@ -1,0 +1,64 @@
+{
+  "nav": {
+    "home": "Home",
+    "series": "Life Series",
+    "allEpisodes": "All Episodes"
+  },
+  "madatv": {
+    "tagline": "Science TV for Kids",
+    "subtitle": "Watch, learn, and quiz yourself on amazing science topics!",
+    "chooseSeries": "Choose a Series",
+    "episodes": "episodes",
+    "ages": "Ages",
+    "watchSeries": "Watch Series",
+    "allSeries": "All Series",
+    "comingSoon": "More series coming soon!",
+    "moreSeries": "New science series are on the way"
+  },
+  "home": {
+    "title": "Life",
+    "subtitle": "How the human body works",
+    "progress": "Your Progress",
+    "episodesWatched": "{count} of {total} episodes watched",
+    "continueWatching": "Continue watching",
+    "startWatching": "Start watching"
+  },
+  "episode": {
+    "episode": "Episode",
+    "minutes": "{count} min",
+    "watchNow": "Watch Now",
+    "markWatched": "Mark as Watched",
+    "watched": "Watched",
+    "intro": "Episode Introduction",
+    "terminology": "Key Terminology",
+    "termCount": "{count} terms",
+    "readIntro": "Read introduction before watching",
+    "backToAll": "← All Episodes"
+  },
+  "quiz": {
+    "title": "Knowledge Check",
+    "subtitle": "Test what you learned from this episode",
+    "startQuiz": "Start Quiz",
+    "question": "Question {current} of {total}",
+    "nextQuestion": "Next Question",
+    "seeResults": "See Results",
+    "score": "Your Score",
+    "correct": "Correct!",
+    "incorrect": "Incorrect",
+    "explanation": "Explanation",
+    "retake": "Retake Quiz",
+    "backToEpisode": "Back to Episode",
+    "grade": {
+      "excellent": "Excellent!",
+      "good": "Well done!",
+      "keepWatching": "Keep learning!"
+    },
+    "lockedTitle": "Quiz Locked",
+    "lockedDesc": "Watch the episode first to unlock the quiz",
+    "unlockQuiz": "Unlock Quiz Anyway"
+  },
+  "lang": {
+    "toggle": "עברית",
+    "current": "English"
+  }
+}
