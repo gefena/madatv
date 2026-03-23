@@ -23,13 +23,13 @@ export default function MadaTVHome() {
       {/* Hero */}
       <div className="relative overflow-hidden bg-gradient-to-br from-indigo-50 via-purple-50 to-pink-50 py-10 sm:py-16 px-4">
         {/* Animated blobs */}
-        <div className="absolute top-10 left-10 h-72 w-72 rounded-full bg-purple-200 opacity-40 blur-3xl animate-blob" />
-        <div className="absolute top-20 right-20 h-56 w-56 rounded-full bg-pink-200 opacity-40 blur-3xl animate-blob animation-delay-2000" />
-        <div className="absolute bottom-10 left-1/3 h-64 w-64 rounded-full bg-indigo-200 opacity-40 blur-3xl animate-blob animation-delay-4000" />
+        <div className="absolute top-10 left-10 h-40 w-40 sm:h-72 sm:w-72 rounded-full bg-purple-200 opacity-40 blur-3xl animate-blob" />
+        <div className="absolute top-20 right-20 h-32 w-32 sm:h-56 sm:w-56 rounded-full bg-pink-200 opacity-40 blur-3xl animate-blob animation-delay-2000" />
+        <div className="absolute bottom-10 left-1/3 h-36 w-36 sm:h-64 sm:w-64 rounded-full bg-indigo-200 opacity-40 blur-3xl animate-blob animation-delay-4000" />
 
         <div className="relative mx-auto max-w-4xl text-center">
           {/* Bouncing science emojis */}
-          <div className="mb-4 flex justify-center gap-3 text-4xl">
+          <div className="mb-4 flex justify-center gap-2 sm:gap-3 text-3xl sm:text-4xl">
             <span className="animate-bounce" style={{ animationDelay: "0ms" }}>🔬</span>
             <span className="animate-bounce" style={{ animationDelay: "150ms" }}>🧬</span>
             <span className="animate-bounce" style={{ animationDelay: "300ms" }}>🚀</span>
@@ -38,14 +38,14 @@ export default function MadaTVHome() {
           </div>
 
           {/* MadaTV logo text */}
-          <h1 className="text-5xl font-black sm:text-6xl md:text-7xl leading-none tracking-tight">
+          <h1 className="text-4xl font-black sm:text-5xl md:text-6xl lg:text-7xl leading-none tracking-tight">
             <span className="text-indigo-800">Mada</span>
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-pink-500">TV</span>
           </h1>
           <p className="mt-3 text-lg font-black text-indigo-600 sm:text-xl md:text-2xl">
             {t("madatv.tagline")}
           </p>
-          <p className="mt-2 text-sm font-semibold text-indigo-400 max-w-md mx-auto">
+          <p className="mt-2 text-sm font-semibold text-indigo-400 max-w-xs sm:max-w-md mx-auto">
             {t("madatv.subtitle")}
           </p>
         </div>

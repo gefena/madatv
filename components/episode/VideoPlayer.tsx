@@ -75,8 +75,8 @@ export function VideoPlayer({ youtubeId, videoSources, episodeId, onWatched }: V
 
       {/* Watch completion prompt */}
       {showWatchedPrompt && (
-        <div className="mt-3 flex items-center justify-between rounded-lg border border-emerald-500/30 bg-emerald-500/10 px-4 py-3">
-          <p className="text-sm text-emerald-400">
+        <div className="mt-3 flex items-center justify-between rounded-lg border border-emerald-500/30 bg-emerald-500/10 px-3 py-2 sm:px-4 sm:py-3 gap-3">
+          <p className="text-xs sm:text-sm text-emerald-400">
             🎉 {t("episode.watched")}! {t("quiz.subtitle")}
           </p>
           <Button variant="success" size="sm" onClick={handleMarkWatched}>

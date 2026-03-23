@@ -16,6 +16,9 @@
 - [ ] **Loading states / skeletons**
   Series and episode pages fetch content client-side with no loading indicator. Add skeletons so the UI doesn't flash empty on slow connections.
 
+- [ ] **Security & safety audit**
+  Review for: XSS vectors, unsafe external links (add `rel="noopener noreferrer"`), iframe sandbox attributes on YouTube embeds, no sensitive data in client bundles, dependency vulnerabilities (`npm audit`), and child-safety considerations (no user-generated content exposure).
+
 ---
 
 ## 🟡 Medium Priority

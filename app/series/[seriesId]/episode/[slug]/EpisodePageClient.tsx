@@ -107,7 +107,7 @@ export default function EpisodePageClient({ seriesId, slug }: Props) {
               </Badge>
             )}
           </div>
-          <h1 className="text-2xl font-bold text-slate-100 sm:text-3xl">
+          <h1 className="text-xl font-bold text-slate-100 sm:text-2xl md:text-3xl">
             {pick(episode.title)}
           </h1>
           <p className="mt-1 text-base text-slate-500">

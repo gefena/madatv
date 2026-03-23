@@ -41,7 +41,7 @@ export function EpisodeGrid({ episodes, seriesId }: EpisodeGridProps) {
       )}
 
       {/* Grid */}
-      <div className="grid grid-cols-1 gap-5 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+      <div className="grid grid-cols-2 gap-3 sm:gap-5 md:grid-cols-3 lg:grid-cols-4">
         {episodes.map((episode) => (
           <EpisodeCard key={episode.id} episode={episode} seriesId={seriesId} />
         ))}

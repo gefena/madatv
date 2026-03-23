@@ -26,7 +26,7 @@ export function Button({
           "bg-gradient-to-r from-red-400 to-rose-500 text-white shadow-lg shadow-red-200": variant === "danger",
         },
         {
-          "text-xs px-3 py-1.5": size === "sm",
+          "text-xs px-3 py-2 sm:py-1.5": size === "sm",
           "text-sm px-5 py-2.5": size === "md",
           "text-base px-7 py-3.5": size === "lg",
         },

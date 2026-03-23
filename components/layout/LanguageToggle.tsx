@@ -20,7 +20,7 @@ export function LanguageToggle() {
           aria-label={`Switch to ${lang.label}`}
           title={lang.label}
           className={cn(
-            "flex items-center gap-1.5 rounded-xl px-3 py-1.5 text-sm font-bold transition-all duration-200",
+            "flex items-center gap-1.5 rounded-xl px-3 py-2.5 sm:py-1.5 text-sm font-bold transition-all duration-200",
             locale === lang.locale
               ? "bg-white text-indigo-700 shadow-sm shadow-indigo-100 scale-105"
               : "text-indigo-400 hover:text-indigo-600"

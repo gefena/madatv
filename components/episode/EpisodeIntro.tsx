@@ -19,7 +19,7 @@ export function EpisodeIntro({ episode }: EpisodeIntroProps) {
         {t("episode.intro")}
       </h2>
 
-      <div className="grid gap-6 sm:gap-8 lg:grid-cols-2">
+      <div className="grid gap-4 sm:gap-6 lg:gap-8 lg:grid-cols-2">
         {/* Summary */}
         <div>
           <p className="text-sm font-semibold text-gray-600 leading-relaxed whitespace-pre-line">

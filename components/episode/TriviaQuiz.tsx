@@ -160,7 +160,7 @@ export function TriviaQuiz({ episode, initialWatched = false }: TriviaQuizProps)
                 )}>
                   {showResult && isThisCorrect ? "✓" : showResult && isSelected && !isThisCorrect ? "✗" : choice.id.toUpperCase()}
                 </span>
-                <span className="text-sm text-gray-800">{pick(choice.text)}</span>
+                <span className="text-xs sm:text-sm text-gray-800 break-words">{pick(choice.text)}</span>
               </button>
             );
           })}
