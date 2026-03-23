@@ -1,36 +1,57 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# MadaTV — Science TV for Kids 🔬
 
-## Getting Started
+**Live site:** [madatv4kids.vercel.app](https://madatv4kids.vercel.app)
 
-First, run the development server:
+An interactive educational platform for watching science TV series, learning key biological concepts, and testing knowledge with quizzes. Fully bilingual — English and Hebrew (with RTL support).
+
+---
+
+## Features
+
+- **Multi-series platform** — currently hosting *Life: How the Human Body Works* (26 episodes)
+- **YouTube embed player** with automatic video-source fallback
+- **Per-episode trivia quizzes** — locked until the episode is watched
+- **15 bilingual terminology cards** per episode (EN + HE)
+- **Progress tracking** via localStorage (watched status + quiz scores)
+- **Full RTL support** for Hebrew
+- **Responsive** — works on mobile, tablet, and desktop
+
+## Tech Stack
+
+- [Next.js 15](https://nextjs.org) (static export)
+- [React 19](https://react.dev)
+- [Tailwind CSS 3](https://tailwindcss.com)
+- [react-youtube](https://github.com/tjallingt/react-youtube)
+- TypeScript
+
+## Development
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Build
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+npm run build   # produces static output in /out
+```
 
-## Learn More
+The pre-push git hook runs the build automatically before every push to catch errors early.
 
-To learn more about Next.js, take a look at the following resources:
+## Content
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Episode content lives in `content/episodes/` as JSON files. Each episode contains:
+- Bilingual title, summary, and thumbnail
+- 15 terminology cards (EN + HE definitions)
+- 10 trivia questions with explanations
+- One or more YouTube video IDs (with fallback order)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Series metadata lives in `content/series/`.
 
-## Deploy on Vercel
+## Deployment
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Deployed on [Vercel](https://vercel.com) as a static site.
+URL: [https://madatv4kids.vercel.app](https://madatv4kids.vercel.app)

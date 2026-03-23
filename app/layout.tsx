@@ -9,7 +9,7 @@ export const viewport: Viewport = {
   minimumScale: 1,
 };
 
-const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://madatv.vercel.app";
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://madatv4kids.vercel.app";
 
 export const metadata: Metadata = {
   title: { default: "MadaTV — Science TV for Kids", template: "%s | MadaTV" },
