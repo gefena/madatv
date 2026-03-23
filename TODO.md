@@ -23,7 +23,7 @@
 
 ## 🟡 Medium Priority
 
-- [ ] **Mobile & tablet optimization**
+- [x] **Mobile & tablet optimization**
   Full responsive pass across all screen sizes (320px phones → iPad → desktop). Check: header overflow, series/episode grid column counts, video player sizing, quiz layout on small screens, RTL touch targets, font sizes on mobile.
 
 - [ ] **Episode search & filter**

@@ -9,6 +9,7 @@ import { EpisodeIntro } from "@/components/episode/EpisodeIntro";
 import { TriviaQuiz } from "@/components/episode/TriviaQuiz";
 import { Badge } from "@/components/ui/Badge";
 import { Button } from "@/components/ui/Button";
+import { ErrorBoundary } from "@/components/ui/ErrorBoundary";
 import { getEpisodeColor } from "@/lib/episodeColors";
 import { cn } from "@/components/ui/cn";
 import type { Episode } from "@/types/content";
@@ -127,18 +128,24 @@ export default function EpisodePageClient({ seriesId, slug }: Props) {
       </div>
 
       {/* Video Player */}
-      <VideoPlayer
-        youtubeId={episode.youtubeId}
-        videoSources={episode.videoSources}
-        episodeId={episode.id}
-        onWatched={() => setWatched(true)}
-      />
+      <ErrorBoundary>
+        <VideoPlayer
+          youtubeId={episode.youtubeId}
+          videoSources={episode.videoSources}
+          episodeId={episode.id}
+          onWatched={() => setWatched(true)}
+        />
+      </ErrorBoundary>
 
       {/* Intro + Terminology */}
-      <EpisodeIntro episode={episode} />
+      <ErrorBoundary>
+        <EpisodeIntro episode={episode} />
+      </ErrorBoundary>
 
       {/* Trivia Quiz */}
-      <TriviaQuiz episode={episode} initialWatched={watched} />
+      <ErrorBoundary>
+        <TriviaQuiz episode={episode} initialWatched={watched} />
+      </ErrorBoundary>
     </div>
   );
 }
