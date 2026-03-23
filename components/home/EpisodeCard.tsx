@@ -61,15 +61,6 @@ export function EpisodeCard({ episode, seriesId, seriesImage }: EpisodeCardProps
         {/* Color tint overlay */}
         <div className={cn("absolute inset-0 bg-gradient-to-br opacity-20", color.gradient)} />
 
-        {/* Large centered episode emoji */}
-        <div className="absolute inset-0 flex items-center justify-center">
-          <span className={cn(
-            "text-5xl drop-shadow-xl transition-transform duration-300 group-hover:scale-110",
-          )}>
-            {color.emoji}
-          </span>
-        </div>
-
         {/* Play button on hover */}
         <div className="absolute inset-0 flex items-center justify-center opacity-0 transition-all duration-300 group-hover:opacity-100">
           <div className={cn(
@@ -111,12 +102,15 @@ export function EpisodeCard({ episode, seriesId, seriesImage }: EpisodeCardProps
 
       {/* Card body */}
       <div className="flex flex-1 flex-col p-4 pb-5">
-        <h3 className={cn(
-          "font-black text-sm sm:text-base leading-snug text-gray-800 transition-colors group-hover:transition-colors",
-          `group-hover:${color.text}`
-        )}>
-          {pick(episode.title)}
-        </h3>
+        <div className="flex items-start gap-2.5 mb-1">
+          <span className="text-3xl leading-none shrink-0 mt-0.5">{color.emoji}</span>
+          <h3 className={cn(
+            "font-black text-sm sm:text-base leading-snug text-gray-800 transition-colors group-hover:transition-colors",
+            `group-hover:${color.text}`
+          )}>
+            {pick(episode.title)}
+          </h3>
+        </div>
         <p className="mt-0.5 text-xs font-semibold text-gray-400">
           {episode.title[pick(episode.title) === episode.title.en ? "he" : "en"]}
         </p>
