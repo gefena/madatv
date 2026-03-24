@@ -38,9 +38,14 @@ export default function MadaTVHome() {
           </div>
 
           {/* MadaTV logo text */}
-          <h1 className="text-4xl font-black sm:text-5xl md:text-6xl lg:text-7xl leading-none tracking-tight">
-            <span className="text-indigo-800">Mada</span>
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-pink-500">TV</span>
+          <h1 className="text-4xl font-black sm:text-5xl md:text-6xl lg:text-7xl leading-none tracking-tight flex items-center justify-center gap-3 flex-wrap">
+            <span>
+              <span className="text-indigo-800">Mada</span>
+              <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-pink-500">TV</span>
+            </span>
+            <span className="text-lg sm:text-xl font-black px-3 py-1 rounded-xl bg-gradient-to-r from-orange-400 to-pink-500 text-white shadow-md">
+              4Kids
+            </span>
           </h1>
           <p className="mt-3 text-lg font-black text-indigo-600 sm:text-xl md:text-2xl">
             {t("madatv.tagline")}
