@@ -1,0 +1,343 @@
+{
+  "id": "d26-tomorrow",
+  "episodeNumber": 26,
+  "youtubeId": "t-JpTn7AyTU",
+  "title": {
+    "en": "Tomorrow?",
+    "he": "מחר?"
+  },
+  "summary": {
+    "en": "This final episode of the series looks forward — imagining the scientific and technological wonders that may await humanity in the coming decades and centuries. From the tiny world of genetics to the vast cosmos, science is advancing at an extraordinary pace, transforming every aspect of human life. Computers have grown exponentially more powerful, giving rise to artificial intelligence that can now recognize faces, translate languages, and even diagnose diseases — and future AI may become vastly smarter than humans. Advances in genetics and biotechnology may allow doctors to cure hereditary diseases, grow replacement organs, and even extend human lifespans dramatically. Renewable energy sources — solar panels, wind turbines, and new technologies yet to be invented — offer hope for powering human civilization without destroying the planet's climate. Looking outward, the episode explores the possibility of humans living permanently on the Moon and Mars, and the dream of eventually sending spacecraft to other star systems. The episode ends with an inspiring message: many of the discoverers of tomorrow are children today, and the great questions waiting to be answered will be solved by curious, passionate young minds not yet born.",
+    "he": "הפרק האחרון בסדרה מביט קדימה — מדמיין את פלאי המדע והטכנולוגיה שעשויים לחכות לאנושות בעשורים ובמאות השנים הקרובות. מהעולם הזעיר של הגנטיקה ועד לקוסמוס העצום, המדע מתקדם בקצב יוצא דופן, ומשנה כל היבט של חיי האדם. מחשבים הפכו עצמתיים בצורה אקספוננציאלית, ולידת בינה מלאכותית שיכולה כעת לזהות פנים, לתרגם שפות ואפילו לאבחן מחלות — ובינה מלאכותית עתידית עשויה להיות חכמה הרבה יותר מבני אדם. התקדמות בגנטיקה ובביוטכנולוגיה עשויה לאפשר לרופאים לרפא מחלות תורשתיות, לגדל איברים חלופיים ואפילו להאריך את תוחלת חיי האדם באופן דרמטי. מקורות אנרגיה מתחדשים — פאנלים סולאריים, טורבינות רוח וטכנולוגיות חדשות שטרם הומצאו — מציעים תקווה לאספקת אנרגיה לציוויליזציה האנושית מבלי להרוס את אקלים כוכב הלכת. בהביטנו החוצה, הפרק בוחן את האפשרות שבני אדם יחיו לצמיתות על הירח ועל מאדים, ואת החלום של שליחת חלליות למערכות כוכבים אחרות בסופו של דבר. הפרק מסתיים במסר מעורר השראה: רבים מגלי המחר הם ילדים כיום, והשאלות הגדולות הממתינות לתשובה יפוענחו על ידי נפשות צעירות סקרניות ונלהבות שטרם נולדו."
+  },
+  "thumbnail": "https://img.youtube.com/vi/t-JpTn7AyTU/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": [
+    "future of science and technology",
+    "computers",
+    "genetics",
+    "renewable energy",
+    "space colonization",
+    "AI and robotics"
+  ],
+  "terminology": [
+    {
+      "id": "t-d26-01",
+      "term": { "en": "Artificial Intelligence (AI)", "he": "בינה מלאכותית" },
+      "definition": {
+        "en": "The ability of computer systems to perform tasks that normally require human intelligence — such as understanding speech, recognizing images, making decisions, and learning from experience. AI is already used in phone assistants, self-driving cars, and medical diagnosis tools.",
+        "he": "היכולת של מערכות מחשב לבצע משימות הדורשות בדרך כלל אינטליגנציה אנושית — כמו הבנת דיבור, זיהוי תמונות, קבלת החלטות ולמידה מניסיון. בינה מלאכותית כבר משמשת בעוזרי טלפון, מכוניות בנהיגה עצמית וכלי אבחון רפואי."
+      },
+      "category": "technology"
+    },
+    {
+      "id": "t-d26-02",
+      "term": { "en": "Genetic Engineering", "he": "הנדסה גנטית" },
+      "definition": {
+        "en": "The direct manipulation of an organism's DNA to add, remove, or change specific genes. Scientists use it to develop disease-resistant crops, produce medicines like insulin, and potentially cure genetic diseases in humans by correcting faulty genes.",
+        "he": "מניפולציה ישירה של ה-DNA של אורגניזם כדי להוסיף, להסיר או לשנות גנים ספציפיים. מדענים משתמשים בה לפיתוח גידולים עמידים למחלות, לייצר תרופות כמו אינסולין, ולריפוי מחלות גנטיות בבני אדם על ידי תיקון גנים פגומים."
+      },
+      "category": "biotechnology"
+    },
+    {
+      "id": "t-d26-03",
+      "term": { "en": "Renewable Energy", "he": "אנרגיה מתחדשת" },
+      "definition": {
+        "en": "Energy from sources that are naturally replenished and will not run out — such as sunlight, wind, flowing water, and geothermal heat. Unlike fossil fuels, renewable energy sources produce little or no greenhouse gases, making them important for fighting climate change.",
+        "he": "אנרגיה ממקורות המחודשים באופן טבעי ולא יגמרו — כמו אור שמש, רוח, מים זורמים וחום גיאותרמי. בניגוד לדלקים מאובנים, מקורות אנרגיה מתחדשים מייצרים מעט מאוד גזי חממה או לא כלל, מה שהופך אותם לחשובים במאבק בשינויי האקלים."
+      },
+      "category": "energy"
+    },
+    {
+      "id": "t-d26-04",
+      "term": { "en": "Robotics", "he": "רובוטיקה" },
+      "definition": {
+        "en": "The science and engineering of designing, building, and programming robots. Robots are already used in factories, hospitals, space exploration, and search-and-rescue operations. Future robots may be able to perform nearly any physical task and work alongside humans as assistants.",
+        "he": "המדע וההנדסה של עיצוב, בנייה ותכנות רובוטים. רובוטים כבר משמשים במפעלים, בבתי חולים, בחקר חלל ובפעולות חיפוש והצלה. רובוטים עתידיים עשויים להיות מסוגלים לבצע כמעט כל משימה פיזית ולעבוד לצד בני אדם כעוזרים."
+      },
+      "category": "technology"
+    },
+    {
+      "id": "t-d26-05",
+      "term": { "en": "Climate Change", "he": "שינוי אקלים" },
+      "definition": {
+        "en": "Long-term shifts in global temperatures and weather patterns, largely caused since the mid-20th century by burning fossil fuels which releases greenhouse gases. Scientists warn that without major changes in energy use, climate change could cause severe floods, droughts, and species extinctions.",
+        "he": "שינויים ארוכי טווח בטמפרטורות העולמיות ובדפוסי מזג האוויר, שנגרמים בעיקר מאז אמצע המאה ה-20 על ידי שריפת דלקים מאובנים המשחררים גזי חממה. מדענים מזהירים שללא שינויים מרכזיים בשימוש באנרגיה, שינוי האקלים עלול לגרום לשיטפונות חמורים, בצורות והכחדת מינים."
+      },
+      "category": "environment"
+    },
+    {
+      "id": "t-d26-06",
+      "term": { "en": "Space Colonization", "he": "התיישבות בחלל" },
+      "definition": {
+        "en": "The concept of humans living permanently on other worlds — such as the Moon, Mars, or even space stations. Scientists and engineers are working on technologies that could make this possible: closed-loop life support, radiation protection, food production in space, and more.",
+        "he": "המושג של בני אדם החיים לצמיתות על עולמות אחרים — כמו הירח, מאדים, או אפילו תחנות חלל. מדענים ומהנדסים עובדים על טכנולוגיות שיכולות להפוך זאת לאפשרי: תמיכת חיים במעגל סגור, הגנה מקרינה, ייצור מזון בחלל ועוד."
+      },
+      "category": "space exploration"
+    },
+    {
+      "id": "t-d26-07",
+      "term": { "en": "CRISPR", "he": "קריספר" },
+      "definition": {
+        "en": "A powerful gene-editing tool that allows scientists to cut and modify DNA at very precise locations, like molecular scissors. CRISPR has the potential to cure genetic diseases, create new medicines, and even edit crop plants to be more nutritious or disease-resistant.",
+        "he": "כלי עריכת גנים רב עוצמה המאפשר למדענים לחתוך ולשנות DNA במיקומים מדויקים מאוד, כמו מספריים מולקולריים. לקריספר יש פוטנציאל לרפא מחלות גנטיות, ליצור תרופות חדשות ואפילו לערוך צמחי גידולים להיות יותר מזינים או עמידים למחלות."
+      },
+      "category": "biotechnology"
+    },
+    {
+      "id": "t-d26-08",
+      "term": { "en": "Virtual Reality (VR)", "he": "מציאות מדומה" },
+      "definition": {
+        "en": "Technology that creates a simulated, immersive environment that users can interact with as if it were real, usually using a special headset. VR is used in games, education, medical training, and design, and may one day allow people to 'visit' historical events or distant planets.",
+        "he": "טכנולוגיה היוצרת סביבה מדומה ומשקיעה שמשתמשים יכולים לתקשר עמה כאילו הייתה אמיתית, בדרך כלל באמצעות אוזניית ראש מיוחדת. מציאות מדומה משמשת במשחקים, חינוך, הכשרה רפואית ועיצוב, ויום אחד עשויה לאפשר לאנשים 'לבקר' באירועים היסטוריים או כוכבי לכת רחוקים."
+      },
+      "category": "technology"
+    },
+    {
+      "id": "t-d26-09",
+      "term": { "en": "Nanotechnology", "he": "ננוטכנולוגיה" },
+      "definition": {
+        "en": "The science of building and working with extremely tiny structures and devices at the scale of nanometers — about a millionth of a millimeter. In the future, nanobots (tiny robots smaller than a cell) may be able to travel through the body to repair damaged tissue or deliver medicine directly to cancer cells.",
+        "he": "המדע של בניית עצמים וכלים קטנים ביותר בסדר גודל של ננומטרים — כמיליונית ממילימטר. בעתיד, ננובוטים (רובוטים זעירים קטנים מתא) עשויים להיות מסוגלים לנסוע דרך הגוף כדי לתקן רקמות פגועות או להעביר תרופה ישירות לתאי סרטן."
+      },
+      "category": "technology"
+    },
+    {
+      "id": "t-d26-10",
+      "term": { "en": "Solar Energy", "he": "אנרגיה סולארית" },
+      "definition": {
+        "en": "Energy from the Sun that is captured and converted into electricity using solar panels (photovoltaic cells) or used to heat water and buildings. The Sun delivers more energy to Earth's surface in one hour than humanity uses in an entire year, making solar power one of the most promising clean energy sources.",
+        "he": "אנרגיה מהשמש הנלכדת ומומרת לחשמל באמצעות פאנלים סולאריים (תאים פוטו-וולטאיים) או משמשת לחימום מים ובניינים. השמש מספקת לפני כדור הארץ יותר אנרגיה בשעה אחת ממה שהאנושות משתמשת בה בשנה שלמה, מה שהופך אנרגיה סולארית לאחד ממקורות האנרגיה הנקיים המבטיחים ביותר."
+      },
+      "category": "energy"
+    },
+    {
+      "id": "t-d26-11",
+      "term": { "en": "Internet", "he": "אינטרנט" },
+      "definition": {
+        "en": "A global network of computers and devices connected together, allowing people anywhere in the world to share information, communicate, and access knowledge almost instantly. The internet has transformed education, commerce, and communication — and is one of the most important inventions in human history.",
+        "he": "רשת עולמית של מחשבים ומכשירים המחוברים יחד, המאפשרת לאנשים בכל מקום בעולם לשתף מידע, לתקשר ולגשת לידע כמעט באופן מיידי. האינטרנט שינה חינוך, מסחר ותקשורת — והוא אחד ההמצאות החשובות ביותר בהיסטוריה האנושית."
+      },
+      "category": "technology"
+    },
+    {
+      "id": "t-d26-12",
+      "term": { "en": "Exoplanet", "he": "אקסופלנטה (כוכב לכת חוץ-שמשי)" },
+      "definition": {
+        "en": "A planet orbiting a star other than our own Sun. Scientists have discovered thousands of exoplanets using space telescopes. Some are in the 'habitable zone' — at the right distance from their star for liquid water to exist — raising the exciting possibility of life beyond Earth.",
+        "he": "כוכב לכת המקיף כוכב שאינו שמשנו. מדענים גילו אלפי אקסופלנטות באמצעות טלסקופי חלל. חלקן נמצאות ב'אזור הניתן למגורים' — במרחק הנכון מכוכבם כדי שמים נוזליים יתקיימו — מה שמעלה את האפשרות המרגשת של חיים מחוץ לכדור הארץ."
+      },
+      "category": "astronomy"
+    },
+    {
+      "id": "t-d26-13",
+      "term": { "en": "3D Printing", "he": "הדפסה תלת-ממדית" },
+      "definition": {
+        "en": "A manufacturing technology that builds three-dimensional objects layer by layer from a digital design. Already used to make everything from toys to aerospace parts, 3D printing may in the future be used to print human organs for transplant, build houses, and manufacture goods in space.",
+        "he": "טכנולוגיית ייצור הבונה עצמים תלת-ממדיים שכבה אחר שכבה מתכנון דיגיטלי. כבר משמשת לייצור הכל מצעצועים ועד חלקי תעופה וחלל, הדפסה תלת-ממדית עשויה בעתיד לשמש להדפסת איברים אנושיים להשתלה, בניית בתים וייצור מוצרים בחלל."
+      },
+      "category": "technology"
+    },
+    {
+      "id": "t-d26-14",
+      "term": { "en": "Fusion Energy", "he": "אנרגיית היתוך" },
+      "definition": {
+        "en": "Energy produced by fusing (joining) light atomic nuclei together — the same process that powers the Sun. Fusion could provide virtually unlimited clean energy with very little waste, but creating a stable fusion reaction on Earth has been an enormous scientific and engineering challenge for decades.",
+        "he": "אנרגיה המיוצרת על ידי היתוך (חיבור) גרעינים אטומיים קלים — אותו תהליך שמניע את השמש. היתוך יכול לספק אנרגיה נקייה כמעט בלתי מוגבלת עם פסולת מועטה מאוד, אך יצירת תגובת היתוך יציבה על כדור הארץ היוותה אתגר מדעי והנדסי עצום במשך עשורים."
+      },
+      "category": "energy"
+    },
+    {
+      "id": "t-d26-15",
+      "term": { "en": "Biotechnology", "he": "ביוטכנולוגיה" },
+      "definition": {
+        "en": "The use of living organisms, cells, or biological processes to develop products and technologies that improve human health, agriculture, and the environment. Examples include medicines produced by bacteria, genetically modified crops, and new vaccines.",
+        "he": "השימוש באורגניזמים חיים, תאים או תהליכים ביולוגיים לפיתוח מוצרים וטכנולוגיות המשפרים את בריאות האדם, החקלאות והסביבה. דוגמאות כוללות תרופות המיוצרות על ידי חיידקים, גידולים שעברו שינוי גנטי וחיסונים חדשים."
+      },
+      "category": "biotechnology"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q-d26-01",
+      "question": {
+        "en": "What is Artificial Intelligence?",
+        "he": "מה היא בינה מלאכותית?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "A type of robot that looks like a human", "he": "סוג של רובוט שנראה כמו בן אדם" } },
+        { "id": "b", "text": { "en": "Computer systems that can perform tasks normally requiring human intelligence", "he": "מערכות מחשב שיכולות לבצע משימות הדורשות בדרך כלל אינטליגנציה אנושית" } },
+        { "id": "c", "text": { "en": "A new kind of battery that stores electricity", "he": "סוג חדש של סוללה שמאחסנת חשמל" } },
+        { "id": "d", "text": { "en": "Software that only scientists can use", "he": "תוכנה שרק מדענים יכולים להשתמש בה" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Artificial Intelligence (AI) refers to computer systems that can perform tasks normally requiring human intelligence — such as understanding language, recognizing images, making decisions, and learning. AI is already part of our daily lives in search engines, voice assistants, and recommendation systems.",
+        "he": "בינה מלאכותית (AI) מתייחסת למערכות מחשב שיכולות לבצע משימות הדורשות בדרך כלל אינטליגנציה אנושית — כמו הבנת שפה, זיהוי תמונות, קבלת החלטות ולמידה. בינה מלאכותית כבר חלק מחיינו היומיומיים במנועי חיפוש, עוזרי קול ומערכות המלצה."
+      }
+    },
+    {
+      "id": "q-d26-02",
+      "question": {
+        "en": "Which of the following is an example of renewable energy?",
+        "he": "מה מהבאים הוא דוגמה לאנרגיה מתחדשת?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Coal", "he": "פחם" } },
+        { "id": "b", "text": { "en": "Natural gas", "he": "גז טבעי" } },
+        { "id": "c", "text": { "en": "Solar power", "he": "אנרגיה סולארית" } },
+        { "id": "d", "text": { "en": "Oil", "he": "נפט" } }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Solar power is a renewable energy source because sunlight is naturally replenished and will not run out. Coal, natural gas, and oil are fossil fuels — non-renewable energy sources that took millions of years to form and release harmful greenhouse gases when burned.",
+        "he": "אנרגיה סולארית היא מקור אנרגיה מתחדש כי אור שמש מחודש באופן טבעי ולא יגמר. פחם, גז טבעי ונפט הם דלקים מאובנים — מקורות אנרגיה לא מתחדשים שנוצרו על פני מיליוני שנים ומשחררים גזי חממה מזיקים כשנשרפים."
+      }
+    },
+    {
+      "id": "q-d26-03",
+      "question": {
+        "en": "What is CRISPR?",
+        "he": "מה זה קריספר?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "A type of supercomputer", "he": "סוג של מחשב-על" } },
+        { "id": "b", "text": { "en": "A new kind of telescope", "he": "סוג חדש של טלסקופ" } },
+        { "id": "c", "text": { "en": "A powerful gene-editing tool", "he": "כלי עריכת גנים רב עוצמה" } },
+        { "id": "d", "text": { "en": "A space exploration mission", "he": "משימת חקר חלל" } }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "CRISPR is a revolutionary gene-editing technology that works like molecular scissors, allowing scientists to cut and change DNA at very precise locations. It has potential applications in curing genetic diseases, improving crops, and developing new medicines.",
+        "he": "קריספר היא טכנולוגיית עריכת גנים מהפכנית הפועלת כמו מספריים מולקולריים, המאפשרת למדענים לחתוך ולשנות DNA במיקומים מדויקים מאוד. יש לה יישומים פוטנציאליים בריפוי מחלות גנטיות, שיפור גידולים ופיתוח תרופות חדשות."
+      }
+    },
+    {
+      "id": "q-d26-04",
+      "question": {
+        "en": "What is an exoplanet?",
+        "he": "מה היא אקסופלנטה?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "A planet that has exploded", "he": "כוכב לכת שהתפוצץ" } },
+        { "id": "b", "text": { "en": "A planet in our solar system beyond Neptune", "he": "כוכב לכת במערכת השמש שלנו מעבר לנפטון" } },
+        { "id": "c", "text": { "en": "A planet orbiting a star other than our Sun", "he": "כוכב לכת המקיף כוכב שאינו שמשנו" } },
+        { "id": "d", "text": { "en": "A dwarf planet like Pluto", "he": "כוכב לכת גמד כמו פלוטו" } }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "An exoplanet is a planet that orbits a star other than our Sun. Thousands of exoplanets have been confirmed, and some lie in the 'habitable zone' of their star where liquid water could exist. The search for exoplanets is one of the most exciting areas of modern astronomy.",
+        "he": "אקסופלנטה היא כוכב לכת המקיף כוכב שאינו שמשנו. אלפי אקסופלנטות אושרו, וחלקן נמצאות ב'אזור הניתן למגורים' של כוכבן שבו מים נוזליים יכולים להתקיים. החיפוש אחר אקסופלנטות הוא אחד מהתחומים המרגשים ביותר באסטרונומיה המודרנית."
+      }
+    },
+    {
+      "id": "q-d26-05",
+      "question": {
+        "en": "What would fusion energy use as fuel?",
+        "he": "במה תשתמש אנרגיית היתוך כדלק?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Coal and oil", "he": "פחם ונפט" } },
+        { "id": "b", "text": { "en": "Sunlight and wind", "he": "אור שמש ורוח" } },
+        { "id": "c", "text": { "en": "Uranium atoms split apart", "he": "אטומי אורניום מפוצלים" } },
+        { "id": "d", "text": { "en": "Light hydrogen atoms fused together", "he": "אטומי מימן קל המאוחדים יחד" } }
+      ],
+      "correctChoice": "d",
+      "explanation": {
+        "en": "Fusion energy works by fusing (joining) light atomic nuclei — particularly hydrogen isotopes — together to release enormous amounts of energy, just as the Sun does. Unlike nuclear fission (splitting heavy atoms), fusion produces little radioactive waste and uses fuel that is abundant on Earth.",
+        "he": "אנרגיית היתוך פועלת על ידי איחוד גרעינים אטומיים קלים — בפרט איזוטופים של מימן — יחד לשחרור כמויות עצומות של אנרגיה, בדיוק כפי שהשמש עושה. בניגוד לביקוע גרעיני (פיצול אטומים כבדים), ההיתוך מייצר מעט פסולת רדיואקטיבית ומשתמש בדלק השופע על כדור הארץ."
+      }
+    },
+    {
+      "id": "q-d26-06",
+      "question": {
+        "en": "What is the main cause of climate change according to scientists?",
+        "he": "מה הגורם העיקרי לשינוי האקלים לפי מדענים?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Natural cycles of the Sun", "he": "מחזורים טבעיים של השמש" } },
+        { "id": "b", "text": { "en": "Burning fossil fuels releasing greenhouse gases", "he": "שריפת דלקים מאובנים המשחררת גזי חממה" } },
+        { "id": "c", "text": { "en": "Volcanic eruptions", "he": "התפרצויות געשיות" } },
+        { "id": "d", "text": { "en": "Changes in Earth's orbit", "he": "שינויים במסלול כדור הארץ" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Scientists agree that the main driver of current climate change is the burning of fossil fuels (coal, oil, and natural gas) which releases carbon dioxide and other greenhouse gases into the atmosphere. These gases trap heat from the Sun, causing global temperatures to rise.",
+        "he": "מדענים מסכימים שהגורם העיקרי לשינוי האקלים הנוכחי הוא שריפת דלקים מאובנים (פחם, נפט וגז טבעי) המשחררת פחמן דו-חמצני וגזי חממה אחרים לאטמוספירה. גזים אלה לוכדים חום מהשמש, גורמים לטמפרטורות הגלובליות לעלות."
+      }
+    },
+    {
+      "id": "q-d26-07",
+      "question": {
+        "en": "What is nanotechnology?",
+        "he": "מה היא ננוטכנולוגיה?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Technology for studying very large structures in space", "he": "טכנולוגיה לחקר מבנים גדולים מאוד בחלל" } },
+        { "id": "b", "text": { "en": "A way to make computers run faster", "he": "דרך לגרום למחשבים לפעול מהר יותר" } },
+        { "id": "c", "text": { "en": "The science of building and working with extremely tiny structures", "he": "המדע של בניית עצמים זעירים ועבודה עמם" } },
+        { "id": "d", "text": { "en": "Underwater construction technology", "he": "טכנולוגיית בנייה תת-ימית" } }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Nanotechnology works at the scale of nanometers — billionths of a meter. At this scale, scientists can build and manipulate individual atoms and molecules to create materials and devices with extraordinary properties. Future medical nanobots could potentially navigate the bloodstream to target diseases.",
+        "he": "ננוטכנולוגיה פועלת בסדר גודל של ננומטרים — מיליארדיות המטר. בקנה מידה זה, מדענים יכולים לבנות ולתפעל אטומים ומולקולות בודדות כדי ליצור חומרים ומכשירים עם תכונות יוצאות דופן. ננובוטים רפואיים עתידיים עשויים לנוע בזרם הדם כדי למקד מחלות."
+      }
+    },
+    {
+      "id": "q-d26-08",
+      "question": {
+        "en": "Which planet are scientists most focused on for potential human colonization?",
+        "he": "לאיזה כוכב לכת מרוכזים מדענים ביותר לאפשרות של התיישבות אנושית?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Jupiter", "he": "צדק" } },
+        { "id": "b", "text": { "en": "Venus", "he": "נוגה" } },
+        { "id": "c", "text": { "en": "Mars", "he": "מאדים" } },
+        { "id": "d", "text": { "en": "Saturn", "he": "שבתאי" } }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Mars is the planet scientists most often discuss for potential human colonization. It has a day length similar to Earth's, water ice at its poles, and is thought to have had liquid water in the past. Companies like SpaceX and agencies like NASA have active plans to send humans to Mars.",
+        "he": "מאדים הוא כוכב הלכת שמדענים דנים בו לרוב לגבי התיישבות אנושית פוטנציאלית. יש לו אורך יום הדומה לארץ, קרח מים בקוטבים שלו, ומאמינים שהיו בו מים נוזליים בעבר. חברות כמו SpaceX וסוכנויות כמו נאס\"א מכינות תכניות פעילות לשליחת בני אדם למאדים."
+      }
+    },
+    {
+      "id": "q-d26-09",
+      "question": {
+        "en": "What can 3D printing create?",
+        "he": "מה יכולה הדפסה תלת-ממדית ליצור?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Only paper documents", "he": "מסמכי נייר בלבד" } },
+        { "id": "b", "text": { "en": "Three-dimensional physical objects from a digital design", "he": "עצמים פיזיים תלת-ממדיים מתכנון דיגיטלי" } },
+        { "id": "c", "text": { "en": "Only flat plastic sheets", "he": "גיליונות פלסטיק שטוחים בלבד" } },
+        { "id": "d", "text": { "en": "Digital images on a screen", "he": "תמונות דיגיטליות על מסך" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "3D printing (also called additive manufacturing) creates three-dimensional solid objects by depositing material layer by layer based on a digital design. It can make objects from plastics, metals, ceramics, and even biological materials (bioprinting), and is used in medicine, aerospace, and many other fields.",
+        "he": "הדפסה תלת-ממדית (הנקראת גם ייצור תוספתי) יוצרת עצמים מוצקים תלת-ממדיים על ידי הנחת חומר שכבה על שכבה על בסיס תכנון דיגיטלי. היא יכולה להכין עצמים מפלסטיק, מתכות, קרמיקה ואפילו חומרים ביולוגיים (ביו-הדפסה), ומשמשת ברפואה, תעופה וחלל ותחומים רבים אחרים."
+      }
+    },
+    {
+      "id": "q-d26-10",
+      "question": {
+        "en": "According to the episode, who will likely solve many of the great scientific questions of tomorrow?",
+        "he": "לפי הפרק, מי כנראה יפתור רבות מהשאלות המדעיות הגדולות של המחר?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Robots and computers alone", "he": "רובוטים ומחשבים לבדם" } },
+        { "id": "b", "text": { "en": "Scientists who are already famous today", "he": "מדענים שכבר מפורסמים כיום" } },
+        { "id": "c", "text": { "en": "Curious young people — some not yet born", "he": "צעירים סקרניים — חלקם טרם נולדו" } },
+        { "id": "d", "text": { "en": "Government agencies only", "he": "סוכנויות ממשלתיות בלבד" } }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "The episode ends with an inspiring message: many of the discoverers who will answer tomorrow's greatest questions are children today — or have not yet been born. Science is an ongoing human adventure, and every generation of curious young minds has the potential to transform our understanding of the world.",
+        "he": "הפרק מסתיים במסר מעורר השראה: רבים מהמגלים שיענו על השאלות הגדולות ביותר של המחר הם ילדים כיום — או שטרם נולדו. המדע הוא הרפתקה אנושית מתמשכת, וכל דור של נפשות צעירות סקרניות יש להן פוטנציאל לשנות את הבנתנו את העולם."
+      }
+    }
+  ],
+  "videoSources": ["t-JpTn7AyTU"]
+}

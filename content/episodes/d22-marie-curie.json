@@ -1,0 +1,343 @@
+{
+  "id": "d22-marie-curie",
+  "episodeNumber": 22,
+  "youtubeId": "omjiNFHSV_4",
+  "title": {
+    "en": "Marie Curie",
+    "he": "מארי קירי"
+  },
+  "summary": {
+    "en": "This episode tells the remarkable story of Marie Curie, the Polish-born scientist who became one of the greatest researchers in history. Born Maria Sklodowska in Warsaw in 1867, she overcame enormous obstacles — including poverty and the exclusion of women from universities — to study physics and chemistry in Paris, where she later became a professor. Together with her husband Pierre Curie, she discovered two new chemical elements, polonium (named after her homeland) and radium, and she coined the very term 'radioactivity' to describe the mysterious energy emitted by certain atoms. Her groundbreaking work earned her the Nobel Prize in Physics in 1903 (shared with Pierre and Henri Becquerel) and then, eight years later, a second Nobel Prize in Chemistry in 1911 — making her the first person ever to win the Nobel Prize twice and in two different sciences. Marie Curie's research laid the foundations for nuclear physics and cancer treatment, and her life continues to inspire generations of scientists, especially women, to pursue careers in science.",
+    "he": "פרק זה מספר את סיפורה המרתק של מארי קירי, המדענית יוצאת פולין שהפכה לאחת החוקרות הגדולות בהיסטוריה. נולדה כמאריה סקלודובסקה בוורשה בשנת 1867, והתגברה על מכשולים עצומים — כולל עוני ואיסור כניסת נשים לאוניברסיטאות — כדי ללמוד פיזיקה וכימיה בפריז, שם הפכה לאחר מכן לפרופסורית. יחד עם בעלה פייר קירי, היא גילתה שני יסודות כימיים חדשים: פולוניום (שנקרא על שם מולדתה) ורדיום, וטבעה את המונח 'רדיואקטיביות' לתיאור האנרגיה המסתורית הנפלטת מאטומים מסוימים. עבודתה פורצת הדרך זיכתה אותה בפרס נובל לפיזיקה בשנת 1903 (יחד עם פייר ואנרי בקרל), ולאחר מכן, שמונה שנים מאוחר יותר, בפרס נובל שני לכימיה בשנת 1911 — מה שהפך אותה לאדם הראשון שזכה בפרס נובל פעמיים ובשתי תחומי מדע שונים. מחקריה של מארי קירי הניחו את היסודות לפיזיקה גרעינית ולטיפול בסרטן, וחייה ממשיכים לעורר השראה לדורות של מדענים, ובמיוחד נשים, לרדוף אחר קריירה במדע."
+  },
+  "thumbnail": "https://img.youtube.com/vi/omjiNFHSV_4/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": [
+    "Marie Curie",
+    "radioactivity",
+    "polonium and radium",
+    "two Nobel Prizes",
+    "women in science",
+    "X-rays"
+  ],
+  "terminology": [
+    {
+      "id": "t-d22-01",
+      "term": { "en": "Radioactivity", "he": "רדיואקטיביות" },
+      "definition": {
+        "en": "The process by which unstable atoms release energy in the form of invisible rays or tiny particles. Marie Curie invented this word to describe the special energy given off by elements like uranium, radium, and polonium.",
+        "he": "התהליך שבו אטומים לא יציבים משחררים אנרגיה בצורת קרינה בלתי נראית או חלקיקים זעירים. מארי קירי המציאה מילה זו כדי לתאר את האנרגיה המיוחדת הנפלטת מיסודות כמו אורניום, רדיום ופולוניום."
+      },
+      "category": "nuclear physics"
+    },
+    {
+      "id": "t-d22-02",
+      "term": { "en": "Radium", "he": "רדיום" },
+      "definition": {
+        "en": "A rare, naturally radioactive element discovered by Marie and Pierre Curie in 1898. Radium glows faintly in the dark due to its radioactivity and was historically used in cancer treatment because its rays can destroy abnormal cells.",
+        "he": "יסוד רדיואקטיבי נדיר שנמצא בטבע, שגילו מארי ופייר קירי בשנת 1898. רדיום זוהר קלות בחושך בגלל רדיואקטיביות שלו, ושימש בעבר בטיפול בסרטן כיוון שקרניו יכולות להרוס תאים חולים."
+      },
+      "category": "chemistry"
+    },
+    {
+      "id": "t-d22-03",
+      "term": { "en": "Polonium", "he": "פולוניום" },
+      "definition": {
+        "en": "A highly radioactive element discovered by Marie Curie and named after her home country, Poland. It was the first new element she and Pierre found during their research on radioactive ores.",
+        "he": "יסוד רדיואקטיבי ביותר שגילתה מארי קירי, שנקרא על שם מולדתה פולין. זה היה היסוד החדש הראשון שהיא ופייר מצאו במהלך מחקרם בסלעים רדיואקטיביים."
+      },
+      "category": "chemistry"
+    },
+    {
+      "id": "t-d22-04",
+      "term": { "en": "Nobel Prize", "he": "פרס נובל" },
+      "definition": {
+        "en": "One of the most prestigious awards in the world, given each year to people who have made outstanding contributions to science, literature, or peace. It was established by the Swedish inventor Alfred Nobel, and Marie Curie won it twice.",
+        "he": "אחת הפרסות המכובדות ביותר בעולם, הניתנת מדי שנה לאנשים שתרמו תרומות יוצאות דופן למדע, לספרות או לשלום. נוסד על ידי הממציא השוודי אלפרד נובל, ומארי קירי זכתה בו פעמיים."
+      },
+      "category": "science history"
+    },
+    {
+      "id": "t-d22-05",
+      "term": { "en": "Uranium", "he": "אורניום" },
+      "definition": {
+        "en": "A heavy, naturally radioactive metal found in the Earth's crust. Marie Curie studied uranium rays at the start of her career, and this led her to discover that radioactivity was a property of atoms themselves, not a chemical reaction.",
+        "he": "מתכת כבדה ורדיואקטיבית הנמצאת בטבע בקרום כדור הארץ. מארי קירי חקרה את קרני האורניום בתחילת הקריירה שלה, מה שהוביל אותה לגלות שרדיואקטיביות היא תכונה של האטומים עצמם, ולא תגובה כימית."
+      },
+      "category": "chemistry"
+    },
+    {
+      "id": "t-d22-06",
+      "term": { "en": "Element", "he": "יסוד כימי" },
+      "definition": {
+        "en": "A pure substance made of only one type of atom that cannot be broken down into simpler substances by chemical means. There are 118 known elements, and Marie Curie discovered two of them — polonium and radium.",
+        "he": "חומר טהור המורכב מסוג אחד בלבד של אטומים, שלא ניתן לפרקו לחומרים פשוטים יותר בדרכים כימיות. ישנם 118 יסודות ידועים, ומארי קירי גילתה שניים מהם — פולוניום ורדיום."
+      },
+      "category": "chemistry"
+    },
+    {
+      "id": "t-d22-07",
+      "term": { "en": "X-rays", "he": "קרני רנטגן" },
+      "definition": {
+        "en": "A form of invisible radiation that can pass through soft body tissue but is blocked by bones, making it possible to take pictures of skeletons inside living bodies. During World War I, Marie Curie helped set up mobile X-ray units to help treat wounded soldiers.",
+        "he": "סוג של קרינה בלתי נראית שיכולה לעבור דרך רקמות גוף רכות אך נחסמת על ידי עצמות, מה שמאפשר לצלם שלדים בתוך גופות חיות. במלחמת העולם הראשונה, מארי קירי עזרה להקים יחידות רנטגן ניידות לטיפול בחיילים פצועים."
+      },
+      "category": "physics"
+    },
+    {
+      "id": "t-d22-08",
+      "term": { "en": "Atom", "he": "אטום" },
+      "definition": {
+        "en": "The smallest unit of a chemical element that still has the properties of that element. Atoms are incredibly tiny — millions of them could fit on the period at the end of this sentence. Marie Curie proved that radioactivity comes from changes happening inside individual atoms.",
+        "he": "היחידה הקטנה ביותר של יסוד כימי שעדיין יש לה את תכונות אותו יסוד. אטומים זעירים להפליא — מיליוני אטומים יכולים להתאים לנקודה בסוף המשפט הזה. מארי קירי הוכיחה שרדיואקטיביות מגיעה משינויים המתרחשים בתוך אטומים בודדים."
+      },
+      "category": "physics"
+    },
+    {
+      "id": "t-d22-09",
+      "term": { "en": "Pitchblende", "he": "פיצ'בלנד (עפרת אורניום)" },
+      "definition": {
+        "en": "A dark, heavy ore (rock) that contains uranium and was the raw material Marie Curie processed to extract polonium and radium. She had to refine several tons of this ore to obtain just a tiny amount of radium.",
+        "he": "מינרל כהה וכבד המכיל אורניום, שהיה חומר הגלם שמארי קירי עיבדה כדי לחלץ ממנו פולוניום ורדיום. היא נאלצה לזקק כמה טונות של מינרל זה כדי להשיג כמות זעירה של רדיום."
+      },
+      "category": "chemistry"
+    },
+    {
+      "id": "t-d22-10",
+      "term": { "en": "Radiation", "he": "קרינה" },
+      "definition": {
+        "en": "Energy that travels through space in the form of waves or particles. Some radiation, like radio waves and visible light, is harmless. But the high-energy radiation from radioactive materials can damage living cells and cause illness if exposure is too great.",
+        "he": "אנרגיה הנעה דרך החלל בצורת גלים או חלקיקים. קצת קרינה, כמו גלי רדיו ואור נראה, אינה מזיקה. אך הקרינה בעלת האנרגיה הגבוהה מחומרים רדיואקטיביים יכולה לפגוע בתאים חיים ולגרום למחלה אם החשיפה גבוהה מדי."
+      },
+      "category": "physics"
+    },
+    {
+      "id": "t-d22-11",
+      "term": { "en": "Periodic Table", "he": "הטבלה המחזורית" },
+      "definition": {
+        "en": "A chart that organizes all known chemical elements by their properties and atomic number. It was created by Dmitri Mendeleev in 1869, and the elements discovered by Marie Curie — polonium and radium — were added to it.",
+        "he": "טבלה המארגנת את כל היסודות הכימיים הידועים לפי תכונותיהם ומספרם האטומי. היא נוצרה על ידי דמיטרי מנדלייב בשנת 1869, והיסודות שגילתה מארי קירי — פולוניום ורדיום — נוספו אליה."
+      },
+      "category": "chemistry"
+    },
+    {
+      "id": "t-d22-12",
+      "term": { "en": "Laboratory", "he": "מעבדה" },
+      "definition": {
+        "en": "A special room or building equipped with tools, chemicals, and instruments for doing scientific experiments. Marie Curie spent years working in a leaky, inadequate laboratory shed before eventually getting better facilities.",
+        "he": "חדר או בניין מיוחד המצויד בכלים, כימיקלים ומכשירים לביצוע ניסויים מדעיים. מארי קירי בילתה שנים בעבודה בצריף מעבדה רעוע ובלתי מספק לפני שלבסוף קיבלה מתקנים טובים יותר."
+      },
+      "category": "science practice"
+    },
+    {
+      "id": "t-d22-13",
+      "term": { "en": "Isotope", "he": "איזוטופ" },
+      "definition": {
+        "en": "A version of a chemical element that has the same number of protons but a different number of neutrons in its nucleus. Some isotopes are stable, while others are radioactive and break apart over time, releasing energy.",
+        "he": "גרסה של יסוד כימי שיש לה אותו מספר פרוטונים אך מספר שונה של נייטרונים בגרעינה. חלק מהאיזוטופים יציבים, בעוד שאחרים רדיואקטיביים ומתפרקים לאורך זמן, ומשחררים אנרגיה."
+      },
+      "category": "nuclear physics"
+    },
+    {
+      "id": "t-d22-14",
+      "term": { "en": "Electrometer", "he": "אלקטרומטר" },
+      "definition": {
+        "en": "A sensitive scientific instrument used to measure very small electric charges. Pierre Curie helped develop a precise electrometer that Marie used to measure the tiny electrical currents produced by radioactive materials.",
+        "he": "מכשיר מדעי רגיש המשמש למדידת מטענים חשמליים קטנים מאוד. פייר קירי עזר לפתח אלקטרומטר מדויק שמארי השתמשה בו למדידת הזרמים החשמליים הזעירים שמייצרים חומרים רדיואקטיביים."
+      },
+      "category": "physics"
+    },
+    {
+      "id": "t-d22-15",
+      "term": { "en": "Cancer treatment (Radiotherapy)", "he": "טיפול בסרטן (רדיותרפיה)" },
+      "definition": {
+        "en": "A medical treatment that uses high-energy radiation to kill cancer cells or shrink tumors. The discovery of radium by Marie Curie was one of the first steps toward using radiation as a medical tool to fight cancer.",
+        "he": "טיפול רפואי המשתמש בקרינה בעלת אנרגיה גבוהה כדי להרוג תאי סרטן או לכווץ גידולים. גילוי הרדיום על ידי מארי קירי היה אחד הצעדים הראשונים לשימוש בקרינה ככלי רפואי במאבק בסרטן."
+      },
+      "category": "medicine"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q-d22-01",
+      "question": {
+        "en": "In which country was Marie Curie born?",
+        "he": "באיזו מדינה נולדה מארי קירי?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "France", "he": "צרפת" } },
+        { "id": "b", "text": { "en": "Poland", "he": "פולין" } },
+        { "id": "c", "text": { "en": "Germany", "he": "גרמניה" } },
+        { "id": "d", "text": { "en": "Russia", "he": "רוסיה" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Marie Curie was born Maria Sklodowska in Warsaw, Poland, in 1867. She later moved to Paris, France, to pursue her university studies, as women were not permitted to attend university in Poland at the time.",
+        "he": "מארי קירי נולדה כמאריה סקלודובסקה בוורשה, פולין, בשנת 1867. היא עברה מאוחר יותר לפריז, צרפת, כדי ללמוד באוניברסיטה, מאחר שנשים לא הורשו ללמוד באוניברסיטה בפולין באותה תקופה."
+      }
+    },
+    {
+      "id": "q-d22-02",
+      "question": {
+        "en": "Which element did Marie Curie name after her home country?",
+        "he": "איזה יסוד כימי קראה מארי קירי על שם ארצה?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Radium", "he": "רדיום" } },
+        { "id": "b", "text": { "en": "Uranium", "he": "אורניום" } },
+        { "id": "c", "text": { "en": "Polonium", "he": "פולוניום" } },
+        { "id": "d", "text": { "en": "Thorium", "he": "תוריום" } }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Marie Curie named the element Polonium after Poland, her homeland. She chose this name partly as a political statement, as Poland was not recognized as an independent nation at the time.",
+        "he": "מארי קירי קראה ליסוד פולוניום על שם פולין, ארצה. היא בחרה בשם זה בחלקו כהצהרה פוליטית, שכן פולין לא הוכרה כמדינה עצמאית באותה תקופה."
+      }
+    },
+    {
+      "id": "q-d22-03",
+      "question": {
+        "en": "How many times did Marie Curie win the Nobel Prize?",
+        "he": "כמה פעמים זכתה מארי קירי בפרס נובל?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Once", "he": "פעם אחת" } },
+        { "id": "b", "text": { "en": "Three times", "he": "שלוש פעמים" } },
+        { "id": "c", "text": { "en": "Never", "he": "אף פעם" } },
+        { "id": "d", "text": { "en": "Twice", "he": "פעמיים" } }
+      ],
+      "correctChoice": "d",
+      "explanation": {
+        "en": "Marie Curie won the Nobel Prize twice — first in Physics in 1903 (for her research on radioactivity), and then in Chemistry in 1911 (for discovering polonium and radium). She is the only person to win Nobel Prizes in two different sciences.",
+        "he": "מארי קירי זכתה בפרס נובל פעמיים — ראשית בפיזיקה בשנת 1903 (על מחקרה ברדיואקטיביות), ולאחר מכן בכימיה בשנת 1911 (על גילוי הפולוניום והרדיום). היא האדם היחיד שזכה בפרסי נובל בשני תחומי מדע שונים."
+      }
+    },
+    {
+      "id": "q-d22-04",
+      "question": {
+        "en": "What word did Marie Curie invent to describe the energy given off by certain atoms?",
+        "he": "איזו מילה המציאה מארי קירי לתיאור האנרגיה הנפלטת מאטומים מסוימים?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Electricity", "he": "חשמל" } },
+        { "id": "b", "text": { "en": "Radioactivity", "he": "רדיואקטיביות" } },
+        { "id": "c", "text": { "en": "Magnetism", "he": "מגנטיות" } },
+        { "id": "d", "text": { "en": "Gravity", "he": "כבידה" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Marie Curie coined the term 'radioactivity' to describe the phenomenon of certain atoms spontaneously emitting energy. She chose the word based on the Latin root for 'ray', describing the rays given off by radioactive materials.",
+        "he": "מארי קירי טבעה את המונח 'רדיואקטיביות' לתיאור התופעה שבה אטומים מסוימים פולטים אנרגיה באופן ספונטני. היא בחרה את המילה על בסיס שורש לטיני שמשמעותו 'קרן', המתאר את הקרינה הנפלטת מחומרים רדיואקטיביים."
+      }
+    },
+    {
+      "id": "q-d22-05",
+      "question": {
+        "en": "Who was Marie Curie's husband and scientific partner?",
+        "he": "מי היה בעלה ושותפה המדעי של מארי קירי?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Henri Becquerel", "he": "אנרי בקרל" } },
+        { "id": "b", "text": { "en": "Louis Pasteur", "he": "לואי פסטר" } },
+        { "id": "c", "text": { "en": "Pierre Curie", "he": "פייר קירי" } },
+        { "id": "d", "text": { "en": "Ernest Rutherford", "he": "ארנסט רתרפורד" } }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Pierre Curie was Marie's husband and close scientific partner. Together they discovered polonium and radium, and both shared the 1903 Nobel Prize in Physics with Henri Becquerel. Pierre died tragically in a street accident in 1906.",
+        "he": "פייר קירי היה בעלה ושותפה המדעי הקרוב של מארי. יחד גילו את הפולוניום והרדיום, ושניהם חלקו את פרס נובל לפיזיקה בשנת 1903 עם אנרי בקרל. פייר מת באסון בתאונת רחוב בשנת 1906."
+      }
+    },
+    {
+      "id": "q-d22-06",
+      "question": {
+        "en": "What did Marie Curie use during World War I to help wounded soldiers?",
+        "he": "במה השתמשה מארי קירי במלחמת העולם הראשונה כדי לעזור לחיילים פצועים?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Radium injections", "he": "זריקות רדיום" } },
+        { "id": "b", "text": { "en": "Mobile X-ray units", "he": "יחידות רנטגן ניידות" } },
+        { "id": "c", "text": { "en": "Polonium bombs", "he": "פצצות פולוניום" } },
+        { "id": "d", "text": { "en": "Special medicines", "he": "תרופות מיוחדות" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "During World War I, Marie Curie organized mobile X-ray units — called 'petites Curies' (little Curies) — that could be driven to the front lines to help doctors find bullets and broken bones inside wounded soldiers without surgery.",
+        "he": "במהלך מלחמת העולם הראשונה, ארגנה מארי קירי יחידות רנטגן ניידות — שכונו 'פטיטות קירי' (קיריות קטנות) — שניתן היה לנהוג בהן לעבר קווי החזית כדי לעזור לרופאים למצוא כדורים ועצמות שבורות בתוך חיילים פצועים ללא ניתוח."
+      }
+    },
+    {
+      "id": "q-d22-07",
+      "question": {
+        "en": "From which material did Marie Curie extract radium?",
+        "he": "מאיזה חומר חילצה מארי קירי רדיום?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Coal", "he": "פחם" } },
+        { "id": "b", "text": { "en": "Sea water", "he": "מי ים" } },
+        { "id": "c", "text": { "en": "Pitchblende ore", "he": "מינרל פיצ'בלנד" } },
+        { "id": "d", "text": { "en": "Granite rock", "he": "סלע גרניט" } }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Marie Curie extracted both polonium and radium from pitchblende, a dark heavy ore rich in uranium. The process required her to refine huge amounts — several tons — of the raw ore to obtain just a tiny, precious amount of radium.",
+        "he": "מארי קירי חילצה את הפולוניום והרדיום ממינרל פיצ'בלנד, מינרל כהה וכבד העשיר באורניום. התהליך חייב אותה לזקק כמויות עצומות — כמה טונות — מהמינרל הגולמי כדי להשיג כמות זעירה ויקרת ערך של רדיום."
+      }
+    },
+    {
+      "id": "q-d22-08",
+      "question": {
+        "en": "In what year was Marie Curie born?",
+        "he": "באיזו שנה נולדה מארי קירי?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "1867", "he": "1867" } },
+        { "id": "b", "text": { "en": "1843", "he": "1843" } },
+        { "id": "c", "text": { "en": "1901", "he": "1901" } },
+        { "id": "d", "text": { "en": "1879", "he": "1879" } }
+      ],
+      "correctChoice": "a",
+      "explanation": {
+        "en": "Marie Curie was born on November 7, 1867, in Warsaw, Poland. She lived until 1934, when she passed away from aplastic anemia — likely caused by decades of exposure to the radioactive materials she worked with throughout her career.",
+        "he": "מארי קירי נולדה ב-7 בנובמבר 1867 בוורשה, פולין. היא חיה עד שנת 1934, אז נפטרה מאנמיה אפלסטית — ככל הנראה כתוצאה מעשורים של חשיפה לחומרים הרדיואקטיביים שעמם עבדה לאורך הקריירה שלה."
+      }
+    },
+    {
+      "id": "q-d22-09",
+      "question": {
+        "en": "What was Marie Curie's original name at birth?",
+        "he": "מה היה שמה המקורי של מארי קירי בלידה?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Marie Becquerel", "he": "מארי בקרל" } },
+        { "id": "b", "text": { "en": "Maria Sklodowska", "he": "מאריה סקלודובסקה" } },
+        { "id": "c", "text": { "en": "Marie Lavoisier", "he": "מארי לבואזיה" } },
+        { "id": "d", "text": { "en": "Maria Nobel", "he": "מאריה נובל" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Marie Curie was born Maria Sklodowska. She took the name Marie after moving to France, and became Marie Curie after marrying Pierre Curie in 1895.",
+        "he": "מארי קירי נולדה כמאריה סקלודובסקה. היא אימצה את השם מארי לאחר שעברה לצרפת, והפכה למארי קירי לאחר שנישאה לפייר קירי בשנת 1895."
+      }
+    },
+    {
+      "id": "q-d22-10",
+      "question": {
+        "en": "What important discovery did Marie Curie make about where radioactivity comes from?",
+        "he": "מה היה הגילוי החשוב של מארי קירי לגבי מקור הרדיואקטיביות?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "It comes from chemical reactions between two substances", "he": "היא מגיעה מתגובות כימיות בין שני חומרים" } },
+        { "id": "b", "text": { "en": "It is caused by sunlight hitting minerals", "he": "היא נגרמת על ידי אור שמש שפוגע במינרלים" } },
+        { "id": "c", "text": { "en": "It is a property of individual atoms themselves", "he": "היא תכונה של האטומים עצמם" } },
+        { "id": "d", "text": { "en": "It only happens in laboratories", "he": "היא מתרחשת רק במעבדות" } }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "One of Marie Curie's most important discoveries was that radioactivity is a property of individual atoms, not a result of chemical reactions. This was a revolutionary idea that helped lay the groundwork for all of modern nuclear physics.",
+        "he": "אחד הגילויים החשובים ביותר של מארי קירי היה שרדיואקטיביות היא תכונה של אטומים בודדים, ולא תוצאה של תגובות כימיות. זה היה רעיון מהפכני שעזר להניח את הבסיס לכל הפיזיקה הגרעינית המודרנית."
+      }
+    }
+  ],
+  "videoSources": ["omjiNFHSV_4"]
+}

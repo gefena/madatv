@@ -1,0 +1,343 @@
+{
+  "id": "d23-einstein",
+  "episodeNumber": 23,
+  "youtubeId": "sZtciZt0GlY",
+  "title": {
+    "en": "Albert Einstein",
+    "he": "אלברט איינשטיין"
+  },
+  "summary": {
+    "en": "This episode explores the life and groundbreaking ideas of Albert Einstein, widely considered the greatest scientist of the twentieth century. Born in Ulm, Germany, in 1879, Einstein showed an early fascination with mathematics and physics, and despite struggling in conventional schoolwork, he went on to revolutionize our understanding of the universe. In 1905 — often called his 'miracle year' — he published four landmark papers, including his Special Theory of Relativity, which introduced the famous equation E=mc², showing that energy and mass are equivalent and interchangeable. His 1915 General Theory of Relativity replaced Newton's theory of gravity, describing how massive objects curve the fabric of space-time, a concept confirmed by observations of starlight bending around the Sun during a solar eclipse in 1919. Einstein won the Nobel Prize in Physics in 1921 not for relativity, but for his explanation of the photoelectric effect, which helped establish quantum theory. His ideas ultimately made possible the nuclear age, GPS satellites, lasers, and countless other technologies that shape the modern world.",
+    "he": "פרק זה בוחן את חייו ורעיונותיו פורצי הדרך של אלברט איינשטיין, הנחשב לרוב למדען הגדול ביותר של המאה העשרים. נולד באולם, גרמניה, בשנת 1879, גילה איינשטיין בגיל צעיר סקרנות עמוקה כלפי מתמטיקה ופיזיקה, ולמרות שהתקשה בלימודים המסורתיים, המשיך לחולל מהפכה בהבנתנו את היקום. בשנת 1905 — הנקראת לעיתים קרובות 'שנת הנסים' שלו — פרסם ארבעה מאמרים מכוננים, כולל תורת היחסות הפרטית שלו, שהציגה את המשוואה המפורסמת E=mc², והראתה שאנרגיה ומסה שקולות וניתנות להמרה זו בזו. תורת היחסות הכללית שלו משנת 1915 החליפה את תורת הכבידה של ניוטון, ותיארה כיצד עצמים בעלי מסה עצומה מעקלים את מרקם המרחב-זמן, מושג שאושר על ידי תצפיות על כפיפת אור כוכבים סביב השמש בזמן ליקוי חמה ב-1919. איינשטיין זכה בפרס נובל לפיזיקה בשנת 1921 לא על תורת היחסות, אלא על הסברו לאפקט הפוטואלקטרי, שעזר לבסס את תורת הקוונטים. רעיונותיו אפשרו בסופו של דבר את עידן הגרעין, לוויני GPS, לייזרים וטכנולוגיות אין-ספור אחרות המעצבות את העולם המודרני."
+  },
+  "thumbnail": "https://img.youtube.com/vi/sZtciZt0GlY/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": [
+    "Albert Einstein",
+    "theory of relativity",
+    "E=mc²",
+    "space-time",
+    "atomic age",
+    "Nobel Prize in Physics"
+  ],
+  "terminology": [
+    {
+      "id": "t-d23-01",
+      "term": { "en": "Theory of Relativity", "he": "תורת היחסות" },
+      "definition": {
+        "en": "Einstein's revolutionary theory that describes how space, time, and gravity really work. It comes in two parts: Special Relativity (1905) deals with objects moving very fast, and General Relativity (1915) explains how massive objects bend space and time around them.",
+        "he": "התיאוריה המהפכנית של איינשטיין המתארת כיצד מרחב, זמן וכבידה באמת עובדים. היא מגיעה בשני חלקים: יחסות פרטית (1905) עוסקת בעצמים הנעים מהר מאוד, ויחסות כללית (1915) מסבירה כיצד עצמים בעלי מסה גדולה מעקלים את המרחב והזמן סביבם."
+      },
+      "category": "physics"
+    },
+    {
+      "id": "t-d23-02",
+      "term": { "en": "E=mc²", "he": "E=mc²" },
+      "definition": {
+        "en": "Einstein's most famous equation, which states that energy (E) equals mass (m) multiplied by the speed of light (c) squared. This tells us that even a tiny amount of mass contains an enormous amount of energy — the principle behind nuclear power and atomic bombs.",
+        "he": "המשוואה המפורסמת ביותר של איינשטיין, הקובעת שאנרגיה (E) שווה למסה (m) כפול מהירות האור (c) בריבוע. זה אומר לנו שאפילו כמות קטנה של מסה מכילה כמות עצומה של אנרגיה — העיקרון שמאחורי אנרגיה גרעינית ופצצות אטום."
+      },
+      "category": "physics"
+    },
+    {
+      "id": "t-d23-03",
+      "term": { "en": "Space-time", "he": "מרחב-זמן" },
+      "definition": {
+        "en": "Einstein's idea that space (the three dimensions we move through) and time are not separate but are woven together into a single four-dimensional 'fabric'. Massive objects like stars and planets create curves in this fabric, which we experience as gravity.",
+        "he": "הרעיון של איינשטיין שהמרחב (שלושת הממדים שאנחנו נעים דרכם) והזמן אינם נפרדים אלא שזורים יחד ל'בד' ארבע-ממדי אחד. עצמים בעלי מסה גדולה כמו כוכבים וכוכבי לכת יוצרים עקמומיות ב'בד' הזה, אותה אנחנו חווים ככבידה."
+      },
+      "category": "physics"
+    },
+    {
+      "id": "t-d23-04",
+      "term": { "en": "Speed of Light", "he": "מהירות האור" },
+      "definition": {
+        "en": "The fastest speed possible in the universe — about 300,000 kilometers per second. Einstein showed that nothing with mass can ever reach this speed, and that light always travels at this speed no matter how fast the source is moving.",
+        "he": "המהירות המרבית האפשרית ביקום — כ-300,000 קילומטר בשנייה. איינשטיין הראה שאף דבר שיש לו מסה לא יכול להגיע למהירות זו, ושאור תמיד נע במהירות זו לא משנה כמה מהר זזה המקור."
+      },
+      "category": "physics"
+    },
+    {
+      "id": "t-d23-05",
+      "term": { "en": "Photoelectric Effect", "he": "אפקט פוטואלקטרי" },
+      "definition": {
+        "en": "The phenomenon where light shining on a metal surface causes electrons to be released. Einstein explained this by proposing that light travels in small packets of energy called photons. This explanation won him the Nobel Prize and helped start quantum physics.",
+        "he": "התופעה שבה אור הנופל על פני מתכת גורם לשחרור אלקטרונים. איינשטיין הסביר זאת על ידי הצעה שאור נע בחבילות קטנות של אנרגיה הנקראות פוטונים. הסבר זה זיכה אותו בפרס נובל ועזר להתחיל את הפיזיקה הקוונטית."
+      },
+      "category": "physics"
+    },
+    {
+      "id": "t-d23-06",
+      "term": { "en": "Gravity", "he": "כבידה" },
+      "definition": {
+        "en": "The force of attraction between any two objects that have mass. Einstein reimagined gravity not as a simple pulling force (as Newton described) but as the result of massive objects bending the fabric of space-time, causing other objects to move along curved paths.",
+        "he": "כוח המשיכה בין שני עצמים שיש להם מסה. איינשטיין דמיין מחדש את הכבידה לא ככוח משיכה פשוט (כפי שתיאר ניוטון) אלא כתוצאה של עצמים בעלי מסה גדולה המעקלים את מרקם המרחב-זמן, מה שגורם לעצמים אחרים לנוע לאורך נתיבים מעוקלים."
+      },
+      "category": "physics"
+    },
+    {
+      "id": "t-d23-07",
+      "term": { "en": "Photon", "he": "פוטון" },
+      "definition": {
+        "en": "A tiny 'packet' (quantum) of light or other electromagnetic radiation. Einstein proposed that light is made of these discrete packets of energy, not just continuous waves. Photons have no mass and always travel at the speed of light.",
+        "he": "חבילה זעירה ('קוונט') של אור או קרינה אלקטרומגנטית אחרת. איינשטיין הציע שאור מורכב מחבילות אנרגיה נפרדות אלה, ולא רק מגלים רציפים. לפוטונים אין מסה והם תמיד נעים במהירות האור."
+      },
+      "category": "physics"
+    },
+    {
+      "id": "t-d23-08",
+      "term": { "en": "Nuclear Fission", "he": "ביקוע גרעיני" },
+      "definition": {
+        "en": "The process of splitting the nucleus of a heavy atom (like uranium) into smaller parts, releasing a huge amount of energy. This is explained by Einstein's E=mc² equation, and it is the principle behind both nuclear power plants and atomic bombs.",
+        "he": "תהליך פיצול גרעינה של אטום כבד (כמו אורניום) לחלקים קטנים יותר, תוך שחרור כמות עצומה של אנרגיה. זה מוסבר על ידי משוואת E=mc² של איינשטיין, וזהו העיקרון שמאחורי תחנות כוח גרעיניות ופצצות אטום."
+      },
+      "category": "nuclear physics"
+    },
+    {
+      "id": "t-d23-09",
+      "term": { "en": "Time Dilation", "he": "התארכות זמן" },
+      "definition": {
+        "en": "According to Einstein's relativity, time does not pass at the same rate for everyone. A clock moving very fast will tick more slowly than a stationary clock. This effect is tiny in everyday life but must be corrected for in GPS satellites.",
+        "he": "לפי תורת היחסות של איינשטיין, הזמן אינו חולף באותו קצב עבור כולם. שעון הנע מהר מאוד ידפוק לאט יותר מאשר שעון דומם. ההשפעה הזו קטנה בחיי היומיום אך יש לתקן אותה בלוויני GPS."
+      },
+      "category": "physics"
+    },
+    {
+      "id": "t-d23-10",
+      "term": { "en": "Quantum Theory", "he": "תורת הקוונטים" },
+      "definition": {
+        "en": "A branch of physics that describes how very small things like atoms and particles behave. Quantum theory says that energy comes in tiny, discrete packets (quanta) rather than flowing continuously. Einstein's work on the photoelectric effect was one of the key starting points for this theory.",
+        "he": "ענף של פיזיקה המתאר כיצד דברים קטנים מאוד כמו אטומים וחלקיקים מתנהגים. תורת הקוונטים אומרת שאנרגיה מגיעה בחבילות קטנות ונפרדות (קוונטים) ולא זורמת ברציפות. עבודתו של איינשטיין על האפקט הפוטואלקטרי הייתה אחת מנקודות המוצא המרכזיות לתיאוריה זו."
+      },
+      "category": "physics"
+    },
+    {
+      "id": "t-d23-11",
+      "term": { "en": "Black Hole", "he": "חור שחור" },
+      "definition": {
+        "en": "A region in space where the pull of gravity is so strong that nothing — not even light — can escape. Black holes are predicted by Einstein's General Theory of Relativity. They form when a massive star collapses under its own gravity at the end of its life.",
+        "he": "אזור בחלל שבו כוח המשיכה חזק כל כך שדבר — אפילו לא אור — לא יכול לברוח ממנו. חורים שחורים נצפו על פי תורת היחסות הכללית של איינשטיין. הם נוצרים כאשר כוכב ענקי מתמוטט תחת כוח הכבידה שלו עצמו בסוף חייו."
+      },
+      "category": "astrophysics"
+    },
+    {
+      "id": "t-d23-12",
+      "term": { "en": "Mass", "he": "מסה" },
+      "definition": {
+        "en": "The amount of matter an object contains. Mass is different from weight — weight depends on gravity, but mass stays the same everywhere in the universe. In Einstein's equation E=mc², mass can be converted into energy.",
+        "he": "כמות החומר שמכיל עצם. מסה שונה ממשקל — משקל תלוי בכבידה, אך מסה נשארת זהה בכל מקום ביקום. במשוואת E=mc² של איינשטיין, ניתן להמיר מסה לאנרגיה."
+      },
+      "category": "physics"
+    },
+    {
+      "id": "t-d23-13",
+      "term": { "en": "Solar Eclipse", "he": "ליקוי חמה" },
+      "definition": {
+        "en": "An astronomical event where the Moon passes between the Earth and the Sun, temporarily blocking sunlight. The 1919 solar eclipse was crucial for science because astronomers used it to confirm Einstein's prediction that the Sun's gravity bends the path of light from distant stars.",
+        "he": "אירוע אסטרונומי שבו הירח עובר בין כדור הארץ לשמש ומחסום זמנית את אור השמש. ליקוי החמה של 1919 היה מכריע למדע כי אסטרונומים השתמשו בו כדי לאשר את תחזיתו של איינשטיין שכבידת השמש מעקלת את מסלול האור מכוכבים רחוקים."
+      },
+      "category": "astronomy"
+    },
+    {
+      "id": "t-d23-14",
+      "term": { "en": "Manhattan Project", "he": "פרויקט מנהטן" },
+      "definition": {
+        "en": "The secret research program during World War II that developed the first atomic bomb, drawing on Einstein's E=mc² formula. Although Einstein himself did not directly work on the project, his letter to President Roosevelt warning about the possibility of a German atomic bomb helped get it started.",
+        "he": "תכנית המחקר הסודית במהלך מלחמת העולם השנייה שפיתחה את פצצת האטום הראשונה, תוך שימוש בנוסחת E=mc² של איינשטיין. למרות שאיינשטיין עצמו לא עבד ישירות על הפרויקט, מכתבו לנשיא רוזוולט שהזהיר מפני האפשרות של פצצת אטום גרמנית עזר לגרום לתחילתו."
+      },
+      "category": "science history"
+    },
+    {
+      "id": "t-d23-15",
+      "term": { "en": "Thought Experiment", "he": "ניסוי מחשבתי" },
+      "definition": {
+        "en": "An imaginary experiment carried out purely in the mind, not in a real laboratory. Einstein was famous for his thought experiments — for example, he imagined what it would be like to ride alongside a beam of light, which helped him develop his Theory of Relativity.",
+        "he": "ניסוי דמיוני המתבצע אך ורק במוח, לא במעבדה אמיתית. איינשטיין היה מפורסם בניסויי המחשבה שלו — לדוגמה, הוא דמיין כיצד יהיה לרכב לצד קרן אור, מה שעזר לו לפתח את תורת היחסות."
+      },
+      "category": "science practice"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q-d23-01",
+      "question": {
+        "en": "What does Einstein's famous equation E=mc² tell us?",
+        "he": "מה אומרת לנו המשוואה המפורסמת של איינשטיין E=mc²?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Energy equals mass divided by the speed of light", "he": "אנרגיה שווה מסה חלקי מהירות האור" } },
+        { "id": "b", "text": { "en": "Energy and mass are equivalent and can be converted into each other", "he": "אנרגיה ומסה שקולות וניתנות להמרה זו בזו" } },
+        { "id": "c", "text": { "en": "Everything moves at the same speed", "he": "הכל נע באותה מהירות" } },
+        { "id": "d", "text": { "en": "Mass always stays the same no matter what", "he": "מסה תמיד נשארת אותו דבר לא משנה מה" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "E=mc² means that energy (E) equals mass (m) multiplied by the speed of light (c) squared. Because the speed of light is enormous, even a tiny amount of mass contains a huge amount of energy. This principle makes nuclear power and atomic weapons possible.",
+        "he": "E=mc² אומר שאנרגיה (E) שווה למסה (m) כפול מהירות האור (c) בריבוע. מכיוון שמהירות האור עצומה, אפילו כמות קטנה של מסה מכילה כמות עצומה של אנרגיה. עיקרון זה מאפשר אנרגיה גרעינית ונשק אטומי."
+      }
+    },
+    {
+      "id": "q-d23-02",
+      "question": {
+        "en": "In which country was Albert Einstein born?",
+        "he": "באיזו מדינה נולד אלברט איינשטיין?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Switzerland", "he": "שווייץ" } },
+        { "id": "b", "text": { "en": "Austria", "he": "אוסטריה" } },
+        { "id": "c", "text": { "en": "Germany", "he": "גרמניה" } },
+        { "id": "d", "text": { "en": "United States", "he": "ארצות הברית" } }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Albert Einstein was born in Ulm, Germany, in 1879. He later lived in Switzerland and Italy, and eventually emigrated to the United States in 1933 to escape the rise of the Nazi regime in Germany.",
+        "he": "אלברט איינשטיין נולד באולם, גרמניה, בשנת 1879. הוא חי לאחר מכן בשווייץ ובאיטליה, ולבסוף עלה לארצות הברית בשנת 1933 כדי להימלט מעלייתו של המשטר הנאצי בגרמניה."
+      }
+    },
+    {
+      "id": "q-d23-03",
+      "question": {
+        "en": "For which discovery did Einstein actually win the Nobel Prize?",
+        "he": "על איזה גילוי זכה איינשטיין בפרס נובל?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "The Theory of Relativity", "he": "תורת היחסות" } },
+        { "id": "b", "text": { "en": "The invention of the atom bomb", "he": "המצאת פצצת האטום" } },
+        { "id": "c", "text": { "en": "Discovering the electron", "he": "גילוי האלקטרון" } },
+        { "id": "d", "text": { "en": "Explaining the photoelectric effect", "he": "הסבר האפקט הפוטואלקטרי" } }
+      ],
+      "correctChoice": "d",
+      "explanation": {
+        "en": "Surprisingly, Einstein did not win the Nobel Prize for the Theory of Relativity. He was awarded the 1921 Nobel Prize in Physics for his explanation of the photoelectric effect — showing that light behaves as packets of energy (photons). This was a key foundation for quantum mechanics.",
+        "he": "באופן מפתיע, איינשטיין לא זכה בפרס נובל על תורת היחסות. הוא קיבל את פרס נובל לפיזיקה לשנת 1921 על הסברו לאפקט הפוטואלקטרי — שהראה שאור מתנהג כחבילות אנרגיה (פוטונים). זו הייתה בסיס מרכזי למכניקת הקוונטים."
+      }
+    },
+    {
+      "id": "q-d23-04",
+      "question": {
+        "en": "What is 1905 often called in relation to Einstein?",
+        "he": "כיצד מכנים לעיתים קרובות את שנת 1905 ביחס לאיינשטיין?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "His Nobel year", "he": "שנת הנובל שלו" } },
+        { "id": "b", "text": { "en": "His miracle year", "he": "שנת הניסים שלו" } },
+        { "id": "c", "text": { "en": "His lost year", "he": "שנת האבוד שלו" } },
+        { "id": "d", "text": { "en": "His graduation year", "he": "שנת הסיום שלו" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "1905 is called Einstein's 'miracle year' (Annus Mirabilis in Latin) because in that single year he published four revolutionary papers — on the photoelectric effect, Brownian motion, Special Relativity, and mass-energy equivalence — that each transformed physics in a major way.",
+        "he": "שנת 1905 נקראת 'שנת הנסים' של איינשטיין (Annus Mirabilis בלטינית) מכיוון שבאותה שנה בלבד פרסם ארבעה מאמרים מהפכניים — על האפקט הפוטואלקטרי, תנועה בראונית, יחסות פרטית ושקילות מסה-אנרגיה — שכל אחד מהם שינה את הפיזיקה בצורה משמעותית."
+      }
+    },
+    {
+      "id": "q-d23-05",
+      "question": {
+        "en": "What happens to time when an object moves very fast, according to Einstein?",
+        "he": "מה קורה לזמן כאשר עצם נע מהר מאוד, לפי איינשטיין?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Time stops completely", "he": "הזמן עוצר לחלוטין" } },
+        { "id": "b", "text": { "en": "Time speeds up", "he": "הזמן מואץ" } },
+        { "id": "c", "text": { "en": "Time passes more slowly", "he": "הזמן חולף לאט יותר" } },
+        { "id": "d", "text": { "en": "Time is not affected by speed", "he": "הזמן אינו מושפע ממהירות" } }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "According to Einstein's Special Theory of Relativity, time passes more slowly for objects moving at very high speeds — a phenomenon called time dilation. This effect is tiny at everyday speeds but significant near the speed of light, and must even be accounted for in GPS satellite systems.",
+        "he": "לפי תורת היחסות הפרטית של איינשטיין, הזמן חולף לאט יותר עבור עצמים הנעים במהירויות גבוהות מאוד — תופעה הנקראת התארכות זמן. ההשפעה הזו זעירה במהירויות יומיומיות אך משמעותית בסמוך למהירות האור, ואפילו צריך להתחשב בה במערכות לוויני GPS."
+      }
+    },
+    {
+      "id": "q-d23-06",
+      "question": {
+        "en": "What did the 1919 solar eclipse help scientists confirm about Einstein's theory?",
+        "he": "מה עזר ליקוי החמה של 1919 למדענים לאשר בנוגע לתיאוריה של איינשטיין?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "That the Sun is made of hydrogen", "he": "שהשמש עשויה ממימן" } },
+        { "id": "b", "text": { "en": "That light from stars bends around the Sun's gravity", "he": "שאור מכוכבים מתעקל סביב כוח הכבידה של השמש" } },
+        { "id": "c", "text": { "en": "That the Moon orbits the Earth", "he": "שהירח מקיף את כדור הארץ" } },
+        { "id": "d", "text": { "en": "That E=mc² is correct", "he": "ש-E=mc² נכון" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "During the 1919 solar eclipse, astronomer Arthur Eddington photographed stars near the Sun and confirmed that their light was bent by the Sun's gravity — exactly as Einstein's General Theory of Relativity predicted. This made Einstein world-famous overnight.",
+        "he": "במהלך ליקוי החמה של 1919, צילם האסטרונום ארתור אדינגטון כוכבים ליד השמש ואישר שהאור שלהם מתעקל על ידי כוח הכבידה של השמש — בדיוק כפי שחזתה תורת היחסות הכללית של איינשטיין. זה הפך את איינשטיין למפורסם בעולם כל לילה."
+      }
+    },
+    {
+      "id": "q-d23-07",
+      "question": {
+        "en": "To which country did Einstein move when the Nazis came to power in Germany?",
+        "he": "לאיזו מדינה עבר איינשטיין כשהנאצים עלו לשלטון בגרמניה?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "England", "he": "אנגליה" } },
+        { "id": "b", "text": { "en": "France", "he": "צרפת" } },
+        { "id": "c", "text": { "en": "Canada", "he": "קנדה" } },
+        { "id": "d", "text": { "en": "United States", "he": "ארצות הברית" } }
+      ],
+      "correctChoice": "d",
+      "explanation": {
+        "en": "When Adolf Hitler and the Nazi Party came to power in Germany in 1933, Einstein — who was Jewish — was in the United States on a visit and chose not to return. He settled at Princeton University in New Jersey, where he continued his research until his death in 1955.",
+        "he": "כשאדולף היטלר והמפלגה הנאצית עלו לשלטון בגרמניה בשנת 1933, איינשטיין — שהיה יהודי — היה בביקור בארצות הברית ובחר שלא לחזור. הוא התיישב באוניברסיטת פרינסטון בניו ג'רזי, שם המשיך במחקריו עד מותו בשנת 1955."
+      }
+    },
+    {
+      "id": "q-d23-08",
+      "question": {
+        "en": "What is a 'thought experiment'?",
+        "he": "מהו 'ניסוי מחשבתי'?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "An experiment done with a very powerful microscope", "he": "ניסוי שנעשה עם מיקרוסקופ רב עוצמה" } },
+        { "id": "b", "text": { "en": "An imaginary experiment carried out in the mind", "he": "ניסוי דמיוני המתבצע במוח" } },
+        { "id": "c", "text": { "en": "A computer simulation of a science problem", "he": "סימולציית מחשב של בעיה מדעית" } },
+        { "id": "d", "text": { "en": "An experiment designed to test memory", "he": "ניסוי שתוכנן לבחינת זיכרון" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "A thought experiment is an imaginary scenario you play out in your mind to reason through a scientific question. Einstein was famous for thought experiments — like imagining chasing a beam of light — which helped him develop his theories without needing a lab.",
+        "he": "ניסוי מחשבתי הוא תרחיש דמיוני שאתה מנהל במוחך כדי לחשוב דרך שאלה מדעית. איינשטיין היה מפורסם בניסויי מחשבה — כמו דמיון רדיפה אחר קרן אור — שעזרו לו לפתח את תיאוריותיו ללא צורך במעבדה."
+      }
+    },
+    {
+      "id": "q-d23-09",
+      "question": {
+        "en": "What does Einstein's General Theory of Relativity say about gravity?",
+        "he": "מה אומרת תורת היחסות הכללית של איינשטיין על כבידה?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Gravity is a magnetic force", "he": "כבידה היא כוח מגנטי" } },
+        { "id": "b", "text": { "en": "Gravity is caused by massive objects bending space-time", "he": "כבידה נגרמת על ידי עצמים בעלי מסה גדולה המעקלים את המרחב-זמן" } },
+        { "id": "c", "text": { "en": "Gravity only works on Earth", "he": "כבידה עובדת רק על כדור הארץ" } },
+        { "id": "d", "text": { "en": "Gravity pulls objects downward at 9.8 meters per second", "he": "כבידה מושכת עצמים כלפי מטה ב-9.8 מטרים לשנייה" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Einstein's General Theory of Relativity describes gravity not as a mysterious pulling force (Newton's view), but as the result of massive objects bending the fabric of space-time. Other objects then move along the curved paths created by this bending — what we observe as gravitational attraction.",
+        "he": "תורת היחסות הכללית של איינשטיין מתארת כבידה לא ככוח משיכה מסתורי (השקפת ניוטון), אלא כתוצאה של עצמים בעלי מסה גדולה המעקלים את מרקם המרחב-זמן. עצמים אחרים נעים לאחר מכן לאורך הנתיבים המעוקלים שנוצרו על ידי עיקול זה — מה שאנחנו מתבוננים בו ככוח הכבידה."
+      }
+    },
+    {
+      "id": "q-d23-10",
+      "question": {
+        "en": "What is the fastest speed possible in the universe, according to Einstein?",
+        "he": "מה המהירות המרבית האפשרית ביקום, לפי איינשטיין?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "The speed of sound", "he": "מהירות הקול" } },
+        { "id": "b", "text": { "en": "There is no speed limit", "he": "אין מגבלת מהירות" } },
+        { "id": "c", "text": { "en": "The speed of a rocket", "he": "מהירות רקטה" } },
+        { "id": "d", "text": { "en": "The speed of light", "he": "מהירות האור" } }
+      ],
+      "correctChoice": "d",
+      "explanation": {
+        "en": "According to Einstein's theories, the speed of light — approximately 300,000 kilometers per second — is the absolute speed limit of the universe. Nothing with mass can ever reach this speed, and the closer an object gets to the speed of light, the more energy it takes to accelerate it further.",
+        "he": "לפי תיאוריות איינשטיין, מהירות האור — כ-300,000 קילומטר לשנייה — היא מגבלת המהירות המוחלטת של היקום. שום דבר שיש לו מסה לא יכול להגיע למהירות זו, וככל שעצם מתקרב למהירות האור, כך נדרשת יותר אנרגיה להאיץ אותו עוד."
+      }
+    }
+  ],
+  "videoSources": ["sZtciZt0GlY"]
+}

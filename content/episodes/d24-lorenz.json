@@ -1,0 +1,343 @@
+{
+  "id": "d24-lorenz",
+  "episodeNumber": 24,
+  "youtubeId": "O9Rik3dHemg",
+  "title": {
+    "en": "Konrad Lorenz, Father of the Geese",
+    "he": "קונרד לורנץ, אבי האווזים"
+  },
+  "summary": {
+    "en": "This episode tells the story of Konrad Lorenz, the Austrian scientist who founded the science of ethology — the study of animal behavior in natural conditions. From childhood, Lorenz was fascinated by animals and kept a virtual menagerie at his family home, carefully observing how creatures behaved and communicated. His most famous discovery was 'imprinting' — the process by which newborn animals, such as goslings (baby geese), attach themselves to the first moving creature they see shortly after hatching, normally their mother, and follow it everywhere. Lorenz showed that this attachment forms during a critical window of time and cannot easily be reversed, demonstrating that some complex behaviors are built into animals genetically rather than learned. He also studied how animals communicate — through sounds, postures, and rituals — and argued that understanding animal instincts could shed light on human behavior as well. In 1973, Lorenz shared the Nobel Prize in Physiology or Medicine with Nikolaas Tinbergen and Karl von Frisch for their discoveries in animal behavior research.",
+    "he": "פרק זה מספר את סיפורו של קונרד לורנץ, המדען האוסטרי שייסד את מדע האתולוגיה — חקר התנהגות בעלי חיים בתנאים טבעיים. מילדותו, לורנץ היה מוקסם מבעלי חיים והחזיק גן חיות קטן בביתו, ומתבונן בזהירות כיצד יצורים מתנהגים ומתקשרים. גילויו המפורסם ביותר היה 'הטבעה' — התהליך שבו חיות שנולדו, כמו גוזלי אווז, נצמדות לבן הנע הראשון שהן רואות זמן קצר לאחר הבקיעה, בדרך כלל האם, ועוקבות אחריו לכל מקום. לורנץ הראה שהתקשרות זו נוצרת במהלך חלון זמן קריטי ולא ניתן לבטלה בקלות, ומוכיח שהתנהגויות מורכבות מסוימות מוטמעות גנטית בבעלי חיים ולא נלמדות. הוא גם חקר כיצד בעלי חיים מתקשרים — דרך קולות, תנוחות וטקסים — וטען שהבנת אינסטינקטים של בעלי חיים יכולה לשפוך אור גם על התנהגות האדם. בשנת 1973, חלק לורנץ בפרס נובל לפיזיולוגיה או לרפואה עם ניקולאס טינברגן וקרל פון פריש על גילוייהם במחקר התנהגות בעלי חיים."
+  },
+  "thumbnail": "https://img.youtube.com/vi/O9Rik3dHemg/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": [
+    "Konrad Lorenz",
+    "ethology (animal behavior)",
+    "imprinting",
+    "instinct vs learning",
+    "Nobel Prize",
+    "animal communication"
+  ],
+  "terminology": [
+    {
+      "id": "t-d24-01",
+      "term": { "en": "Ethology", "he": "אתולוגיה" },
+      "definition": {
+        "en": "The scientific study of animal behavior in natural settings. Ethologists observe how animals actually live and act in the wild or in their natural environment, rather than only in laboratories. Konrad Lorenz is considered one of the founders of this science.",
+        "he": "המחקר המדעי של התנהגות בעלי חיים בסביבתם הטבעית. אתולוגים מתבוננים כיצד בעלי חיים חיים ומתנהגים בטבע או בסביבתם הטבעית, ולא רק במעבדות. קונרד לורנץ נחשב לאחד ממייסדי מדע זה."
+      },
+      "category": "biology"
+    },
+    {
+      "id": "t-d24-02",
+      "term": { "en": "Imprinting", "he": "הטבעה" },
+      "definition": {
+        "en": "A special type of rapid learning that happens during a short critical period just after an animal is born or hatches. Goslings (baby geese), for example, will attach to and follow the first moving object they see — usually their mother — and this attachment becomes permanent.",
+        "he": "סוג מיוחד של למידה מהירה המתרחשת במהלך תקופה קצרה וקריטית מיד לאחר לידת בעל חיים או בקיעתו. גוזלי אווז, לדוגמה, יתקשרו וילכו בעקבות האובייקט הנע הראשון שהם רואים — בדרך כלל האם שלהם — וקשר זה הופך לקבוע."
+      },
+      "category": "animal behavior"
+    },
+    {
+      "id": "t-d24-03",
+      "term": { "en": "Instinct", "he": "אינסטינקט" },
+      "definition": {
+        "en": "A behavior that an animal is born knowing how to do, without needing to learn it. For example, a baby bird knows how to beg for food instinctively, and a spider knows how to spin a web without ever being taught. Lorenz studied how instincts work and why they evolved.",
+        "he": "התנהגות שבעל חיים יודע לעשות מלידה, ללא צורך ללמוד אותה. לדוגמה, ציפור גוזל יודעת כיצד להתחנן לאוכל מאינסטינקט, ועכביש יודע כיצד לארוג קורים ללא שנלמד. לורנץ חקר כיצד פועלים אינסטינקטים ומדוע התפתחו."
+      },
+      "category": "animal behavior"
+    },
+    {
+      "id": "t-d24-04",
+      "term": { "en": "Critical Period", "he": "תקופה קריטית" },
+      "definition": {
+        "en": "A specific window of time early in an animal's life during which certain kinds of learning or development must occur. If the opportunity is missed during this period, the learning may not happen properly later. Imprinting in geese happens during a critical period of just a few hours after hatching.",
+        "he": "חלון זמן ספציפי מוקדם בחיי בעל חיים שבמהלכו חייבים להתרחש סוגים מסוימים של למידה או התפתחות. אם ההזדמנות תוחמץ במהלך תקופה זו, הלמידה עשויה שלא להתרחש כראוי מאוחר יותר. הטבעה באווזים מתרחשת בתקופה קריטית של כמה שעות בלבד לאחר הבקיעה."
+      },
+      "category": "animal behavior"
+    },
+    {
+      "id": "t-d24-05",
+      "term": { "en": "Gosling", "he": "גוזל אווז" },
+      "definition": {
+        "en": "A baby goose. Konrad Lorenz became famous for raising goslings that imprinted on him and followed him everywhere as if he were their mother — wadling after him in a line and calling to him when he walked away.",
+        "he": "אווז גוזל. קונרד לורנץ נעשה מפורסם בגידול גוזלי אווז שהוטבעו עליו ועקבו אחריו לכל מקום כאילו היה אמם — מכורבלים אחריו בשורה וצועקים אליו כשהלך."
+      },
+      "category": "zoology"
+    },
+    {
+      "id": "t-d24-06",
+      "term": { "en": "Animal Communication", "he": "תקשורת בין בעלי חיים" },
+      "definition": {
+        "en": "The ways animals send and receive signals or information to and from each other. Animals communicate through sounds (like bird songs), visual displays (like peacock feathers), body postures, chemical signals (scents), and touch.",
+        "he": "הדרכים שבהן בעלי חיים שולחים ומקבלים אותות או מידע זה לזה. בעלי חיים מתקשרים דרך קולות (כמו שירת ציפורים), תצוגות חזותיות (כמו נוצות טווס), תנוחות גוף, אותות כימיים (ריחות) ומגע."
+      },
+      "category": "animal behavior"
+    },
+    {
+      "id": "t-d24-07",
+      "term": { "en": "Aggression", "he": "תוקפנות" },
+      "definition": {
+        "en": "Threatening or harmful behavior directed toward another animal. Lorenz wrote extensively about aggression in animals, arguing that it often serves important biological purposes — like establishing territory or dominance — and rarely leads to the death of a member of the same species.",
+        "he": "התנהגות מאיימת או מזיקה המכוונת כלפי בעל חיים אחר. לורנץ כתב רבות על תוקפנות בבעלי חיים, וטען שלעיתים קרובות היא משרתת מטרות ביולוגיות חשובות — כמו ביסוס טריטוריה או דומיננטיות — ולעיתים נדירות מובילה למותו של בן אותה המין."
+      },
+      "category": "animal behavior"
+    },
+    {
+      "id": "t-d24-08",
+      "term": { "en": "Territory", "he": "טריטוריה" },
+      "definition": {
+        "en": "An area that an animal defends against other members of its own species (or sometimes other animals). Animals defend territories to protect food sources, nesting sites, or mates. Territorial behavior is often marked by calls, scent markings, or displays rather than actual fighting.",
+        "he": "אזור שבעל חיים מגן עליו מפני בני מינו האחרים (או לפעמים בעלי חיים אחרים). בעלי חיים מגנים על טריטוריות כדי להגן על מקורות מזון, אתרי קינון, או בני זוג. התנהגות טריטוריאלית מסומנת לעיתים קרובות בקריאות, סימוני ריח, או תצוגות ולא בקרבות אמיתיים."
+      },
+      "category": "animal behavior"
+    },
+    {
+      "id": "t-d24-09",
+      "term": { "en": "Fixed Action Pattern", "he": "דפוס פעולה קבוע" },
+      "definition": {
+        "en": "An instinctive behavior sequence that, once started by a trigger (called a 'releaser'), runs to completion automatically. For example, a goose will always roll a displaced egg back to its nest in the same way, even if the egg is removed mid-action.",
+        "he": "רצף התנהגות אינסטינקטיבי שברגע שמופעל על ידי גורם מפעיל (הנקרא 'משחרר'), מתנהל עד לסיום באופן אוטומטי. לדוגמה, אווז תמיד תגלגל ביצה שעקרה חזרה לקן שלה באותו אופן, גם אם הביצה תוסר באמצע הפעולה."
+      },
+      "category": "animal behavior"
+    },
+    {
+      "id": "t-d24-10",
+      "term": { "en": "Evolution", "he": "אבולוציה" },
+      "definition": {
+        "en": "The slow process by which living things change over many generations, with traits that help survival being passed on more often. Lorenz saw animal behaviors — not just bodies — as products of evolution, shaped because they helped animals survive and reproduce.",
+        "he": "התהליך האיטי שבו יצורים חיים משתנים על פני דורות רבים, כשתכונות המסייעות להישרדות מועברות בתדירות גבוהה יותר. לורנץ ראה בהתנהגויות בעלי חיים — לא רק גוף — תוצרי אבולוציה, שעוצבו מכיוון שעזרו לבעלי חיים לשרוד ולהתרבות."
+      },
+      "category": "biology"
+    },
+    {
+      "id": "t-d24-11",
+      "term": { "en": "Observation", "he": "תצפית" },
+      "definition": {
+        "en": "Watching something carefully and recording what you see. Careful observation is the foundation of ethology — Lorenz spent thousands of hours watching animals behave naturally, noting patterns and asking questions about why they behave as they do.",
+        "he": "התבוננות בזהירות במשהו ורישום מה שרואים. תצפית זהירה היא הבסיס של האתולוגיה — לורנץ בילה אלפי שעות בצפייה בהתנהגות טבעית של בעלי חיים, ורישום דפוסים ושאלות לגבי מדוע הם מתנהגים כפי שהם מתנהגים."
+      },
+      "category": "science practice"
+    },
+    {
+      "id": "t-d24-12",
+      "term": { "en": "Migration", "he": "הגירה" },
+      "definition": {
+        "en": "The regular, seasonal movement of animals from one region to another, usually for breeding or to find food. Many birds, fish, and mammals migrate thousands of kilometers every year, guided by instinct and environmental cues like the position of the Sun or magnetic fields.",
+        "he": "התנועה הסדירה והעונתית של בעלי חיים מאזור אחד לאחר, בדרך כלל לצורך רבייה או מציאת מזון. ציפורים, דגים ויונקים רבים נודדים אלפי קילומטרים בכל שנה, מונחים על ידי אינסטינקט ורמזים סביבתיים כמו מיקום השמש או שדות מגנטיים."
+      },
+      "category": "animal behavior"
+    },
+    {
+      "id": "t-d24-13",
+      "term": { "en": "Stimulus", "he": "גירוי" },
+      "definition": {
+        "en": "Something in the environment that triggers a response in an animal. For example, the red spot on the beak of a herring gull acts as a stimulus that causes baby chicks to peck at it, which triggers the parent to regurgitate food.",
+        "he": "משהו בסביבה שמפעיל תגובה בבעל חיים. לדוגמה, הנקודה האדומה על מקורה של שחף גלי פועלת כגירוי שגורם לאפרוחים לנקר עליו, מה שגורם להורה להקיא מזון."
+      },
+      "category": "animal behavior"
+    },
+    {
+      "id": "t-d24-14",
+      "term": { "en": "Domestication", "he": "ביות" },
+      "definition": {
+        "en": "The process of taming wild animals over many generations so they become accustomed to living with humans. Dogs, cats, horses, and farm animals are all domesticated. Lorenz was interested in how domestication changes animal behavior compared to wild relatives.",
+        "he": "התהליך של אילוף בעלי חיים פראיים על פני דורות רבים כך שהם מתרגלים לחיות עם בני אדם. כלבים, חתולים, סוסים ובעלי חיים חקלאיים הם כולם מבויתים. לורנץ התעניין כיצד הביות משנה את התנהגות בעלי החיים בהשוואה לקרוביהם הפראיים."
+      },
+      "category": "zoology"
+    },
+    {
+      "id": "t-d24-15",
+      "term": { "en": "Nobel Prize in Physiology or Medicine", "he": "פרס נובל לפיזיולוגיה או לרפואה" },
+      "definition": {
+        "en": "One of the Nobel Prizes awarded each year for outstanding discoveries in the life sciences or medicine. Konrad Lorenz shared this prize in 1973 with Nikolaas Tinbergen and Karl von Frisch for their pioneering work on animal behavior.",
+        "he": "אחד מפרסי הנובל הניתנים מדי שנה על גילויים יוצאי דופן במדעי החיים או ברפואה. קונרד לורנץ חלק בפרס זה בשנת 1973 עם ניקולאס טינברגן וקרל פון פריש על עבודתם החלוצה בהתנהגות בעלי חיים."
+      },
+      "category": "science history"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q-d24-01",
+      "question": {
+        "en": "What is the science of studying animal behavior in natural settings called?",
+        "he": "כיצד נקרא המדע החוקר את התנהגות בעלי החיים בסביבתם הטבעית?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Zoology", "he": "זואולוגיה" } },
+        { "id": "b", "text": { "en": "Ecology", "he": "אקולוגיה" } },
+        { "id": "c", "text": { "en": "Ethology", "he": "אתולוגיה" } },
+        { "id": "d", "text": { "en": "Botany", "he": "בוטניקה" } }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Ethology is the scientific study of animal behavior in natural conditions. Konrad Lorenz is one of the founding fathers of this field, which focuses on observing animals as they actually behave in the wild rather than in artificial laboratory settings.",
+        "he": "אתולוגיה היא המחקר המדעי של התנהגות בעלי חיים בתנאים טבעיים. קונרד לורנץ הוא אחד מאבות המייסדים של תחום זה, המתמקד בתצפית על בעלי חיים כפי שהם מתנהגים בפועל בטבע ולא בסביבות מעבדה מלאכותיות."
+      }
+    },
+    {
+      "id": "q-d24-02",
+      "question": {
+        "en": "What is 'imprinting' in animals?",
+        "he": "מהי 'הטבעה' בבעלי חיים?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "The way animals mark their territory with scent", "he": "הדרך שבה בעלי חיים מסמנים טריטוריה בריח" } },
+        { "id": "b", "text": { "en": "The rapid attachment a newborn animal forms to the first moving thing it sees", "he": "ההתקשרות המהירה שבעל חיים שנולד יוצר עם הדבר הנע הראשון שהוא רואה" } },
+        { "id": "c", "text": { "en": "The pattern on an animal's fur or feathers", "he": "הדפוס על הפרווה או הנוצות של בעל חיים" } },
+        { "id": "d", "text": { "en": "The way animals learn to find food", "he": "הדרך שבה בעלי חיים לומדים למצוא מזון" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Imprinting is the rapid, irreversible attachment that some newborn animals (especially birds) form toward the first moving object they see after birth or hatching — normally their mother. Lorenz famously demonstrated this by having goslings imprint on him instead of their biological mother.",
+        "he": "הטבעה היא ההתקשרות המהירה והבלתי הפיכה שבעלי חיים שנולדים (במיוחד ציפורים) יוצרים כלפי האובייקט הנע הראשון שהם רואים לאחר הלידה או הבקיעה — בדרך כלל אמם. לורנץ הדגים זאת בצורה מפורסמת על ידי שגרם לגוזלי אווז להטביע עצמם עליו במקום על אמם הביולוגית."
+      }
+    },
+    {
+      "id": "q-d24-03",
+      "question": {
+        "en": "Which animals made Konrad Lorenz famous for his imprinting research?",
+        "he": "אילו בעלי חיים הפכו את קונרד לורנץ למפורסם בזכות מחקר ההטבעה שלו?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Ducks", "he": "ברווזים" } },
+        { "id": "b", "text": { "en": "Geese", "he": "אווזים" } },
+        { "id": "c", "text": { "en": "Chickens", "he": "תרנגולות" } },
+        { "id": "d", "text": { "en": "Penguins", "he": "פינגווינים" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Konrad Lorenz became famous for his work with geese — specifically goslings (baby geese) that imprinted on him and followed him around as if he were their mother. Iconic photographs of Lorenz being followed by a line of goslings became symbols of ethology.",
+        "he": "קונרד לורנץ הפך מפורסם בזכות עבודתו עם אווזים — בפרט גוזלי אווז שהוטבעו עליו ועקבו אחריו כאילו היה אמם. תמונות איקוניות של לורנץ המלוווה בשורת גוזלי אווז הפכו לסמלים של האתולוגיה."
+      }
+    },
+    {
+      "id": "q-d24-04",
+      "question": {
+        "en": "What is a 'critical period' in animal development?",
+        "he": "מהי 'תקופה קריטית' בהתפתחות בעלי חיים?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "The most dangerous time in an animal's life", "he": "הזמן המסוכן ביותר בחיי בעל חיים" } },
+        { "id": "b", "text": { "en": "A short window of time when certain learning must occur", "he": "חלון זמן קצר שבו חייבת להתרחש למידה מסוימת" } },
+        { "id": "c", "text": { "en": "The time when animals are most active", "he": "הזמן שבו בעלי חיים הכי פעילים" } },
+        { "id": "d", "text": { "en": "The breeding season", "he": "עונת הרבייה" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "A critical period is a brief, specific window of time early in an animal's life when a particular type of learning or development must take place. Outside this window, the same learning cannot easily occur. Lorenz showed that imprinting in geese happens during such a critical period — just a few hours after hatching.",
+        "he": "תקופה קריטית היא חלון זמן קצר וספציפי בשלב מוקדם בחיי בעל חיים שבו חייב להתרחש סוג מסוים של למידה או התפתחות. מחוץ לחלון זה, אותה למידה לא יכולה להתרחש בקלות. לורנץ הראה שהטבעה באווזים מתרחשת במהלך תקופה קריטית כזו — רק כמה שעות לאחר הבקיעה."
+      }
+    },
+    {
+      "id": "q-d24-05",
+      "question": {
+        "en": "In which year did Konrad Lorenz win the Nobel Prize?",
+        "he": "באיזו שנה זכה קונרד לורנץ בפרס נובל?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "1953", "he": "1953" } },
+        { "id": "b", "text": { "en": "1965", "he": "1965" } },
+        { "id": "c", "text": { "en": "1973", "he": "1973" } },
+        { "id": "d", "text": { "en": "1981", "he": "1981" } }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Konrad Lorenz won the Nobel Prize in Physiology or Medicine in 1973, together with Nikolaas Tinbergen and Karl von Frisch, for their discoveries concerning organization and elicitation of individual and social behaviour patterns in animals.",
+        "he": "קונרד לורנץ זכה בפרס נובל לפיזיולוגיה או לרפואה בשנת 1973, יחד עם ניקולאס טינברגן וקרל פון פריש, על גילוייהם לגבי ארגון ועוררות של דפוסי התנהגות אינדיבידואלית וחברתית בבעלי חיים."
+      }
+    },
+    {
+      "id": "q-d24-06",
+      "question": {
+        "en": "What is an instinct?",
+        "he": "מהו אינסטינקט?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "A behavior learned from parents", "he": "התנהגות הנלמדת מהורים" } },
+        { "id": "b", "text": { "en": "A behavior taught in school", "he": "התנהגות הנלמדת בבית ספר" } },
+        { "id": "c", "text": { "en": "A behavior an animal is born knowing how to do", "he": "התנהגות שבעל חיים יודע לעשות מלידה" } },
+        { "id": "d", "text": { "en": "A habit formed through repetition", "he": "הרגל שנוצר דרך חזרה" } }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "An instinct is an inborn behavior — something an animal can do without having to learn it. Baby spiders spin webs, salmon return to their birth rivers, and geese migrate south in winter all by instinct. Lorenz studied how these inherited behaviors evolved and function.",
+        "he": "אינסטינקט הוא התנהגות מולדת — משהו שבעל חיים יכול לעשות ללא שנאלץ ללמוד אותו. עכבישים גוזלים טווים קורים, סלמון חוזרים לנהרות לידתם, ואווזים נודדים דרומה בחורף — כולם מאינסטינקט. לורנץ חקר כיצד התנהגויות תורשתיות אלה התפתחו ומתפקדות."
+      }
+    },
+    {
+      "id": "q-d24-07",
+      "question": {
+        "en": "From which country was Konrad Lorenz?",
+        "he": "מאיזו מדינה הגיע קונרד לורנץ?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Germany", "he": "גרמניה" } },
+        { "id": "b", "text": { "en": "Switzerland", "he": "שווייץ" } },
+        { "id": "c", "text": { "en": "Austria", "he": "אוסטריה" } },
+        { "id": "d", "text": { "en": "England", "he": "אנגליה" } }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Konrad Lorenz was born in Vienna, Austria, in 1903. He spent much of his research career at his family home in Altenberg, Austria, where he kept and observed a wide variety of animals.",
+        "he": "קונרד לורנץ נולד בווינה, אוסטריה, בשנת 1903. הוא בילה את רוב הקריירה המחקרית שלו בבית משפחתו באלטנברג, אוסטריה, שם הוא שמר ותצפה על מגוון רחב של בעלי חיים."
+      }
+    },
+    {
+      "id": "q-d24-08",
+      "question": {
+        "en": "Why do animals defend territories?",
+        "he": "מדוע בעלי חיים מגנים על טריטוריות?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Just for fun", "he": "סתם לכיף" } },
+        { "id": "b", "text": { "en": "To protect food sources, nesting sites, and mates", "he": "כדי להגן על מקורות מזון, אתרי קינון ובני זוג" } },
+        { "id": "c", "text": { "en": "Because they are always afraid", "he": "מכיוון שהם תמיד פוחדים" } },
+        { "id": "d", "text": { "en": "To keep the area clean", "he": "כדי לשמור על הסביבה נקייה" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Animals defend territories primarily to protect valuable resources — food, safe nesting or denning spots, and access to mates. By having exclusive access to these resources, an animal has a better chance of surviving and raising healthy offspring.",
+        "he": "בעלי חיים מגנים על טריטוריות בעיקר כדי להגן על משאבים יקרי ערך — מזון, אתרי קינון בטוחים, וגישה לבני זוג. על ידי גישה בלעדית למשאבים אלה, לבעל חיים יש סיכוי טוב יותר לשרוד ולגדל צאצאים בריאים."
+      }
+    },
+    {
+      "id": "q-d24-09",
+      "question": {
+        "en": "What type of behavior did Lorenz describe as a 'Fixed Action Pattern'?",
+        "he": "איזו התנהגות תיאר לורנץ כ'דפוס פעולה קבוע'?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "A learned behavior that can change over time", "he": "התנהגות נלמדת שיכולה להשתנות עם הזמן" } },
+        { "id": "b", "text": { "en": "An instinctive sequence of actions that runs to completion once triggered", "he": "רצף אינסטינקטיבי של פעולות שמתנהל עד לסיום ברגע שמופעל" } },
+        { "id": "c", "text": { "en": "A behavior that only appears in domesticated animals", "he": "התנהגות המופיעה רק בבעלי חיים מבויתים" } },
+        { "id": "d", "text": { "en": "A random movement with no purpose", "he": "תנועה אקראית ללא מטרה" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "A Fixed Action Pattern (FAP) is an instinctive behavior sequence that, once triggered by a specific stimulus, always runs through to completion in the same way. Lorenz observed this in geese rolling displaced eggs back to the nest — the rolling motion continued even if the egg was removed partway through.",
+        "he": "דפוס פעולה קבוע (FAP) הוא רצף התנהגות אינסטינקטיבי שברגע שמופעל על ידי גירוי ספציפי, תמיד עובר עד לסיום באותו אופן. לורנץ תצפה בכך באווזים מגלגלות ביצות שעקרו חזרה לקן — תנועת הגלגול נמשכה גם אם הביצה הוסרה באמצע הדרך."
+      }
+    },
+    {
+      "id": "q-d24-10",
+      "question": {
+        "en": "What did Lorenz argue about animal aggression?",
+        "he": "מה טען לורנץ לגבי תוקפנות בבעלי חיים?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "It is always dangerous and leads to death", "he": "היא תמיד מסוכנת ומובילה למוות" } },
+        { "id": "b", "text": { "en": "It serves important biological purposes and rarely kills members of the same species", "he": "היא משרתת מטרות ביולוגיות חשובות ולעיתים נדירות הורגת בני אותו מין" } },
+        { "id": "c", "text": { "en": "Only humans are truly aggressive", "he": "רק בני אדם הם תוקפניים באמת" } },
+        { "id": "d", "text": { "en": "Aggression is always a sign of illness", "he": "תוקפנות היא תמיד סימן למחלה" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Lorenz argued that aggression in animals is not simply destructive. It serves important functions like establishing dominance hierarchies, defending territories, and competing for mates. He also noted that most animal fights between members of the same species end before serious injury occurs, often through ritualized submission signals.",
+        "he": "לורנץ טען שתוקפנות בבעלי חיים אינה הרסנית בלבד. היא משרתת פונקציות חשובות כמו ביסוס היררכיות דומיננטיות, הגנה על טריטוריות ותחרות על בני זוג. הוא גם ציין שרוב הקרבות בין בעלי חיים בני אותו מין מסתיימים לפני שנגרם פציעה רצינית, לרוב דרך אותות כניעה טקסיים."
+      }
+    }
+  ],
+  "videoSources": ["O9Rik3dHemg"]
+}

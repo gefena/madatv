@@ -1,0 +1,344 @@
+{
+  "id": "d25-armstrong",
+  "episodeNumber": 25,
+  "youtubeId": "fq1FSU3GH_M",
+  "title": {
+    "en": "Neil Armstrong, the Moon and Space",
+    "he": "ניל ארמסטרונג, הירח והחלל"
+  },
+  "summary": {
+    "en": "This episode tells the extraordinary story of humanity's greatest journey — reaching the Moon — and the astronaut who took the first steps on its surface. Neil Armstrong, born in Ohio in 1930, fell in love with flight as a child and became a test pilot before being selected as a NASA astronaut. The episode traces the dramatic Space Race between the United States and the Soviet Union, which began with the Soviet launch of Sputnik — the world's first artificial satellite — in 1957, and escalated through early human spaceflights by Yuri Gagarin and John Glenn. On July 20, 1969, Armstrong and fellow astronaut Buzz Aldrin landed on the Moon's Sea of Tranquility aboard Apollo 11, while Michael Collins orbited above. Armstrong became the first human to walk on the Moon, speaking his famous words: 'That's one small step for man, one giant leap for mankind.' The episode also explores the broader story of space exploration — from early rockets to the International Space Station — and the scientific, technological, and inspirational legacy of the Moon landing.",
+    "he": "פרק זה מספר את הסיפור המדהים של המסע הגדול ביותר של האנושות — הגעה לירח — ועל האסטרונאוט שעשה את הצעדים הראשונים על פניו. ניל ארמסטרונג, שנולד באוהיו בשנת 1930, התאהב בטיסה בילדותו והפך לטייס ניסוי לפני שנבחר כאסטרונאוט של נאס"א. הפרק עוקב אחר מרוץ החלל הדרמטי בין ארצות הברית לברית המועצות, שהחל עם שיגורה הסובייטי של ספוטניק — הלוויין המלאכותי הראשון בעולם — בשנת 1957, והסלים דרך טיסות חלל אנושיות מוקדמות של יורי גגרין וג'ון גלן. ב-20 ביולי 1969, נחתו ארמסטרונג ועמיתו האסטרונאוט באז אולדרין על 'ים השלווה' של הירח על סיפון אפולו 11, בעוד מייקל קולינס מקיף מעלה. ארמסטרונג הפך לאדם הראשון שהלך על הירח, ואמר את דבריו המפורסמים: 'זהו צעד קטן לאדם, אך קפיצה ענקית לאנושות'. הפרק גם בוחן את הסיפור הרחב יותר של חקר החלל — מרקטות מוקדמות ועד לתחנת החלל הבינלאומית — ואת המורשת המדעית, הטכנולוגית והמעוררת השראה של הנחיתה על הירח."
+  },
+  "thumbnail": "https://img.youtube.com/vi/fq1FSU3GH_M/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": [
+    "Neil Armstrong",
+    "Apollo 11",
+    "Moon landing",
+    "space race",
+    "NASA",
+    "space exploration",
+    "Sputnik"
+  ],
+  "terminology": [
+    {
+      "id": "t-d25-01",
+      "term": { "en": "NASA", "he": "נאס\"א" },
+      "definition": {
+        "en": "The National Aeronautics and Space Administration — the United States government agency responsible for space exploration and aeronautics research. Founded in 1958, NASA managed the Apollo Moon missions and continues to send spacecraft and astronauts into space today.",
+        "he": "הסוכנות לאווירונאוטיקה ולחלל הלאומית — הסוכנות הממשלתית של ארצות הברית האחראית על חקר החלל ומחקר אווירונאוטיקה. נוסדה בשנת 1958, ניהלה נאס\"א את משימות אפולו לירח וממשיכה לשגר חלליות ואסטרונאוטים לחלל גם כיום."
+      },
+      "category": "space exploration"
+    },
+    {
+      "id": "t-d25-02",
+      "term": { "en": "Apollo 11", "he": "אפולו 11" },
+      "definition": {
+        "en": "The NASA space mission that successfully landed humans on the Moon for the first time on July 20, 1969. The crew consisted of Neil Armstrong, Buzz Aldrin, and Michael Collins. Armstrong and Aldrin walked on the Moon's surface while Collins orbited above in the Command Module.",
+        "he": "משימת החלל של נאס\"א שנחתה בהצלחה בני אדם על הירח לראשונה ב-20 ביולי 1969. הצוות כלל את ניל ארמסטרונג, באז אולדרין ומייקל קולינס. ארמסטרונג ואולדרין הלכו על פני הירח בעוד קולינס מקיף מעלה במודול הפיקוד."
+      },
+      "category": "space exploration"
+    },
+    {
+      "id": "t-d25-03",
+      "term": { "en": "Space Race", "he": "מרוץ החלל" },
+      "definition": {
+        "en": "The competition between the United States and the Soviet Union during the Cold War (roughly 1957–1969) to achieve supremacy in space exploration. It began with the Soviet launch of Sputnik in 1957 and ended — in the American view — with the Moon landing in 1969.",
+        "he": "התחרות בין ארצות הברית וברית המועצות במהלך המלחמה הקרה (בערך 1957–1969) להשיג עליונות בחקר החלל. החלה עם שיגורו הסובייטי של ספוטניק בשנת 1957 והסתיימה — לפי ההשקפה האמריקאית — עם הנחיתה על הירח בשנת 1969."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-d25-04",
+      "term": { "en": "Sputnik", "he": "ספוטניק" },
+      "definition": {
+        "en": "The world's first artificial satellite, launched by the Soviet Union on October 4, 1957. Sputnik was a metal sphere about the size of a beach ball that orbited Earth every 96 minutes, beeping a radio signal that anyone with a radio could detect. Its launch shocked the world and started the Space Race.",
+        "he": "הלוויין המלאכותי הראשון בעולם, שוגר על ידי ברית המועצות ב-4 באוקטובר 1957. ספוטניק היה כדור מתכת בגודל כדור חוף שהקיף את כדור הארץ כל 96 דקות, משדר אות רדיו שכל מי עם רדיו יכול היה לזהות. שיגורו הדהים את העולם והחל את מרוץ החלל."
+      },
+      "category": "space exploration"
+    },
+    {
+      "id": "t-d25-05",
+      "term": { "en": "Astronaut", "he": "אסטרונאוט" },
+      "definition": {
+        "en": "A person trained to travel and work in space. The word comes from the Greek words for 'star sailor'. Astronauts undergo years of intensive training in science, engineering, and survival skills before being sent on a space mission.",
+        "he": "אדם שעבר הכשרה לנסוע ולעבוד בחלל. המילה מגיעה מהמילים היווניות ל'מלח כוכבים'. אסטרונאוטים עוברים שנות הכשרה אינטנסיבית במדע, הנדסה ומיומנויות הישרדות לפני שנשלחים למשימת חלל."
+      },
+      "category": "space exploration"
+    },
+    {
+      "id": "t-d25-06",
+      "term": { "en": "Rocket", "he": "רקטה" },
+      "definition": {
+        "en": "A vehicle that propels itself forward by burning fuel and expelling gases at high speed from the rear. Rockets are the only known technology powerful enough to escape Earth's gravity and carry spacecraft into orbit or beyond. The Saturn V rocket that launched Apollo 11 was as tall as a 36-story building.",
+        "he": "כלי רכב שמניע את עצמו קדימה על ידי שריפת דלק ופליטת גזים במהירות גבוהה מהאחור. רקטות הן הטכנולוגיה היחידה הידועה החזקה מספיק כדי לברוח מכוח הכבידה של כדור הארץ ולשאת חלליות למסלול ומעבר לו. הרקטה Saturn V שהשיקה את אפולו 11 הייתה גבוהה כמו בניין בן 36 קומות."
+      },
+      "category": "technology"
+    },
+    {
+      "id": "t-d25-07",
+      "term": { "en": "Orbit", "he": "מסלול" },
+      "definition": {
+        "en": "The curved path that an object follows when moving around a larger object due to gravity. The Moon orbits Earth, Earth orbits the Sun, and artificial satellites and space stations orbit Earth. When astronauts are 'in orbit', they are continuously falling toward Earth but also moving sideways fast enough to keep missing it.",
+        "he": "הנתיב המעוגל שבו עצם עוקב בתנועתו סביב עצם גדול יותר בשל כוח הכבידה. הירח מקיף את כדור הארץ, כדור הארץ מקיף את השמש, ולוויינים מלאכותיים ותחנות חלל מקיפים את כדור הארץ. כאשר אסטרונאוטים 'במסלול', הם נופלים ברציפות לעבר כדור הארץ אך גם נעים הצידה מהר מספיק כדי להמשיך לפספס אותו."
+      },
+      "category": "astronomy"
+    },
+    {
+      "id": "t-d25-08",
+      "term": { "en": "Zero Gravity (Weightlessness)", "he": "חוסר כבידה (אפס-כבידה)" },
+      "definition": {
+        "en": "The condition experienced by astronauts in orbit, where everything — people and objects — floats freely because both the spacecraft and everything inside it are falling around Earth at the same rate. Astronauts must learn to eat, sleep, and exercise in these unusual conditions.",
+        "he": "המצב שחווים אסטרונאוטים במסלול, שבו הכל — אנשים וחפצים — מרחפים בחופשיות מכיוון שהחללית וכל מה שבתוכה נופלים סביב כדור הארץ באותו קצב. אסטרונאוטים חייבים ללמוד לאכול, לישון ולהתעמל בתנאים חריגים אלה."
+      },
+      "category": "space exploration"
+    },
+    {
+      "id": "t-d25-09",
+      "term": { "en": "Lunar Module", "he": "מודול הנחיתה הירחי" },
+      "definition": {
+        "en": "The specialized spacecraft used in the Apollo missions to land astronauts on the Moon's surface and bring them back to the Command Module waiting in lunar orbit. The Apollo 11 lunar module was called 'Eagle', and it was in this vehicle that Armstrong and Aldrin landed on the Sea of Tranquility.",
+        "he": "החללית המיוחדת ששימשה במשימות אפולו לנחות אסטרונאוטים על פני הירח ולהחזירם למודול הפיקוד הממתין במסלול ירחי. מודול הנחיתה הירחי של אפולו 11 נקרא 'נשר', ובכלי רכב זה נחתו ארמסטרונג ואולדרין על 'ים השלווה'."
+      },
+      "category": "space exploration"
+    },
+    {
+      "id": "t-d25-10",
+      "term": { "en": "Spacewalk (EVA)", "he": "הליכה בחלל (פעילות חוץ-רכבית)" },
+      "definition": {
+        "en": "When an astronaut leaves the spacecraft and operates in the vacuum of space, protected by a spacesuit. EVA stands for 'Extra-Vehicular Activity'. Neil Armstrong's first steps on the Moon were technically a very long EVA. Spacewalks are used for repairs, experiments, and construction on the International Space Station.",
+        "he": "כאשר אסטרונאוט עוזב את החללית ופועל בואקום החלל, מוגן על ידי חליפת חלל. EVA מסמל 'פעילות חוץ-רכבית'. הצעדים הראשונים של ניל ארמסטרונג על הירח היו מבחינה טכנית EVA ארוכה מאוד. הליכות בחלל משמשות לתיקונים, ניסויים ובנייה בתחנת החלל הבינלאומית."
+      },
+      "category": "space exploration"
+    },
+    {
+      "id": "t-d25-11",
+      "term": { "en": "Satellite", "he": "לוויין" },
+      "definition": {
+        "en": "An object that orbits a planet or other large body. Natural satellites (like the Moon) exist throughout the solar system. Artificial satellites — launched by humans — orbit Earth and are used for communication, weather forecasting, GPS navigation, and scientific observation.",
+        "he": "עצם המקיף כוכב לכת או גוף גדול אחר. לוויינים טבעיים (כמו הירח) קיימים בכל מערכת השמש. לוויינים מלאכותיים — שוגרו על ידי בני אדם — מקיפים את כדור הארץ ומשמשים לתקשורת, תחזית מזג אוויר, ניווט GPS וצפייה מדעית."
+      },
+      "category": "space exploration"
+    },
+    {
+      "id": "t-d25-12",
+      "term": { "en": "International Space Station (ISS)", "he": "תחנת החלל הבינלאומית" },
+      "definition": {
+        "en": "A large spacecraft in orbit around Earth that serves as both a home for astronauts and a laboratory for scientific research. Built through international cooperation starting in 1998, the ISS has been continuously occupied since November 2000, with astronauts from many nations living and working there.",
+        "he": "חללית גדולה במסלול סביב כדור הארץ המשמשת הן כבית לאסטרונאוטים והן כמעבדה למחקר מדעי. נבנתה באמצעות שיתוף פעולה בינלאומי החל משנת 1998, תחנת החלל הבינלאומית מאוכלסת ברציפות מאז נובמבר 2000, עם אסטרונאוטים ממדינות רבות החיים ועובדים בה."
+      },
+      "category": "space exploration"
+    },
+    {
+      "id": "t-d25-13",
+      "term": { "en": "Yuri Gagarin", "he": "יורי גגרין" },
+      "definition": {
+        "en": "A Soviet cosmonaut who became the first human to travel into space on April 12, 1961, orbiting Earth once in the spacecraft Vostok 1. His flight lasted only 108 minutes but was a historic milestone in the Space Race that shocked the United States.",
+        "he": "קוסמונאוט סובייטי שהפך לאדם הראשון לטוס לחלל ב-12 באפריל 1961, מקיף את כדור הארץ פעם אחת בחללית וסטוק 1. טיסתו נמשכה רק 108 דקות אך הייתה אבן דרך היסטורית במרוץ החלל ששיתקה את ארצות הברית."
+      },
+      "category": "space exploration"
+    },
+    {
+      "id": "t-d25-14",
+      "term": { "en": "Spacesuit", "he": "חליפת חלל" },
+      "definition": {
+        "en": "A specially designed pressurized suit that protects astronauts in the vacuum of space, where there is no air to breathe and temperatures can vary from extremely hot to extremely cold. Spacesuits supply oxygen, regulate temperature, protect from radiation, and allow communication with Mission Control.",
+        "he": "חליפה מותאמת במיוחד ומלחוצת המגנה על אסטרונאוטים בואקום החלל, שם אין אוויר לנשימה וטמפרטורות יכולות לנוע מחמה מאוד לקרה מאוד. חליפות חלל מספקות חמצן, מווסתות טמפרטורה, מגנות מקרינה ומאפשרות תקשורת עם מרכז הבקרה."
+      },
+      "category": "technology"
+    },
+    {
+      "id": "t-d25-15",
+      "term": { "en": "Mission Control", "he": "מרכז הבקרה" },
+      "definition": {
+        "en": "The team of engineers, scientists, and flight controllers on Earth who monitor and direct a space mission in real time. The famous Mission Control for Apollo missions was located at the Johnson Space Center in Houston, Texas — which is why astronauts say 'Houston, we have a problem'.",
+        "he": "הצוות של מהנדסים, מדענים ובקרי טיסה על פני כדור הארץ שמנטרים ומנהלים משימת חלל בזמן אמת. מרכז הבקרה המפורסם של משימות אפולו נמצא במרכז החלל ג'ונסון בהיוסטון, טקסס — זו הסיבה שאסטרונאוטים אומרים 'היוסטון, יש לנו בעיה'."
+      },
+      "category": "space exploration"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q-d25-01",
+      "question": {
+        "en": "What were Neil Armstrong's famous words when he first stepped onto the Moon?",
+        "he": "מה היו דבריו המפורסמים של ניל ארמסטרונג כשדרך לראשונה על הירח?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "\"We came in peace for all mankind\"", "he": "\"הגענו בשלום עבור כל האנושות\"" } },
+        { "id": "b", "text": { "en": "\"Houston, we have landed\"", "he": "\"היוסטון, נחתנו\"" } },
+        { "id": "c", "text": { "en": "\"That's one small step for man, one giant leap for mankind\"", "he": "\"זהו צעד קטן לאדם, קפיצה ענקית לאנושות\"" } },
+        { "id": "d", "text": { "en": "\"I am the first human on the Moon\"", "he": "\"אני האדם הראשון על הירח\"" } }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "On July 20, 1969, as he stepped off the lunar lander onto the Moon's surface, Armstrong said: 'That's one small step for man, one giant leap for mankind.' This became one of the most famous quotes in human history, representing humanity's achievement of reaching another world.",
+        "he": "ב-20 ביולי 1969, כשירד מנחת הירח על פני הירח, אמר ארמסטרונג: 'זהו צעד קטן לאדם, קפיצה ענקית לאנושות.' זה הפך לאחד מהציטוטים המפורסמים ביותר בהיסטוריה האנושית, המייצג את הישגה של האנושות בהגיעה לעולם אחר."
+      }
+    },
+    {
+      "id": "q-d25-02",
+      "question": {
+        "en": "What was the name of the Soviet satellite that started the Space Race in 1957?",
+        "he": "מה היה שמו של הלוויין הסובייטי שהחל את מרוץ החלל בשנת 1957?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Vostok", "he": "וסטוק" } },
+        { "id": "b", "text": { "en": "Mir", "he": "מיר" } },
+        { "id": "c", "text": { "en": "Sputnik", "he": "ספוטניק" } },
+        { "id": "d", "text": { "en": "Luna", "he": "לונה" } }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Sputnik was the world's first artificial satellite, launched by the Soviet Union on October 4, 1957. It was a small metal sphere that orbited Earth every 96 minutes. Its successful launch shocked Americans and triggered a massive increase in US space and science spending.",
+        "he": "ספוטניק היה הלוויין המלאכותי הראשון בעולם, שוגר על ידי ברית המועצות ב-4 באוקטובר 1957. זה היה כדור מתכת קטן שהקיף את כדור הארץ כל 96 דקות. שיגורו המוצלח הדהים אמריקאים ועורר עלייה מסיבית בהוצאות האמריקאיות על חלל ומדע."
+      }
+    },
+    {
+      "id": "q-d25-03",
+      "question": {
+        "en": "On which Apollo mission did humans first land on the Moon?",
+        "he": "באיזו משימת אפולו נחתו בני אדם לראשונה על הירח?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Apollo 7", "he": "אפולו 7" } },
+        { "id": "b", "text": { "en": "Apollo 11", "he": "אפולו 11" } },
+        { "id": "c", "text": { "en": "Apollo 13", "he": "אפולו 13" } },
+        { "id": "d", "text": { "en": "Apollo 17", "he": "אפולו 17" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Apollo 11 was the first crewed mission to land on the Moon, on July 20, 1969. The crew consisted of Neil Armstrong (commander), Buzz Aldrin (lunar module pilot), and Michael Collins (command module pilot). Armstrong and Aldrin spent about 2.5 hours walking on the lunar surface.",
+        "he": "אפולו 11 הייתה המשימה המאוישת הראשונה שנחתה על הירח, ב-20 ביולי 1969. הצוות כלל את ניל ארמסטרונג (מפקד), באז אולדרין (טייס מודול הירח) ומייקל קולינס (טייס מודול הפיקוד). ארמסטרונג ואולדרין בילו כ-2.5 שעות בהליכה על פני הירח."
+      }
+    },
+    {
+      "id": "q-d25-04",
+      "question": {
+        "en": "Who was the first human to travel into space?",
+        "he": "מי היה האדם הראשון שטס לחלל?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Neil Armstrong", "he": "ניל ארמסטרונג" } },
+        { "id": "b", "text": { "en": "John Glenn", "he": "ג'ון גלן" } },
+        { "id": "c", "text": { "en": "Buzz Aldrin", "he": "באז אולדרין" } },
+        { "id": "d", "text": { "en": "Yuri Gagarin", "he": "יורי גגרין" } }
+      ],
+      "correctChoice": "d",
+      "explanation": {
+        "en": "Soviet cosmonaut Yuri Gagarin became the first human in space on April 12, 1961, orbiting Earth once in 108 minutes aboard the spacecraft Vostok 1. His historic flight came as a shock to the United States and gave new urgency to the American space program.",
+        "he": "הקוסמונאוט הסובייטי יורי גגרין הפך לאדם הראשון בחלל ב-12 באפריל 1961, מקיף את כדור הארץ פעם אחת ב-108 דקות על סיפון החללית וסטוק 1. טיסתו ההיסטורית הגיעה כהלם לארצות הברית ונתנה דחיפות חדשה לתכנית החלל האמריקאית."
+      }
+    },
+    {
+      "id": "q-d25-05",
+      "question": {
+        "en": "In what year did Neil Armstrong first walk on the Moon?",
+        "he": "באיזו שנה הלך ניל ארמסטרונג לראשונה על הירח?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "1961", "he": "1961" } },
+        { "id": "b", "text": { "en": "1965", "he": "1965" } },
+        { "id": "c", "text": { "en": "1969", "he": "1969" } },
+        { "id": "d", "text": { "en": "1972", "he": "1972" } }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Neil Armstrong first walked on the Moon on July 20, 1969, during the Apollo 11 mission. This was the fulfillment of President John F. Kennedy's 1961 pledge to land a man on the Moon before the end of the 1960s.",
+        "he": "ניל ארמסטרונג הלך לראשונה על הירח ב-20 ביולי 1969, במהלך משימת אפולו 11. זה היה קיום הבטחתו של הנשיא ג'ון פ. קנדי משנת 1961 לנחות אדם על הירח לפני סוף שנות ה-60."
+      }
+    },
+    {
+      "id": "q-d25-06",
+      "question": {
+        "en": "What was the Apollo 11 lunar module called?",
+        "he": "איך כונה מודול הנחיתה הירחי של אפולו 11?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Falcon", "he": "פלקון" } },
+        { "id": "b", "text": { "en": "Columbia", "he": "קולומביה" } },
+        { "id": "c", "text": { "en": "Eagle", "he": "נשר" } },
+        { "id": "d", "text": { "en": "Discovery", "he": "דיסקברי" } }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "The Apollo 11 lunar module was named 'Eagle'. When it landed on the Moon, Armstrong radioed back to Mission Control: 'Houston, Tranquility Base here. The Eagle has landed.' The command module that Michael Collins piloted in lunar orbit was named 'Columbia'.",
+        "he": "מודול הנחיתה הירחי של אפולו 11 נקרא 'נשר'. כשנחת על הירח, שידר ארמסטרונג למרכז הבקרה: 'היוסטון, כאן בסיס השלווה. הנשר נחת.' מודול הפיקוד שמייקל קולינס טס בו במסלול ירחי נקרא 'קולומביה'."
+      }
+    },
+    {
+      "id": "q-d25-07",
+      "question": {
+        "en": "Which crew member of Apollo 11 did NOT walk on the Moon?",
+        "he": "איזה חבר צוות של אפולו 11 לא הלך על הירח?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Neil Armstrong", "he": "ניל ארמסטרונג" } },
+        { "id": "b", "text": { "en": "Buzz Aldrin", "he": "באז אולדרין" } },
+        { "id": "c", "text": { "en": "Michael Collins", "he": "מייקל קולינס" } },
+        { "id": "d", "text": { "en": "All three walked on the Moon", "he": "כל שלושתם הלכו על הירח" } }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Michael Collins stayed in the Command Module 'Columbia' in lunar orbit while Armstrong and Aldrin descended to the surface in the lunar module. He orbited the Moon alone for about 21 hours, completely out of radio contact when on the far side of the Moon.",
+        "he": "מייקל קולינס נשאר במודול הפיקוד 'קולומביה' במסלול ירחי בעוד ארמסטרונג ואולדרין ירדו לפני השטח במודול הנחיתה. הוא הקיף את הירח לבד כ-21 שעות, ללא קשר רדיו כלל כשהיה בצד הרחוק של הירח."
+      }
+    },
+    {
+      "id": "q-d25-08",
+      "question": {
+        "en": "What does NASA stand for?",
+        "he": "במה ראשי התיבות NASA עומדים?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "National Astronaut and Space Agency", "he": "הסוכנות הלאומית לאסטרונאוטים ולחלל" } },
+        { "id": "b", "text": { "en": "National Aeronautics and Space Administration", "he": "הנהל הלאומי לאווירונאוטיקה ולחלל" } },
+        { "id": "c", "text": { "en": "North American Science Authority", "he": "הרשות המדעית של צפון אמריקה" } },
+        { "id": "d", "text": { "en": "New American Satellite Association", "he": "האגודה האמריקאית החדשה ללוויינים" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "NASA stands for National Aeronautics and Space Administration. It was established by the US Congress in 1958, partly in response to the Soviet launch of Sputnik the previous year. NASA manages all US government space exploration and aeronautical research.",
+        "he": "NASA מסמל National Aeronautics and Space Administration — ההנהל הלאומי לאווירונאוטיקה ולחלל. הוקמה על ידי הקונגרס האמריקאי בשנת 1958, בחלקה כתגובה לשיגורו הסובייטי של ספוטניק בשנה הקודמת. נאס\"א מנהלת את כל חקר החלל הממשלתי האמריקאי ומחקרי האווירונאוטיקה."
+      }
+    },
+    {
+      "id": "q-d25-09",
+      "question": {
+        "en": "What do astronauts experience in a spacecraft in orbit that makes everything float?",
+        "he": "מה חווים אסטרונאוטים בחללית במסלול שגורם להכל לצוף?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Extra gravity from the Sun", "he": "כבידה נוספת מהשמש" } },
+        { "id": "b", "text": { "en": "Weightlessness (zero gravity)", "he": "חוסר משקל (אפס כבידה)" } },
+        { "id": "c", "text": { "en": "Strong magnetic fields", "he": "שדות מגנטיים חזקים" } },
+        { "id": "d", "text": { "en": "The emptiness of space pushing things up", "he": "ריקנות החלל דוחפת דברים למעלה" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "In orbit, astronauts experience weightlessness — also called microgravity or zero-g — because both they and the spacecraft are in constant free fall around Earth. Everything falls together at the same rate, so nothing presses against the floor and everything floats.",
+        "he": "במסלול, חווים אסטרונאוטים חוסר משקל — הנקרא גם מיקרו-כבידה או אפס-g — מכיוון ששניהם הם והחללית נמצאים בנפילה חופשית מתמדת סביב כדור הארץ. הכל נופל יחד באותו קצב, אז שום דבר לא לוחץ על הרצפה וכל דבר צף."
+      }
+    },
+    {
+      "id": "q-d25-10",
+      "question": {
+        "en": "Where did Neil Armstrong grow up and where was he born?",
+        "he": "היכן גדל ניל ארמסטרונג ואיפה נולד?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Texas, USA", "he": "טקסס, ארה\"ב" } },
+        { "id": "b", "text": { "en": "Florida, USA", "he": "פלורידה, ארה\"ב" } },
+        { "id": "c", "text": { "en": "Ohio, USA", "he": "אוהיו, ארה\"ב" } },
+        { "id": "d", "text": { "en": "California, USA", "he": "קליפורניה, ארה\"ב" } }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Neil Armstrong was born in Wapakoneta, Ohio, on August 5, 1930. He grew up in Ohio and developed a passion for aviation from an early age, earning his student pilot's license at age 16 — before he even had a driver's license.",
+        "he": "ניל ארמסטרונג נולד בווהפקוניטה, אוהיו, ב-5 באוגוסט 1930. הוא גדל באוהיו ופיתח תשוקה לתעופה מגיל צעיר, ומקבל את רישיון הטייס הסטודנטי שלו בגיל 16 — לפני שהייתה לו אפילו רישיון נהיגה."
+      }
+    }
+  ],
+  "videoSources": ["fq1FSU3GH_M"]
+}
