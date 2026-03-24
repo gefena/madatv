@@ -55,11 +55,8 @@ export function EpisodeCard({ episode, seriesId, seriesImage }: EpisodeCardProps
           <div className={cn("absolute inset-0 bg-gradient-to-br", color.gradient)} />
         )}
 
-        {/* Dark overlay for contrast */}
-        <div className="absolute inset-0 bg-black/40 group-hover:bg-black/30 transition-colors duration-300" />
-
-        {/* Color tint overlay */}
-        <div className={cn("absolute inset-0 bg-gradient-to-br opacity-20", color.gradient)} />
+        {/* Dark overlay — light enough to see the poster */}
+        <div className="absolute inset-0 bg-black/20 group-hover:bg-black/10 transition-colors duration-300" />
 
         {/* Play button on hover */}
         <div className="absolute inset-0 flex items-center justify-center opacity-0 transition-all duration-300 group-hover:opacity-100">

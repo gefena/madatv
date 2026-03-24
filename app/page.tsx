@@ -57,12 +57,12 @@ export default function MadaTVHome() {
       </div>
 
       {/* Series section */}
-      <div className="mx-auto max-w-7xl px-4 py-12 sm:px-6">
+      <div className="mx-auto max-w-5xl px-4 py-12 sm:px-6">
         <h2 className="text-2xl font-black text-indigo-800 mb-6">
           📺 {t("madatv.chooseSeries")}
         </h2>
 
-        <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
+        <div className="grid grid-cols-1 gap-6 sm:grid-cols-2">
           {series.map((s) => (
             <SeriesCard key={s.id} series={s} pick={pick} t={t} />
           ))}
@@ -89,55 +89,61 @@ function SeriesCard({
       href={`/series/${series.id}`}
       className="group relative flex flex-col overflow-hidden rounded-3xl bg-white shadow-card hover:shadow-card-hover hover:-translate-y-2 transition-all duration-300"
     >
-      {/* Thumbnail */}
-      <div className="relative aspect-video overflow-hidden">
-        <div className={cn("absolute inset-0 bg-gradient-to-br opacity-40 z-10", series.gradient)} />
+      {/* Cinematic image area */}
+      <div className="relative aspect-[4/3] sm:aspect-video overflow-hidden">
         <Image
           src={series.thumbnail}
           alt={pick(series.title)}
           fill
           className="object-cover transition-transform duration-500 group-hover:scale-105"
-          sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+          sizes="(max-width: 640px) 100vw, 50vw"
         />
-        {/* Play overlay */}
-        <div className="absolute inset-0 z-20 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-          <div className="flex h-16 w-16 items-center justify-center rounded-full bg-white/90 shadow-xl">
+        {/* Series colour tint */}
+        <div className={cn("absolute inset-0 bg-gradient-to-br opacity-40", series.gradient)} />
+        {/* Bottom fade for text */}
+        <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/10 to-transparent" />
+
+        {/* Play button */}
+        <div className="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+          <div className="flex h-16 w-16 items-center justify-center rounded-full bg-white/90 shadow-xl scale-90 group-hover:scale-100 transition-transform duration-200">
             <svg className="h-7 w-7 ms-1 text-indigo-600" fill="currentColor" viewBox="0 0 24 24">
               <path d="M8 5v14l11-7z" />
             </svg>
           </div>
         </div>
-        {/* Emoji badge */}
-        <div className="absolute top-3 start-3 z-20 text-3xl drop-shadow-lg">{series.emoji}</div>
-        {/* Episode count */}
-        <div className="absolute bottom-3 end-3 z-20">
-          <span className="rounded-lg bg-black/60 px-2.5 py-1 text-xs font-black text-white backdrop-blur-sm">
+
+        {/* Bottom-left: emoji + title overlay */}
+        <div className="absolute bottom-0 start-0 end-0 p-4">
+          <div className="flex items-end gap-2">
+            <span className="text-4xl drop-shadow-lg leading-none">{series.emoji}</span>
+            <div className="min-w-0">
+              <p className="text-base sm:text-lg font-black text-white leading-tight drop-shadow-md truncate">
+                {pick(series.title)}
+              </p>
+              <p className="text-xs text-white/60 italic truncate">{series.originalTitle}</p>
+            </div>
+          </div>
+        </div>
+
+        {/* Top-right badges */}
+        <div className="absolute top-3 end-3 flex flex-col items-end gap-1.5">
+          <span className="rounded-full bg-black/50 px-2.5 py-1 text-xs font-black text-white backdrop-blur-sm">
             {series.episodeCount} {t("madatv.episodes")}
           </span>
+          {series.ageRange && (
+            <span className="rounded-full bg-white/20 backdrop-blur-sm border border-white/30 px-2.5 py-1 text-xs font-black text-white">
+              👶 {series.ageRange}
+            </span>
+          )}
         </div>
       </div>
 
       {/* Body */}
-      <div className="flex flex-1 flex-col p-5">
-        <div className="flex items-start justify-between gap-2">
-          <div>
-            <h3 className="text-lg font-black text-gray-800 group-hover:text-indigo-600 transition-colors">
-              {pick(series.title)}
-            </h3>
-            <p className="text-xs font-semibold text-gray-400 mt-0.5 italic">
-              {series.originalTitle}
-            </p>
-          </div>
-          {series.ageRange && (
-            <span className="shrink-0 rounded-full bg-indigo-100 px-2.5 py-1 text-xs font-black text-indigo-600">
-              {series.ageRange}
-            </span>
-          )}
-        </div>
-        <p className="mt-3 text-sm text-gray-500 leading-relaxed line-clamp-2">
+      <div className="flex flex-1 flex-col p-4 sm:p-5">
+        <p className="text-sm text-gray-500 leading-relaxed line-clamp-2">
           {pick(series.description)}
         </p>
-        <div className="mt-4 flex items-center gap-2 text-sm font-black text-indigo-500 group-hover:text-indigo-700 transition-colors">
+        <div className="mt-3 flex items-center gap-2 text-sm font-black text-indigo-500 group-hover:text-indigo-700 transition-colors">
           <span>{t("madatv.watchSeries")}</span>
           <svg className="h-4 w-4 rtl:rotate-180" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2.5}>
             <path strokeLinecap="round" strokeLinejoin="round" d="M13.5 4.5 21 12m0 0-7.5 7.5M21 12H3" />
@@ -153,7 +159,7 @@ function SeriesCard({
 
 function ComingSoonCard({ t }: { t: (key: string) => string }) {
   return (
-    <div className="flex flex-col items-center justify-center rounded-3xl border-2 border-dashed border-indigo-200 bg-indigo-50/50 p-10 text-center min-h-[260px]">
+    <div className="flex flex-col items-center justify-center rounded-3xl border-2 border-dashed border-indigo-200 bg-indigo-50/50 p-10 text-center min-h-[320px]">
       <div className="text-4xl mb-3">🚧</div>
       <p className="font-black text-indigo-400 text-base">{t("madatv.comingSoon")}</p>
       <p className="mt-1 text-xs font-semibold text-indigo-300">{t("madatv.moreSeries")}</p>

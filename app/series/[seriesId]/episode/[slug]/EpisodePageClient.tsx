@@ -108,10 +108,10 @@ export default function EpisodePageClient({ seriesId, slug }: Props) {
               </Badge>
             )}
           </div>
-          <h1 className="text-xl font-bold text-slate-100 sm:text-2xl md:text-3xl">
+          <h1 className="text-xl font-black text-gray-900 sm:text-2xl md:text-3xl">
             {pick(episode.title)}
           </h1>
-          <p className="mt-1 text-base text-slate-500">
+          <p className="mt-1 text-sm text-gray-500">
             {episode.title[pick(episode.title) === episode.title.en ? "he" : "en"]}
           </p>
         </div>

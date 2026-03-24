@@ -35,7 +35,7 @@ export function Header() {
         <nav className="flex items-center gap-3">
           <Link
             href="/"
-            className="hidden sm:flex items-center gap-1.5 text-sm font-bold text-indigo-500 hover:text-purple-600 transition-colors"
+            className="hidden sm:flex items-center gap-1.5 rounded-2xl border-2 border-indigo-100 bg-indigo-50 px-3 py-2 text-sm font-black text-indigo-600 hover:bg-indigo-100 hover:text-indigo-800 transition-all duration-200"
           >
             <span>📺</span>
             {t("madatv.allSeries")}

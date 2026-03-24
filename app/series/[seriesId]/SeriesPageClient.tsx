@@ -2,8 +2,10 @@
 
 import { useEffect, useState } from "react";
 import Link from "next/link";
+import Image from "next/image";
 import { useI18n, useBilingual } from "@/lib/i18n";
 import { EpisodeGrid } from "@/components/home/EpisodeGrid";
+import { SERIES_BG_IMAGES } from "@/lib/episodeImages";
 import type { EpisodeListItem } from "@/types/content";
 import type { SeriesMeta } from "@/lib/series";
 import { cn } from "@/components/ui/cn";
@@ -30,43 +32,53 @@ export default function SeriesPageClient({ seriesId }: Props) {
     });
   }, [seriesId]);
 
+  const posterSrc = SERIES_BG_IMAGES[seriesId] ?? series?.thumbnail;
+
   return (
     <div>
-      {/* Series hero */}
-      <div className={cn(
-        "relative overflow-hidden py-8 sm:py-12 px-4",
-        "bg-gradient-to-br from-indigo-50 via-purple-50 to-pink-50"
-      )}>
-        <div className="absolute top-8 left-8 h-32 w-32 sm:h-56 sm:w-56 rounded-full bg-purple-200 opacity-40 blur-3xl animate-blob" />
-        <div className="absolute bottom-8 right-8 h-28 w-28 sm:h-48 sm:w-48 rounded-full bg-pink-200 opacity-40 blur-3xl animate-blob animation-delay-2000" />
+      {/* Series hero — poster background */}
+      <div className="relative overflow-hidden min-h-[220px] sm:min-h-[300px] md:min-h-[360px]">
+        {/* Poster image */}
+        {posterSrc && (
+          <Image
+            src={posterSrc}
+            alt=""
+            fill
+            className="object-cover object-center"
+            priority
+          />
+        )}
+        {/* Series colour tint */}
+        {series && (
+          <div className={cn("absolute inset-0 opacity-50 bg-gradient-to-br", series.gradient)} />
+        )}
+        {/* Dark gradient — heavier at bottom for text legibility */}
+        <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/30 to-black/10" />
 
-        <div className="relative mx-auto max-w-4xl">
-          {/* Back to MadaTV */}
+        <div className="relative mx-auto max-w-4xl px-4 sm:px-6 pt-6 sm:pt-10 pb-8 sm:pb-12">
+          {/* Back link */}
           <Link
             href="/"
-            className="inline-flex items-center gap-1.5 text-sm font-bold text-indigo-400 hover:text-indigo-600 transition-colors mb-6"
+            className="inline-flex items-center gap-1.5 text-sm font-bold text-white/70 hover:text-white transition-colors mb-6"
           >
             <svg className="h-4 w-4 rtl:rotate-180" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2.5}>
               <path strokeLinecap="round" strokeLinejoin="round" d="M10.5 19.5 3 12m0 0 7.5-7.5M3 12h18" />
             </svg>
-            MadaTV
+            MadaTV 4Kids
           </Link>
 
           <div className="flex items-center gap-3 sm:gap-4 flex-wrap">
             {series && (
-              <div className={cn(
-                "flex h-12 w-12 sm:h-16 sm:w-16 items-center justify-center rounded-2xl text-2xl sm:text-3xl shadow-lg shrink-0",
-                `bg-gradient-to-br ${series.gradient}`
-              )}>
+              <div className="flex h-12 w-12 sm:h-16 sm:w-16 items-center justify-center rounded-2xl text-2xl sm:text-3xl shrink-0 bg-white/20 backdrop-blur-sm border border-white/30">
                 {series.emoji}
               </div>
             )}
             <div>
-              <h1 className="text-2xl font-black text-indigo-800 sm:text-3xl md:text-4xl lg:text-5xl leading-tight">
+              <h1 className="text-2xl font-black text-white sm:text-3xl md:text-4xl lg:text-5xl leading-tight drop-shadow-lg">
                 {series ? pick(series.title) : ""}
               </h1>
               {series && (
-                <p className="text-sm font-semibold text-indigo-400 italic mt-1">
+                <p className="text-sm font-semibold text-white/60 italic mt-1">
                   {series.originalTitle}
                 </p>
               )}
@@ -74,19 +86,18 @@ export default function SeriesPageClient({ seriesId }: Props) {
           </div>
 
           {series && (
-            <p className="mt-4 text-base font-semibold text-indigo-600 max-w-xl">
+            <p className="mt-4 text-sm sm:text-base font-semibold text-white/80 max-w-xl">
               {pick(series.description)}
             </p>
           )}
 
-          {/* Badges */}
           {series && (
             <div className="mt-4 flex flex-wrap gap-2">
-              <span className="inline-flex items-center gap-1.5 rounded-full bg-white px-3 py-1.5 sm:px-4 sm:py-2 text-xs sm:text-sm font-black text-indigo-700 shadow-md border-2 border-indigo-100">
+              <span className="inline-flex items-center gap-1.5 rounded-full bg-white/20 backdrop-blur-sm border border-white/30 px-3 py-1.5 text-xs sm:text-sm font-black text-white">
                 🎥 {series.episodeCount} {t("madatv.episodes")}
               </span>
               {series.ageRange && (
-                <span className="inline-flex items-center gap-1.5 rounded-full bg-white px-3 py-1.5 sm:px-4 sm:py-2 text-xs sm:text-sm font-black text-purple-700 shadow-md border-2 border-purple-100">
+                <span className="inline-flex items-center gap-1.5 rounded-full bg-white/20 backdrop-blur-sm border border-white/30 px-3 py-1.5 text-xs sm:text-sm font-black text-white">
                   👶 {t("madatv.ages")} {series.ageRange}
                 </span>
               )}
