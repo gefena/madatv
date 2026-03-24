@@ -1,0 +1,386 @@
+{
+  "id": "d10-newton",
+  "episodeNumber": 10,
+  "youtubeId": "57_A3gRqF9E",
+  "title": {
+    "en": "Isaac Newton",
+    "he": "אייזק ניוטון"
+  },
+  "summary": {
+    "en": "This episode explores the extraordinary life and discoveries of Isaac Newton, widely regarded as one of the greatest scientists who ever lived. Born in 1643 in Woolsthorpe, England, Newton formulated the law of universal gravitation — the insight, famously inspired by a falling apple, that the same force pulling an apple to the ground also holds the Moon in its orbit and governs the motion of the planets. He also established his three laws of motion, which describe how objects move and how forces affect them, forming the bedrock of classical mechanics for centuries. Beyond mechanics, Newton made a revolutionary discovery in optics by passing white light through a prism and proving it is composed of all the colors of the rainbow. He also independently co-invented calculus, the branch of mathematics needed to describe changing quantities — though this led to a famous dispute with the German mathematician Leibniz. Newton's masterwork, Principia Mathematica, published in 1687, remains one of the most influential books in the history of science.",
+    "he": "פרק זה חוקר את חייו המדהימים ותגליותיו של אייזק ניוטון, הנחשב באופן נרחב לאחד המדענים הגדולים שחיו אי פעם. נולד ב-1643 בוולסתורפ, אנגליה, ניוטון ניסח את חוק הכבידה האוניברסלית — התובנה, שלהניח נולדה בהשראת תפוח נופל, שאותה כוח המושך תפוח לקרקע גם מחזיק את הירח במסלולו ושולט בתנועת כוכבי הלכת. הוא גם ניסח את שלושת חוקי התנועה שלו, המתארים כיצד עצמים נעים וכיצד כוחות משפיעים עליהם, ומהווים את הבסיס למכניקה הקלאסית במשך מאות שנים. מעבר למכניקה, ניוטון עשה תגלית מהפכנית באופטיקה על ידי העברת אור לבן דרך פריזמה והוכחה שהוא מורכב מכל צבעי הקשת. הוא גם המציא באופן עצמאי את החשבון האינפיניטסימלי, ענף המתמטיקה הדרוש לתיאור כמויות משתנות — אף שהדבר הוביל לוויכוח מפורסם עם המתמטיקאי הגרמני לייבניץ. יצירת המופת של ניוטון, פרינקיפיה מתמטיקה, שפורסמה ב-1687, נותרת אחד הספרים המשפיעים ביותר בתולדות המדע."
+  },
+  "thumbnail": "https://img.youtube.com/vi/57_A3gRqF9E/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": [
+    "Isaac Newton",
+    "gravity and laws of motion",
+    "calculus",
+    "optics and light"
+  ],
+  "terminology": [
+    {
+      "id": "t-d10-01",
+      "term": {
+        "en": "Gravity",
+        "he": "כבידה"
+      },
+      "definition": {
+        "en": "A natural force of attraction between objects that have mass. The more massive an object, the stronger its gravitational pull. Newton showed that gravity is universal — the same force that makes an apple fall also keeps the Moon orbiting the Earth and the Earth orbiting the Sun.",
+        "he": "כוח משיכה טבעי בין עצמים בעלי מסה. ככל שעצם מסיבי יותר, כך כוח המשיכה שלו חזק יותר. ניוטון הראה שהכבידה היא אוניברסלית — אותו כוח שגורם לתפוח ליפול גם שומר על הירח במסלולו סביב כדור הארץ ועל כדור הארץ במסלולו סביב השמש."
+      },
+      "category": "physics"
+    },
+    {
+      "id": "t-d10-02",
+      "term": {
+        "en": "Inertia",
+        "he": "אינרציה"
+      },
+      "definition": {
+        "en": "The tendency of an object to resist changes to its state of motion — staying still if still, or continuing to move in the same direction if already moving. Newton's First Law of Motion describes inertia: an object stays at rest or in uniform motion unless acted upon by a force.",
+        "he": "הנטייה של עצם להתנגד לשינויים במצב תנועתו — להישאר במנוחה אם במנוחה, או להמשיך לנוע באותו כיוון אם כבר נמצא בתנועה. החוק הראשון של ניוטון מתאר אינרציה: עצם נשאר במנוחה או בתנועה אחידה אלא אם כן כוח פועל עליו."
+      },
+      "category": "physics"
+    },
+    {
+      "id": "t-d10-03",
+      "term": {
+        "en": "Newton's Three Laws of Motion",
+        "he": "שלושת חוקי התנועה של ניוטון"
+      },
+      "definition": {
+        "en": "Three fundamental rules describing how objects move: (1) An object stays still or moves in a straight line unless a force acts on it. (2) Force equals mass times acceleration (F=ma). (3) For every action there is an equal and opposite reaction. These laws explain everything from a bouncing ball to a rocket launch.",
+        "he": "שלושה כללים יסודיים המתארים כיצד עצמים נעים: (1) עצם נשאר במנוחה או נע בקו ישר אלא אם כוח פועל עליו. (2) כוח שווה מסה כפול תאוצה (F=ma). (3) לכל פעולה יש תגובה שווה ומנוגדת. חוקים אלה מסבירים הכל, מכדור מנוקש ועד שיגור רקטה."
+      },
+      "category": "physics"
+    },
+    {
+      "id": "t-d10-04",
+      "term": {
+        "en": "Calculus",
+        "he": "חשבון דיפרנציאלי ואינטגרלי"
+      },
+      "definition": {
+        "en": "A branch of mathematics developed by Newton (and independently by Leibniz) to calculate things that are constantly changing — such as the speed of a falling object at any moment, or the area under a curved line. It is an essential tool in physics, engineering, and many other sciences.",
+        "he": "ענף מתמטיקה שפותח על ידי ניוטון (ובאופן עצמאי על ידי לייבניץ) לחישוב דברים המשתנים ברציפות — כגון מהירות עצם נופל בכל רגע, או השטח מתחת לקו עקמומי. הוא כלי חיוני בפיזיקה, הנדסה ומדעים רבים אחרים."
+      },
+      "category": "mathematics"
+    },
+    {
+      "id": "t-d10-05",
+      "term": {
+        "en": "Prism",
+        "he": "פריזמה"
+      },
+      "definition": {
+        "en": "A transparent triangular piece of glass or crystal that bends light as it passes through, separating white light into its component colors — the spectrum. Newton used a prism to discover that white light is not pure but is actually a mixture of all the colors of the rainbow.",
+        "he": "פיסת זכוכית או קריסטל משולשת שקופה שכופפת אור כאשר הוא עובר דרכה, ומפרידה אור לבן לצבעיו המרכיבים — הספקטרום. ניוטון השתמש בפריזמה כדי לגלות שאור לבן אינו טהור אלא למעשה תערובת של כל צבעי הקשת."
+      },
+      "category": "optics"
+    },
+    {
+      "id": "t-d10-06",
+      "term": {
+        "en": "Principia Mathematica",
+        "he": "פרינקיפיה מתמטיקה"
+      },
+      "definition": {
+        "en": "Newton's masterwork, published in 1687, full title Philosophiæ Naturalis Principia Mathematica ('Mathematical Principles of Natural Philosophy'). It presented Newton's laws of motion and law of universal gravitation, and mathematically explained the motion of planets, moons, comets, and tides.",
+        "he": "יצירת המופת של ניוטון, שפורסמה ב-1687, שמה המלא Philosophiæ Naturalis Principia Mathematica ('עקרונות מתמטיים של פילוסופיה טבעית'). הציגה את חוקי התנועה של ניוטון ואת חוק הכבידה האוניברסלית, והסבירה מתמטית את תנועת כוכבי הלכת, הירחים, השביטים וגאות וירידה."
+      },
+      "category": "historical work"
+    },
+    {
+      "id": "t-d10-07",
+      "term": {
+        "en": "Spectrum",
+        "he": "ספקטרום"
+      },
+      "definition": {
+        "en": "The range of colors produced when white light is split apart — red, orange, yellow, green, blue, indigo, and violet. Newton showed that these colors are all present in ordinary white light and can be separated by a prism, then recombined back into white light by a second prism.",
+        "he": "טווח הצבעים המיוצר כאשר אור לבן מפוצל — אדום, כתום, צהוב, ירוק, כחול, אינדיגו וסגול. ניוטון הראה שצבעים אלה נמצאים כולם באור לבן רגיל וניתן להפריד אותם בפריזמה, ואז לשלב אותם מחדש לאור לבן על ידי פריזמה שנייה."
+      },
+      "category": "optics"
+    },
+    {
+      "id": "t-d10-08",
+      "term": {
+        "en": "Universal Gravitation",
+        "he": "כבידה אוניברסלית"
+      },
+      "definition": {
+        "en": "Newton's law stating that every object in the universe attracts every other object with a gravitational force that depends on their masses and the distance between them. The farther apart two objects are, the weaker the gravity between them.",
+        "he": "חוקו של ניוטון הקובע שכל עצם ביקום מושך כל עצם אחר בכוח כבידה התלוי במסותיהם ובמרחק ביניהם. ככל ששני עצמים רחוקים יותר, כך הכבידה ביניהם חלשה יותר."
+      },
+      "category": "physics"
+    },
+    {
+      "id": "t-d10-09",
+      "term": {
+        "en": "Force",
+        "he": "כוח"
+      },
+      "definition": {
+        "en": "A push or pull that causes an object to accelerate, decelerate, or change direction. According to Newton's Second Law, force equals mass times acceleration (F = ma). Forces can be contact forces like pushing, or action-at-a-distance forces like gravity and magnetism.",
+        "he": "דחיפה או משיכה הגורמת לעצם להאיץ, להאט או לשנות כיוון. לפי החוק השני של ניוטון, כוח שווה מסה כפול תאוצה (F = ma). כוחות יכולים להיות כוחות מגע כמו דחיפה, או כוחות פועלים-מרחוק כמו כבידה ומגנטיות."
+      },
+      "category": "physics"
+    },
+    {
+      "id": "t-d10-10",
+      "term": {
+        "en": "Orbit",
+        "he": "מסלול"
+      },
+      "definition": {
+        "en": "The curved path that one object follows around another object due to gravity. The Moon follows an orbit around the Earth, and the Earth follows an orbit around the Sun. Newton proved mathematically that gravity causes these orbital paths.",
+        "he": "הנתיב העקמומי שעצם אחד עוקב בו סביב עצם אחר בגלל כבידה. הירח עוקב במסלול סביב כדור הארץ, וכדור הארץ עוקב במסלול סביב השמש. ניוטון הוכיח מתמטית שהכבידה גורמת לנתיבי מסלול אלה."
+      },
+      "category": "astronomy"
+    },
+    {
+      "id": "t-d10-11",
+      "term": {
+        "en": "Reflecting Telescope",
+        "he": "טלסקופ מחזיר"
+      },
+      "definition": {
+        "en": "A type of telescope that uses mirrors instead of lenses to collect and focus light. Newton invented the first practical reflecting telescope in 1668 to overcome the problem of color distortion (chromatic aberration) that affected refracting telescopes.",
+        "he": "סוג טלסקופ המשתמש במראות במקום עדשות לאיסוף ומיקוד אור. ניוטון המציא את הטלסקופ המחזיר הפרקטי הראשון ב-1668 כדי להתגבר על בעיית עיוות הצבע (סטייה כרומטית) שהשפיעה על טלסקופי השבירה."
+      },
+      "category": "scientific instrument"
+    },
+    {
+      "id": "t-d10-12",
+      "term": {
+        "en": "Mass",
+        "he": "מסה"
+      },
+      "definition": {
+        "en": "The amount of matter contained in an object. Mass determines how strongly gravity pulls on an object and how much force is needed to make it accelerate. Unlike weight (which changes depending on gravity), mass stays the same everywhere in the universe.",
+        "he": "כמות החומר הכלולה בעצם. המסה קובעת כמה חזק הכבידה מושכת עצם וכמה כוח דרוש לגרום לו להאיץ. בשונה ממשקל (המשתנה בהתאם לכבידה), המסה נשארת זהה בכל מקום ביקום."
+      },
+      "category": "physics"
+    },
+    {
+      "id": "t-d10-13",
+      "term": {
+        "en": "Action and Reaction",
+        "he": "פעולה ותגובה"
+      },
+      "definition": {
+        "en": "Newton's Third Law of Motion: whenever one object exerts a force on another, the second object exerts an equal and opposite force back. For example, when a rocket expels gas downward, the equal and opposite reaction pushes the rocket upward.",
+        "he": "החוק השלישי של ניוטון: בכל פעם שעצם אחד מפעיל כוח על עצם אחר, העצם השני מפעיל כוח שווה ומנוגד בחזרה. לדוגמה, כאשר רקטה פולטת גז כלפי מטה, התגובה השווה והמנוגדת דוחפת את הרקטה כלפי מעלה."
+      },
+      "category": "physics"
+    },
+    {
+      "id": "t-d10-14",
+      "term": {
+        "en": "Woolsthorpe",
+        "he": "וולסתורפ"
+      },
+      "definition": {
+        "en": "A small village in Lincolnshire, England, where Isaac Newton was born in 1643. He returned to Woolsthorpe during the Great Plague of 1665–66, and it was there — away from university — that he made many of his greatest discoveries, including his work on gravity, motion, and light.",
+        "he": "כפר קטן בלינקולנשייר, אנגליה, שבו נולד אייזק ניוטון ב-1643. הוא חזר לוולסתורפ במהלך המגיפה הגדולה של 1665–66, ושם — הרחק מהאוניברסיטה — הוא עשה רבות מהתגליות הגדולות שלו, כולל עבודתו על כבידה, תנועה ואור."
+      },
+      "category": "historical place"
+    },
+    {
+      "id": "t-d10-15",
+      "term": {
+        "en": "Gottfried Wilhelm Leibniz",
+        "he": "גוטפריד וילהלם לייבניץ"
+      },
+      "definition": {
+        "en": "A German mathematician and philosopher (1646–1716) who independently developed calculus around the same time as Newton. A bitter dispute broke out between their supporters over who deserved credit for the invention. Today both are recognized as co-inventors of calculus.",
+        "he": "מתמטיקאי ופילוסוף גרמני (1646–1716) שפיתח באופן עצמאי את החשבון האינפיניטסימלי בערך באותו זמן כמו ניוטון. פרץ ויכוח מר בין תומכיהם על מי ראוי לקבל קרדיט על ההמצאה. כיום שניהם מוכרים כממציאים המשותפים של החשבון האינפיניטסימלי."
+      },
+      "category": "historical figure"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q-d10-01",
+      "question": {
+        "en": "What famous story is associated with Newton discovering gravity?",
+        "he": "איזה סיפור מפורסם קשור בגילוי הכבידה של ניוטון?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "He watched the Moon rise over the ocean", "he": "הוא צפה בירח עולה מעל האוקיינוס" } },
+        { "id": "b", "text": { "en": "An apple fell from a tree near him", "he": "תפוח נפל מעץ בסמוך אליו" } },
+        { "id": "c", "text": { "en": "He dropped a cannonball from a tower", "he": "הוא הפיל פגז מתותח ממגדל" } },
+        { "id": "d", "text": { "en": "He was struck by lightning", "he": "הוא נפגע מברק" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The famous story goes that Newton was sitting under an apple tree when an apple fell and prompted him to think about why objects fall downward — leading to his theory of universal gravitation. While the story may be simplified, Newton himself confirmed the apple incident played a role in inspiring his thinking.",
+        "he": "הסיפור המפורסם אומר שניוטון ישב מתחת לעץ תפוח כאשר תפוח נפל וגרם לו לחשוב מדוע עצמים נופלים כלפי מטה — מה שהוביל לתיאוריית הכבידה האוניברסלית שלו. אף שהסיפור עשוי להיות מפושט, ניוטון עצמו אישר שפרשת התפוח מילאה תפקיד בהשראת מחשבתו."
+      }
+    },
+    {
+      "id": "q-d10-02",
+      "question": {
+        "en": "What does Newton's Second Law of Motion state?",
+        "he": "מה קובע החוק השני של ניוטון?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Every action has an equal and opposite reaction", "he": "לכל פעולה יש תגובה שווה ומנוגדת" } },
+        { "id": "b", "text": { "en": "Objects at rest stay at rest unless a force acts on them", "he": "עצמים במנוחה נשארים במנוחה אלא אם כוח פועל עליהם" } },
+        { "id": "c", "text": { "en": "Force equals mass times acceleration", "he": "כוח שווה מסה כפול תאוצה" } },
+        { "id": "d", "text": { "en": "Gravity decreases with the square of the distance", "he": "כבידה פוחתת עם ריבוע המרחק" } }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Newton's Second Law states that F = ma — the force applied to an object equals its mass multiplied by the acceleration it produces. This law tells us that heavier objects need more force to accelerate at the same rate as lighter ones.",
+        "he": "החוק השני של ניוטון קובע ש-F = ma — הכוח המופעל על עצם שווה למסתו כפול התאוצה שהוא מייצר. חוק זה אומר לנו שעצמים כבדים יותר דורשים כוח גדול יותר כדי להאיץ באותו קצב כמו קלים יותר."
+      }
+    },
+    {
+      "id": "q-d10-03",
+      "question": {
+        "en": "What did Newton discover when he shone white light through a prism?",
+        "he": "מה גילה ניוטון כאשר הציג אור לבן דרך פריזמה?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "White light is the purest form of light", "he": "אור לבן הוא הצורה הטהורה ביותר של אור" } },
+        { "id": "b", "text": { "en": "Light travels at different speeds through glass", "he": "אור נע במהירויות שונות דרך זכוכית" } },
+        { "id": "c", "text": { "en": "White light is composed of all colors of the rainbow", "he": "אור לבן מורכב מכל צבעי הקשת" } },
+        { "id": "d", "text": { "en": "Light cannot pass through solid objects", "he": "אור לא יכול לעבור דרך עצמים מוצקים" } }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Newton discovered that white light is not a single, pure color but a mixture of all the colors of the spectrum — red, orange, yellow, green, blue, indigo, and violet. A prism separates them because each color bends at a slightly different angle when passing through glass.",
+        "he": "ניוטון גילה שאור לבן אינו צבע יחיד וטהור אלא תערובת של כל צבעי הספקטרום — אדום, כתום, צהוב, ירוק, כחול, אינדיגו וסגול. פריזמה מפרידה אותם מכיוון שכל צבע מתכופף בזווית מעט שונה בעבור דרך זכוכית."
+      }
+    },
+    {
+      "id": "q-d10-04",
+      "question": {
+        "en": "What major book did Newton publish in 1687?",
+        "he": "איזה ספר חשוב פרסם ניוטון ב-1687?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Opticks", "he": "אופטיקה" } },
+        { "id": "b", "text": { "en": "Philosophiæ Naturalis Principia Mathematica", "he": "פילוסופיה נטורליס פרינקיפיה מתמטיקה" } },
+        { "id": "c", "text": { "en": "De Revolutionibus", "he": "דה רבולוציוניבוס" } },
+        { "id": "d", "text": { "en": "The Almagest", "he": "האלמאגסט" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Newton's Philosophiæ Naturalis Principia Mathematica (Mathematical Principles of Natural Philosophy), published in 1687 with the encouragement of astronomer Edmond Halley, presented his laws of motion and universal gravitation and is considered one of the greatest scientific books ever written.",
+        "he": "ה-Philosophiæ Naturalis Principia Mathematica של ניוטון (עקרונות מתמטיים של פילוסופיה טבעית), שפורסמה ב-1687 בעידוד האסטרונום אדמונד הלי, הציגה את חוקי התנועה והכבידה האוניברסלית שלו ונחשבת לאחד הספרים המדעיים הגדולים שנכתבו אי פעם."
+      }
+    },
+    {
+      "id": "q-d10-05",
+      "question": {
+        "en": "Newton's Third Law says: for every action there is an equal and opposite what?",
+        "he": "החוק השלישי של ניוטון אומר: לכל פעולה יש שווה ומנוגד מה?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Speed", "he": "מהירות" } },
+        { "id": "b", "text": { "en": "Mass", "he": "מסה" } },
+        { "id": "c", "text": { "en": "Reaction", "he": "תגובה" } },
+        { "id": "d", "text": { "en": "Energy", "he": "אנרגיה" } }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Newton's Third Law states that for every action there is an equal and opposite reaction. This explains, for example, why a gun recoils when fired, why a rocket is pushed upward when it ejects exhaust gas downward, and why swimming is possible.",
+        "he": "החוק השלישי של ניוטון קובע שלכל פעולה יש תגובה שווה ומנוגדת. זה מסביר, לדוגמה, מדוע רובה נסוג לאחור בעת ירי, מדוע רקטה נדחפת כלפי מעלה כשהיא פולטת גזי פליטה כלפי מטה, ומדוע שחייה אפשרית."
+      }
+    },
+    {
+      "id": "q-d10-06",
+      "question": {
+        "en": "What type of telescope did Newton invent?",
+        "he": "איזה סוג טלסקופ המציא ניוטון?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "A refracting telescope with two lenses", "he": "טלסקופ שבירה עם שתי עדשות" } },
+        { "id": "b", "text": { "en": "A reflecting telescope using mirrors", "he": "טלסקופ מחזיר באמצעות מראות" } },
+        { "id": "c", "text": { "en": "A radio telescope", "he": "טלסקופ רדיו" } },
+        { "id": "d", "text": { "en": "An infrared telescope", "he": "טלסקופ אינפרא-אדום" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "In 1668, Newton built the first practical reflecting telescope, which uses a curved mirror to gather light instead of a lens. This solved the problem of chromatic aberration — the color fringing that blurred images in earlier refracting telescopes.",
+        "he": "ב-1668, ניוטון בנה את הטלסקופ המחזיר הפרקטי הראשון, המשתמש במראה עקומה לאיסוף אור במקום עדשה. זה פתר את בעיית הסטייה הכרומטית — שוליים צבעוניים שטשטשו תמונות בטלסקופי שבירה קודמים."
+      }
+    },
+    {
+      "id": "q-d10-07",
+      "question": {
+        "en": "Which branch of mathematics did Newton invent to describe continuously changing quantities?",
+        "he": "איזה ענף מתמטיקה המציא ניוטון לתיאור כמויות המשתנות ברציפות?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Algebra", "he": "אלגברה" } },
+        { "id": "b", "text": { "en": "Geometry", "he": "גיאומטריה" } },
+        { "id": "c", "text": { "en": "Calculus", "he": "חשבון אינפיניטסימלי" } },
+        { "id": "d", "text": { "en": "Trigonometry", "he": "טריגונומטריה" } }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Newton developed calculus (which he called 'the method of fluxions') to mathematically handle things that change continuously, like the position and speed of a moving object. This made it possible to calculate planetary orbits and other complex motions precisely.",
+        "he": "ניוטון פיתח את החשבון האינפיניטסימלי (שהוא כינה 'שיטת הזרמים') כדי לטפל מתמטית בדברים המשתנים ברציפות, כמו מיקום ומהירות של עצם נע. זה אפשר לחשב במסלולים פלנטריים ותנועות מורכבות אחרות בדייקנות."
+      }
+    },
+    {
+      "id": "q-d10-08",
+      "question": {
+        "en": "Where was Newton when he made many of his greatest discoveries during 1665–66?",
+        "he": "היכן היה ניוטון כאשר עשה רבות מתגליותיו הגדולות ביותר בשנים 1665–66?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "At Cambridge University", "he": "באוניברסיטת קיימברידג'" } },
+        { "id": "b", "text": { "en": "In London", "he": "בלונדון" } },
+        { "id": "c", "text": { "en": "At his family home in Woolsthorpe", "he": "בבית משפחתו בוולסתורפ" } },
+        { "id": "d", "text": { "en": "In Paris", "he": "בפריז" } }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "When Cambridge University closed in 1665–66 due to the Great Plague, Newton returned to his family home in Woolsthorpe. During this period — sometimes called his 'year of wonders' — he developed his ideas on gravity, motion, light, and calculus.",
+        "he": "כאשר אוניברסיטת קיימברידג' נסגרה ב-1665–66 בשל המגיפה הגדולה, ניוטון חזר לבית משפחתו בוולסתורפ. במהלך תקופה זו — המכונה לפעמים 'שנת הפלאות' שלו — הוא פיתח את רעיונותיו על כבידה, תנועה, אור וחשבון אינפיניטסימלי."
+      }
+    },
+    {
+      "id": "q-d10-09",
+      "question": {
+        "en": "What does Newton's law of universal gravitation say about distance?",
+        "he": "מה אומר חוק הכבידה האוניברסלית של ניוטון לגבי מרחק?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Gravity gets stronger as objects get farther apart", "he": "הכבידה מתחזקת ככל שעצמים מתרחקים" } },
+        { "id": "b", "text": { "en": "Gravity is the same everywhere regardless of distance", "he": "הכבידה זהה בכל מקום ללא קשר למרחק" } },
+        { "id": "c", "text": { "en": "Gravity gets weaker as objects get farther apart", "he": "הכבידה נחלשת ככל שעצמים מתרחקים" } },
+        { "id": "d", "text": { "en": "Gravity only works between very large objects", "he": "כבידה פועלת רק בין עצמים גדולים מאוד" } }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Newton's law of universal gravitation states that gravity decreases with the square of the distance between two objects — double the distance and gravity becomes four times weaker. This is why the Sun's gravitational influence extends across the entire solar system, but becomes weaker with distance.",
+        "he": "חוק הכבידה האוניברסלית של ניוטון קובע שהכבידה פוחתת עם ריבוע המרחק בין שני עצמים — כפל המרחק והכבידה נחלשת פי ארבע. זו הסיבה שהשפעת הכבידה של השמש מתפשטת על פני מערכת השמש כולה, אך נחלשת עם המרחק."
+      }
+    },
+    {
+      "id": "q-d10-10",
+      "question": {
+        "en": "Who disputed credit with Newton for inventing calculus?",
+        "he": "מי חלק עם ניוטון על הקרדיט להמצאת החשבון האינפיניטסימלי?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Galileo Galilei", "he": "גלילאו גלילי" } },
+        { "id": "b", "text": { "en": "Gottfried Wilhelm Leibniz", "he": "גוטפריד וילהלם לייבניץ" } },
+        { "id": "c", "text": { "en": "Johannes Kepler", "he": "יוהנס קפלר" } },
+        { "id": "d", "text": { "en": "René Descartes", "he": "רנה דקארט" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The German mathematician Gottfried Wilhelm Leibniz independently developed calculus around the same time as Newton, sparking a bitter priority dispute. Today, historians recognize both as independent co-inventors — and Leibniz's notation (dy/dx) is actually the one most commonly used today.",
+        "he": "המתמטיקאי הגרמני גוטפריד וילהלם לייבניץ פיתח באופן עצמאי את החשבון האינפיניטסימלי בערך באותו זמן כמו ניוטון, מה שגרם לוויכוח מר על עדיפות. כיום, היסטוריונים מכירים בשניהם כממציאים עצמאיים משותפים — וסימון לייבניץ (dy/dx) הוא למעשה הנפוץ ביותר בשימוש כיום."
+      }
+    }
+  ],
+  "videoSources": ["57_A3gRqF9E"]
+}

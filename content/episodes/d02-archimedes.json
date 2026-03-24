@@ -1,0 +1,342 @@
+{
+  "id": "d02-archimedes",
+  "episodeNumber": 2,
+  "youtubeId": "zCdbBt2C6sg",
+  "title": {
+    "en": "Archimedes and the Greeks",
+    "he": "ארכימדס והיוונים"
+  },
+  "summary": {
+    "en": "This episode explores the brilliant world of ancient Greek science, centered on one of history's greatest minds: Archimedes of Syracuse. Born around 287 BCE, Archimedes made extraordinary discoveries in mathematics, physics, and engineering — from calculating the value of pi and the formula for the area of a circle to his famous principle of buoyancy, which he reportedly announced by running through the streets shouting 'Eureka!' (I have found it!). The episode also covers his work with levers, pulleys, and war machines, showing how he defended the city of Syracuse against the Roman army almost single-handedly through clever engineering. More broadly, we see how Greek civilization fostered a culture of rational inquiry, philosophy, and scientific thinking that laid the very foundations of Western science and mathematics.",
+    "he": "פרק זה חוקר את עולמה המבריק של המדע היווני העתיק, המרוכז סביב אחד מגדולי המוחות בהיסטוריה: ארכימדס מסירקוזה. נולד בסביבות 287 לפנה\"ס, ארכימדס עשה גילויים יוצאי דופן במתמטיקה, פיזיקה והנדסה — מחישוב ערכו של פאי ונוסחת שטח המעגל ועד לעקרון הציפה המפורסם שלו, שלפי המסורת הכריז עליו תוך ריצה ברחובות בצעקות 'אורקה!' (מצאתי!). הפרק גם עוסק בעבודתו עם מנופים, גלגלות ומכונות מלחמה, ומראה כיצד הגן על העיר סירקוזה כנגד הצבא הרומי כמעט לבדו באמצעות הנדסה פיקחית. בהיקף רחב יותר, אנו רואים כיצד הציביליזציה היוונית טיפחה תרבות של חקירה רציונלית, פילוסופיה וחשיבה מדעית שהניחה את היסודות עצמם של המדע והמתמטיקה המערביים."
+  },
+  "thumbnail": "https://img.youtube.com/vi/zCdbBt2C6sg/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": [
+    "Archimedes",
+    "buoyancy and displacement",
+    "levers and simple machines",
+    "Greek mathematics",
+    "ancient Greek science"
+  ],
+  "terminology": [
+    {
+      "id": "t-d02-01",
+      "term": { "en": "Buoyancy", "he": "ציפה" },
+      "definition": {
+        "en": "The upward force that a fluid (liquid or gas) exerts on an object placed in it, which makes objects float or feel lighter. Archimedes discovered that the buoyant force on an object equals the weight of the fluid it displaces. This is why huge steel ships can float — they displace enough water to support their weight.",
+        "he": "הכוח הכלפי מעלה שנוזל (נוזל או גז) מפעיל על עצם שהונח בו, מה שגורם לעצמים לצוף או להרגיש קלים יותר. ארכימדס גילה שכוח הציפה על עצם שווה למשקל הנוזל שהוא מעקר. זו הסיבה שאניות פלדה ענקיות יכולות לצוף — הן מעקרות מספיק מים כדי לשאת את משקלן."
+      },
+      "category": "physics"
+    },
+    {
+      "id": "t-d02-02",
+      "term": { "en": "Lever", "he": "מנוף" },
+      "definition": {
+        "en": "A simple machine consisting of a rigid bar that pivots around a fixed point called a fulcrum. By changing the position of the fulcrum, a lever can multiply the force applied to it, allowing a small force to lift a very heavy object. Archimedes famously said, 'Give me a place to stand and I will move the Earth,' demonstrating his understanding of the lever's power.",
+        "he": "מכונה פשוטה המורכבת ממוט נוקשה שמסתובב סביב נקודה קבועה הנקראת נקודת משען. על ידי שינוי מיקום נקודת המשען, מנוף יכול להכפיל את הכוח המופעל עליו, ומאפשר לכוח קטן להרים עצם כבד מאוד. ארכימדס אמר בפרסום, 'תן לי מקום לעמוד ואזיז את כדור הארץ', ומדגים את הבנתו את כוח המנוף."
+      },
+      "category": "physics"
+    },
+    {
+      "id": "t-d02-03",
+      "term": { "en": "Displacement", "he": "עקירה" },
+      "definition": {
+        "en": "The volume of fluid pushed aside when an object is placed in it. When you step into a bathtub, the water level rises — the water you push aside is the displaced water. Archimedes realized that the volume of displaced water equals the volume of the object submerged, which gave him a way to measure the volumes of irregularly shaped objects like a crown.",
+        "he": "נפח הנוזל שנדחק הצידה כאשר עצם מוצב בתוכו. כשאתה נכנס לאמבטיה, מפלס המים עולה — המים שאתה דוחק הצידה הם המים שנעקרו. ארכימדס הבין שנפח המים שנעקרו שווה לנפח העצם שהוטבל, מה שנתן לו דרך למדוד נפחים של עצמים בצורה לא סדירה כמו כתר."
+      },
+      "category": "physics"
+    },
+    {
+      "id": "t-d02-04",
+      "term": { "en": "Pi (π)", "he": "פאי (π)" },
+      "definition": {
+        "en": "A special mathematical number (approximately 3.14159) that represents the ratio of a circle's circumference to its diameter. No matter how large or small a circle is, this ratio is always the same. Archimedes was one of the first to calculate an accurate value of pi by drawing polygons inside and outside a circle and comparing their perimeters.",
+        "he": "מספר מתמטי מיוחד (בערך 3.14159) המייצג את היחס בין היקף מעגל לקוטרו. לא משנה כמה גדול או קטן מעגל, יחס זה תמיד זהה. ארכימדס היה מהראשונים לחשב ערך מדויק של פאי על ידי ציור מצולעים בתוך ומחוץ למעגל והשוואת היקפיהם."
+      },
+      "category": "mathematics"
+    },
+    {
+      "id": "t-d02-05",
+      "term": { "en": "Fulcrum", "he": "נקודת משען" },
+      "definition": {
+        "en": "The fixed pivot point on which a lever rests and rotates. The position of the fulcrum determines how much a lever can multiply force. If the fulcrum is close to the heavy load, you need less force to lift it from the other end. Archimedes showed that by moving the fulcrum, a single person could theoretically move enormous weights.",
+        "he": "נקודת הציר הקבועה שעליה נח ומסתובב מנוף. מיקום נקודת המשען קובע כמה מנוף יכול להכפיל כוח. אם נקודת המשען קרובה למשא הכבד, אתה צריך פחות כוח להרימו מהקצה האחר. ארכימדס הראה שעל ידי הזזת נקודת המשען, אדם אחד יכול תיאורטית להזיז משקלים עצומים."
+      },
+      "category": "physics"
+    },
+    {
+      "id": "t-d02-06",
+      "term": { "en": "Archimedes' Screw", "he": "בורג ארכימדס" },
+      "definition": {
+        "en": "A machine invented by Archimedes consisting of a screw-shaped blade inside a cylinder. When the screw is turned, it lifts water from a low level to a higher one. It was used in ancient times to irrigate fields and drain flooded ships. Variations of Archimedes' screw are still used today in water treatment plants and agricultural irrigation systems.",
+        "he": "מכונה שהמציא ארכימדס המורכבת מלהב בצורת בורג בתוך גליל. כאשר הבורג מסתובב, הוא מרים מים מרמה נמוכה לגבוהה יותר. השתמשו בה בימי קדם להשקיית שדות וניקוז אניות שהוצפו. גרסאות של בורג ארכימדס עדיין משמשות היום במפעלי טיפול במים ובמערכות השקיה חקלאית."
+      },
+      "category": "invention"
+    },
+    {
+      "id": "t-d02-07",
+      "term": { "en": "Eureka", "he": "אורקה" },
+      "definition": {
+        "en": "A Greek word meaning 'I have found it!' According to the famous story, Archimedes shouted 'Eureka!' when he stepped into his bath and realized the water overflowed by the same amount as his body's volume. This insight gave him a way to test whether King Hiero's crown was made of pure gold by measuring its displacement. Today, 'Eureka!' is used worldwide to celebrate any sudden discovery.",
+        "he": "מילה יוונית שמשמעותה 'מצאתי!' לפי הסיפור המפורסם, ארכימדס צעק 'אורקה!' כאשר נכנס לאמבטייה והבין שהמים גלשו באותה כמות שנפח גופו. תובנה זו נתנה לו דרך לבדוק האם כתרו של המלך הירו עשוי מזהב טהור על ידי מדידת הזזתו. כיום, 'אורקה!' משמשת ברחבי העולם לחגוג כל גילוי פתאומי."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-d02-08",
+      "term": { "en": "Pulley", "he": "גלגלת" },
+      "definition": {
+        "en": "A simple machine made of a wheel with a groove around its edge, through which a rope or chain passes. Pulleys change the direction of a force and can multiply force when several are used together in a system. Archimedes used compound pulley systems to allow a single person to pull heavy ships onto shore, famously demonstrating their power to King Hiero of Syracuse.",
+        "he": "מכונה פשוטה העשויה מגלגל עם חריץ סביב שפתו, שדרכו עובר חבל או שרשרת. גלגלות משנות את כיוון כוח ויכולות להכפיל כוח כאשר מספר גלגלות משמשות יחד במערכת. ארכימדס השתמש במערכות גלגלות מורכבות כדי לאפשר לאדם אחד לגרור אניות כבדות לחוף, ובכך הדגים לממלך הירו מסירקוזה את כוחן."
+      },
+      "category": "physics"
+    },
+    {
+      "id": "t-d02-09",
+      "term": { "en": "Density", "he": "צפיפות" },
+      "definition": {
+        "en": "A measure of how much mass is packed into a given volume. A material with high density, like gold, is very heavy for its size. A material with low density, like wood, is light for its size. Archimedes used the concept of density to determine if a crown was made of pure gold — pure gold is denser than silver, so if the crown had silver mixed in, it would displace more water than pure gold of the same weight.",
+        "he": "מדד לכמה מסה ארוזה בנפח נתון. חומר עם צפיפות גבוהה, כמו זהב, כבד מאוד למידתו. חומר עם צפיפות נמוכה, כמו עץ, קל למידתו. ארכימדס השתמש במושג הצפיפות כדי לקבוע אם כתר עשוי מזהב טהור — זהב טהור צפוף יותר מכסף, לכן אם הכתר ערבב כסף, הוא יעקור יותר מים מאשר זהב טהור באותו משקל."
+      },
+      "category": "physics"
+    },
+    {
+      "id": "t-d02-10",
+      "term": { "en": "Sphere", "he": "כדור" },
+      "definition": {
+        "en": "A perfectly round three-dimensional shape where every point on the surface is the same distance from the center. Archimedes calculated the surface area and volume of a sphere and was so proud of this discovery that he asked for a sphere inside a cylinder to be carved on his tomb. He proved that the volume of a sphere is exactly two-thirds the volume of the cylinder that surrounds it.",
+        "he": "צורה תלת-ממדית עגולה בשלמות שבה כל נקודה על פני השטח נמצאת באותו מרחק מהמרכז. ארכימדס חישב את שטח פני הכדור ואת נפחו והיה כה גאה בגילוי זה עד שביקש שכדור בתוך גליל ייחרת על קברו. הוא הוכיח שנפח הכדור שווה בדיוק לשני שלישים מנפח הגליל שמקיף אותו."
+      },
+      "category": "mathematics"
+    },
+    {
+      "id": "t-d02-11",
+      "term": { "en": "Catapult", "he": "קטפולט" },
+      "definition": {
+        "en": "A war machine that uses stored energy (like a twisted rope or bent arm) to hurl heavy stones or objects at enemies. Archimedes designed improved catapults and other war machines to defend Syracuse against the Roman fleet. His machines were so effective that Roman soldiers reportedly became afraid to even approach the city walls.",
+        "he": "מכונת מלחמה המשתמשת באנרגיה מאוחסנת (כגון חבל מפותל או זרוע כפופה) לירות אבנים כבדות או עצמים לעבר אויבים. ארכימדס תכנן קטפולטים משופרים ומכונות מלחמה אחרות להגנה על סירקוזה מפני הצי הרומאי. מכונותיו היו כה יעילות עד שחיילים רומאים כביכול חששו אפילו לגשת לחומות העיר."
+      },
+      "category": "invention"
+    },
+    {
+      "id": "t-d02-12",
+      "term": { "en": "Geometry", "he": "גיאומטריה" },
+      "definition": {
+        "en": "The branch of mathematics that deals with shapes, sizes, positions, and properties of figures and spaces. Ancient Greek mathematicians like Euclid and Archimedes developed geometry into a formal system based on logical proof. Archimedes used geometry to calculate areas, volumes, and properties of circles, spheres, and other shapes with remarkable accuracy.",
+        "he": "ענף המתמטיקה העוסק בצורות, גדלים, מיקומים ותכונות של דמויות ומרחבים. מתמטיקאים יוונים עתיקים כגון אוקלידס וארכימדס פיתחו את הגיאומטריה למערכת פורמלית המבוססת על הוכחה לוגית. ארכימדס השתמש בגיאומטריה לחישוב שטחים, נפחים ותכונות של מעגלים, כדורים וצורות אחרות בדיוק מרשים."
+      },
+      "category": "mathematics"
+    },
+    {
+      "id": "t-d02-13",
+      "term": { "en": "Syracuse", "he": "סירקוזה" },
+      "definition": {
+        "en": "An ancient city on the island of Sicily (now part of modern Italy) where Archimedes was born and lived. In 214 BCE, the powerful Roman army attacked Syracuse by land and sea. Archimedes designed war machines so effective that they held off the Roman forces for three years. Archimedes died when Roman soldiers finally captured the city in 212 BCE.",
+        "he": "עיר עתיקה באי סיציליה (כיום חלק מאיטליה המודרנית) שבה נולד וחי ארכימדס. בשנת 214 לפנה\"ס, הצבא הרומאי החזק תקף את סירקוזה ביבשה ובים. ארכימדס תכנן מכונות מלחמה כה יעילות עד שהחזיקו את הכוחות הרומאיים שלוש שנים. ארכימדס מת כאשר חיילים רומאים לבסוף כבשו את העיר בשנת 212 לפנה\"ס."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-d02-14",
+      "term": { "en": "Circumference", "he": "היקף" },
+      "definition": {
+        "en": "The distance around the outside edge of a circle. To find the circumference of any circle, you multiply its diameter (the distance across the center) by pi (approximately 3.14). Archimedes carefully calculated the circumference by comparing polygons and proved that pi lies between 3 10/71 and 3 1/7, a remarkably precise result for ancient times.",
+        "he": "המרחק סביב הקצה החיצוני של מעגל. כדי למצוא את ההיקף של כל מעגל, מכפילים את קוטרו (המרחק דרך המרכז) בפאי (בערך 3.14). ארכימדס חישב בזהירות את ההיקף על ידי השוואת מצולעים והוכיח שפאי נמצא בין 3 10/71 ל-3 1/7, תוצאה מדויקת להפליא לעתות עתיקות."
+      },
+      "category": "mathematics"
+    },
+    {
+      "id": "t-d02-15",
+      "term": { "en": "Mathematician", "he": "מתמטיקאי" },
+      "definition": {
+        "en": "A person who studies or works in the field of mathematics, exploring patterns, quantities, structures, and logical relationships. Ancient Greek mathematicians like Archimedes, Euclid, and Pythagoras laid the foundations of modern mathematics. They believed that the universe could be understood through numbers and geometric shapes, an idea that continues to guide science today.",
+        "he": "אדם שלומד או עובד בתחום המתמטיקה, חוקר דפוסים, כמויות, מבנים ויחסים לוגיים. מתמטיקאים יוונים עתיקים כגון ארכימדס, אוקלידס ופיתגורס הניחו את יסודות המתמטיקה המודרנית. הם האמינו שניתן להבין את היקום דרך מספרים וצורות גיאומטריות, רעיון המנחה את המדע עד היום."
+      },
+      "category": "science"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q-d02-01",
+      "question": {
+        "en": "What did Archimedes allegedly shout when he made his famous discovery in the bath?",
+        "he": "מה ארכימדס כביכול צעק כאשר עשה את גילויו המפורסם באמבטייה?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Eureka!", "he": "אורקה!" } },
+        { "id": "b", "text": { "en": "Aha!", "he": "אהה!" } },
+        { "id": "c", "text": { "en": "Magnificent!", "he": "נפלא!" } },
+        { "id": "d", "text": { "en": "I have it!", "he": "יש לי!" } }
+      ],
+      "correctChoice": "a",
+      "explanation": {
+        "en": "According to the famous story, Archimedes jumped out of his bath and ran through the streets of Syracuse shouting 'Eureka!' — meaning 'I have found it!' in Greek. He had just realized that the volume of water displaced equals the volume of the object placed in it.",
+        "he": "לפי הסיפור המפורסם, ארכימדס קפץ מהאמבטייה ורץ ברחובות סירקוזה וצעק 'אורקה!' — שמשמעותו 'מצאתי!' ביוונית. הוא זה עתה הבין שנפח המים שנעקרו שווה לנפח העצם שהוצב בהם."
+      }
+    },
+    {
+      "id": "q-d02-02",
+      "question": {
+        "en": "What is Archimedes' Principle about?",
+        "he": "במה עוסק עקרון ארכימדס?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "How levers multiply force", "he": "כיצד מנופים מכפילים כוח" } },
+        { "id": "b", "text": { "en": "How objects float due to displaced fluid", "he": "כיצד עצמים צפים בשל נוזל שנעקר" } },
+        { "id": "c", "text": { "en": "How to calculate the area of a circle", "he": "כיצד לחשב את שטח המעגל" } },
+        { "id": "d", "text": { "en": "How a screw lifts water", "he": "כיצד בורג מרים מים" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Archimedes' Principle states that any object placed in a fluid experiences an upward buoyant force equal to the weight of the fluid it displaces. This explains why objects float and why even very heavy ships can float if they have the right shape.",
+        "he": "עקרון ארכימדס קובע שכל עצם שהוצב בנוזל חווה כוח ציפה כלפי מעלה השווה למשקל הנוזל שהוא עוקר. זה מסביר מדוע עצמים צפים ומדוע אפילו ספינות כבדות מאוד יכולות לצוף אם יש להן את הצורה הנכונה."
+      }
+    },
+    {
+      "id": "q-d02-03",
+      "question": {
+        "en": "What task was Archimedes given that led to his discovery of buoyancy?",
+        "he": "איזה משימה קיבל ארכימדס שהובילה לגילוי הציפה שלו?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Building a bridge over the harbor", "he": "בניית גשר על הנמל" } },
+        { "id": "b", "text": { "en": "Testing if the king's crown was pure gold", "he": "בדיקה אם כתר המלך עשוי מזהב טהור" } },
+        { "id": "c", "text": { "en": "Measuring the height of a mountain", "he": "מדידת גובה הר" } },
+        { "id": "d", "text": { "en": "Designing a new harbor for ships", "he": "תכנון נמל חדש לאניות" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "King Hiero of Syracuse suspected that a goldsmith had replaced some gold in his new crown with cheaper silver. He asked Archimedes to figure out if the crown was pure gold without damaging it. Archimedes' insight in the bath solved this problem: by comparing water displacement, he could determine if the crown was pure gold.",
+        "he": "המלך הירו מסירקוזה חשד שצורף החליף חלק מהזהב בכתרו החדש בכסף זול יותר. הוא ביקש מארכימדס לברר אם הכתר עשוי מזהב טהור מבלי לפגוע בו. תובנתו של ארכימדס באמבטייה פתרה בעיה זו: על ידי השוואת עקירת המים, הוא יכול לקבוע אם הכתר עשוי מזהב טהור."
+      }
+    },
+    {
+      "id": "q-d02-04",
+      "question": {
+        "en": "What famous saying did Archimedes use to describe the power of levers?",
+        "he": "מה אמירה מפורסמת השתמש בה ארכימדס כדי לתאר את כוחם של מנופים?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Give me a place to stand and I will move the Earth", "he": "תן לי מקום לעמוד ואזיז את כדור הארץ" } },
+        { "id": "b", "text": { "en": "Every action has an equal and opposite reaction", "he": "לכל פעולה יש תגובה שווה ומנוגדת" } },
+        { "id": "c", "text": { "en": "The whole is greater than its parts", "he": "השלם גדול מסכום חלקיו" } },
+        { "id": "d", "text": { "en": "Knowledge is power", "he": "ידע הוא כוח" } }
+      ],
+      "correctChoice": "a",
+      "explanation": {
+        "en": "'Give me a place to stand and I will move the Earth' is Archimedes' famous statement about levers. He meant that with a long enough lever and a firm enough fulcrum, even a single person could theoretically move any weight, no matter how heavy — including the entire Earth.",
+        "he": "'תן לי מקום לעמוד ואזיז את כדור הארץ' היא אמירתו המפורסמת של ארכימדס על מנופים. כוונתו הייתה שעם מנוף ארוך מספיק ונקודת משען מספיק יציבה, אפילו אדם אחד יכול תיאורטית להזיז כל משקל, לא משנה כמה כבד — כולל כדור הארץ כולו."
+      }
+    },
+    {
+      "id": "q-d02-05",
+      "question": {
+        "en": "What is the Archimedes' Screw used for?",
+        "he": "למה משמש בורג ארכימדס?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Grinding grain into flour", "he": "טחינת דגן לקמח" } },
+        { "id": "b", "text": { "en": "Lifting water from a lower level to a higher one", "he": "הרמת מים מרמה נמוכה לגבוהה יותר" } },
+        { "id": "c", "text": { "en": "Measuring the weight of objects", "he": "מדידת משקל עצמים" } },
+        { "id": "d", "text": { "en": "Drilling holes in stone", "he": "קידוח חורים בסלע" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The Archimedes' Screw is a device for lifting water from a lower level to a higher one. A screw-shaped blade inside a cylinder moves water upward as it turns. It was used in ancient times for irrigation and draining ships, and versions of it are still used in water management today.",
+        "he": "בורג ארכימדס הוא מכשיר להרמת מים מרמה נמוכה לגבוהה יותר. להב בצורת בורג בתוך גליל מזיז מים כלפי מעלה כשהוא מסתובב. השתמשו בו בימי קדם להשקיה ולניקוז אניות, וגרסאות שלו עדיין משמשות בניהול מים כיום."
+      }
+    },
+    {
+      "id": "q-d02-06",
+      "question": {
+        "en": "How long did Archimedes' war machines help defend Syracuse against the Romans?",
+        "he": "כמה זמן עזרו מכונות המלחמה של ארכימדס להגן על סירקוזה מפני הרומאים?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Six months", "he": "שישה חודשים" } },
+        { "id": "b", "text": { "en": "One year", "he": "שנה אחת" } },
+        { "id": "c", "text": { "en": "Three years", "he": "שלוש שנים" } },
+        { "id": "d", "text": { "en": "Ten years", "he": "עשר שנים" } }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Archimedes' clever war machines, including improved catapults, cranes, and other defensive weapons, helped Syracuse hold off the powerful Roman army for three years (from 214 to 212 BCE). The Romans were reportedly so afraid of his machines that they hesitated to attack.",
+        "he": "מכונות המלחמה הפיקחיות של ארכימדס, כולל קטפולטים משופרים, מנופים ונשקי הגנה אחרים, עזרו לסירקוזה לעמוד בפני הצבא הרומאי החזק במשך שלוש שנים (214 עד 212 לפנה\"ס). הרומאים כביכול פחדו כל כך ממכונותיו עד שהססו לתקוף."
+      }
+    },
+    {
+      "id": "q-d02-07",
+      "question": {
+        "en": "What is pi (π) approximately equal to?",
+        "he": "למה בערך שווה פאי (π)?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "2.71", "he": "2.71" } },
+        { "id": "b", "text": { "en": "3.14", "he": "3.14" } },
+        { "id": "c", "text": { "en": "4.13", "he": "4.13" } },
+        { "id": "d", "text": { "en": "1.41", "he": "1.41" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Pi (π) is approximately equal to 3.14159 (often rounded to 3.14). It is the ratio of any circle's circumference to its diameter. Archimedes was one of the first to calculate a precise value for pi using polygons with 96 sides to approximate a circle.",
+        "he": "פאי (π) שווה בערך 3.14159 (לרוב מעוגל ל-3.14). זה היחס בין היקף כל מעגל לקוטרו. ארכימדס היה מהראשונים לחשב ערך מדויק לפאי תוך שימוש במצולעים עם 96 צלעות לקירוב מעגל."
+      }
+    },
+    {
+      "id": "q-d02-08",
+      "question": {
+        "en": "Why can a heavy steel ship float on water?",
+        "he": "מדוע אנייה כבדה מפלדה יכולה לצוף על פני המים?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Because steel is lighter than water", "he": "כי פלדה קלה יותר ממים" } },
+        { "id": "b", "text": { "en": "Because ships have a special coating", "he": "כי לאניות יש ציפוי מיוחד" } },
+        { "id": "c", "text": { "en": "Because its hollow shape displaces enough water to support its weight", "he": "כי צורתה החלולה עוקרת מספיק מים כדי לתמוך במשקלה" } },
+        { "id": "d", "text": { "en": "Because the engine pushes it up", "he": "כי המנוע דוחף אותה כלפי מעלה" } }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "A steel ship floats because of Archimedes' Principle. Although steel is denser than water, the hollow shape of the ship displaces a huge amount of water — enough that the buoyant force (upward push of the water) equals the ship's weight. If a steel ball were the same weight, it would sink because it displaces much less water.",
+        "he": "אנייה מפלדה צפה בגלל עקרון ארכימדס. למרות שפלדה צפופה יותר ממים, הצורה החלולה של הספינה עוקרת כמות עצומה של מים — מספיק שכוח הציפה (הדחיפה כלפי מעלה של המים) שווה למשקל הספינה. אם כדור פלדה היה באותו משקל, הוא היה שוקע כי הוא עוקר הרבה פחות מים."
+      }
+    },
+    {
+      "id": "q-d02-09",
+      "question": {
+        "en": "In what city was Archimedes born?",
+        "he": "באיזו עיר נולד ארכימדס?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Athens", "he": "אתונה" } },
+        { "id": "b", "text": { "en": "Alexandria", "he": "אלכסנדריה" } },
+        { "id": "c", "text": { "en": "Rome", "he": "רומא" } },
+        { "id": "d", "text": { "en": "Syracuse", "he": "סירקוזה" } }
+      ],
+      "correctChoice": "d",
+      "explanation": {
+        "en": "Archimedes was born around 287 BCE in Syracuse, a Greek colony on the island of Sicily. He spent most of his life there, making his great discoveries in mathematics and physics. He died in 212 BCE when the Romans conquered Syracuse.",
+        "he": "ארכימדס נולד בסביבות 287 לפנה\"ס בסירקוזה, מושבה יוונית באי סיציליה. הוא בילה את רוב חייו שם, עשה את גילוייו הגדולים במתמטיקה ובפיזיקה. הוא מת בשנת 212 לפנה\"ס כאשר הרומאים כבשו את סירקוזה."
+      }
+    },
+    {
+      "id": "q-d02-10",
+      "question": {
+        "en": "What did Archimedes ask to be carved on his tomb?",
+        "he": "מה ביקש ארכימדס שייחרת על קברו?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "A lever and fulcrum", "he": "מנוף ונקודת משען" } },
+        { "id": "b", "text": { "en": "A sphere inside a cylinder", "he": "כדור בתוך גליל" } },
+        { "id": "c", "text": { "en": "The word Eureka", "he": "המילה אורקה" } },
+        { "id": "d", "text": { "en": "The value of pi", "he": "ערכו של פאי" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Archimedes was so proud of his proof that a sphere's volume is two-thirds the volume of the cylinder surrounding it that he asked for a sphere inside a cylinder to be carved on his tomb. Centuries later, the Roman philosopher Cicero found Archimedes' neglected tomb by looking for this symbol.",
+        "he": "ארכימדס היה כה גאה בהוכחתו שנפח הכדור שווה לשני שלישים מנפח הגליל שמקיף אותו עד שביקש שכדור בתוך גליל ייחרת על קברו. מאות שנים מאוחר יותר, הפילוסוף הרומאי קיקרו מצא את קברו המוזנח של ארכימדס על ידי חיפוש הסמל הזה."
+      }
+    }
+  ],
+  "videoSources": ["zCdbBt2C6sg"]
+}

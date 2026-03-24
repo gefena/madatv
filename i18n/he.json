@@ -47,6 +47,7 @@
     "incorrect": "לא נכון",
     "explanation": "הסבר",
     "retake": "נסה שוב",
+    "retryWrong": "נסה שוב {count} שגויות",
     "backToEpisode": "חזור לפרק",
     "grade": {
       "excellent": "מצוין!",

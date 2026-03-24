@@ -1,0 +1,281 @@
+{
+  "id": "d07-da-vinci",
+  "episodeNumber": 7,
+  "youtubeId": "-u8xDgnN8X0",
+  "title": {
+    "en": "Leonardo da Vinci",
+    "he": "לאונרדו דה וינצ'י"
+  },
+  "summary": {
+    "en": "This episode celebrates Leonardo da Vinci, perhaps the greatest genius in human history — a man who was simultaneously a painter, sculptor, architect, musician, mathematician, engineer, inventor, anatomist, geologist, botanist, and writer. Born in Vinci, Italy in 1452, Leonardo's curiosity was boundless: he filled thousands of notebook pages with detailed sketches of flying machines, armored vehicles, solar power, hydraulic machines, and the human body. His paintings — including the Mona Lisa and The Last Supper — are among the most studied artworks ever created, notable for revolutionary techniques like sfumato and the precise rendering of human emotion. Through detailed anatomical studies, Leonardo produced drawings of the human body that would not be surpassed for centuries. The episode explores how Leonardo's genius lay not only in his extraordinary skill across disciplines but in his ability to observe the natural world with fresh, unbiased eyes — seeing connections between art, science, and engineering that others missed entirely.",
+    "he": "פרק זה חוגג את לאונרדו דה וינצ'י, אולי הגאון הגדול ביותר בתולדות האנושות — איש שהיה בו-זמנית צייר, פסל, אדריכל, מוזיקאי, מתמטיקאי, מהנדס, ממציא, אנטום, גיאולוג, בוטניקאי וסופר. נולד בוינצ'י, איטליה בשנת 1452, סקרנותו של לאונרדו הייתה אין-סופית: הוא מילא אלפי עמודי מחברת בשרטוטים מפורטים של מכונות טיסה, רכבים משוריינים, אנרגיה סולארית, מכונות הידראוליות וגוף האדם. ציוריו — כולל מונה ליזה וסעודת הנשל — הם מיצירות האמנות הנחקרות ביותר שנוצרו אי פעם, הבולטות בטכניקות מהפכניות כמו ספומאטו והעיבוד המדויק של רגש אנושי. דרך מחקרים אנטומיים מפורטים, הפיק לאונרדו שרטוטים של גוף האדם שלא יעלו עליהם במשך מאות שנים. הפרק בוחן כיצד גאונותו של לאונרדו לא טמנה רק במיומנות יוצאת הדופן שלו בפני תחומים אלא ביכולתו לצפות בעולם הטבעי בעיניים טריות, בלתי מוטות — לראות קשרים בין אמנות, מדע והנדסה שאחרים פספסו לחלוטין."
+  },
+  "thumbnail": "https://img.youtube.com/vi/-u8xDgnN8X0/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": [
+    "Leonardo da Vinci",
+    "Renaissance art and science",
+    "anatomy and invention",
+    "flying machines"
+  ],
+  "terminology": [
+    {
+      "id": "t-d07-01",
+      "term": { "en": "Renaissance Man", "he": "איש הרנסנס" },
+      "definition": {
+        "en": "A person with knowledge and skills across many different fields — arts, sciences, humanities. The term comes from the Renaissance ideal that a well-educated person should be accomplished in many areas. Leonardo da Vinci is history's greatest example.",
+        "he": "אדם בעל ידע ומיומנויות בתחומים רבים ושונים — אמנות, מדעים, מדעי הרוח. המונח נובע מהאידיאל של הרנסנס שאדם משכיל צריך להיות מיומן בתחומים רבים. לאונרדו דה וינצ'י הוא הדוגמה הגדולה ביותר בהיסטוריה."
+      },
+      "category": "culture"
+    },
+    {
+      "id": "t-d07-02",
+      "term": { "en": "Sfumato", "he": "ספומאטו" },
+      "definition": {
+        "en": "A painting technique invented by Leonardo meaning 'smoky' in Italian. It involves blending colors and tones so gradually that there are no sharp outlines — creating soft, hazy transitions that give subjects a three-dimensional, lifelike appearance. It is most famous in the Mona Lisa.",
+        "he": "טכניקת ציור שהמציא לאונרדו, שמשמעותה 'מעושן' באיטלקית. היא כוללת מיזוג צבעים וגוונים בהדרגה כה רבה שאין קווי מתאר חדים — יוצרת מעברים רכים ומעורפלים המעניקים לנושאים מראה תלת-ממדי וחי. היא מפורסמת ביותר במונה ליזה."
+      },
+      "category": "art"
+    },
+    {
+      "id": "t-d07-03",
+      "term": { "en": "Anatomy", "he": "אנטומיה" },
+      "definition": {
+        "en": "The scientific study of the structure of living organisms, especially the human body. Leonardo conducted dozens of human dissections and produced over 240 detailed anatomical drawings — documenting the heart, muscles, bones, and nervous system with accuracy not surpassed for centuries.",
+        "he": "המדע העוסק בחקר מבנה האורגניזמים החיים, במיוחד גוף האדם. לאונרדו ביצע עשרות ניתוחי גופות אנושיות והפיק יותר מ-240 שרטוטים אנטומיים מפורטים — תיעוד הלב, השרירים, העצמות ומערכת העצבים בדיוק שלא עלה עליו במשך מאות שנים."
+      },
+      "category": "science"
+    },
+    {
+      "id": "t-d07-04",
+      "term": { "en": "Ornithopter", "he": "אורניתופטר" },
+      "definition": {
+        "en": "A flying machine that achieves flight by flapping its wings like a bird, rather than using fixed wings. Leonardo designed several ornithopters in his notebooks, based on careful observation of birds and bats. While his designs were not practically flyable, they showed profound insight into the principles of flight.",
+        "he": "מכונת טיסה המשיגה גובה על ידי פרפור כנפיים כמו ציפור, ולא באמצעות כנפיים קבועות. לאונרדו תכנן מספר אורניתופטרים במחברות שלו, בהתבסס על צפייה מדוקדקת בציפורים ועטלפים. בעוד שהעיצובים שלו לא היו מעשיים לטיסה, הם הראו תובנה עמוקה בעקרונות הטיסה."
+      },
+      "category": "invention"
+    },
+    {
+      "id": "t-d07-05",
+      "term": { "en": "Mona Lisa", "he": "מונה ליזה" },
+      "definition": {
+        "en": "A half-length portrait painting by Leonardo da Vinci, considered the world's most famous painting. It is believed to depict Lisa Gherardini, the wife of a Florentine merchant, and is famous for the subject's enigmatic smile, the sfumato technique, and the atmospheric landscape behind her.",
+        "he": "ציור פורטרט חצי-גוף של לאונרדו דה וינצ'י, הנחשב לציור המפורסם ביותר בעולם. מאמינים שהוא מציג את ליסה גרדיני, אשתו של סוחר פירנצאי, והוא מפורסם בחיוכה הסתום של הנושא, טכניקת הספומאטו והנוף האטמוספרי שמאחוריה."
+      },
+      "category": "art"
+    },
+    {
+      "id": "t-d07-06",
+      "term": { "en": "Codex", "he": "קודקס" },
+      "definition": {
+        "en": "A manuscript book, especially one of Leonardo's notebooks. He filled about 13,000 pages of codices with notes, sketches, and diagrams written in mirror script (right to left). These notebooks are preserved in museums and libraries around the world and are still studied by scholars today.",
+        "he": "ספר כתב יד, במיוחד אחת ממחברות לאונרדו. הוא מילא כ-13,000 עמודים של קודקסים בהערות, שרטוטים וסכמות שנכתבו בכתב ראי (מימין לשמאל). מחברות אלה שמורות במוזיאונים וספריות ברחבי העולם ועדיין נחקרות על ידי חוקרים עד היום."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-d07-07",
+      "term": { "en": "Mirror Writing", "he": "כתב ראי" },
+      "definition": {
+        "en": "A form of writing where letters appear reversed and the text reads from right to left. Leonardo wrote almost all his notebooks in mirror script. The most likely reason was simply that as a left-hander, writing from right to left prevented his hand from smearing fresh ink.",
+        "he": "צורת כתיבה שבה האותיות מופיעות הפוכות והטקסט נקרא מימין לשמאל. לאונרדו כתב כמעט את כל מחברותיו בכתב ראי. הסיבה הסבירה ביותר הייתה פשוט שכאיש שמאלי, כתיבה מימין לשמאל מנעה מידו למרוח דיו טרי."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-d07-08",
+      "term": { "en": "Dissection", "he": "נתיחה" },
+      "definition": {
+        "en": "The process of cutting open a body to study its internal structure. Leonardo performed dissections of over 30 human bodies, as well as many animals. In his era this was controversial and sometimes forbidden, but it gave him an unparalleled understanding of human anatomy that informed both his art and his engineering.",
+        "he": "תהליך פתיחת גוף לחקר מבנהו הפנימי. לאונרדו ביצע נתיחות של יותר מ-30 גופות אנושיות, וכן בעלי חיים רבים. בעידנו זה היה שנוי במחלוקת ולעיתים אסור, אך הוא העניק לו הבנה חסרת תקדים באנטומיה האנושית שהשפיעה על אמנותו והנדסתו כאחד."
+      },
+      "category": "science"
+    },
+    {
+      "id": "t-d07-09",
+      "term": { "en": "Perspective", "he": "פרספקטיבה" },
+      "definition": {
+        "en": "In art, the technique for representing three-dimensional space on a flat surface, using converging lines and relative size to create the illusion of depth. Leonardo was a master of perspective and helped develop linear perspective into one of the fundamental principles of Western art.",
+        "he": "באמנות, הטכניקה לייצוג מרחב תלת-ממדי על גבי משטח שטוח, באמצעות קווים מתכנסים וגודל יחסי ליצירת אשליית עומק. לאונרדו היה מאסטר של פרספקטיבה ועזר לפתח פרספקטיבה לינארית לאחד מהעקרונות הבסיסיים של האמנות המערבית."
+      },
+      "category": "art"
+    },
+    {
+      "id": "t-d07-10",
+      "term": { "en": "The Last Supper", "he": "סעודת הנשל" },
+      "definition": {
+        "en": "A large mural painting by Leonardo, depicting the moment Jesus tells his apostles that one will betray him. Painted on a wall in Milan between 1495 and 1498, it is famous for capturing the different emotional reactions of each disciple and its masterful use of perspective drawing the eye to Jesus at the center.",
+        "he": "ציור קיר גדול של לאונרדו, המציג את הרגע שבו ישוע אומר לשליחיו שאחד יבגוד בו. צויר על קיר במילאנו בין השנים 1495 ל-1498, הוא מפורסם בלכידת התגובות הרגשיות השונות של כל תלמיד ובשימוש המאסטרי בפרספקטיבה המפנה את העין לישוע במרכז."
+      },
+      "category": "art"
+    },
+    {
+      "id": "t-d07-11",
+      "term": { "en": "Hydraulics", "he": "הידראוליקה" },
+      "definition": {
+        "en": "The branch of engineering concerned with the mechanical properties of liquids, especially water. Leonardo designed many hydraulic machines — canal systems, pumps, and dredges — and studied the movement of water with scientific rigor, filling his notebooks with observations on waves, currents, and floods.",
+        "he": "ענף ההנדסה העוסק במאפיינים המכניים של נוזלים, במיוחד מים. לאונרדו עיצב מכונות הידראוליות רבות — מערכות תעלות, משאבות ומנפות — וחקר את תנועת המים בקפדנות מדעית, מילא את מחברותיו בתצפיות על גלים, זרמים ושיטפונות."
+      },
+      "category": "science"
+    },
+    {
+      "id": "t-d07-12",
+      "term": { "en": "Apprentice", "he": "שוליה" },
+      "definition": {
+        "en": "A young person who learns a trade or art by working under a master craftsman. Leonardo became an apprentice to the Florentine artist Andrea del Verrocchio at around age 14, learning painting, sculpture, engineering, and metalwork — the broad Renaissance education that launched his extraordinary career.",
+        "he": "צעיר הלומד מקצוע או אמנות על ידי עבודה תחת מאסטר. לאונרדו הפך לשוליה אצל האמן הפירנצאי אנדראה דל וורוקיו בגיל כ-14, לומד ציור, פיסול, הנדסה ועבודת מתכת — החינוך הרחב של הרנסנס שהשיק את קריירתו המדהימה."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-d07-13",
+      "term": { "en": "Armored Vehicle", "he": "רכב משוריין" },
+      "definition": {
+        "en": "Leonardo designed one of the world's first concepts for an armored fighting vehicle — a shell-like war machine with cannons pointed in all directions, propelled by cranking. This concept, sketched around 1487, anticipated the tank by over 400 years, though it had a design flaw that would have made it spin in circles.",
+        "he": "לאונרדו עיצב אחת מהמושגים הראשונים בעולם לרכב קרב משוריין — מכונת מלחמה בצורת קונכייה עם תותחים המצביעים לכל הכיוונים, מונעת על ידי ידית. מושג זה, שנורטט בסביבות שנת 1487, ציפה לטנק ביותר מ-400 שנה, אם כי היה בו פגם עיצובי שהיה גורם לו להסתובב במעגלים."
+      },
+      "category": "invention"
+    },
+    {
+      "id": "t-d07-14",
+      "term": { "en": "Solar Energy", "he": "אנרגיה סולארית" },
+      "definition": {
+        "en": "Energy harnessed from the sun's light and heat. Leonardo da Vinci conceived of using large curved mirrors to concentrate sunlight for heating and industrial processes — one of the earliest known proposals for practical solar energy use, written over 500 years before modern solar panels.",
+        "he": "אנרגיה המנוצלת מאור השמש וחומה. לאונרדו דה וינצ'י תפס את השימוש במראות מעוקלות גדולות לריכוז אור שמש לחימום ותהליכים תעשייתיים — אחת ההצעות המוקדמות ביותר הידועות לשימוש מעשי באנרגיה סולארית, שנכתבה יותר מ-500 שנה לפני פאנלים סולאריים מודרניים."
+      },
+      "category": "invention"
+    },
+    {
+      "id": "t-d07-15",
+      "term": { "en": "Vitruvian Man", "he": "איש וויטרובי" },
+      "definition": {
+        "en": "A famous drawing by Leonardo (c. 1490) showing a man inscribed in both a circle and a square, based on the writings of the ancient Roman architect Vitruvius. It represents Leonardo's exploration of the ideal proportions of the human body and the relationship between art, mathematics, and the human form.",
+        "he": "שרטוט מפורסם של לאונרדו (כ-1490) המציג איש הכלוא גם במעגל וגם בריבוע, המבוסס על כתביו של האדריכל הרומאי העתיק ויטרוביוס. הוא מייצג את חקירת לאונרדו של הפרופורציות האידיאליות של גוף האדם ואת הקשר בין אמנות, מתמטיקה וצורת האדם."
+      },
+      "category": "art"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q-d07-01",
+      "question": { "en": "What is the name of Leonardo da Vinci's most famous painting?", "he": "מה שמו של הציור המפורסם ביותר של לאונרדו דה וינצ'י?" },
+      "choices": [
+        { "id": "a", "text": { "en": "The Birth of Venus", "he": "לידת ונוס" } },
+        { "id": "b", "text": { "en": "The Mona Lisa", "he": "מונה ליזה" } },
+        { "id": "c", "text": { "en": "The Sistine Chapel", "he": "קפלת סיסטינה" } },
+        { "id": "d", "text": { "en": "The School of Athens", "he": "בית הספר של אתונה" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "The Mona Lisa is Leonardo's most famous painting, now housed in the Louvre in Paris. It is famous for the subject's mysterious smile, the sfumato technique, and the atmospheric landscape. Millions of visitors come to see it each year.", "he": "מונה ליזה הוא הציור המפורסם ביותר של לאונרדו, הנמצא כיום בלובר בפריז. הוא מפורסם בחיוכה המסתורי של הנושא, טכניקת הספומאטו והנוף האטמוספרי. מיליוני מבקרים באים לראות אותו מדי שנה." }
+    },
+    {
+      "id": "q-d07-02",
+      "question": { "en": "In what way did Leonardo write in his notebooks?", "he": "כיצד כתב לאונרדו במחברות שלו?" },
+      "choices": [
+        { "id": "a", "text": { "en": "In code using numbers", "he": "בקוד באמצעות מספרים" } },
+        { "id": "b", "text": { "en": "In mirror writing, right to left", "he": "בכתב ראי, מימין לשמאל" } },
+        { "id": "c", "text": { "en": "In ancient Greek letters", "he": "באותיות יוונית עתיקה" } },
+        { "id": "d", "text": { "en": "Entirely in drawings with no words", "he": "לגמרי בשרטוטים ללא מילים" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Leonardo wrote in mirror script — letters reversed, reading from right to left. As a left-hander, this prevented smearing fresh ink. His notebooks can be read by holding them up to a mirror. This quirk has sometimes led to myths about secret codes.", "he": "לאונרדו כתב בכתב ראי — אותיות הפוכות, הנקראות מימין לשמאל. כאיש שמאלי, זה מנע מריחת דיו טרי. ניתן לקרוא את מחברותיו על ידי החזקתן בפני מראה. תכונה זו הובילה לפעמים למיתוסים על קודים סודיים." }
+    },
+    {
+      "id": "q-d07-03",
+      "question": { "en": "What flying machine did Leonardo design that flapped its wings like a bird?", "he": "איזו מכונת טיסה תכנן לאונרדו שפרפרה כנפיים כמו ציפור?" },
+      "choices": [
+        { "id": "a", "text": { "en": "A glider", "he": "גלשן" } },
+        { "id": "b", "text": { "en": "An ornithopter", "he": "אורניתופטר" } },
+        { "id": "c", "text": { "en": "A hot air balloon", "he": "כדור פורח" } },
+        { "id": "d", "text": { "en": "A helicopter", "he": "מסוק" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Leonardo designed several ornithopters — flying machines with flapping wings inspired by bird and bat flight. While they could not actually fly, they showed his deep understanding of aerodynamics centuries before the Wright Brothers achieved powered flight.", "he": "לאונרדו עיצב מספר אורניתופטרים — מכונות טיסה עם כנפיים פרפרניות שהונעו מטיסת ציפורים ועטלפים. בעוד שהם לא יכלו לטוס בפועל, הם הראו את הבנתו העמוקה באווירודינמיקה מאות שנים לפני שאחי רייט השיגו טיסה ממונעת." }
+    },
+    {
+      "id": "q-d07-04",
+      "question": { "en": "What is sfumato?", "he": "מהו ספומאטו?" },
+      "choices": [
+        { "id": "a", "text": { "en": "An Italian word for 'painting quickly'", "he": "מילה איטלקית ל'ציור מהיר'" } },
+        { "id": "b", "text": { "en": "A technique of blending colors with no sharp edges", "he": "טכניקה של מיזוג צבעים ללא קצוות חדים" } },
+        { "id": "c", "text": { "en": "A type of oil-based paint", "he": "סוג של צבע על בסיס שמן" } },
+        { "id": "d", "text": { "en": "The art of carving marble", "he": "אמנות גילוף השיש" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Sfumato (Italian for 'smoky') is Leonardo's technique of blending tones so gradually that edges seem to dissolve into each other, creating a soft, atmospheric quality. It is especially evident in the Mona Lisa's face and background landscape.", "he": "ספומאטו (איטלקית ל'מעושן') היא הטכניקה של לאונרדו למיזוג גוונים בהדרגה כה רבה שהקצוות נראים מתמוססים זה בזה, יוצרים איכות רכה ואטמוספרית. היא בולטת במיוחד בפניה של מונה ליזה ובנוף הרקע." }
+    },
+    {
+      "id": "q-d07-05",
+      "question": { "en": "How did Leonardo learn so much about human anatomy?", "he": "כיצד למד לאונרדו כל כך הרבה על אנטומיה אנושית?" },
+      "choices": [
+        { "id": "a", "text": { "en": "By reading ancient books", "he": "על ידי קריאת ספרים עתיקים" } },
+        { "id": "b", "text": { "en": "By performing dissections of human bodies", "he": "על ידי ביצוע נתיחות של גופות אנושיות" } },
+        { "id": "c", "text": { "en": "By studying skeletons in museums", "he": "על ידי לימוד שלדים במוזיאונים" } },
+        { "id": "d", "text": { "en": "By asking doctors questions", "he": "על ידי שאילת שאלות לרופאים" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Leonardo performed over 30 human dissections, producing more than 240 detailed anatomical drawings. Though controversial at the time, this direct observation allowed him to document the heart, muscles, and organs with unprecedented accuracy.", "he": "לאונרדו ביצע יותר מ-30 נתיחות אנושיות, והפיק יותר מ-240 שרטוטים אנטומיים מפורטים. אם כי שנוי במחלוקת בזמנו, תצפית ישירה זו אפשרה לו לתעד את הלב, השרירים והאיברים בדיוק חסר תקדים." }
+    },
+    {
+      "id": "q-d07-06",
+      "question": { "en": "Where was Leonardo da Vinci born?", "he": "היכן נולד לאונרדו דה וינצ'י?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Rome, Italy", "he": "רומא, איטליה" } },
+        { "id": "b", "text": { "en": "Vinci, near Florence, Italy", "he": "וינצ'י, ליד פירנצה, איטליה" } },
+        { "id": "c", "text": { "en": "Venice, Italy", "he": "ונציה, איטליה" } },
+        { "id": "d", "text": { "en": "Paris, France", "he": "פריז, צרפת" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Leonardo was born in 1452 in Vinci, a small town near Florence in Tuscany, Italy. His surname 'da Vinci' simply means 'from Vinci'. He spent much of his adult life in Florence and Milan, and died in France in 1519.", "he": "לאונרדו נולד בשנת 1452 בוינצ'י, עיירה קטנה ליד פירנצה בטוסקנה, איטליה. שם משפחתו 'דה וינצ'י' פשוט אומר 'מוינצ'י'. הוא בילה חלק גדול מחיי הבגרות שלו בפירנצה ובמילאנו, ומת בצרפת בשנת 1519." }
+    },
+    {
+      "id": "q-d07-07",
+      "question": { "en": "Approximately how many pages did Leonardo fill in his notebooks?", "he": "כמה עמודים בערך מילא לאונרדו במחברות שלו?" },
+      "choices": [
+        { "id": "a", "text": { "en": "About 100 pages", "he": "כ-100 עמודים" } },
+        { "id": "b", "text": { "en": "About 500 pages", "he": "כ-500 עמודים" } },
+        { "id": "c", "text": { "en": "About 13,000 pages", "he": "כ-13,000 עמודים" } },
+        { "id": "d", "text": { "en": "About 50,000 pages", "he": "כ-50,000 עמודים" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "About 13,000 pages of Leonardo's notebooks survive today, and historians believe he originally wrote many more. These pages contain drawings of inventions, studies of nature, scientific observations, anatomical diagrams, philosophical reflections, and creative ideas across every field.", "he": "כ-13,000 עמודים ממחברות לאונרדו שרדים עד היום, והיסטוריונים מאמינים שהוא כתב הרבה יותר במקור. עמודים אלה מכילים שרטוטים של המצאות, מחקרים של הטבע, תצפיות מדעיות, תרשימים אנטומיים, הרהורים פילוסופיים ורעיונות יצירתיים בכל תחום." }
+    },
+    {
+      "id": "q-d07-08",
+      "question": { "en": "What does the term 'Renaissance Man' mean?", "he": "מה פירוש המונח 'איש הרנסנס'?" },
+      "choices": [
+        { "id": "a", "text": { "en": "A person born during the Renaissance period", "he": "אדם שנולד בתקופת הרנסנס" } },
+        { "id": "b", "text": { "en": "A person skilled in many different fields", "he": "אדם המיומן בתחומים רבים ושונים" } },
+        { "id": "c", "text": { "en": "An Italian artist who painted ceilings", "he": "אמן איטלקי שצייר תקרות" } },
+        { "id": "d", "text": { "en": "A scientist who studied ancient texts", "he": "מדען שחקר טקסטים עתיקים" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "A Renaissance Man (or polymath) is someone with wide-ranging knowledge and abilities across many fields. Leonardo is history's supreme example — he excelled equally in painting, sculpture, architecture, anatomy, engineering, music, mathematics, and natural science.", "he": "איש הרנסנס (או פולימת) הוא מי שיש לו ידע ויכולות רחבות בתחומים רבים. לאונרדו הוא הדוגמה העליונה בהיסטוריה — הוא הצטיין באותה מידה בציור, פיסול, אדריכלות, אנטומיה, הנדסה, מוזיקה, מתמטיקה ומדעי הטבע." }
+    },
+    {
+      "id": "q-d07-09",
+      "question": { "en": "What famous drawing shows a human figure inscribed in a circle and square?", "he": "איזה שרטוט מפורסם מציג דמות אנושית הכלואה במעגל ובריבוע?" },
+      "choices": [
+        { "id": "a", "text": { "en": "The Last Supper", "he": "סעודת הנשל" } },
+        { "id": "b", "text": { "en": "The Vitruvian Man", "he": "איש וויטרובי" } },
+        { "id": "c", "text": { "en": "The Mona Lisa", "he": "מונה ליזה" } },
+        { "id": "d", "text": { "en": "The Creation of Adam", "he": "בריאת אדם" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "The Vitruvian Man (c.1490) shows the ideal human proportions with arms and legs extended, fitting perfectly inside both a circle and a square. Based on ancient Roman architecture theory, it demonstrates Leonardo's belief that the human body embodies mathematical perfection.", "he": "איש וויטרובי (כ-1490) מציג את פרופורציות האדם האידיאליות עם ידיים ורגליים מורחבות, מתאים בשלמות גם למעגל וגם לריבוע. מבוסס על תורת האדריכלות הרומאית העתיקה, הוא מדגים את אמונתו של לאונרדו שגוף האדם מגלם שלמות מתמטית." }
+    },
+    {
+      "id": "q-d07-10",
+      "question": { "en": "Which invention of Leonardo anticipated the modern tank by 400 years?", "he": "איזו המצאה של לאונרדו ציפתה לטנק המודרני ב-400 שנה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "A submarine", "he": "צוללת" } },
+        { "id": "b", "text": { "en": "An armored vehicle", "he": "רכב משוריין" } },
+        { "id": "c", "text": { "en": "A steam-powered ship", "he": "ספינה ממונעת בקיטור" } },
+        { "id": "d", "text": { "en": "A cannon launcher", "he": "משגר תותח" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Around 1487, Leonardo designed an armored vehicle resembling a turtle shell with cannons pointing outward in all directions, propelled by cranks. Though it had a design flaw (the gears would have made it spin), it clearly anticipated the tank concept by over 400 years.", "he": "סביב שנת 1487, תכנן לאונרדו רכב משוריין הדומה לקונכיית צב עם תותחים המצביעים כלפי חוץ בכל הכיוונים, מונע על ידי ידיות. אם כי היה בו פגם עיצובי (הגלגלים היו גורמים לו להסתובב), הוא ציפה ברור לרעיון הטנק ביותר מ-400 שנה." }
+    }
+  ],
+  "videoSources": ["-u8xDgnN8X0"]
+}

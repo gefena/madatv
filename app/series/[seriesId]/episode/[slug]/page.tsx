@@ -1,12 +1,12 @@
 import type { Metadata } from "next";
 import { SERIES_IDS } from "@/lib/series";
-import { EPISODE_SLUGS, getEpisode } from "@/lib/content";
+import { getSeriesEpisodeSlugs, getEpisode } from "@/lib/content";
 import EpisodePageClient from "./EpisodePageClient";
 
 export function generateStaticParams() {
   const params = [];
   for (const seriesId of SERIES_IDS) {
-    for (const slug of EPISODE_SLUGS) {
+    for (const slug of getSeriesEpisodeSlugs(seriesId)) {
       params.push({ seriesId, slug });
     }
   }

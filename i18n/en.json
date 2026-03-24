@@ -47,6 +47,7 @@
     "incorrect": "Incorrect",
     "explanation": "Explanation",
     "retake": "Retake Quiz",
+    "retryWrong": "Retry {count} wrong",
     "backToEpisode": "Back to Episode",
     "grade": {
       "excellent": "Excellent!",

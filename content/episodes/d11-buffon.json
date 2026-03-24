@@ -1,0 +1,386 @@
+{
+  "id": "d11-buffon",
+  "episodeNumber": 11,
+  "youtubeId": "NMVE6eJ0QhA",
+  "title": {
+    "en": "Buffon, Discovering the Past",
+    "he": "בופון, מגלה העבר"
+  },
+  "summary": {
+    "en": "This episode follows the fascinating life and ideas of Georges-Louis Leclerc, Comte de Buffon, the 18th-century French naturalist who dared to ask how old the Earth really is and what happened long before humans were around to record history. Buffon spent decades compiling his massive encyclopedia of nature, Histoire Naturelle, in which he described and classified thousands of animals, plants, and minerals in vivid detail. He challenged the prevailing biblical estimate that the Earth was only a few thousand years old, conducting experiments with heated iron spheres to estimate that the Earth might be at least 75,000 years old — a revolutionary and dangerous idea for his time. He also studied fossils and observed that similar species existed on different continents, hinting — carefully and cautiously — that species might change over time. Though Buffon never fully developed a theory of evolution, his bold questions about the age of the Earth, the history of life, and the classification of animals planted the seeds that would later blossom in the work of Lamarck and Darwin.",
+    "he": "פרק זה עוקב אחר חייו המרתקים ורעיונותיו של ז'ורז'-לואי לקלרק, הרוזן דה בופון, הטבעתן הצרפתי מהמאה ה-18 שהעז לשאול כמה עתיק כדור הארץ באמת ומה קרה הרבה לפני שבני האדם היו כאן כדי לתעד היסטוריה. בופון בילה עשרות שנים בחיבור האנציקלופדיה הטבעית המסיבית שלו, Histoire Naturelle, שבה תיאר וסיווג אלפי בעלי חיים, צמחים ומינרלים בפירוט חי. הוא אתגר את ההערכה המקראית הרווחת שכדור הארץ בן רק כמה אלפי שנים, ביצע ניסויים עם כדורי ברזל מחוממים כדי להעריך שכדור הארץ עשוי להיות בן לפחות 75,000 שנה — רעיון מהפכני ומסוכן לזמנו. הוא גם חקר מאובנים ושם לב שמינים דומים קיימו על יבשות שונות, מרמז — בזהירות רבה — שמינים אולי משתנים עם הזמן. אף שבופון מעולם לא פיתח באופן מלא תיאוריה של אבולוציה, שאלותיו הנועזות על גיל כדור הארץ, תולדות החיים וסיווג בעלי החיים זרעו את הגרעינים שיפרחו מאוחר יותר בעבודתם של למארק ודארווין."
+  },
+  "thumbnail": "https://img.youtube.com/vi/NMVE6eJ0QhA/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": [
+    "Georges-Louis Leclerc de Buffon",
+    "natural history and classification",
+    "age of the Earth",
+    "fossils and species"
+  ],
+  "terminology": [
+    {
+      "id": "t-d11-01",
+      "term": {
+        "en": "Natural History",
+        "he": "היסטוריה טבעית"
+      },
+      "definition": {
+        "en": "The study and description of the natural world — animals, plants, minerals, and the Earth itself — through observation and collection. Before modern biology, chemistry, and geology separated into distinct sciences, natural history encompassed all of them.",
+        "he": "חקר ותיאור של העולם הטבעי — בעלי חיים, צמחים, מינרלים וכדור הארץ עצמו — דרך תצפית ואיסוף. לפני שהביולוגיה המודרנית, הכימיה והגיאולוגיה הפרידו לתחומים נפרדים, ההיסטוריה הטבעית כללה את כולם."
+      },
+      "category": "scientific field"
+    },
+    {
+      "id": "t-d11-02",
+      "term": {
+        "en": "Fossil",
+        "he": "מאובן"
+      },
+      "definition": {
+        "en": "The preserved remains or traces of ancient organisms — animals, plants, or other living things — found in rock. Fossils can include bones, shells, teeth, footprints, and even impressions of leaves. They are our most direct evidence of what life was like millions of years ago.",
+        "he": "שרידים שמורים או עקבות של אורגניזמים עתיקים — בעלי חיים, צמחים או יצורים חיים אחרים — הנמצאים בסלע. מאובנים יכולים לכלול עצמות, קליפות, שיניים, טביעות רגל ואפילו רשמים של עלים. הם הראיות הישירות ביותר שלנו לגבי מה היו החיים לפני מיליוני שנים."
+      },
+      "category": "geology/biology"
+    },
+    {
+      "id": "t-d11-03",
+      "term": {
+        "en": "Buffon",
+        "he": "בופון"
+      },
+      "definition": {
+        "en": "Georges-Louis Leclerc, Comte de Buffon (1707–1788), a French naturalist and author of the 44-volume Histoire Naturelle. He was one of the first scientists to suggest the Earth was far older than the Bible implied and to hint that species could change over time.",
+        "he": "ז'ורז'-לואי לקלרק, הרוזן דה בופון (1707–1788), טבעתן צרפתי ומחבר ה-Histoire Naturelle בן 44 הכרכים. הוא היה מהמדענים הראשונים שהציע שכדור הארץ עתיק הרבה יותר ממה שהתנ\"ך רמז, ורמז שמינים יכולים להשתנות עם הזמן."
+      },
+      "category": "historical figure"
+    },
+    {
+      "id": "t-d11-04",
+      "term": {
+        "en": "Histoire Naturelle",
+        "he": "היסטואר נטורל"
+      },
+      "definition": {
+        "en": "Buffon's monumental encyclopedia of the natural world, published in 44 volumes between 1749 and 1804. It covered animals, plants, minerals, the Earth, and theories about the history of life, written in beautiful French prose accessible to educated readers — not just scientists.",
+        "he": "האנציקלופדיה המונומנטלית של בופון על העולם הטבעי, שפורסמה ב-44 כרכים בין 1749 ל-1804. היא כיסתה בעלי חיים, צמחים, מינרלים, כדור הארץ ותיאוריות על תולדות החיים, כתובה בפרוזה צרפתית יפה נגישה לקוראים משכילים — לא רק למדענים."
+      },
+      "category": "historical work"
+    },
+    {
+      "id": "t-d11-05",
+      "term": {
+        "en": "Age of the Earth",
+        "he": "גיל כדור הארץ"
+      },
+      "definition": {
+        "en": "How long Earth has existed since it formed from gas and dust around our Sun. Buffon estimated at least 75,000 years — far more than the 6,000 years suggested by some biblical calculations. Modern science tells us Earth is approximately 4.5 billion years old.",
+        "he": "כמה זמן כדור הארץ קיים מאז שנוצר מגז ואבק סביב שמשנו. בופון העריך לפחות 75,000 שנה — הרבה יותר מ-6,000 השנים שהציעו כמה חישובים מקראיים. המדע המודרני אומר לנו שכדור הארץ בן כ-4.5 מיליארד שנה."
+      },
+      "category": "geology"
+    },
+    {
+      "id": "t-d11-06",
+      "term": {
+        "en": "Species",
+        "he": "מין"
+      },
+      "definition": {
+        "en": "A group of organisms that share similar characteristics and can reproduce with one another to produce fertile offspring. Buffon grappled with the question of whether species are fixed forever or could change — a question Darwin would later answer with his theory of evolution.",
+        "he": "קבוצת אורגניזמים החולקים מאפיינים דומים ויכולים להתרבות זה עם זה כדי לייצר צאצאים פוריים. בופון התמודד עם השאלה האם מינים קבועים לנצח או יכולים להשתנות — שאלה שדארווין יענה עליה מאוחר יותר עם תיאוריית האבולוציה שלו."
+      },
+      "category": "biology"
+    },
+    {
+      "id": "t-d11-07",
+      "term": {
+        "en": "Classification",
+        "he": "סיווג"
+      },
+      "definition": {
+        "en": "The systematic organization of living things into groups based on their shared characteristics. Buffon and his contemporary Linnaeus both worked to classify the natural world — though they disagreed on the best methods. Classification helps scientists compare organisms and understand relationships between them.",
+        "he": "הארגון השיטתי של יצורים חיים לקבוצות בהתבסס על המאפיינים המשותפים שלהם. בופון ועמיתו לינאוס שניהם עבדו לסיווג העולם הטבעי — אף שנחלקו על השיטות הטובות ביותר. הסיווג עוזר למדענים להשוות אורגניזמים ולהבין קשרים ביניהם."
+      },
+      "category": "biology"
+    },
+    {
+      "id": "t-d11-08",
+      "term": {
+        "en": "Stratigraphy",
+        "he": "סטרטיגרפיה"
+      },
+      "definition": {
+        "en": "The study of rock layers (strata) and their sequence in order to understand the history of the Earth. Older rocks are generally found deeper underground. Buffon and other naturalists used rock layers to argue that the Earth must be much older than traditional accounts suggested.",
+        "he": "חקר שכבות הסלע (שכבות) וסדרן כדי להבין את היסטוריית כדור הארץ. סלעים ישנים יותר נמצאים בדרך כלל עמוק יותר באדמה. בופון וטבעתנים אחרים השתמשו בשכבות סלע כדי לטעון שכדור הארץ חייב להיות הרבה יותר עתיק ממה שהדיווחים המסורתיים הציעו."
+      },
+      "category": "geology"
+    },
+    {
+      "id": "t-d11-09",
+      "term": {
+        "en": "Extinction",
+        "he": "הכחדה"
+      },
+      "definition": {
+        "en": "The complete disappearance of a species from the Earth, with no living members remaining. The discovery of fossils of creatures unlike any alive today led Buffon and others to conclude that some species had completely died out — a radical idea at a time when many believed God would never allow a species to vanish.",
+        "he": "ההיעלמות המוחלטת של מין מכדור הארץ, ללא חברים חיים שנותרו. גילוי מאובנים של יצורים שאינם דומים לאף אחד מהחיים כיום הוביל את בופון ואחרים למסקנה שכמה מינים מתו לחלוטין — רעיון רדיקלי בזמן שבו רבים האמינו שאלוהים לעולם לא יאפשר להיעלמות מין."
+      },
+      "category": "biology"
+    },
+    {
+      "id": "t-d11-10",
+      "term": {
+        "en": "Biogeography",
+        "he": "ביוגאוגרפיה"
+      },
+      "definition": {
+        "en": "The study of the geographic distribution of species and ecosystems around the world. Buffon noticed that although different continents had similar environments, they were inhabited by different but related species — an observation now known as 'Buffon's Law,' and one of the first clues pointing toward evolution.",
+        "he": "חקר הפצתם הגיאוגרפית של מינים ואקוסיסטמות ברחבי העולם. בופון שם לב שאף שליבשות שונות יש סביבות דומות, הן מאוכלסות על ידי מינים שונים אך קשורים — תצפית המוכרת כיום כ'חוק בופון', ואחד הרמזים הראשונים המצביעים לעבר אבולוציה."
+      },
+      "category": "biology/geography"
+    },
+    {
+      "id": "t-d11-11",
+      "term": {
+        "en": "Sedimentary Rock",
+        "he": "סלע משקע"
+      },
+      "definition": {
+        "en": "Rock formed from layers of sand, silt, clay, or other particles that settle over time in water or on land, then harden. Most fossils are found in sedimentary rock. The gradual buildup of sediment layers was used by Buffon to argue that the Earth must be very old.",
+        "he": "סלע שנוצר משכבות של חול, בוץ, חרסית או חלקיקים אחרים המתיישבים לאורך זמן במים או ביבשה, ואז מתקשים. רוב המאובנים נמצאים בסלע משקע. הצטברות הדרגתית של שכבות המשקע שימשה את בופון לטעון שכדור הארץ חייב להיות עתיק מאוד."
+      },
+      "category": "geology"
+    },
+    {
+      "id": "t-d11-12",
+      "term": {
+        "en": "Taxonomy",
+        "he": "טקסונומיה"
+      },
+      "definition": {
+        "en": "The science of naming, describing, and classifying organisms. Carl Linnaeus developed the modern system of taxonomy with two-part Latin names (like Homo sapiens) while Buffon worked alongside him. Taxonomy gives every known species a unique name and places it within a hierarchy of groups.",
+        "he": "המדע של מתן שמות, תיאור וסיווג אורגניזמים. קרל לינאוס פיתח את מערכת הטקסונומיה המודרנית עם שמות לטיניים דו-חלקיים (כמו Homo sapiens) בעוד בופון עבד לצדו. הטקסונומיה נותנת לכל מין ידוע שם ייחודי ומציבה אותו בתוך היררכיה של קבוצות."
+      },
+      "category": "biology"
+    },
+    {
+      "id": "t-d11-13",
+      "term": {
+        "en": "Naturalist",
+        "he": "טבעתן"
+      },
+      "definition": {
+        "en": "A scientist who studies the natural world — animals, plants, rocks, and the environment — through observation and fieldwork rather than laboratory experiments. Buffon was one of the greatest naturalists of the 18th century, combining observation with broad theoretical thinking.",
+        "he": "מדען החוקר את העולם הטבעי — בעלי חיים, צמחים, סלעים וסביבה — דרך תצפית ועבודת שטח ולא ניסויי מעבדה. בופון היה אחד הטבעתנים הגדולים של המאה ה-18, שילב תצפית עם חשיבה תיאורטית רחבה."
+      },
+      "category": "scientific role"
+    },
+    {
+      "id": "t-d11-14",
+      "term": {
+        "en": "Degeneration Theory",
+        "he": "תיאוריית ניוון"
+      },
+      "definition": {
+        "en": "Buffon's cautious early idea that species could change over time by adapting to their environment — particularly in new climates. He suggested that American animals had 'degenerated' from Old World ancestors due to their colder, wetter environment, though he was careful not to fully contradict the Church.",
+        "he": "הרעיון הזהיר הראשוני של בופון שמינים יכולים להשתנות עם הזמן על ידי הסתגלות לסביבתם — במיוחד באקלים חדש. הוא הציע שבעלי החיים האמריקאיים 'ניוונו' מאבות העולם הישן בשל סביבתם הקרה והלחה יותר, אף שנזהר לא לסתור לחלוטין את הכנסייה."
+      },
+      "category": "historical concept"
+    },
+    {
+      "id": "t-d11-15",
+      "term": {
+        "en": "Epoch",
+        "he": "עידן"
+      },
+      "definition": {
+        "en": "A distinct period of time in the history of the Earth or life on it, typically defined by major events such as mass extinctions or changes in climate and geography. Buffon described seven 'epochs' of Earth's history in his work, which was an early attempt to understand the deep time of our planet's past.",
+        "he": "תקופת זמן מובחנת בהיסטוריית כדור הארץ או החיים עליו, המוגדרת בדרך כלל על ידי אירועים מרכזיים כגון הכחדות המוניות או שינויים באקלים ובגיאוגרפיה. בופון תיאר שבעה 'עידנים' של היסטוריית כדור הארץ בעבודתו, שהייתה ניסיון מוקדם להבין את הזמן העמוק של עברנו הפלנטרי."
+      },
+      "category": "geology"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q-d11-01",
+      "question": {
+        "en": "What was the name of Buffon's famous encyclopedia of the natural world?",
+        "he": "מה היה שמה של האנציקלופדיה המפורסמת של בופון על העולם הטבעי?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Systema Naturae", "he": "סיסטמה נטורה" } },
+        { "id": "b", "text": { "en": "Histoire Naturelle", "he": "היסטואר נטורל" } },
+        { "id": "c", "text": { "en": "On the Origin of Species", "he": "על מקור המינים" } },
+        { "id": "d", "text": { "en": "Principia Naturalis", "he": "פרינקיפיה נטורליס" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Buffon's Histoire Naturelle was a monumental 44-volume work describing animals, plants, minerals, and theories about the Earth's history. Published between 1749 and 1804, it was written in accessible French prose and became very popular among educated readers.",
+        "he": "ה-Histoire Naturelle של בופון הייתה יצירה מונומנטלית בת 44 כרכים המתארת בעלי חיים, צמחים, מינרלים ותיאוריות על היסטוריית כדור הארץ. פורסמה בין 1749 ל-1804, כתובה בפרוזה צרפתית נגישה והפכה פופולרית מאוד בקרב קוראים משכילים."
+      }
+    },
+    {
+      "id": "q-d11-02",
+      "question": {
+        "en": "How did Buffon estimate the age of the Earth?",
+        "he": "כיצד הסיק בופון את גיל כדור הארץ?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "By counting tree rings", "he": "על ידי ספירת טבעות עצים" } },
+        { "id": "b", "text": { "en": "By studying fossil layers in rock", "he": "על ידי חקר שכבות מאובנים בסלע" } },
+        { "id": "c", "text": { "en": "By heating iron spheres and measuring how long they took to cool", "he": "על ידי חימום כדורי ברזל ומדידת הזמן שלקח להם להתקרר" } },
+        { "id": "d", "text": { "en": "By calculating the speed of light", "he": "על ידי חישוב מהירות האור" } }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Buffon heated iron spheres of different sizes and measured how long they took to cool to room temperature. By extrapolating this data to the size of the Earth, he estimated Earth was at least 75,000 years old — a bold and controversial claim at the time.",
+        "he": "בופון חימם כדורי ברזל בגדלים שונים ומדד כמה זמן לקח להם להתקרר לטמפרטורת החדר. על ידי חישוב נתונים אלה לגודל כדור הארץ, הוא העריך שכדור הארץ בן לפחות 75,000 שנה — טענה נועזת ושנויה במחלוקת בזמנו."
+      }
+    },
+    {
+      "id": "q-d11-03",
+      "question": {
+        "en": "What did the discovery of fossils tell scientists like Buffon?",
+        "he": "מה גילוי המאובנים אמר למדענים כמו בופון?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "That fossils were placed in rocks by God as tests of faith", "he": "שמאובנים הוצבו בסלעים על ידי אלוהים כמבחני אמונה" } },
+        { "id": "b", "text": { "en": "That some creatures had lived on Earth long ago and no longer existed", "he": "שיצורים מסוימים חיו על כדור הארץ לפני זמן רב ואינם קיימים עוד" } },
+        { "id": "c", "text": { "en": "That rocks grow and change into animals over time", "he": "שסלעים גדלים ומשתנים לבעלי חיים עם הזמן" } },
+        { "id": "d", "text": { "en": "That the oceans were once on land", "he": "שהאוקיינוסים היו פעם ביבשה" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Fossils showed Buffon and other naturalists that creatures unlike any alive today had once existed on Earth and had since disappeared. This implied extinction — a controversial idea since it suggested that God's creation was not perfect and unchanging.",
+        "he": "מאובנים הראו לבופון ולטבעתנים אחרים שיצורים שאינם דומים לאף אחד מהחיים כיום חיו פעם על כדור הארץ ואז נעלמו. הדבר רמז על הכחדה — רעיון שנוי במחלוקת מכיוון שרמז שבריאת האל אינה מושלמת ובלתי משתנה."
+      }
+    },
+    {
+      "id": "q-d11-04",
+      "question": {
+        "en": "What was the accepted biblical estimate for the age of the Earth in Buffon's time?",
+        "he": "מה הייתה ההערכה המקראית המקובלת לגיל כדור הארץ בתקופת בופון?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "About 6,000 years", "he": "כ-6,000 שנה" } },
+        { "id": "b", "text": { "en": "About 100,000 years", "he": "כ-100,000 שנה" } },
+        { "id": "c", "text": { "en": "About 1 million years", "he": "כ-מיליון שנה" } },
+        { "id": "d", "text": { "en": "About 1 billion years", "he": "כ-מיליארד שנה" } }
+      ],
+      "correctChoice": "a",
+      "explanation": {
+        "en": "Based on biblical genealogies, many people in the 18th century believed the Earth was about 6,000 years old. Buffon's estimate of at least 75,000 years was therefore highly controversial and he was pressured to retract it by religious authorities.",
+        "he": "בהתבסס על יחוסים מקראיים, אנשים רבים במאה ה-18 האמינו שכדור הארץ בן כ-6,000 שנה. הערכתו של בופון של לפחות 75,000 שנה הייתה לכן שנויה במחלוקת רבה והרשויות הדתיות לחצו עליו לחזור בו ממנה."
+      }
+    },
+    {
+      "id": "q-d11-05",
+      "question": {
+        "en": "What did Buffon notice about animals on different continents?",
+        "he": "מה שם לב בופון לגבי בעלי חיים ביבשות שונות?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "They were all identical around the world", "he": "הם היו זהים לחלוטין ברחבי העולם" } },
+        { "id": "b", "text": { "en": "Similar environments had different but related species", "he": "לסביבות דומות היו מינים שונים אך קשורים" } },
+        { "id": "c", "text": { "en": "There were no animals in the Americas", "he": "לא היו בעלי חיים באמריקה" } },
+        { "id": "d", "text": { "en": "African animals were always larger than European ones", "he": "בעלי חיים אפריקאיים היו תמיד גדולים יותר מאירופאיים" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Buffon observed that different continents with similar climates had different species living in them — for example, the Americas had tapirs and llamas where Asia and Africa had elephants and camels. This observation, now called 'Buffon's Law,' was an early hint toward evolutionary thinking.",
+        "he": "בופון הבחין שליבשות שונות עם אקלים דומה יש בהן מינים שונים — לדוגמה, לאמריקה יש טפירים ולמות במקום שלאסיה ואפריקה יש פילים וגמלים. תצפית זו, המוכרת כיום כ'חוק בופון', הייתה רמז מוקדם לחשיבה אבולוציונית."
+      }
+    },
+    {
+      "id": "q-d11-06",
+      "question": {
+        "en": "What modern estimate for the age of the Earth did science eventually confirm?",
+        "he": "מה ההערכה המודרנית לגיל כדור הארץ שהמדע אישר בסופו של דבר?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "About 75,000 years", "he": "כ-75,000 שנה" } },
+        { "id": "b", "text": { "en": "About 1 million years", "he": "כ-מיליון שנה" } },
+        { "id": "c", "text": { "en": "About 4.5 billion years", "he": "כ-4.5 מיליארד שנה" } },
+        { "id": "d", "text": { "en": "About 100 million years", "he": "כ-100 מיליון שנה" } }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Modern science, using radiometric dating of rocks and meteorites, has determined that the Earth is approximately 4.5 billion years old. Buffon's estimate of 75,000 years was far too low, but his direction was right — the Earth is enormously older than anyone had previously imagined.",
+        "he": "המדע המודרני, תוך שימוש בתיארוך רדיומטרי של סלעים ומטאוריטים, קבע שכדור הארץ בן כ-4.5 מיליארד שנה. הערכתו של בופון של 75,000 שנה הייתה נמוכה מדי, אך כיוונו היה נכון — כדור הארץ עתיק בהרבה ממה שמישהו דמיין בעבר."
+      }
+    },
+    {
+      "id": "q-d11-07",
+      "question": {
+        "en": "What great theory did Buffon hint at but never fully develop?",
+        "he": "לאיזה תיאוריה גדולה רמז בופון אך מעולם לא פיתח במלואה?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Atomic theory", "he": "תיאוריה אטומית" } },
+        { "id": "b", "text": { "en": "Theory of relativity", "he": "תיאוריית היחסות" } },
+        { "id": "c", "text": { "en": "Theory of evolution", "he": "תיאוריית האבולוציה" } },
+        { "id": "d", "text": { "en": "Theory of plate tectonics", "he": "תיאוריית הטקטוניקה של לוחות" } }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Buffon cautiously suggested that species might change over time in response to their environment, and noticed that certain related species were found on different continents. These were early hints at evolution, but he never organized these ideas into a full theory — that was left to Lamarck and later Darwin.",
+        "he": "בופון הציע בזהירות שמינים אולי משתנים עם הזמן בתגובה לסביבתם, ושם לב שמינים קשורים מסוימים נמצאים ביבשות שונות. אלו היו רמזים מוקדמים לאבולוציה, אך הוא מעולם לא ארגן רעיונות אלה לתיאוריה מלאה — הדבר נשאר ללמארק ומאוחר יותר לדארווין."
+      }
+    },
+    {
+      "id": "q-d11-08",
+      "question": {
+        "en": "In which country was Buffon born and did he do most of his work?",
+        "he": "באיזו מדינה נולד בופון ועשה את רוב עבודתו?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "England", "he": "אנגליה" } },
+        { "id": "b", "text": { "en": "Germany", "he": "גרמניה" } },
+        { "id": "c", "text": { "en": "France", "he": "צרפת" } },
+        { "id": "d", "text": { "en": "Sweden", "he": "שוודיה" } }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Buffon was born in Montbard, France, in 1707 and spent much of his career as the superintendent of the Jardin du Roi (King's Garden) in Paris, which became an important center for natural history research in the 18th century.",
+        "he": "בופון נולד במונבאר, צרפת, ב-1707 ובילה חלק גדול מקריירתו כמנהל ה-Jardin du Roi (גן המלך) בפריז, שהפך למרכז חשוב לחקר ההיסטוריה הטבעית במאה ה-18."
+      }
+    },
+    {
+      "id": "q-d11-09",
+      "question": {
+        "en": "What is a fossil?",
+        "he": "מהו מאובן?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "A type of very old mineral found in rivers", "he": "סוג של מינרל עתיק מאוד הנמצא בנהרות" } },
+        { "id": "b", "text": { "en": "A preserved remain or trace of an ancient living organism found in rock", "he": "שארית שמורה או עקבות של אורגניזם עתיק הנמצאים בסלע" } },
+        { "id": "c", "text": { "en": "A type of cave drawing made by ancient humans", "he": "סוג של ציור מערה שנוצר על ידי בני אדם עתיקים" } },
+        { "id": "d", "text": { "en": "A layer of soil formed by volcanic eruptions", "he": "שכבת אדמה שנוצרה מהתפרצויות וולקניות" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "A fossil is the preserved remains or traces of an organism that lived long ago, embedded in rock. Fossils can be bones, shells, teeth, or even impressions of leaves and footprints. They are our primary window into the history of life on Earth.",
+        "he": "מאובן הוא שרידים שמורים או עקבות של אורגניזם שחי לפני זמן רב, הטמוע בסלע. מאובנים יכולים להיות עצמות, קליפות, שיניים ואפילו רשמים של עלים וטביעות רגל. הם החלון הראשי שלנו להיסטוריית החיים על כדור הארץ."
+      }
+    },
+    {
+      "id": "q-d11-10",
+      "question": {
+        "en": "Which scientist worked at the same time as Buffon and developed the modern system of naming species?",
+        "he": "איזה מדען עבד באותו זמן כמו בופון ופיתח את המערכת המודרנית לשמות מינים?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Charles Darwin", "he": "צ'ארלס דארווין" } },
+        { "id": "b", "text": { "en": "Carl Linnaeus", "he": "קרל לינאוס" } },
+        { "id": "c", "text": { "en": "Jean-Baptiste Lamarck", "he": "ז'אן-בטיסט למארק" } },
+        { "id": "d", "text": { "en": "Alexander von Humboldt", "he": "אלכסנדר פון הומבולדט" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Carl Linnaeus, a Swedish naturalist (1707–1778), developed the binomial nomenclature system — giving every species a two-part Latin name. Though Buffon and Linnaeus were contemporaries, they disagreed about the best way to classify nature: Linnaeus favored rigid categories while Buffon preferred descriptions of individual animals.",
+        "he": "קרל לינאוס, טבעתן שוודי (1707–1778), פיתח את מערכת שמות הבינום — נתינת שם לטיני דו-חלקי לכל מין. אף שבופון ולינאוס היו בני זמן, הם חלקו על הדרך הטובה ביותר לסווג את הטבע: לינאוס העדיף קטגוריות קפדניות בעוד בופון העדיף תיאורים של בעלי חיים בודדים."
+      }
+    }
+  ],
+  "videoSources": ["NMVE6eJ0QhA"]
+}

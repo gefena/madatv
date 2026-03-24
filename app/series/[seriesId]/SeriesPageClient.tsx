@@ -24,7 +24,7 @@ export default function SeriesPageClient({ seriesId }: Props) {
   useEffect(() => {
     Promise.all([
       import("@/lib/series").then(({ getSeries }) => getSeries(seriesId)),
-      import("@/lib/content").then(({ getAllEpisodeListItems }) => getAllEpisodeListItems()),
+      import("@/lib/content").then(({ getSeriesEpisodes }) => getSeriesEpisodes(seriesId)),
     ]).then(([s, items]) => {
       setSeries(s);
       setEpisodes(items);

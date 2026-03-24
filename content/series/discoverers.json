@@ -1,0 +1,16 @@
+{
+  "id": "discoverers",
+  "title": { "en": "The Discoverers", "he": "הממציאים" },
+  "originalTitle": "Il était une fois… les Découvreurs",
+  "description": {
+    "en": "Travel through history with Maestro and discover the greatest scientists and inventors who changed our world — from ancient China and Archimedes to Einstein and the Moon landing. 26 amazing episodes!",
+    "he": "סע דרך ההיסטוריה עם מאסטרו וגלה את המדענים והממציאים הגדולים שינו את עולמנו — מסין העתיקה וארכימדס ועד אינשטיין ונחיתה על הירח. 26 פרקים מדהימים!"
+  },
+  "episodeCount": 26,
+  "thumbnail": "/images/series-discoverers-bg.jpg",
+  "emoji": "🔭",
+  "gradient": "from-amber-500 to-orange-600",
+  "badgeColor": "bg-amber-500",
+  "year": "1994",
+  "ageRange": "7+"
+}

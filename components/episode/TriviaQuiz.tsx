@@ -31,6 +31,7 @@ export function TriviaQuiz({ episode, initialWatched = false }: TriviaQuizProps)
   const [answers, setAnswers] = useState<Record<string, "a" | "b" | "c" | "d">>({});
   const [selectedAnswer, setSelectedAnswer] = useState<"a" | "b" | "c" | "d" | null>(null);
   const [isWatched, setIsWatched] = useState(initialWatched);
+  const [activeQuestions, setActiveQuestions] = useState<TriviaQuestion[]>(episode.trivia);
 
   useEffect(() => {
     const progress = getEpisodeProgress(episode.id);
@@ -42,10 +43,17 @@ export function TriviaQuiz({ episode, initialWatched = false }: TriviaQuizProps)
   }, [isWatched, quizState]);
 
   const questions = episode.trivia;
-  const currentQuestion: TriviaQuestion = questions[currentIndex];
-  const isLastQuestion = currentIndex === questions.length - 1;
+  const currentQuestion: TriviaQuestion = activeQuestions[currentIndex];
+  const isLastQuestion = currentIndex === activeQuestions.length - 1;
 
   const handleStartQuiz = () => {
+    setActiveQuestions(questions);
+    setCurrentIndex(0); setAnswers({}); setSelectedAnswer(null); setQuizState("active");
+  };
+
+  const handleRetryWrong = () => {
+    const wrong = questions.filter((q) => answers[q.id] !== q.correctChoice);
+    setActiveQuestions(wrong);
     setCurrentIndex(0); setAnswers({}); setSelectedAnswer(null); setQuizState("active");
   };
 
@@ -59,8 +67,8 @@ export function TriviaQuiz({ episode, initialWatched = false }: TriviaQuizProps)
     const newAnswers = { ...answers, [currentQuestion.id]: selectedAnswer };
     setAnswers(newAnswers);
     if (isLastQuestion) {
-      const score = questions.reduce((acc, q) => acc + (newAnswers[q.id] === q.correctChoice ? 1 : 0), 0);
-      saveQuizScore(episode.id, score, questions.length, newAnswers);
+      const score = activeQuestions.reduce((acc, q) => acc + (newAnswers[q.id] === q.correctChoice ? 1 : 0), 0);
+      saveQuizScore(episode.id, score, activeQuestions.length, newAnswers);
       setQuizState("reviewing");
     } else {
       setCurrentIndex((i) => i + 1);
@@ -68,8 +76,9 @@ export function TriviaQuiz({ episode, initialWatched = false }: TriviaQuizProps)
     }
   };
 
-  const finalScore = questions.reduce((acc, q) => acc + (answers[q.id] === q.correctChoice ? 1 : 0), 0);
-  const scorePercent = (finalScore / questions.length) * 100;
+  const finalScore = activeQuestions.reduce((acc, q) => acc + (answers[q.id] === q.correctChoice ? 1 : 0), 0);
+  const scorePercent = activeQuestions.length > 0 ? (finalScore / activeQuestions.length) * 100 : 0;
+  const wrongCount = activeQuestions.filter((q) => answers[q.id] !== q.correctChoice).length;
   const grade = scorePercent >= 80 ? t("quiz.grade.excellent") : scorePercent >= 60 ? t("quiz.grade.good") : t("quiz.grade.keepWatching");
   const gradeEmoji = scorePercent >= 80 ? "🏆" : scorePercent >= 60 ? "🌟" : "💪";
 
@@ -112,7 +121,7 @@ export function TriviaQuiz({ episode, initialWatched = false }: TriviaQuizProps)
 
   // ---- ACTIVE ----
   if (quizState === "active") {
-    const progressPercent = (currentIndex / questions.length) * 100;
+    const progressPercent = (currentIndex / activeQuestions.length) * 100;
     const isCorrect = selectedAnswer === currentQuestion.correctChoice;
 
     return (
@@ -198,7 +207,7 @@ export function TriviaQuiz({ episode, initialWatched = false }: TriviaQuizProps)
       <div className="text-center mb-6">
         <div className="text-4xl sm:text-6xl mb-2">{gradeEmoji}</div>
         <div className="inline-flex items-center justify-center h-16 w-16 sm:h-20 sm:w-20 rounded-full border-2 sm:border-4 border-indigo-200 bg-indigo-50 mb-3">
-          <span className="text-xl font-black text-indigo-700">{finalScore}/{questions.length}</span>
+          <span className="text-xl font-black text-indigo-700">{finalScore}/{activeQuestions.length}</span>
         </div>
         <p className="text-lg sm:text-xl font-black text-indigo-800">{grade}</p>
         <ProgressBar
@@ -210,7 +219,7 @@ export function TriviaQuiz({ episode, initialWatched = false }: TriviaQuizProps)
 
       {/* Per-question review */}
       <div className="space-y-2 mb-5">
-        {questions.map((q, i) => {
+        {activeQuestions.map((q, i) => {
           const correct = answers[q.id] === q.correctChoice;
           return (
             <div key={q.id} className={cn(
@@ -225,7 +234,12 @@ export function TriviaQuiz({ episode, initialWatched = false }: TriviaQuizProps)
         })}
       </div>
 
-      <div className="flex justify-end">
+      <div className="flex flex-wrap justify-end gap-2">
+        {wrongCount > 0 && (
+          <Button onClick={handleRetryWrong}>
+            🎯 {t("quiz.retryWrong", { count: wrongCount })}
+          </Button>
+        )}
         <Button variant="outline" onClick={handleStartQuiz}>🔄 {t("quiz.retake")}</Button>
       </div>
     </div>

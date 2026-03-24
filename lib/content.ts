@@ -1,7 +1,9 @@
 import type { Episode, EpisodeListItem } from "@/types/content";
 
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
-const episodeModules: Record<string, () => Promise<{ default: any }>> = {
+type EpisodeLoader = Record<string, () => Promise<{ default: any }>>;
+
+const LIFE_EPISODES: EpisodeLoader = {
   "01-the-cell":              () => import("@/content/episodes/01-the-cell.json"),
   "02-birth":                 () => import("@/content/episodes/02-birth.json"),
   "03-the-body-guards":       () => import("@/content/episodes/03-the-body-guards.json"),
@@ -30,23 +32,76 @@ const episodeModules: Record<string, () => Promise<{ default: any }>> = {
   "26-life-goes-on":          () => import("@/content/episodes/26-life-goes-on.json"),
 };
 
-export const EPISODE_SLUGS = Object.keys(episodeModules);
+const DISCOVERERS_EPISODES: EpisodeLoader = {
+  "d01-the-chinese":          () => import("@/content/episodes/d01-the-chinese.json"),
+  "d02-archimedes":           () => import("@/content/episodes/d02-archimedes.json"),
+  "d03-hero-of-alexandria":   () => import("@/content/episodes/d03-hero-of-alexandria.json"),
+  "d04-measuring-time":       () => import("@/content/episodes/d04-measuring-time.json"),
+  "d05-henry-the-navigator":  () => import("@/content/episodes/d05-henry-the-navigator.json"),
+  "d06-gutenberg":            () => import("@/content/episodes/d06-gutenberg.json"),
+  "d07-da-vinci":             () => import("@/content/episodes/d07-da-vinci.json"),
+  "d08-the-doctors":          () => import("@/content/episodes/d08-the-doctors.json"),
+  "d09-galileo":              () => import("@/content/episodes/d09-galileo.json"),
+  "d10-newton":               () => import("@/content/episodes/d10-newton.json"),
+  "d11-buffon":               () => import("@/content/episodes/d11-buffon.json"),
+  "d12-lavoisier":            () => import("@/content/episodes/d12-lavoisier.json"),
+  "d13-stephenson":           () => import("@/content/episodes/d13-stephenson.json"),
+  "d14-faraday":              () => import("@/content/episodes/d14-faraday.json"),
+  "d15-darwin":               () => import("@/content/episodes/d15-darwin.json"),
+  "d16-mendel":               () => import("@/content/episodes/d16-mendel.json"),
+  "d17-pasteur":              () => import("@/content/episodes/d17-pasteur.json"),
+  "d18-edison":               () => import("@/content/episodes/d18-edison.json"),
+  "d19-marconi":              () => import("@/content/episodes/d19-marconi.json"),
+  "d20-ford":                 () => import("@/content/episodes/d20-ford.json"),
+  "d21-aviation":             () => import("@/content/episodes/d21-aviation.json"),
+  "d22-marie-curie":          () => import("@/content/episodes/d22-marie-curie.json"),
+  "d23-einstein":             () => import("@/content/episodes/d23-einstein.json"),
+  "d24-lorenz":               () => import("@/content/episodes/d24-lorenz.json"),
+  "d25-armstrong":            () => import("@/content/episodes/d25-armstrong.json"),
+  "d26-tomorrow":             () => import("@/content/episodes/d26-tomorrow.json"),
+};
 
-export async function getEpisode(slug: string): Promise<Episode | null> {
-  const loader = episodeModules[slug];
-  if (!loader) return null;
-  try {
-    const mod = await loader();
-    return mod.default as unknown as Episode;
-  } catch {
-    return null;
-  }
+const SERIES_EPISODES: Record<string, EpisodeLoader> = {
+  life: LIFE_EPISODES,
+  discoverers: DISCOVERERS_EPISODES,
+};
+
+// All slugs across all series (used for static generation)
+export const EPISODE_SLUGS = Object.values(SERIES_EPISODES).flatMap(Object.keys);
+
+export function getSeriesEpisodeSlugs(seriesId: string): string[] {
+  return Object.keys(SERIES_EPISODES[seriesId] ?? {});
 }
 
-export async function getAllEpisodeListItems(): Promise<EpisodeListItem[]> {
+async function loadEpisode(slug: string, seriesId?: string): Promise<Episode | null> {
+  // If seriesId given, look only in that series; otherwise search all
+  const loaders = seriesId
+    ? (SERIES_EPISODES[seriesId] ? [SERIES_EPISODES[seriesId]] : [])
+    : Object.values(SERIES_EPISODES);
+
+  for (const map of loaders) {
+    const loader = map[slug];
+    if (loader) {
+      try {
+        const mod = await loader();
+        return mod.default as unknown as Episode;
+      } catch {
+        return null;
+      }
+    }
+  }
+  return null;
+}
+
+export async function getEpisode(slug: string, seriesId?: string): Promise<Episode | null> {
+  return loadEpisode(slug, seriesId);
+}
+
+export async function getSeriesEpisodes(seriesId: string): Promise<EpisodeListItem[]> {
+  const slugs = getSeriesEpisodeSlugs(seriesId);
   const items: EpisodeListItem[] = [];
-  for (const slug of EPISODE_SLUGS) {
-    const ep = await getEpisode(slug);
+  for (const slug of slugs) {
+    const ep = await loadEpisode(slug, seriesId);
     if (!ep) continue;
     items.push({
       id: ep.id,
@@ -58,4 +113,9 @@ export async function getAllEpisodeListItems(): Promise<EpisodeListItem[]> {
     });
   }
   return items.sort((a, b) => a.episodeNumber - b.episodeNumber);
+}
+
+/** @deprecated use getSeriesEpisodes(seriesId) */
+export async function getAllEpisodeListItems(): Promise<EpisodeListItem[]> {
+  return getSeriesEpisodes("life");
 }

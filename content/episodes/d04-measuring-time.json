@@ -1,0 +1,342 @@
+{
+  "id": "d04-measuring-time",
+  "episodeNumber": 4,
+  "youtubeId": "h3o8_l6PavE",
+  "title": {
+    "en": "The Measuring of Time",
+    "he": "מדידת הזמן"
+  },
+  "summary": {
+    "en": "This episode traces the remarkable human journey to tame and measure time, from our earliest ancestors who watched the sun rise and set to the atomic clocks of today that can measure billionths of a second. Ancient civilizations developed sundials to divide the day into hours, water clocks (clepsydrae) to measure time indoors and at night, and sand hourglasses for fixed intervals. The great challenge of creating accurate calendars drove astronomers and mathematicians to make precise observations of the sun, moon, and stars, leading to calendars still used today. The episode explores how the invention of the mechanical clock in medieval Europe transformed society — changing how people worked, traveled, and organized their lives — and how the quest for ever more accurate timekeeping ultimately led to the technologies behind GPS navigation, internet synchronization, and our modern world.",
+    "he": "פרק זה עוקב אחרי המסע האנושי המדהים לרסן ולמדוד את הזמן, מאבות אבותינו הראשונים שצפו בשמש עולה ושוקעת ועד לשעוני האטום של ימינו היכולים למדוד מיליארדיות של שנייה. ציביליזציות עתיקות פיתחו שעוני שמש לחלוקת היום לשעות, שעוני מים (קלפסידרות) למדידת זמן בתוך הבית ובלילה, ושעוני חול לפרקי זמן קבועים. האתגר הגדול של יצירת לוחות שנה מדויקים הניע אסטרונומים ומתמטיקאים לביצוע תצפיות מדויקות של השמש, הירח והכוכבים, מה שהוביל ללוחות שנה שעדיין משמשים כיום. הפרק בוחן כיצד המצאת השעון המכני באירופה של ימי הביניים שינתה את החברה — שינוי האופן שבו אנשים עבדו, נסעו וארגנו את חייהם — וכיצד הדחף לדיוק הולך וגדל בשמירת הזמן הוביל בסופו של דבר לטכנולוגיות שמאחורי ניווט GPS, סנכרון האינטרנט ועולמנו המודרני."
+  },
+  "thumbnail": "https://img.youtube.com/vi/h3o8_l6PavE/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": [
+    "history of timekeeping",
+    "sundials and water clocks",
+    "mechanical clocks",
+    "calendars",
+    "ancient astronomy"
+  ],
+  "terminology": [
+    {
+      "id": "t-d04-01",
+      "term": { "en": "Sundial", "he": "שעון שמש" },
+      "definition": {
+        "en": "One of the oldest timekeeping devices, which tells the time by the position of a shadow cast by a stick or plate (called a gnomon) as the sun moves across the sky. Sundials were used in ancient Egypt and Babylon over 3,500 years ago. They can be very accurate on clear days but are useless at night or when it is cloudy — which is why people needed other types of clocks too.",
+        "he": "אחד ממכשירי מדידת הזמן הוותיקים ביותר, המציין את השעה לפי מיקום הצל הנוצר על ידי מוט או לוחית (הנקרא גנומון) כאשר השמש נעה בשמים. שעוני שמש שימשו במצרים העתיקה ובבבל לפני יותר מ-3,500 שנה. הם יכולים להיות מדויקים מאוד בימים בהירים אך חסרי שימוש בלילה או בעת עצם — ולכן אנשים היו זקוקים גם לסוגים אחרים של שעונים."
+      },
+      "category": "invention"
+    },
+    {
+      "id": "t-d04-02",
+      "term": { "en": "Water Clock", "he": "שעון מים" },
+      "definition": {
+        "en": "A timekeeping device (also called a clepsydra) that measures time by the steady dripping or flowing of water from one container to another. The ancient Egyptians and Greeks used water clocks to measure time at night or indoors when the sundial was useless. The ancient Greek word 'clepsydra' means 'water thief,' because the water seems to steal away time.",
+        "he": "מכשיר מדידת זמן (הנקרא גם קלפסידרה) שמודד זמן על ידי טפטוף או זרימה קבועה של מים ממיכל אחד לאחר. מצרים ויוונים עתיקים השתמשו בשעוני מים למדידת זמן בלילה או בתוך הבית כאשר שעון השמש היה חסר תועלת. המילה היוונית העתיקה 'קלפסידרה' פירושה 'גנב מים', מכיוון שהמים כאילו גונבים את הזמן."
+      },
+      "category": "invention"
+    },
+    {
+      "id": "t-d04-03",
+      "term": { "en": "Hourglass", "he": "שעון חול" },
+      "definition": {
+        "en": "A device consisting of two glass bulbs connected by a narrow neck, filled with sand that trickles from the upper bulb to the lower bulb in a fixed amount of time. Hourglasses were widely used from the Middle Ages onward to measure specific periods, such as cooking time, the length of a speech, or the duration of a ship's watch. Unlike water clocks, they work in any weather and in any direction at sea.",
+        "he": "מכשיר המורכב משני גופי זכוכית המחוברים בצוואר צר, ממולאים בחול שמטפטף מהגוף העליון לגוף התחתון בפרק זמן קבוע. שעוני חול שימשו בנרחות מימי הביניים ואילך למדידת תקופות ספציפיות, כגון זמן בישול, משך נאום או משמרת אנייה. בניגוד לשעוני מים, הם פועלים בכל מזג אוויר ובכל כיוון בים."
+      },
+      "category": "invention"
+    },
+    {
+      "id": "t-d04-04",
+      "term": { "en": "Calendar", "he": "לוח שנה" },
+      "definition": {
+        "en": "A system for organizing days, weeks, months, and years, usually based on the cycles of the sun and moon. Ancient civilizations developed calendars to know when to plant crops, hold religious festivals, and predict eclipses. The Gregorian calendar used by most of the world today was introduced in 1582 and is based on the earlier Julian calendar established by Julius Caesar in 46 BCE.",
+        "he": "מערכת לארגון ימים, שבועות, חודשים ושנים, בדרך כלל המבוססת על מחזורי השמש והירח. ציביליזציות עתיקות פיתחו לוחות שנה כדי לדעת מתי לזרוע, לקיים חגים דתיים ולחזות ליקויי מאורות. הלוח הגרגוריאני המשמש את רוב העולם כיום הוצג בשנת 1582 ומבוסס על הלוח היוליאני המוקדם שנוסד על ידי יוליוס קיסר בשנת 46 לפנה\"ס."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-d04-05",
+      "term": { "en": "Mechanical Clock", "he": "שעון מכני" },
+      "definition": {
+        "en": "A clock powered by a wound-up spring or falling weights, using an escapement mechanism to release energy in regular, controlled steps to drive gears that move clock hands. Mechanical clocks were developed in medieval Europe around the 13th century and were a revolutionary advance in timekeeping — for the first time, time could be measured accurately indoors, at night, and in any weather without needing the sun or water.",
+        "he": "שעון המופעל על ידי קפיץ כרוך או משקולות נופלות, המשתמש במנגנון בריח לשחרור אנרגיה בצעדים סדירים ומבוקרים כדי להניע גלגלי שיניים המזיזים מחוגי שעון. שעונים מכניים פותחו באירופה של ימי הביניים בסביבות המאה ה-13 והיוו התקדמות מהפכנית במדידת הזמן — לראשונה, ניתן היה למדוד זמן בדיוק בתוך הבית, בלילה ובכל מזג אוויר ללא צורך בשמש או מים."
+      },
+      "category": "invention"
+    },
+    {
+      "id": "t-d04-06",
+      "term": { "en": "Escapement", "he": "מנגנון בריח" },
+      "definition": {
+        "en": "The central mechanism of a mechanical clock that controls how quickly the clock's gears turn by releasing them one step at a time in a regular, rhythmic way. The escapement catches and releases a gear wheel at precise intervals, converting the continuous pull of a spring or weight into the regular ticking movement of a clock. Without the escapement, a clock's spring would unwind all at once instead of steadily over hours.",
+        "he": "המנגנון המרכזי של שעון מכני השולט במהירות שבה מסתובבים גלגלי השיניים של השעון על ידי שחרורם צעד אחד בכל פעם בצורה סדירה וקצבית. מנגנון הבריח תופס ומשחרר גלגל שיניים במרווחים מדויקים, והופך את המשיכה הרציפה של קפיץ או משקולת לתנועת התקתוק הסדירה של שעון. ללא מנגנון הבריח, הקפיץ של השעון היה נפרם בבת אחת במקום לאט לאט לאורך שעות."
+      },
+      "category": "invention"
+    },
+    {
+      "id": "t-d04-07",
+      "term": { "en": "Gnomon", "he": "גנומון" },
+      "definition": {
+        "en": "The part of a sundial that casts a shadow to indicate the time. A gnomon is usually a rod or triangular plate set at an angle equal to the latitude of the location, so the shadow moves at a steady rate across the dial face as the sun moves. The word 'gnomon' comes from the Greek for 'the one that knows,' because it reveals what time it is.",
+        "he": "החלק בשעון השמש שמטיל צל כדי לציין את השעה. גנומון הוא בדרך כלל מוט או לוחית משולשת המוצבת בזווית השווה לקו הרוחב של המיקום, כך שהצל נע בקצב קבוע על פני לוח השעה כאשר השמש נעה. המילה 'גנומון' מגיעה מהיוונית לביטוי 'זה שיודע', מכיוון שהוא מגלה מה השעה."
+      },
+      "category": "invention"
+    },
+    {
+      "id": "t-d04-08",
+      "term": { "en": "Pendulum", "he": "מטוטלת" },
+      "definition": {
+        "en": "A weight hung on a string or rod that swings back and forth in a regular, repeating motion. Galileo discovered that a pendulum always takes the same amount of time to complete one swing, regardless of how far it swings — this is called isochronism. In 1656, Christiaan Huygens used this property to build the first accurate pendulum clock, which was far more precise than any clock before it.",
+        "he": "משקולת תלויה על חוט או מוט המתנדנדת קדימה ואחורה בתנועה סדירה וחוזרת. גלילאו גילה שמטוטלת תמיד לוקחת אותו פרק זמן להשלים תנועה אחת, ללא קשר לכמה רחוק היא מתנדנדת — זה נקרא איזוכרוניזם. בשנת 1656, כריסטיאן הויגנס השתמש בתכונה זו לבניית שעון המטוטלת המדויק הראשון, שהיה הרבה יותר מדויק מכל שעון שקדם לו."
+      },
+      "category": "science"
+    },
+    {
+      "id": "t-d04-09",
+      "term": { "en": "Lunar Calendar", "he": "לוח שנה ירחי" },
+      "definition": {
+        "en": "A calendar based on the cycles of the moon. One lunar month is about 29.5 days — the time between one new moon and the next. Many ancient civilizations, including the Babylonians, Hebrews, and Arabs, used lunar calendars. Because 12 lunar months equal only about 354 days (11 days short of a solar year), lunar calendars must occasionally add an extra month to stay aligned with the seasons.",
+        "he": "לוח שנה המבוסס על מחזורי הירח. חודש ירחי אחד הוא כ-29.5 ימים — הזמן בין ירח חדש אחד לבא. ציביליזציות עתיקות רבות, כולל בבלים, עברים וערבים, השתמשו בלוחות שנה ירחיים. מכיוון ש-12 חודשים ירחיים שווים רק כ-354 ימים (11 ימים פחות משנה שמשית), לוחות שנה ירחיים חייבים מדי פעם להוסיף חודש נוסף כדי להישאר מיושרים עם העונות."
+      },
+      "category": "science"
+    },
+    {
+      "id": "t-d04-10",
+      "term": { "en": "Atomic Clock", "he": "שעון אטומי" },
+      "definition": {
+        "en": "The most accurate type of clock ever built, which measures time using the vibrations of atoms (usually cesium atoms). An atomic clock is so precise that it would only lose one second in about 300 million years. Atomic clocks are used as the standard for all official timekeeping worldwide and are the basis for GPS navigation systems, which need incredibly accurate time to calculate positions.",
+        "he": "סוג השעון המדויק ביותר שנבנה אי פעם, שמודד זמן באמצעות תנודות של אטומים (בדרך כלל אטומי צזיום). שעון אטומי מדויק כל כך עד שהוא יאבד שנייה אחת בכ-300 מיליון שנה. שעונים אטומיים משמשים כסטנדרט עבור כל מדידת הזמן הרשמית ברחבי העולם והם הבסיס למערכות ניווט GPS, הזקוקות לזמן מדויק להפליא כדי לחשב מיקומים."
+      },
+      "category": "science"
+    },
+    {
+      "id": "t-d04-11",
+      "term": { "en": "Solstice", "he": "היפוך השמש" },
+      "definition": {
+        "en": "One of the two times each year when the sun reaches its highest or lowest point in the sky at noon, resulting in the longest or shortest day of the year. The summer solstice (around June 21) is the longest day, and the winter solstice (around December 21) is the shortest. Ancient civilizations carefully observed solstices to develop accurate calendars and plan their agricultural seasons.",
+        "he": "אחד משני הזמנים בכל שנה שבהם השמש מגיעה לנקודה הגבוהה או הנמוכה ביותר בשמיים בצהריים, וכתוצאה מכך היום הארוך או הקצר ביותר בשנה. היפוך השמש בקיץ (בסביבות 21 ביוני) הוא היום הארוך ביותר, והיפוך השמש בחורף (בסביבות 21 בדצמבר) הוא הקצר ביותר. ציביליזציות עתיקות צפו בזהירות בהיפוכי השמש כדי לפתח לוחות שנה מדויקים ולתכנן את עונות החקלאות שלהן."
+      },
+      "category": "science"
+    },
+    {
+      "id": "t-d04-12",
+      "term": { "en": "Equinox", "he": "שוויון יום ולילה" },
+      "definition": {
+        "en": "One of the two times each year when the sun is directly above the equator and day and night are approximately equal in length all over the world. The spring equinox occurs around March 21 and the autumn equinox around September 23. The equinoxes were important markers in ancient calendars and are still used to define the first day of spring and autumn.",
+        "he": "אחד משני הזמנים בכל שנה שבהם השמש נמצאת ישירות מעל קו המשווה והיום והלילה ארוכים בערך באותה מידה בכל רחבי העולם. שוויון יום ולילה האביבי מתרחש בסביבות 21 במרץ ושוויון יום ולילה הסתווי בסביבות 23 בספטמבר. שוויוני יום ולילה היו סמנים חשובים בלוחות שנה עתיקים ועדיין משמשים לקביעת יום ראשון האביב והסתיו."
+      },
+      "category": "science"
+    },
+    {
+      "id": "t-d04-13",
+      "term": { "en": "Clepsydra", "he": "קלפסידרה" },
+      "definition": {
+        "en": "The ancient Greek name for a water clock — a device that measured time by the steady flow of water. Advanced clepsydrae, like those in ancient China and the Islamic world, had float systems, gears, and pointers to display the current hour. The elaborate astronomical water clocks built in medieval China were among the most complex machines of the ancient world.",
+        "he": "השם היווני העתיק לשעון מים — מכשיר שמדד זמן על ידי זרימה קבועה של מים. קלפסידרות מתקדמות, כגון אלה בסין העתיקה ובעולם האסלאמי, היו בעלות מערכות ציפוי, גלגלי שיניים ומחוגים להצגת השעה הנוכחית. שעוני המים האסטרונומיים המפוארים שנבנו בסין של ימי הביניים היו בין המכונות המורכבות ביותר של העולם העתיק."
+      },
+      "category": "invention"
+    },
+    {
+      "id": "t-d04-14",
+      "term": { "en": "Meridian", "he": "קו אמצע שמיים" },
+      "definition": {
+        "en": "An imaginary line in the sky running from north to south directly overhead, which the sun crosses at noon each day. When the sun is on the meridian, it is at its highest point in the sky for that day, and shadows point due north (in the Northern Hemisphere). Ancient astronomers used the meridian crossing to set their clocks, which is why we still say 'noon' comes from 'nona' (ninth hour in Roman time) and use 'AM' (ante meridiem, before meridian) and 'PM' (post meridiem, after meridian).",
+        "he": "קו דמיוני בשמיים הנמשך מצפון לדרום ישירות מעל הראש, שהשמש חוצה אותו בצהריים כל יום. כאשר השמש נמצאת על קו אמצע שמיים, היא בנקודה הגבוהה ביותר שלה בשמיים לאותו יום, וצללים מצביעים בדיוק לצפון (בחצי הכדור הצפוני). אסטרונומים עתיקים השתמשו במעבר קו אמצע שמיים לכיוון שעוניהם, ולכן אנו עדיין אומרים 'צהריים' ומשתמשים ב-AM (לפני אמצע השמיים) ו-PM (אחרי אמצע השמיים)."
+      },
+      "category": "science"
+    },
+    {
+      "id": "t-d04-15",
+      "term": { "en": "Time Zone", "he": "אזור זמן" },
+      "definition": {
+        "en": "One of 24 geographical regions of the Earth that each has the same standard time. As the Earth rotates, the sun appears to move across the sky, so noon occurs at different times in different places. Time zones were created in the 1880s when railways made fast travel between distant places common — without standard time zones, every town's local time was slightly different, making train schedules impossible to coordinate.",
+        "he": "אחד מ-24 אזורים גיאוגרפיים של כדור הארץ שכולם חולקים אותה שעה תקנית. כאשר כדור הארץ מסתובב, השמש נראית נעה בשמיים, ולכן הצהריים מתרחשים בזמנים שונים במקומות שונים. אזורי הזמן נוצרו בשנות ה-1880 כאשר מסילות ברזל הפכו את הנסיעה המהירה בין מקומות מרוחקים לנפוצה — ללא אזורי זמן תקניים, השעה המקומית של כל עיר הייתה שונה במקצת, מה שהפך את לוחות הזמנים של הרכבות לבלתי אפשריים לתיאום."
+      },
+      "category": "history"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q-d04-01",
+      "question": {
+        "en": "What is the part of a sundial called that casts the shadow to show the time?",
+        "he": "מה נקרא החלק בשעון השמש שמטיל את הצל להראות את השעה?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "The dial", "he": "הלוח" } },
+        { "id": "b", "text": { "en": "The shadow blade", "he": "להב הצל" } },
+        { "id": "c", "text": { "en": "The gnomon", "he": "הגנומון" } },
+        { "id": "d", "text": { "en": "The marker", "he": "הסמן" } }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "The gnomon is the part of a sundial that casts a shadow. It is usually a rod or triangular blade set at an angle equal to the local latitude so the shadow moves at a steady rate across the dial. The word 'gnomon' comes from the Greek word meaning 'the one that knows.'",
+        "he": "הגנומון הוא החלק בשעון השמש שמטיל צל. הוא בדרך כלל מוט או להב משולשי המוצב בזווית השווה לקו הרוחב המקומי כך שהצל נע בקצב קבוע על פני הלוח. המילה 'גנומון' מגיעה מהמילה היוונית שמשמעותה 'זה שיודע'."
+      }
+    },
+    {
+      "id": "q-d04-02",
+      "question": {
+        "en": "What does the ancient Greek word 'clepsydra' mean?",
+        "he": "מה פירוש המילה היוונית העתיקה 'קלפסידרה'?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Flowing sand", "he": "חול זורם" } },
+        { "id": "b", "text": { "en": "Water thief", "he": "גנב מים" } },
+        { "id": "c", "text": { "en": "Time keeper", "he": "שומר הזמן" } },
+        { "id": "d", "text": { "en": "Dripping stone", "he": "אבן מטפטפת" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The ancient Greek word 'clepsydra' means 'water thief,' because the water seems to steal away time as it slowly drips from one container to another. Clepsydrae (water clocks) were used in ancient Egypt, Greece, Rome, and China for measuring time at night and indoors where sundials were useless.",
+        "he": "המילה היוונית העתיקה 'קלפסידרה' פירושה 'גנב מים', מכיוון שהמים כאילו גונבים את הזמן כשהם מטפטפים לאט ממיכל אחד לאחר. קלפסידרות (שעוני מים) שימשו במצרים העתיקה, יוון, רומא וסין למדידת זמן בלילה ובתוך הבית שבו שעוני השמש היו חסרי תועלת."
+      }
+    },
+    {
+      "id": "q-d04-03",
+      "question": {
+        "en": "Who discovered that a pendulum always takes the same amount of time to complete one swing?",
+        "he": "מי גילה שמטוטלת תמיד לוקחת אותו פרק זמן להשלים נדנדה אחת?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Isaac Newton", "he": "אייזק ניוטון" } },
+        { "id": "b", "text": { "en": "Galileo Galilei", "he": "גלילאו גלילאי" } },
+        { "id": "c", "text": { "en": "Christiaan Huygens", "he": "כריסטיאן הויגנס" } },
+        { "id": "d", "text": { "en": "Leonardo da Vinci", "he": "לאונרדו דה וינצ'י" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Galileo Galilei discovered the isochronism of the pendulum — that a pendulum always takes the same time to complete a swing regardless of how far it swings. According to legend, he noticed this while watching a swinging lamp in a cathedral. Later, Christiaan Huygens used this property to build the first accurate pendulum clock in 1656.",
+        "he": "גלילאו גלילאי גילה את האיזוכרוניזם של המטוטלת — שמטוטלת תמיד לוקחת אותו זמן להשלים נדנדה ללא קשר לכמה רחוק היא מתנדנדת. לפי האגדה, הוא שם לב לכך בעת צפייה במנורה מתנדנדת בכנסייה. מאוחר יותר, כריסטיאן הויגנס השתמש בתכונה זו לבניית שעון המטוטלת המדויק הראשון בשנת 1656."
+      }
+    },
+    {
+      "id": "q-d04-04",
+      "question": {
+        "en": "What is the Gregorian calendar based on?",
+        "he": "על מה מבוסס הלוח הגרגוריאני?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "The cycles of the moon", "he": "מחזורי הירח" } },
+        { "id": "b", "text": { "en": "The Earth's orbit around the sun", "he": "מסלול כדור הארץ סביב השמש" } },
+        { "id": "c", "text": { "en": "The position of the stars", "he": "מיקום הכוכבים" } },
+        { "id": "d", "text": { "en": "The tides of the ocean", "he": "גאות ושפל הים" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The Gregorian calendar is a solar calendar — it is based on the time it takes Earth to orbit the sun (approximately 365.25 days). To account for the extra 0.25 days per year, it adds a leap day every four years. Most countries in the world use the Gregorian calendar today for civil purposes.",
+        "he": "הלוח הגרגוריאני הוא לוח שמשי — הוא מבוסס על הזמן שלוקח לכדור הארץ להקיף את השמש (בערך 365.25 ימים). כדי להתחשב ב-0.25 ימים נוספים בכל שנה, הוא מוסיף יום עיבור כל ארבע שנים. רוב המדינות בעולם משתמשות כיום בלוח הגרגוריאני למטרות אזרחיות."
+      }
+    },
+    {
+      "id": "q-d04-05",
+      "question": {
+        "en": "Why were time zones created in the 1880s?",
+        "he": "מדוע נוצרו אזורי הזמן בשנות ה-1880?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "To help sailors navigate the oceans", "he": "לעזור למלחים לנווט בים" } },
+        { "id": "b", "text": { "en": "To coordinate railway schedules across distances", "he": "לתאם לוחות זמנים של מסילות ברזל על פני מרחקים" } },
+        { "id": "c", "text": { "en": "Because of a new accurate atomic clock", "he": "בגלל שעון אטומי מדויק חדש" } },
+        { "id": "d", "text": { "en": "To make the calendar more accurate", "he": "כדי להפוך את לוח השנה ליותר מדויק" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Time zones were created in the 1880s primarily because of railways. Before standard time zones, every town kept its own local time based on when the sun was highest — but this made coordinating train schedules between cities nearly impossible. Standardized time zones allowed trains to run on reliable, coordinated timetables across entire countries.",
+        "he": "אזורי הזמן נוצרו בשנות ה-1880 בעיקר בגלל מסילות ברזל. לפני אזורי הזמן התקניים, כל עיר שמרה על שעה מקומית משלה בהתאם למועד שבו השמש הייתה הגבוהה ביותר — אך זה הפך את תיאום לוחות הזמנים של הרכבות בין ערים לכמעט בלתי אפשרי. אזורי הזמן המתוקננים אפשרו לרכבות לפעול על לוחות זמנים אמינים ומתואמים ברחבי מדינות שלמות."
+      }
+    },
+    {
+      "id": "q-d04-06",
+      "question": {
+        "en": "How accurate is a modern atomic clock?",
+        "he": "כמה מדויק שעון אטומי מודרני?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Loses one second per year", "he": "מאבד שנייה אחת בשנה" } },
+        { "id": "b", "text": { "en": "Loses one second per 1,000 years", "he": "מאבד שנייה אחת בכל 1,000 שנה" } },
+        { "id": "c", "text": { "en": "Loses one second per 300 million years", "he": "מאבד שנייה אחת בכל 300 מיליון שנה" } },
+        { "id": "d", "text": { "en": "It is perfectly accurate and never loses any time", "he": "הוא מדויק לחלוטין ולא מאבד זמן" } }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Modern atomic clocks are extraordinarily accurate — they would only lose about one second in 300 million years. They measure time by counting the vibrations of cesium atoms, which vibrate at an incredibly stable and precise rate. This accuracy is essential for GPS navigation, which needs perfect timing to calculate positions on Earth.",
+        "he": "שעונים אטומיים מודרניים מדויקים להפליא — הם יאבדו רק כשנייה אחת בכ-300 מיליון שנה. הם מודדים זמן על ידי ספירת תנודות של אטומי צזיום, שמתנדדים בקצב יציב ומדויק להפליא. הדיוק הזה חיוני לניווט GPS, שזקוק לתזמון מושלם כדי לחשב מיקומים על פני כדור הארץ."
+      }
+    },
+    {
+      "id": "q-d04-07",
+      "question": {
+        "en": "What was the main advantage of the hourglass over the water clock for use on ships?",
+        "he": "מה היה היתרון העיקרי של שעון החול על פני שעון המים לשימוש על ספינות?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "It was cheaper to make", "he": "היה זול יותר לייצור" } },
+        { "id": "b", "text": { "en": "It worked in any direction and any weather", "he": "הוא פעל בכל כיוון ובכל מזג אוויר" } },
+        { "id": "c", "text": { "en": "It showed hours and minutes", "he": "הוא הראה שעות ודקות" } },
+        { "id": "d", "text": { "en": "It didn't need to be refilled", "he": "לא היה צורך למלא אותו מחדש" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The hourglass had a major advantage over water clocks on ships: it worked in any weather and any direction. Water clocks could freeze in cold weather or spill when the ship rocked in rough seas. Sand flows the same way whether a ship is tilted or rocking, making the hourglass much more practical for sailors.",
+        "he": "לשעון החול היה יתרון גדול על פני שעוני מים על ספינות: הוא פעל בכל מזג אוויר ובכל כיוון. שעוני מים יכלו לקפוא במזג אוויר קר או להישפך כאשר הספינה התנדנדה בים סוער. חול זורם באותו אופן בין אם ספינה מוטה או מתנדנדת, מה שהפך את שעון החול לפרקטי הרבה יותר עבור מלחים."
+      }
+    },
+    {
+      "id": "q-d04-08",
+      "question": {
+        "en": "What is the difference between the summer and winter solstice?",
+        "he": "מה ההבדל בין היפוך השמש בקיץ לבין היפוך השמש בחורף?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "In summer the sun is closer to Earth; in winter it is farther away", "he": "בקיץ השמש קרובה יותר לכדור הארץ; בחורף היא רחוקה יותר" } },
+        { "id": "b", "text": { "en": "Summer solstice is the longest day; winter solstice is the shortest day", "he": "היפוך הקיץ הוא היום הארוך ביותר; היפוך החורף הוא היום הקצר ביותר" } },
+        { "id": "c", "text": { "en": "They happen on exactly the same day every year", "he": "הם מתרחשים באותו יום בדיוק כל שנה" } },
+        { "id": "d", "text": { "en": "The summer solstice is only in the Southern Hemisphere", "he": "היפוך הקיץ הוא רק בחצי הכדור הדרומי" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The summer solstice (around June 21 in the Northern Hemisphere) is the longest day of the year — the sun is highest in the sky and sets latest. The winter solstice (around December 21) is the shortest day. Ancient peoples marked these turning points carefully, and many ancient monuments like Stonehenge are aligned with the solstices.",
+        "he": "היפוך הקיץ (בסביבות 21 ביוני בחצי הכדור הצפוני) הוא היום הארוך ביותר בשנה — השמש גבוהה ביותר בשמיים ושוקעת הכי מאוחר. היפוך החורף (בסביבות 21 בדצמבר) הוא היום הקצר ביותר. עמים עתיקים סימנו בזהירות את נקודות המפנה הללו, ומונומנטים עתיקים רבים כגון סטוונהנג'ד מיושרים עם היפוכי השמש."
+      }
+    },
+    {
+      "id": "q-d04-09",
+      "question": {
+        "en": "When were mechanical clocks first developed in Europe?",
+        "he": "מתי פותחו שעונים מכניים לראשונה באירופה?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Around the 5th century CE", "he": "בסביבות המאה ה-5 לספירה" } },
+        { "id": "b", "text": { "en": "Around the 13th century CE", "he": "בסביבות המאה ה-13 לספירה" } },
+        { "id": "c", "text": { "en": "Around the 17th century CE", "he": "בסביבות המאה ה-17 לספירה" } },
+        { "id": "d", "text": { "en": "Around 500 BCE", "he": "בסביבות 500 לפנה\"ס" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Mechanical clocks were developed in medieval Europe around the 13th century CE. The key invention was the escapement mechanism, which regulated the release of energy from a falling weight or spring. These early mechanical clocks were placed in church towers to announce the hours to the whole town.",
+        "he": "שעונים מכניים פותחו באירופה של ימי הביניים בסביבות המאה ה-13 לספירה. ההמצאה המרכזית הייתה מנגנון הבריח, שויסת את שחרור האנרגיה ממשקולת נופלת או קפיץ. שעונים מכניים מוקדמים אלה הוצבו במגדלי כנסיות להכריז על השעות לכל העיר."
+      }
+    },
+    {
+      "id": "q-d04-10",
+      "question": {
+        "en": "Why did ancient civilizations need accurate calendars?",
+        "he": "מדוע ציביליזציות עתיקות זקוקות ללוחות שנה מדויקים?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "To count their gold and money", "he": "לספור את זהבם וכספם" } },
+        { "id": "b", "text": { "en": "To know when to plant crops and hold religious festivals", "he": "לדעת מתי לזרוע ולקיים חגים דתיים" } },
+        { "id": "c", "text": { "en": "To keep track of their king's birthday", "he": "לעקוב אחרי יום הולדת מלכם" } },
+        { "id": "d", "text": { "en": "To schedule meetings with neighboring tribes", "he": "לתזמן פגישות עם שבטים שכנים" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Ancient civilizations needed accurate calendars primarily for agriculture and religion. Farmers needed to know when to plant seeds in spring and harvest in autumn, which depended on the seasons. Religious ceremonies also had to be held at the right time of year, especially those tied to solstices, equinoxes, or lunar phases.",
+        "he": "ציביליזציות עתיקות זקוקות ללוחות שנה מדויקים בעיקר לצרכי חקלאות ודת. חקלאים היו צריכים לדעת מתי לזרוע בהאביב ולקצור בסתיו, שתלוי בעונות. טקסים דתיים גם היה צריך לקיים בזמן הנכון בשנה, במיוחד אלה הקשורים להיפוכי שמש, שוויוני יום ולילה או שלבי ירח."
+      }
+    }
+  ],
+  "videoSources": ["h3o8_l6PavE"]
+}

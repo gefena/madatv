@@ -1,0 +1,281 @@
+{
+  "id": "d06-gutenberg",
+  "episodeNumber": 6,
+  "youtubeId": "rpyb12-mzIs",
+  "title": {
+    "en": "Gutenberg and Printing",
+    "he": "גוטנברג והדפוס"
+  },
+  "summary": {
+    "en": "This episode explores one of the most transformative inventions in human history — the printing press — and the man who made it possible: Johannes Gutenberg of Mainz, Germany. Before Gutenberg, books were painstakingly copied by hand, making them extremely rare and expensive; knowledge was the privilege of the clergy and nobility. Around 1450, Gutenberg combined the screw press (used for wine-making), oil-based ink, and movable metal type to create a machine that could reproduce pages of text quickly and accurately. His masterpiece, the Gutenberg Bible, demonstrated that printed books could be as beautiful as hand-copied manuscripts. Within decades, printing presses spread across Europe, and the cost of books fell dramatically — enabling the Renaissance, the Reformation, and the Scientific Revolution by making ideas available to millions. The episode shows how a single mechanical invention fundamentally changed the relationship between knowledge and power.",
+    "he": "פרק זה חוקר את אחד ההמצאות המשנות ביותר בתולדות האנושות — מכונת הדפוס — ואת האיש שהפך אותה לאפשרית: יוהנס גוטנברג ממיינץ, גרמניה. לפני גוטנברג, ספרים הועתקו בעמל רב ביד, מה שהפך אותם נדירים ויקרים ביותר; הידע היה פריבילגיה של הכמורה והאצולה. סביב שנת 1450, שילב גוטנברג את בורגי הלחץ (ששימשו ליצור יין), דיו על בסיס שמן ואותיות מתכת ניידות כדי ליצור מכונה שיכלה לשכפל עמודי טקסט במהירות ובדיוק. יצירת המופת שלו, התנ\"ך של גוטנברג, הוכיחה שספרים מודפסים יכולים להיות יפים כמו כתבי יד. תוך עשרות שנים התפשטו בתי דפוס ברחבי אירופה, ומחיר הספרים ירד באופן דרמטי — מה שאפשר את הרנסנס, הרפורמציה ומהפכת המדע בכך שהפך רעיונות זמינים למיליונים. הפרק מראה כיצד המצאה מכנית אחת שינתה מהותית את היחס בין ידע לכוח."
+  },
+  "thumbnail": "https://img.youtube.com/vi/rpyb12-mzIs/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": [
+    "Johannes Gutenberg",
+    "printing press",
+    "movable type",
+    "spread of knowledge"
+  ],
+  "terminology": [
+    {
+      "id": "t-d06-01",
+      "term": { "en": "Printing Press", "he": "מכונת דפוס" },
+      "definition": {
+        "en": "A machine invented by Johannes Gutenberg around 1450 that uses movable type and mechanical pressure to print multiple identical copies of a text quickly. It revolutionized the spread of information in the same way the internet does today.",
+        "he": "מכונה שהמציא יוהנס גוטנברג סביב שנת 1450, המשתמשת באותיות ניידות ולחץ מכני להדפסת עותקים זהים רבים של טקסט במהירות. היא חוללה מהפכה בהפצת המידע, בדומה לאינטרנט כיום."
+      },
+      "category": "invention"
+    },
+    {
+      "id": "t-d06-02",
+      "term": { "en": "Movable Type", "he": "אותיות ניידות" },
+      "definition": {
+        "en": "Individual letters and characters cast in metal that can be arranged to form words and sentences, then rearranged to print different texts. Gutenberg's key innovation was making these from a durable lead alloy that could be cast cheaply and reused many times.",
+        "he": "אותיות ותווים בודדים יצוקים ממתכת שניתן לסדר כדי ליצור מילים ומשפטים, ואז לסדר מחדש להדפסת טקסטים שונים. החידוש המרכזי של גוטנברג היה ייצורם מסגסוגת עופרת עמידה שניתן לצקת בזול ולהשתמש בה פעמים רבות."
+      },
+      "category": "technology"
+    },
+    {
+      "id": "t-d06-03",
+      "term": { "en": "Manuscript", "he": "כתב יד" },
+      "definition": {
+        "en": "A book or document written by hand, typically by trained monks called scribes. Before the printing press, creating a single manuscript Bible could take a monk an entire year or more, making books extremely rare.",
+        "he": "ספר או מסמך שנכתב ביד, בדרך כלל על ידי נזירים מיומנים שנקראו סופרים. לפני מכונת הדפוס, יצירת כתב יד אחד של התנ\"ך יכלה לקחת לנזיר שנה שלמה ויותר, מה שהפך ספרים נדירים ביותר."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-d06-04",
+      "term": { "en": "Gutenberg Bible", "he": "התנ\"ך של גוטנברג" },
+      "definition": {
+        "en": "The first major book printed in Europe using movable type, produced by Johannes Gutenberg around 1455. About 180 copies were printed, and approximately 49 survive today — they are among the most valuable books in the world.",
+        "he": "הספר הגדול הראשון שהודפס באירופה באמצעות אותיות ניידות, שיוצר על ידי יוהנס גוטנברג בסביבות שנת 1455. כ-180 עותקים הודפסו, וכ-49 שרדו עד היום — הם נמנים עם הספרים היקרים בעולם."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-d06-05",
+      "term": { "en": "Scribe", "he": "סופר" },
+      "definition": {
+        "en": "A person who copies texts by hand. In medieval Europe, scribes were mostly monks who spent their lives in monasteries copying religious texts. The invention of the printing press made the profession of scribe largely obsolete.",
+        "he": "אדם שמעתיק טקסטים ביד. באירופה של ימי הביניים, סופרים היו בעיקר נזירים שבילו את חייהם במנזרים ומעתיקים טקסטים דתיים. המצאת מכונת הדפוס הפכה את מקצוע הסופר למיושן ברובו."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-d06-06",
+      "term": { "en": "Renaissance", "he": "הרנסנס" },
+      "definition": {
+        "en": "A period of great cultural and intellectual revival in Europe from the 14th to 17th centuries, meaning 'rebirth' in French. The printing press dramatically accelerated the Renaissance by spreading the ideas of art, science, and philosophy across the continent.",
+        "he": "תקופה של התחדשות תרבותית ואינטלקטואלית גדולה באירופה מהמאה ה-14 עד ה-17, שמשמעותה 'לידה מחדש' בצרפתית. מכונת הדפוס האיצה מאוד את הרנסנס בכך שפיזרה את הרעיונות של אמנות, מדע ופילוסופיה ברחבי היבשת."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-d06-07",
+      "term": { "en": "Reformation", "he": "הרפורמציה" },
+      "definition": {
+        "en": "A 16th-century religious movement that split European Christianity into Catholic and Protestant branches, triggered partly by Martin Luther's 95 Theses. The printing press was crucial — Luther's ideas spread across Europe within weeks because printers could reproduce his writings rapidly.",
+        "he": "תנועה דתית מהמאה ה-16 שחילקה את הנצרות האירופאית לענפים קתולים ופרוטסטנטים, שנגרמה בחלקה מ-95 התזות של מרטין לות'ר. מכונת הדפוס הייתה חיונית — רעיונותיו של לות'ר התפשטו ברחבי אירופה תוך שבועות מכיוון שמדפיסים יכלו לשכפל את כתיבתו במהירות."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-d06-08",
+      "term": { "en": "Ink", "he": "דיו" },
+      "definition": {
+        "en": "Gutenberg developed a special oil-based ink that would adhere to metal type and transfer cleanly onto paper or vellum. Previous water-based inks used for writing did not work well with metal, so this was an essential part of his invention.",
+        "he": "גוטנברג פיתח דיו מיוחד על בסיס שמן שדבק לאותיות המתכת והועבר בנקיות על נייר או קלף. דיו על בסיס מים ששימש בעבר לכתיבה לא עבד טוב עם מתכת, ולכן זה היה חלק חיוני בהמצאה שלו."
+      },
+      "category": "technology"
+    },
+    {
+      "id": "t-d06-09",
+      "term": { "en": "Literacy", "he": "אוריינות" },
+      "definition": {
+        "en": "The ability to read and write. Before the printing press, literacy was rare because books were too expensive for most people. As printed books became affordable, literacy rates rose dramatically across Europe over the following centuries.",
+        "he": "היכולת לקרוא ולכתוב. לפני מכונת הדפוס, אוריינות הייתה נדירה מכיוון שספרים היו יקרים מדי עבור רוב האנשים. ככל שספרים מודפסים הפכו לזולים, שיעורי האוריינות עלו באופן דרמטי ברחבי אירופה במהלך המאות הבאות."
+      },
+      "category": "society"
+    },
+    {
+      "id": "t-d06-10",
+      "term": { "en": "Vellum", "he": "קלף" },
+      "definition": {
+        "en": "A fine writing material made from calfskin or lambskin, used before paper became widely available. The Gutenberg Bible was printed on both paper and vellum — vellum copies were more luxurious and expensive.",
+        "he": "חומר כתיבה עדין עשוי עור עגל או טלה, שנשתמש בו לפני שנייר הפך לנפוץ. התנ\"ך של גוטנברג הודפס על נייר וגם על קלף — עותקי קלף היו יוקרתיים ויקרים יותר."
+      },
+      "category": "materials"
+    },
+    {
+      "id": "t-d06-11",
+      "term": { "en": "Typography", "he": "טיפוגרפיה" },
+      "definition": {
+        "en": "The art and technique of arranging type to make text readable and visually appealing. Gutenberg's work established many typographic principles still used today, and the font he designed — based on Gothic manuscript letters — was the world's first printed typeface.",
+        "he": "האמנות והטכניקה של סידור אותיות להפיכת טקסט לקריא ומושך ויזואלית. עבודתו של גוטנברג ביססה עקרונות טיפוגרפיים רבים המשמשים עד היום, והגופן שעיצב — המבוסס על אותיות כתב יד גותיות — היה גופן הדפוס הראשון בעולם."
+      },
+      "category": "art"
+    },
+    {
+      "id": "t-d06-12",
+      "term": { "en": "Censorship", "he": "צנזורה" },
+      "definition": {
+        "en": "The suppression or restriction of speech, writing, or other forms of expression by authorities. As printed books spread ideas rapidly, both the Church and secular rulers tried to censor content they considered dangerous — but the press made it very difficult to suppress information completely.",
+        "he": "דיכוי או הגבלה של דיבור, כתיבה או צורות ביטוי אחרות על ידי רשויות. ככל שספרים מודפסים פיזרו רעיונות במהירות, הכנסייה ושליטים חילוניים כאחד ניסו לצנזר תוכן שנחשב מסוכן — אך הדפוס הפך מאוד קשה לדיכוי מידע באופן מוחלט."
+      },
+      "category": "society"
+    },
+    {
+      "id": "t-d06-13",
+      "term": { "en": "Mass Communication", "he": "תקשורת המונים" },
+      "definition": {
+        "en": "The transmission of information to large numbers of people simultaneously. The printing press was the world's first mass communication technology — before it, each copy of a message had to be written individually. It is the ancestor of newspapers, radio, television, and the internet.",
+        "he": "העברת מידע למספרים גדולים של אנשים בו-זמנית. מכונת הדפוס הייתה טכנולוגיית התקשורת ההמונית הראשונה בעולם — לפניה, כל עותק של מסר היה צריך להיכתב בנפרד. היא האב הקדמון של עיתונים, רדיו, טלוויזיה ואינטרנט."
+      },
+      "category": "society"
+    },
+    {
+      "id": "t-d06-14",
+      "term": { "en": "Alloy", "he": "סגסוגת" },
+      "definition": {
+        "en": "A mixture of two or more metals. Gutenberg used a specific alloy of lead, tin, and antimony to cast his type. This mixture was chosen because it melts at a low temperature (easy to cast), expands slightly when cooling (filling the mold precisely), and is hard enough to print thousands of pages.",
+        "he": "תערובת של שני מתכות או יותר. גוטנברג השתמש בסגסוגת ספציפית של עופרת, בדיל ואנטימון ליציקת אותיות הדפוס שלו. תערובת זו נבחרה מכיוון שהיא נמסה בטמפרטורה נמוכה (קלה ליציקה), מתרחבת מעט בעת קירור (ממלאת את התבנית במדויק), וקשה מספיק להדפסת אלפי עמודים."
+      },
+      "category": "materials"
+    },
+    {
+      "id": "t-d06-15",
+      "term": { "en": "Colophon", "he": "קולופון" },
+      "definition": {
+        "en": "A note at the end of a book giving details about its production — printer's name, place, and date. Early printed books used colophons instead of title pages. The colophon of the Gutenberg Bible helped historians date and authenticate the world's first printed book.",
+        "he": "הערה בסוף ספר המספקת פרטים על ייצורו — שם המדפיס, מקום ותאריך. ספרים מודפסים מוקדמים השתמשו בקולופונים במקום עמודי שער. הקולופון של התנ\"ך של גוטנברג עזר להיסטוריונים לתארך ולאמת את הספר המודפס הראשון בעולם."
+      },
+      "category": "history"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q-d06-01",
+      "question": { "en": "Around what year did Gutenberg perfect his printing press?", "he": "באיזו שנה בערך שכלל גוטנברג את מכונת הדפוס שלו?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Around 1350", "he": "סביב שנת 1350" } },
+        { "id": "b", "text": { "en": "Around 1450", "he": "סביב שנת 1450" } },
+        { "id": "c", "text": { "en": "Around 1550", "he": "סביב שנת 1550" } },
+        { "id": "d", "text": { "en": "Around 1250", "he": "סביב שנת 1250" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Johannes Gutenberg developed his printing press around 1450 in Mainz, Germany. His Gutenberg Bible, printed around 1455, is one of the earliest and most famous books produced with this technology.", "he": "יוהנס גוטנברג פיתח את מכונת הדפוס שלו בסביבות שנת 1450 במיינץ, גרמניה. התנ\"ך שלו, שהודפס בסביבות שנת 1455, הוא אחד הספרים הראשונים והמפורסמים ביותר שיוצרו בטכנולוגיה זו." }
+    },
+    {
+      "id": "q-d06-02",
+      "question": { "en": "What was the main job of scribes before the printing press?", "he": "מה היה התפקיד העיקרי של הסופרים לפני מכונת הדפוס?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Teaching children to read", "he": "ללמד ילדים לקרוא" } },
+        { "id": "b", "text": { "en": "Copying books by hand", "he": "להעתיק ספרים ביד" } },
+        { "id": "c", "text": { "en": "Illustrating maps", "he": "לאייר מפות" } },
+        { "id": "d", "text": { "en": "Casting metal letters", "he": "לצקת אותיות מתכת" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Before the printing press, scribes — usually monks — spent years copying books by hand. A single Bible could take over a year to complete, making books extremely rare and expensive.", "he": "לפני מכונת הדפוס, סופרים — בדרך כלל נזירים — בילו שנים בהעתקת ספרים ביד. תנ\"ך אחד יכול היה לקחת יותר משנה להשלמה, מה שהפך ספרים נדירים ויקרים ביותר." }
+    },
+    {
+      "id": "q-d06-03",
+      "question": { "en": "What type of ink did Gutenberg develop for his press?", "he": "איזה סוג דיו פיתח גוטנברג למכונתו?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Water-based ink", "he": "דיו על בסיס מים" } },
+        { "id": "b", "text": { "en": "Oil-based ink", "he": "דיו על בסיס שמן" } },
+        { "id": "c", "text": { "en": "Wax-based ink", "he": "דיו על בסיס שעווה" } },
+        { "id": "d", "text": { "en": "Plant juice ink", "he": "דיו מיץ צמחים" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Gutenberg developed a special oil-based ink that would adhere properly to metal type and transfer cleanly to paper. Water-based inks had been used for handwriting but didn't work well with metal printing type.", "he": "גוטנברג פיתח דיו מיוחד על בסיס שמן שדבק כראוי לאותיות המתכת והועבר בנקיות לנייר. דיו על בסיס מים שימש לכתיבה ביד אך לא עבד טוב עם אותיות דפוס מתכת." }
+    },
+    {
+      "id": "q-d06-04",
+      "question": { "en": "What is the name of the first important book Gutenberg printed?", "he": "מה שמו של הספר החשוב הראשון שגוטנברג הדפיס?" },
+      "choices": [
+        { "id": "a", "text": { "en": "The Gutenberg Dictionary", "he": "המילון של גוטנברג" } },
+        { "id": "b", "text": { "en": "The Gutenberg Bible", "he": "התנ\"ך של גוטנברג" } },
+        { "id": "c", "text": { "en": "The Book of Printers", "he": "ספר המדפיסים" } },
+        { "id": "d", "text": { "en": "The Mainz Chronicle", "he": "כרוניקת מיינץ" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "The Gutenberg Bible, produced around 1455, was the first major European printed book. About 180 copies were made, and around 49 survive today — they are among the most treasured books in the world.", "he": "התנ\"ך של גוטנברג, שיוצר בסביבות שנת 1455, היה הספר המודפס הראשון החשוב באירופה. כ-180 עותקים יוצרו, וכ-49 שרדו עד היום — הם נמנים עם הספרים המוערכים ביותר בעולם." }
+    },
+    {
+      "id": "q-d06-05",
+      "question": { "en": "Which historical movement did the printing press help trigger by spreading Martin Luther's ideas?", "he": "איזו תנועה היסטורית עזרה מכונת הדפוס להצית על ידי פיזור רעיונותיו של מרטין לות'ר?" },
+      "choices": [
+        { "id": "a", "text": { "en": "The Industrial Revolution", "he": "המהפכה התעשייתית" } },
+        { "id": "b", "text": { "en": "The Reformation", "he": "הרפורמציה" } },
+        { "id": "c", "text": { "en": "The French Revolution", "he": "המהפכה הצרפתית" } },
+        { "id": "d", "text": { "en": "The Age of Exploration", "he": "עידן הגילויים" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "The Reformation was a 16th-century religious movement that divided European Christianity. Martin Luther's 95 Theses (1517) spread rapidly across Europe thanks to the printing press, making the Reformation possible in a way that earlier reformers never achieved.", "he": "הרפורמציה הייתה תנועה דתית מהמאה ה-16 שחילקה את הנצרות האירופאית. 95 התזות של מרטין לות'ר (1517) התפשטו במהירות ברחבי אירופה הודות למכונת הדפוס, מה שהפך את הרפורמציה לאפשרית בדרך שמתחוללים מוקדמים לא הצליחו בה." }
+    },
+    {
+      "id": "q-d06-06",
+      "question": { "en": "What metal alloy did Gutenberg use to cast his type?", "he": "איזו סגסוגת מתכת השתמש גוטנברג ליציקת האותיות שלו?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Iron and copper", "he": "ברזל ונחושת" } },
+        { "id": "b", "text": { "en": "Gold and silver", "he": "זהב וכסף" } },
+        { "id": "c", "text": { "en": "Lead, tin and antimony", "he": "עופרת, בדיל ואנטימון" } },
+        { "id": "d", "text": { "en": "Bronze and zinc", "he": "ברונזה ואבץ" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Gutenberg used an alloy of lead, tin, and antimony for his type. This combination was carefully chosen: it melts at a low temperature for easy casting, expands slightly when cooling to fill molds precisely, and is durable enough to print thousands of pages.", "he": "גוטנברג השתמש בסגסוגת של עופרת, בדיל ואנטימון עבור אותיות הדפוס שלו. שילוב זה נבחר בקפידה: הוא נמס בטמפרטורה נמוכה ליציקה קלה, מתרחב מעט בעת קירור למילוי תבניות במדויק, ועמיד מספיק להדפסת אלפי עמודים." }
+    },
+    {
+      "id": "q-d06-07",
+      "question": { "en": "How did the printing press affect literacy rates in Europe?", "he": "כיצד השפיעה מכונת הדפוס על שיעורי האוריינות באירופה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "It had no effect on literacy", "he": "לא הייתה לה השפעה על האוריינות" } },
+        { "id": "b", "text": { "en": "It decreased literacy by replacing scribes", "he": "היא הפחיתה אוריינות על ידי החלפת סופרים" } },
+        { "id": "c", "text": { "en": "It dramatically increased literacy over time", "he": "היא הגדילה באופן דרמטי את האוריינות לאורך זמן" } },
+        { "id": "d", "text": { "en": "It only increased literacy among nobles", "he": "היא הגדילה אוריינות רק בקרב האצולה" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "As books became affordable, more people could learn to read. Over the centuries following Gutenberg, literacy rates across Europe rose dramatically. Cheap books meant knowledge was no longer restricted to the wealthy clergy and nobility.", "he": "ככל שספרים הפכו לזולים, אנשים רבים יותר יכלו ללמוד לקרוא. במהלך המאות שלאחר גוטנברג, שיעורי האוריינות ברחבי אירופה עלו באופן דרמטי. ספרים זולים פירושם שידע כבר לא היה מוגבל לכמורה העשירה ולאצולה." }
+    },
+    {
+      "id": "q-d06-08",
+      "question": { "en": "In which city did Gutenberg develop his printing press?", "he": "באיזו עיר פיתח גוטנברג את מכונת הדפוס שלו?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Paris", "he": "פריז" } },
+        { "id": "b", "text": { "en": "London", "he": "לונדון" } },
+        { "id": "c", "text": { "en": "Venice", "he": "ונציה" } },
+        { "id": "d", "text": { "en": "Mainz", "he": "מיינץ" } }
+      ],
+      "correctChoice": "d",
+      "explanation": { "en": "Johannes Gutenberg worked in Mainz, Germany, where he developed and perfected his printing press around 1450. Mainz became one of the first major European centers of printing, and Gutenberg is commemorated there with a famous museum.", "he": "יוהנס גוטנברג עבד במיינץ, גרמניה, שם פיתח ושכלל את מכונת הדפוס שלו בסביבות שנת 1450. מיינץ הפכה לאחד ממרכזי הדפוס האירופאיים הראשונים, וגוטנברג מונצח שם במוזיאון מפורסם." }
+    },
+    {
+      "id": "q-d06-09",
+      "question": { "en": "What existing machine did Gutenberg adapt as the basis for his press?", "he": "איזו מכונה קיימת עיבד גוטנברג כבסיס למכבש שלו?" },
+      "choices": [
+        { "id": "a", "text": { "en": "A water wheel", "he": "גלגל מים" } },
+        { "id": "b", "text": { "en": "A wine or olive press", "he": "מכבש יין או זיתים" } },
+        { "id": "c", "text": { "en": "A coin minting press", "he": "מכבש טביעת מטבעות" } },
+        { "id": "d", "text": { "en": "A flour mill", "he": "טחנת קמח" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Gutenberg adapted the screw press used to press wine grapes or olive oil. He modified it to apply even, controlled pressure to inked type against paper or vellum. This was a brilliant repurposing of an existing technology.", "he": "גוטנברג עיבד את בורג הלחץ ששימש לסחיטת ענבי יין או שמן זית. הוא שינה אותו להפעלת לחץ אחיד ומבוקר על אותיות מדופגות כנגד נייר או קלף. זה היה שימוש מחודש מבריק בטכנולוגיה קיימת." }
+    },
+    {
+      "id": "q-d06-10",
+      "question": { "en": "How is the printing press similar to the internet?", "he": "כיצד דומה מכונת הדפוס לאינטרנט?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Both use electricity to work", "he": "שניהם משתמשים בחשמל כדי לעבוד" } },
+        { "id": "b", "text": { "en": "Both were invented in Germany", "he": "שניהם הומצאו בגרמניה" } },
+        { "id": "c", "text": { "en": "Both made information widely available to ordinary people", "he": "שניהם הפכו מידע זמין לאנשים רגילים" } },
+        { "id": "d", "text": { "en": "Both were created by the same inventor", "he": "שניהם נוצרו על ידי אותו ממציא" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Both the printing press and the internet are 'information revolutions' — they dramatically lowered the cost of sharing knowledge and made it accessible to ordinary people rather than just elites. Both also transformed politics, religion, and culture in profound ways.", "he": "הן מכונת הדפוס והן האינטרנט הן 'מהפכות מידע' — הן הורידו באופן דרמטי את עלות שיתוף הידע והפכו אותו נגיש לאנשים רגילים ולא רק לאליטות. שניהם גם שינו את הפוליטיקה, הדת והתרבות בדרכים עמוקות." }
+    }
+  ],
+  "videoSources": ["rpyb12-mzIs"]
+}

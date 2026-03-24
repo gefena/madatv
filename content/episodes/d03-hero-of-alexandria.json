@@ -1,0 +1,342 @@
+{
+  "id": "d03-hero-of-alexandria",
+  "episodeNumber": 3,
+  "youtubeId": "nS2YC_oT49I",
+  "title": {
+    "en": "Hero of Alexandria",
+    "he": "הרו מאלכסנדריה"
+  },
+  "summary": {
+    "en": "This episode introduces Hero of Alexandria, a brilliant Greek-Egyptian engineer and mathematician who lived around the 1st century CE and whose inventions were nearly 2,000 years ahead of their time. Hero designed the aeolipile — a steam-powered spinning device often called the world's first steam engine — as well as coin-operated machines, automated theatrical puppets, and the first vending machine in history. Working in the great Library of Alexandria, the most important center of learning in the ancient world, Hero wrote extensively on geometry, mechanics, and optics, and invented many devices that astonished his contemporaries. The episode shows how this remarkable inventor glimpsed technologies that would not be widely adopted until the Industrial Revolution nearly 17 centuries later, raising fascinating questions about what might have been had his ideas been developed further.",
+    "he": "פרק זה מציג את הרו מאלכסנדריה, מהנדס ומתמטיקאי יווני-מצרי מבריק שחי בסביבות המאה ה-1 לספירה ואשר המצאותיו היו כמעט 2,000 שנה לפני זמנן. הרו תכנן את האאוליפיל — מכשיר מסתובב בכוח קיטור המכונה לעיתים קרובות מנוע הקיטור הראשון בעולם — כמו גם מכונות המופעלות על ידי מטבעות, בובות תיאטרליות אוטומטיות ומכונת המכירה הראשונה בהיסטוריה. עובד בספרייה הגדולה של אלכסנדריה, מרכז הלמידה החשוב ביותר בעולם העתיק, הרו כתב רבות על גיאומטריה, מכניקה ואופטיקה, והמציא מכשירים רבים שהדהימו את בני דורו. הפרק מראה כיצד ממציא יוצא דופן זה הציץ בטכנולוגיות שלא יאומצו על ידי הציבור עד המהפכה התעשייתית כמעט 17 מאות שנים מאוחר יותר, ומעלה שאלות מרתקות לגבי מה שיכול היה להיות אם רעיונותיו היו מפותחים עוד."
+  },
+  "thumbnail": "https://img.youtube.com/vi/nS2YC_oT49I/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": [
+    "Hero of Alexandria",
+    "steam engine precursor",
+    "automata and ancient robots",
+    "ancient engineering",
+    "Library of Alexandria"
+  ],
+  "terminology": [
+    {
+      "id": "t-d03-01",
+      "term": { "en": "Aeolipile", "he": "אאוליפיל" },
+      "definition": {
+        "en": "The world's first known steam-powered device, invented by Hero of Alexandria. It was a hollow metal sphere mounted on a boiler of boiling water, with two bent nozzles attached. Steam from the boiling water entered the sphere and escaped through the nozzles, making the sphere spin. Although Hero used it only as a curiosity or toy, its principle is the same as a modern steam turbine.",
+        "he": "המכשיר המופעל על ידי קיטור הראשון והמוכר בעולם, שהומצא על ידי הרו מאלכסנדריה. הוא היה כדור מתכת חלול המותקן על דוד של מים רותחים, עם שני פיות כפופים מחוברים. קיטור ממים הרותחים נכנס לכדור ויצא דרך הפיות, וגרם לכדור להסתובב. למרות שהרו השתמש בו רק כסקרנות או צעצוע, עקרונו זהה לזה של טורבינת קיטור מודרנית."
+      },
+      "category": "invention"
+    },
+    {
+      "id": "t-d03-02",
+      "term": { "en": "Automaton", "he": "אוטומט" },
+      "definition": {
+        "en": "A self-operating machine designed to follow a sequence of instructions automatically, without human control once it is started. Hero of Alexandria built remarkable automata including a programmable theatrical cart that moved on its own, changed direction, and even performed plays. These ancient robots used ropes, strings, and falling weights as their power source and were the ancestors of today's robots and computers.",
+        "he": "מכונה פועלת מעצמה המתוכננת לפעול בהתאם לרצף הוראות באופן אוטומטי, ללא שליטה אנושית לאחר הפעלתה. הרו מאלכסנדריה בנה אוטומטים מרשימים כולל עגלה תיאטרלית ניתנת לתכנות שנעה בכוחות עצמה, שינתה כיוון ואפילו ביצעה מחזות. הרובוטים העתיקים הללו השתמשו בחבלים, חוטים ומשקולות נופלות כמקור כוחם והיו אבות אבותיהם של הרובוטים ומחשבים של ימינו."
+      },
+      "category": "invention"
+    },
+    {
+      "id": "t-d03-03",
+      "term": { "en": "Steam", "he": "קיטור" },
+      "definition": {
+        "en": "Water in its gaseous state, formed when liquid water is heated to 100 degrees Celsius at normal air pressure. Steam takes up much more space than liquid water and pushes outward with great force. Hero of Alexandria observed that steam could spin his aeolipile, but it took almost 1,700 years before James Watt developed steam into a practical power source for engines that drove the Industrial Revolution.",
+        "he": "מים במצבם הגזי, הנוצרים כאשר מים נוזליים מחוממים ל-100 מעלות צלסיוס בלחץ אוויר רגיל. קיטור תופס הרבה יותר מקום ממים נוזליים ודוחף החוצה בכוח רב. הרו מאלכסנדריה שם לב שקיטור יכול לסובב את האאוליפיל שלו, אבל לקח כמעט 1,700 שנה עד שג'יימס וואט פיתח קיטור למקור כוח מעשי למנועים שהניעו את המהפכה התעשייתית."
+      },
+      "category": "science"
+    },
+    {
+      "id": "t-d03-04",
+      "term": { "en": "Library of Alexandria", "he": "ספריית אלכסנדריה" },
+      "definition": {
+        "en": "The greatest library of the ancient world, located in Alexandria, Egypt, founded around 300 BCE. At its peak, it held hundreds of thousands of papyrus scrolls containing the collected knowledge of the ancient world — literature, science, philosophy, and mathematics. Hero of Alexandria worked and taught there. The library's eventual destruction was a catastrophic loss of ancient knowledge.",
+        "he": "הספרייה הגדולה ביותר של העולם העתיק, הממוקמת באלכסנדריה, מצרים, שנוסדה בסביבות 300 לפנה\"ס. בשיאה, היא החזיקה מאות אלפי מגילות פפירוס המכילות את הידע המצטבר של העולם העתיק — ספרות, מדע, פילוסופיה ומתמטיקה. הרו מאלכסנדריה עבד ולימד שם. ההרס הסופי של הספרייה היה אובדן קטסטרופלי של ידע עתיק."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-d03-05",
+      "term": { "en": "Vending Machine", "he": "מכונת מכירה" },
+      "definition": {
+        "en": "A machine that automatically dispenses a product after a coin or payment is inserted. Hero of Alexandria invented the world's first vending machine around 50 CE — a device that dispensed a small amount of holy water when a coin was inserted and its weight pushed down a lever. This is the same basic principle used by modern vending machines over 2,000 years later.",
+        "he": "מכונה המחלקת אוטומטית מוצר לאחר הכנסת מטבע או תשלום. הרו מאלכסנדריה המציא את מכונת המכירה הראשונה בעולם בסביבות 50 לספירה — מכשיר שחילק כמות קטנה של מים קדושים כאשר מטבע הוכנס ומשקלו לחץ מנוף. זה אותו עקרון בסיסי המשמש מכונות מכירה מודרניות יותר מ-2,000 שנה מאוחר יותר."
+      },
+      "category": "invention"
+    },
+    {
+      "id": "t-d03-06",
+      "term": { "en": "Pneumatics", "he": "פנאומטיקה" },
+      "definition": {
+        "en": "The study and use of pressurized air or gas to produce mechanical movement. Hero of Alexandria wrote an important book called Pneumatica describing dozens of devices powered by air, water, and steam pressure. Pneumatics is still widely used today in everything from bicycle tires and dentist drills to construction machinery and airplane landing gear.",
+        "he": "חקר ושימוש באוויר או גז בלחץ ליצירת תנועה מכנית. הרו מאלכסנדריה כתב ספר חשוב הנקרא פנאומטיקה המתאר עשרות מכשירים המופעלים על ידי לחץ אוויר, מים וקיטור. פנאומטיקה עדיין נמצאת בשימוש נרחב כיום בכל דבר, החל מצמיגי אופניים ומקדחות שיניים ועד לציוד בנייה ומנגנוני נחיתה של מטוסים."
+      },
+      "category": "science"
+    },
+    {
+      "id": "t-d03-07",
+      "term": { "en": "Turbine", "he": "טורבינה" },
+      "definition": {
+        "en": "A machine that converts the energy of a flowing fluid (like steam, water, or wind) into rotational motion. Modern turbines power electric generators, jet engines, and wind turbines. Hero's aeolipile was an early form of turbine. The same principle — using steam or flowing fluid to spin something — is behind virtually every power plant in the world today.",
+        "he": "מכונה הממירה את האנרגיה של נוזל זורם (כגון קיטור, מים או רוח) לתנועה סיבובית. טורבינות מודרניות מפעילות גנרטורים חשמליים, מנועי סילון וטורבינות רוח. האאוליפיל של הרו היה צורה מוקדמת של טורבינה. אותו עקרון — שימוש בקיטור או נוזל זורם לסיבוב משהו — עומד מאחורי כמעט כל תחנת כוח בעולם כיום."
+      },
+      "category": "invention"
+    },
+    {
+      "id": "t-d03-08",
+      "term": { "en": "Gear", "he": "גלגל שיניים" },
+      "definition": {
+        "en": "A toothed wheel that meshes with another toothed wheel to transmit force and motion. Gears can change the speed, direction, and power of a rotating motion. Hero of Alexandria used gears in many of his machines and even wrote about how to calculate the mechanical advantage of gear systems. Gears are essential to countless machines today, from clocks and bicycles to cars and factories.",
+        "he": "גלגל משונן המתחבר עם גלגל משונן אחר כדי להעביר כוח ותנועה. גלגלי שיניים יכולים לשנות את מהירות, כיוון ועוצמת התנועה הסיבובית. הרו מאלכסנדריה השתמש בגלגלי שיניים במכונות רבות שלו ואף כתב כיצד לחשב את היתרון המכני של מערכות גלגלי שיניים. גלגלי שיניים חיוניים למכונות אינספור כיום, החל משעונים ואופניים ועד לרכבים ומפעלים."
+      },
+      "category": "invention"
+    },
+    {
+      "id": "t-d03-09",
+      "term": { "en": "Optics", "he": "אופטיקה" },
+      "definition": {
+        "en": "The branch of physics that studies light — how it travels, reflects, refracts (bends), and is perceived by the eye. Hero of Alexandria wrote an important work on optics and was among the first to state that light travels in straight lines and that the angle of reflection equals the angle of incidence (the law of reflection). His ideas about optics influenced scientists for centuries.",
+        "he": "ענף הפיזיקה העוסק באור — כיצד הוא נע, משתקף, נשבר (מתכופף) ונתפס על ידי העין. הרו מאלכסנדריה כתב יצירה חשובה על אופטיקה והיה מהראשונים לקבוע שאור נע בקווים ישרים ושזווית ההחזרה שווה לזווית ההפלה (חוק ההחזרה). רעיונותיו על אופטיקה השפיעו על מדענים למשך מאות שנים."
+      },
+      "category": "science"
+    },
+    {
+      "id": "t-d03-10",
+      "term": { "en": "Siphon", "he": "סיפון" },
+      "definition": {
+        "en": "A tube or pipe arrangement that uses atmospheric pressure to move liquid from a higher container to a lower one, over an obstacle in between, without using a pump. Hero of Alexandria described siphons in detail and used them in his water-based devices and fountains. Siphons are still used today to transfer fuel between containers and in some plumbing applications.",
+        "he": "סידור צינורות המשתמש בלחץ אטמוספרי להזזת נוזל ממיכל גבוה יותר לנמוך יותר, מעל מכשול באמצע, ללא שימוש במשאבה. הרו מאלכסנדריה תיאר סיפונים בפירוט והשתמש בהם במכשיריו ובמזרקותיו המבוססים על מים. סיפונים עדיין משמשים כיום להעברת דלק בין מיכלים ובכמה יישומי אינסטלציה."
+      },
+      "category": "invention"
+    },
+    {
+      "id": "t-d03-11",
+      "term": { "en": "Mechanics", "he": "מכניקה" },
+      "definition": {
+        "en": "The branch of science that deals with the motion of objects and the forces that act upon them. Hero of Alexandria was one of the greatest ancient engineers and wrote extensively on mechanics, describing the five simple machines (lever, wheel, wedge, screw, and pulley) and how they multiply force. His works on mechanics were used as engineering textbooks for centuries.",
+        "he": "ענף המדע העוסק בתנועת עצמים ובכוחות הפועלים עליהם. הרו מאלכסנדריה היה אחד ממהנדסי העת העתיקה הגדולים ביותר וכתב רבות על מכניקה, מתאר את חמש המכונות הפשוטות (מנוף, גלגל, טריז, בורג וגלגלת) וכיצד הן מכפילות כוח. יצירותיו על מכניקה שימשו כספרי לימוד הנדסה במשך מאות שנים."
+      },
+      "category": "science"
+    },
+    {
+      "id": "t-d03-12",
+      "term": { "en": "Alexandria", "he": "אלכסנדריה" },
+      "definition": {
+        "en": "A great ancient city in Egypt founded by Alexander the Great in 331 BCE. It became the intellectual capital of the ancient world, home to the famous Library of Alexandria and the Mouseion (a research institute like a university). Great thinkers including Euclid, Archimedes, Eratosthenes, and Hero worked and studied there. Alexandria was a melting pot of Greek, Egyptian, Jewish, and other cultures.",
+        "he": "עיר עתיקה גדולה במצרים שנוסדה על ידי אלכסנדר הגדול בשנת 331 לפנה\"ס. היא הפכה לבירה האינטלקטואלית של העולם העתיק, בית לספרייה המפורסמת של אלכסנדריה ולמוסיאון (מוסד מחקר כמו אוניברסיטה). הוגים גדולים כולל אוקלידס, ארכימדס, ארטוסתנס והרו עבדו ולמדו שם. אלכסנדריה הייתה כור היתוך של תרבויות יוונית, מצרית, יהודית ואחרות."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-d03-13",
+      "term": { "en": "Reaction Force", "he": "כוח תגובה" },
+      "definition": {
+        "en": "A force that acts in the opposite direction to an applied force, as described by Newton's Third Law: for every action, there is an equal and opposite reaction. Hero's aeolipile worked on this principle — steam escaped from nozzles in one direction, pushing the sphere in the opposite direction. This is the same principle behind modern jet engines and rockets.",
+        "he": "כוח הפועל בכיוון ההפוך לכוח מופעל, כפי שמתאר החוק השלישי של ניוטון: לכל פעולה יש תגובה שווה ומנוגדת. האאוליפיל של הרו פעל על עקרון זה — קיטור יצא מהפיות בכיוון אחד, ודחף את הכדור לכיוון ההפוך. זה אותו עקרון שמאחורי מנועי סילון וטילים מודרניים."
+      },
+      "category": "physics"
+    },
+    {
+      "id": "t-d03-14",
+      "term": { "en": "Odometer", "he": "מד מרחק" },
+      "definition": {
+        "en": "A device that measures the distance traveled by a vehicle. Hero of Alexandria described an odometer that used a series of gears connected to a wheel. As the wheel turned, the gears counted the rotations and moved a pointer along a measuring scale. Modern cars have odometers that work on the same basic principle, though they now use electronic sensors instead of gears.",
+        "he": "מכשיר המודד את המרחק שעברה רכב. הרו מאלכסנדריה תיאר מד מרחק שהשתמש בסדרה של גלגלי שיניים המחוברים לגלגל. כאשר הגלגל הסתובב, גלגלי השיניים ספרו את הסיבובים והזזו מחוג לאורך סולם מדידה. לרכבים מודרניים יש מדי מרחק הפועלים על אותו עקרון בסיסי, אם כי כיום הם משתמשים בחיישנים אלקטרוניים במקום גלגלי שיניים."
+      },
+      "category": "invention"
+    },
+    {
+      "id": "t-d03-15",
+      "term": { "en": "Industrial Revolution", "he": "המהפכה התעשייתית" },
+      "definition": {
+        "en": "The great transformation of manufacturing and society that began in Britain around the 1760s, when machines powered by steam engines replaced human and animal labor on a massive scale. Factories, railways, and steamships transformed the world in less than a century. Fascinatingly, the steam engine that powered this revolution was based on the same principle as Hero's aeolipile, built nearly 1,700 years earlier.",
+        "he": "השינוי הגדול בייצור ובחברה שהחל בבריטניה בסביבות שנות ה-1760, כאשר מכונות המופעלות על ידי מנועי קיטור החליפו עבודת אדם וחיות בקנה מידה עצום. מפעלים, מסילות ברזל ואניות קיטור שינו את העולם בפחות ממאה שנה. מרתק לציין שמנוע הקיטור שהניע מהפכה זו התבסס על אותו עקרון כמו האאוליפיל של הרו, שנבנה כמעט 1,700 שנה קודם לכן."
+      },
+      "category": "history"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q-d03-01",
+      "question": {
+        "en": "What was the aeolipile?",
+        "he": "מה היה האאוליפיל?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "A type of ancient telescope", "he": "סוג של טלסקופ עתיק" } },
+        { "id": "b", "text": { "en": "A steam-powered spinning sphere", "he": "כדור מסתובב בכוח קיטור" } },
+        { "id": "c", "text": { "en": "A water-powered clock", "he": "שעון מים" } },
+        { "id": "d", "text": { "en": "An ancient musical instrument", "he": "כלי נגינה עתיק" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The aeolipile was a steam-powered device invented by Hero of Alexandria. A hollow metal sphere was mounted on a boiler of boiling water. Steam entered the sphere and escaped from two bent nozzles, making the sphere spin rapidly. It is considered the world's first steam engine.",
+        "he": "האאוליפיל היה מכשיר מופעל בקיטור שהמציא הרו מאלכסנדריה. כדור מתכת חלול הותקן על דוד של מים רותחים. קיטור נכנס לכדור ויצא משני פיות כפופים, וגרם לכדור להסתובב במהירות. הוא נחשב למנוע הקיטור הראשון בעולם."
+      }
+    },
+    {
+      "id": "q-d03-02",
+      "question": {
+        "en": "What famous ancient institution did Hero of Alexandria work at?",
+        "he": "באיזה מוסד עתיק מפורסם עבד הרו מאלכסנדריה?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "The Parthenon", "he": "הפרתנון" } },
+        { "id": "b", "text": { "en": "The Library of Alexandria", "he": "ספריית אלכסנדריה" } },
+        { "id": "c", "text": { "en": "The Temple of Zeus", "he": "מקדש זאוס" } },
+        { "id": "d", "text": { "en": "The Roman Forum", "he": "הפורום הרומאי" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Hero of Alexandria worked at the famous Library of Alexandria in Egypt, which was the greatest center of learning in the ancient world. There he could access hundreds of thousands of scrolls of knowledge and work alongside other great scientists, mathematicians, and philosophers.",
+        "he": "הרו מאלכסנדריה עבד בספרייה המפורסמת של אלכסנדריה במצרים, שהייתה מרכז הלמידה הגדול ביותר בעולם העתיק. שם יכול היה לגשת למאות אלפי מגילות ידע ולעבוד לצד מדענים, מתמטיקאים ופילוסופים גדולים אחרים."
+      }
+    },
+    {
+      "id": "q-d03-03",
+      "question": {
+        "en": "What did Hero's first vending machine dispense?",
+        "he": "מה חילקה מכונת המכירה הראשונה של הרו?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Bread", "he": "לחם" } },
+        { "id": "b", "text": { "en": "Olive oil", "he": "שמן זית" } },
+        { "id": "c", "text": { "en": "Holy water", "he": "מים קדושים" } },
+        { "id": "d", "text": { "en": "Wine", "he": "יין" } }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Hero invented a coin-operated device that dispensed holy water in Egyptian temples. When a worshipper inserted a coin, its weight pushed down a lever that briefly opened a tap, releasing a small measured amount of holy water. This is the same basic principle as modern vending machines.",
+        "he": "הרו המציא מכשיר המופעל על ידי מטבע שחילק מים קדושים במקדשים מצריים. כאשר מתפלל הכניס מטבע, משקלו לחץ מנוף שפתח ברז לזמן קצר, ושחרר כמות קטנה ומדודה של מים קדושים. זה אותו עקרון בסיסי כמו מכונות מכירה מודרניות."
+      }
+    },
+    {
+      "id": "q-d03-04",
+      "question": {
+        "en": "What principle made Hero's aeolipile spin?",
+        "he": "איזה עקרון גרם לאאוליפיל של הרו להסתובב?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Gravity pulling the sphere down", "he": "כבידה המושכת את הכדור למטה" } },
+        { "id": "b", "text": { "en": "Steam escaping through nozzles in one direction pushing the sphere the other way", "he": "קיטור שיוצא דרך פיות לכיוון אחד דוחף את הכדור לכיוון השני" } },
+        { "id": "c", "text": { "en": "Magnets attracting the metal sphere", "he": "מגנטים המושכים את כדור המתכת" } },
+        { "id": "d", "text": { "en": "Wind blowing the sphere around", "he": "רוח שמסובבת את הכדור" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The aeolipile worked on the reaction principle (later stated by Newton as his Third Law): steam escaped from two bent nozzles in one direction, and the reaction force pushed the sphere in the opposite direction, making it spin. This is the same principle used in modern jet engines and rockets.",
+        "he": "האאוליפיל פעל על עקרון התגובה (שניוטון ניסח מאוחר יותר כחוקו השלישי): קיטור יצא משני פיות כפופים לכיוון אחד, וכוח התגובה דחף את הכדור לכיוון ההפוך, וגרם לו להסתובב. זה אותו עקרון המשמש במנועי סילון וטילים מודרניים."
+      }
+    },
+    {
+      "id": "q-d03-05",
+      "question": {
+        "en": "How many years passed between Hero's aeolipile and the Industrial Revolution's steam engines?",
+        "he": "כמה שנים עברו בין האאוליפיל של הרו למנועי הקיטור של המהפכה התעשייתית?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "About 500 years", "he": "כ-500 שנה" } },
+        { "id": "b", "text": { "en": "About 1,000 years", "he": "כ-1,000 שנה" } },
+        { "id": "c", "text": { "en": "About 1,700 years", "he": "כ-1,700 שנה" } },
+        { "id": "d", "text": { "en": "About 200 years", "he": "כ-200 שנה" } }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Hero invented the aeolipile around 50 CE. The Industrial Revolution began in the 1760s. That means Hero's steam-powered device was almost 1,700 years ahead of its time! The basic principle of using steam pressure to create movement was the same in both cases.",
+        "he": "הרו המציא את האאוליפיל בסביבות 50 לספירה. המהפכה התעשייתית החלה בשנות ה-1760. כלומר המכשיר המופעל בקיטור של הרו היה כמעט 1,700 שנה לפני זמנו! העקרון הבסיסי של שימוש בלחץ קיטור ליצירת תנועה היה זהה בשני המקרים."
+      }
+    },
+    {
+      "id": "q-d03-06",
+      "question": {
+        "en": "What were Hero's programmable theatrical automata powered by?",
+        "he": "במה הופעלו האוטומטים התיאטרליים הניתנים לתכנות של הרו?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Electricity", "he": "חשמל" } },
+        { "id": "b", "text": { "en": "Ropes, strings, and falling weights", "he": "חבלים, חוטים ומשקולות נופלות" } },
+        { "id": "c", "text": { "en": "Steam pressure", "he": "לחץ קיטור" } },
+        { "id": "d", "text": { "en": "Running water", "he": "מים זורמים" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Hero's automata were powered by ropes, strings, and falling weights. By carefully arranging these mechanical components, he could create self-moving machines that followed a preset sequence of movements — like primitive robots or early mechanical computers. The falling weights provided the energy, like a wound-up clock spring.",
+        "he": "האוטומטים של הרו הופעלו על ידי חבלים, חוטים ומשקולות נופלות. על ידי סידור זהיר של רכיבים מכניים אלה, הוא יכול היה ליצור מכונות נעות מעצמן שפעלו בהתאם לרצף תנועות קבוע מראש — כמו רובוטים פרימיטיביים או מחשבים מכניים מוקדמים. המשקולות הנופלות סיפקו את האנרגיה, כמו קפיץ שעון כרוך."
+      }
+    },
+    {
+      "id": "q-d03-07",
+      "question": {
+        "en": "What branch of physics did Hero write about regarding the behavior of light?",
+        "he": "איזה ענף פיזיקה כתב הרו לגבי התנהגות האור?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Thermodynamics", "he": "תרמודינמיקה" } },
+        { "id": "b", "text": { "en": "Optics", "he": "אופטיקה" } },
+        { "id": "c", "text": { "en": "Acoustics", "he": "אקוסטיקה" } },
+        { "id": "d", "text": { "en": "Magnetism", "he": "מגנטיות" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Hero wrote an important work on optics, the study of light. He was among the first to state that light travels in straight lines and described the law of reflection: the angle at which light hits a mirror equals the angle at which it bounces off. These ideas were foundational for later scientists who studied lenses and telescopes.",
+        "he": "הרו כתב יצירה חשובה על אופטיקה, חקר האור. הוא היה מהראשונים לקבוע שאור נע בקווים ישרים ותיאר את חוק ההחזרה: הזווית שבה אור פוגע במראה שווה לזווית שבה הוא קופץ ממנה. רעיונות אלה היו יסודיים למדענים מאוחרים יותר שחקרו עדשות וטלסקופים."
+      }
+    },
+    {
+      "id": "q-d03-08",
+      "question": {
+        "en": "What device did Hero invent that was used to measure distances traveled?",
+        "he": "איזה מכשיר המציא הרו שהיה בשימוש למדידת מרחקים שעברו?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "A compass", "he": "מצפן" } },
+        { "id": "b", "text": { "en": "A sundial", "he": "שעון שמש" } },
+        { "id": "c", "text": { "en": "An odometer", "he": "מד מרחק" } },
+        { "id": "d", "text": { "en": "A ruler", "he": "סרגל" } }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Hero described an odometer — a device that used a system of gears connected to a wheel to measure distance traveled. As the wheel turned, the gears counted the rotations and moved a display showing how far the vehicle had gone. Modern car odometers work on the same basic idea, just using electronics instead of gears.",
+        "he": "הרו תיאר מד מרחק — מכשיר שהשתמש במערכת גלגלי שיניים המחוברים לגלגל למדידת המרחק שעבר. כאשר הגלגל הסתובב, גלגלי השיניים ספרו את הסיבובים והזזו תצוגה המציגה כמה הרכב נסע. מדי מרחק של רכבים מודרניים עובדים על אותו רעיון בסיסי, רק משתמשים באלקטרוניקה במקום גלגלי שיניים."
+      }
+    },
+    {
+      "id": "q-d03-09",
+      "question": {
+        "en": "Which of the following best describes Hero of Alexandria?",
+        "he": "איזה מהבאים מתאר בצורה הטובה ביותר את הרו מאלכסנדריה?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "An ancient Greek soldier and general", "he": "חייל וגנרל יווני עתיק" } },
+        { "id": "b", "text": { "en": "A mathematician, engineer, and inventor in ancient Alexandria", "he": "מתמטיקאי, מהנדס וממציא באלכסנדריה העתיקה" } },
+        { "id": "c", "text": { "en": "A famous philosopher who taught in Athens", "he": "פילוסוף מפורסם שלימד באתונה" } },
+        { "id": "d", "text": { "en": "A Roman emperor who loved science", "he": "קיסר רומאי שאהב מדע" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Hero of Alexandria was a Greek-Egyptian mathematician, engineer, and inventor who lived around the 1st century CE in Alexandria, Egypt. He wrote extensively on geometry, mechanics, and optics, and created remarkable inventions including the aeolipile, programmable automata, and the first vending machine.",
+        "he": "הרו מאלכסנדריה היה מתמטיקאי, מהנדס וממציא יווני-מצרי שחי בסביבות המאה ה-1 לספירה באלכסנדריה, מצרים. הוא כתב רבות על גיאומטריה, מכניקה ואופטיקה, ויצר המצאות מרשימות כולל האאוליפיל, אוטומטים ניתנים לתכנות ומכונת המכירה הראשונה."
+      }
+    },
+    {
+      "id": "q-d03-10",
+      "question": {
+        "en": "What modern technology uses the same reaction principle as Hero's aeolipile?",
+        "he": "איזה טכנולוגיה מודרנית משתמשת באותו עקרון תגובה כמו האאוליפיל של הרו?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Solar panels", "he": "פאנלים סולאריים" } },
+        { "id": "b", "text": { "en": "Jet engines and rockets", "he": "מנועי סילון וטילים" } },
+        { "id": "c", "text": { "en": "Electric motors", "he": "מנועים חשמליים" } },
+        { "id": "d", "text": { "en": "Nuclear reactors", "he": "כורים גרעיניים" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Jet engines and rockets work on the same reaction principle as the aeolipile: gas escapes in one direction at high speed, pushing the vehicle in the opposite direction. This is Newton's Third Law in action — for every action, there is an equal and opposite reaction. Hero understood this principle 2,000 years before it was formally explained.",
+        "he": "מנועי סילון וטילים עובדים על אותו עקרון תגובה כמו האאוליפיל: גז יוצא בכיוון אחד במהירות גבוהה, ודוחף את הרכב לכיוון ההפוך. זה החוק השלישי של ניוטון בפעולה — לכל פעולה יש תגובה שווה ומנוגדת. הרו הבין עקרון זה 2,000 שנה לפני שהוסבר באופן פורמלי."
+      }
+    }
+  ],
+  "videoSources": ["nS2YC_oT49I"]
+}

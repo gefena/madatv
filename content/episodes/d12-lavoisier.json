@@ -1,0 +1,386 @@
+{
+  "id": "d12-lavoisier",
+  "episodeNumber": 12,
+  "youtubeId": "jBdPUVZE42o",
+  "title": {
+    "en": "Lavoisier and Chemistry",
+    "he": "לבואזייה והכימיה"
+  },
+  "summary": {
+    "en": "This episode tells the story of Antoine-Laurent de Lavoisier, the brilliant French chemist who transformed alchemy into the modern science of chemistry through rigorous experimentation and precise measurement. Lavoisier demolished the centuries-old phlogiston theory — the mistaken idea that a mysterious fire-substance called 'phlogiston' was released during burning — by proving that combustion is actually a chemical reaction between a substance and oxygen. He discovered and named oxygen itself, showed that water is composed of hydrogen and oxygen, and formulated the Law of Conservation of Mass, which states that matter is neither created nor destroyed in a chemical reaction. Lavoisier also revolutionized the language of chemistry by creating a systematic naming system for chemical elements and compounds — the basis of the system still used today. His masterwork Traité Élémentaire de Chimie (1789) is considered the first modern chemistry textbook. Tragically, despite his enormous contributions to science, Lavoisier was guillotined during the French Revolution in 1794 at the age of 50.",
+    "he": "פרק זה מספר את סיפורו של אנטואן-לורן דה לבואזייה, הכימאי הצרפתי המבריק שהפך את האלכימיה למדע הכימיה המודרני דרך ניסויים קפדניים ומדידה מדויקת. לבואזייה הפריך את תיאוריית הפלוגיסטון בת מאות השנים — הרעיון השגוי שחומר אש מסתורי הנקרא 'פלוגיסטון' משתחרר בזמן בעירה — על ידי הוכחה שבעירה היא למעשה תגובה כימית בין חומר לחמצן. הוא גילה וקרא שם לחמצן עצמו, הראה שמים מורכבים ממימן וחמצן, וניסח את חוק שימור המסה, הקובע שחומר אינו נוצר ואינו נהרס בתגובה כימית. לבואזייה גם חולל מהפכה בשפת הכימיה על ידי יצירת מערכת שמות שיטתית לאלמנטים כימיים ותרכובות — הבסיס של המערכת שבשימוש כיום. יצירת המופת שלו Traité Élémentaire de Chimie (1789) נחשבת לספר הלימוד הכימי המודרני הראשון. לצערנו, למרות תרומותיו העצומות למדע, לבואזייה עלה לגרדום במהלך המהפכה הצרפתית ב-1794 בגיל 50."
+  },
+  "thumbnail": "https://img.youtube.com/vi/jBdPUVZE42o/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": [
+    "Antoine Lavoisier",
+    "oxygen and combustion",
+    "conservation of mass",
+    "chemical elements and nomenclature"
+  ],
+  "terminology": [
+    {
+      "id": "t-d12-01",
+      "term": {
+        "en": "Antoine Lavoisier",
+        "he": "אנטואן לבואזייה"
+      },
+      "definition": {
+        "en": "A French chemist (1743–1794) often called the 'Father of Modern Chemistry.' He discovered oxygen's role in combustion, disproved the phlogiston theory, formulated the law of conservation of mass, and created a systematic language for chemistry. He was guillotined during the French Revolution.",
+        "he": "כימאי צרפתי (1743–1794) המכונה לרוב 'אבי הכימיה המודרנית'. הוא גילה את תפקיד החמצן בבעירה, הפריך את תיאוריית הפלוגיסטון, ניסח את חוק שימור המסה ויצר שפה שיטתית לכימיה. הוא עלה לגרדום במהלך המהפכה הצרפתית."
+      },
+      "category": "historical figure"
+    },
+    {
+      "id": "t-d12-02",
+      "term": {
+        "en": "Oxygen",
+        "he": "חמצן"
+      },
+      "definition": {
+        "en": "A colorless, odorless gas that makes up about 21% of Earth's atmosphere. Lavoisier named it and showed that it is essential for combustion (burning) and for respiration (breathing). Without oxygen, fire cannot burn and animals cannot breathe.",
+        "he": "גז חסר צבע וריח המהווה כ-21% מאטמוספרת כדור הארץ. לבואזייה קרא לו שם והראה שהוא חיוני לבעירה ולנשימה. ללא חמצן, אש לא יכולה לבעור ובעלי חיים לא יכולים לנשום."
+      },
+      "category": "chemistry"
+    },
+    {
+      "id": "t-d12-03",
+      "term": {
+        "en": "Phlogiston Theory",
+        "he": "תיאוריית הפלוגיסטון"
+      },
+      "definition": {
+        "en": "A widely accepted but wrong 18th-century theory that said all flammable materials contained an invisible fire-substance called 'phlogiston' that was released when they burned. Lavoisier proved this theory was incorrect by showing that burning is a reaction with oxygen, not a release of phlogiston.",
+        "he": "תיאוריה מקובלת אך שגויה מהמאה ה-18 שאמרה שכל החומרים הדליקים מכילים חומר אש בלתי נראה הנקרא 'פלוגיסטון' שמשתחרר בזמן שריפה. לבואזייה הוכיח שתיאוריה זו שגויה על ידי הראה שבעירה היא תגובה עם חמצן, לא שחרור פלוגיסטון."
+      },
+      "category": "historical concept"
+    },
+    {
+      "id": "t-d12-04",
+      "term": {
+        "en": "Law of Conservation of Mass",
+        "he": "חוק שימור המסה"
+      },
+      "definition": {
+        "en": "Lavoisier's fundamental principle stating that in any chemical reaction, the total mass of the reactants equals the total mass of the products — matter is neither created nor destroyed. For example, if you burn wood, the ash plus gases produced weigh the same as the original wood and oxygen.",
+        "he": "עקרונו היסודי של לבואזייה הקובע שבכל תגובה כימית, המסה הכוללת של החומרים המגיבים שווה למסה הכוללת של המוצרים — חומר אינו נוצר ואינו נהרס. לדוגמה, אם שורפים עץ, האפר בתוספת הגזים המיוצרים שוקלים כמו העץ המקורי והחמצן."
+      },
+      "category": "chemistry"
+    },
+    {
+      "id": "t-d12-05",
+      "term": {
+        "en": "Combustion",
+        "he": "בעירה"
+      },
+      "definition": {
+        "en": "A chemical reaction in which a substance reacts rapidly with oxygen, releasing heat and light — what we call fire or burning. Lavoisier proved that combustion is a reaction between a fuel and oxygen, not the release of a mysterious substance called phlogiston.",
+        "he": "תגובה כימית שבה חומר מגיב במהירות עם חמצן, ומשחרר חום ואור — מה שאנו מכנים אש או בעירה. לבואזייה הוכיח שבעירה היא תגובה בין דלק לחמצן, ולא שחרור חומר מסתורי הנקרא פלוגיסטון."
+      },
+      "category": "chemistry"
+    },
+    {
+      "id": "t-d12-06",
+      "term": {
+        "en": "Chemical Element",
+        "he": "יסוד כימי"
+      },
+      "definition": {
+        "en": "A pure substance made of only one type of atom that cannot be broken down into simpler substances by chemical means. Lavoisier published an early list of elements, including oxygen, hydrogen, nitrogen, and sulfur. Today we know 118 elements, all organized in the Periodic Table.",
+        "he": "חומר טהור העשוי מסוג אחד בלבד של אטומים שלא ניתן לפרק לחומרים פשוטים יותר באמצעים כימיים. לבואזייה פרסם רשימה מוקדמת של יסודות, כולל חמצן, מימן, חנקן וגופרית. כיום אנו מכירים 118 יסודות, כולם מאורגנים בטבלה המחזורית."
+      },
+      "category": "chemistry"
+    },
+    {
+      "id": "t-d12-07",
+      "term": {
+        "en": "Hydrogen",
+        "he": "מימן"
+      },
+      "definition": {
+        "en": "The lightest and most abundant chemical element in the universe, found in water (H₂O) and many organic compounds. Lavoisier showed that water is made of hydrogen and oxygen — a discovery that overturned the ancient belief that water was a basic, indivisible element.",
+        "he": "היסוד הכימי הקל והשכיח ביותר ביקום, הנמצא במים (H₂O) ובתרכובות אורגניות רבות. לבואזייה הראה שמים עשויים ממימן וחמצן — תגלית שהפכה את האמונה העתיקה שמים הם יסוד בסיסי ובלתי ניתן לחלוקה."
+      },
+      "category": "chemistry"
+    },
+    {
+      "id": "t-d12-08",
+      "term": {
+        "en": "Chemical Nomenclature",
+        "he": "נומנקלטורה כימית"
+      },
+      "definition": {
+        "en": "A systematic set of rules for naming chemical substances. Lavoisier and colleagues created the first logical chemical naming system in 1787, where the names of compounds give clues about their composition — for example, 'sulfuric acid' and 'sulfate.' This system is still the basis for chemical naming today.",
+        "he": "מערכת כללים שיטתית למתן שמות לחומרים כימיים. לבואזייה ועמיתיו יצרו את מערכת השמות הכימית הלוגית הראשונה ב-1787, שבה שמות התרכובות נותנים רמזים על הרכבן — לדוגמה, 'חומצה גופרתית' ו'סולפט'. מערכת זו עדיין הבסיס לשמות כימיים כיום."
+      },
+      "category": "chemistry"
+    },
+    {
+      "id": "t-d12-09",
+      "term": {
+        "en": "Respiration",
+        "he": "נשימה"
+      },
+      "definition": {
+        "en": "The process by which living things take in oxygen and use it to produce energy from food, releasing carbon dioxide and water as waste. Lavoisier demonstrated that animal respiration is chemically similar to slow combustion — the body 'burns' food using oxygen to produce energy and heat.",
+        "he": "התהליך שבו יצורים חיים קולטים חמצן ומשתמשים בו לייצור אנרגיה מאוכל, ומשחררים פחמן דו-חמצני ומים כפסולת. לבואזייה הדגים שנשימה של בעלי חיים דומה כימית לבעירה איטית — הגוף 'שורף' מזון באמצעות חמצן כדי לייצר אנרגיה וחום."
+      },
+      "category": "chemistry/biology"
+    },
+    {
+      "id": "t-d12-10",
+      "term": {
+        "en": "Traité Élémentaire de Chimie",
+        "he": "טרייטה אלמנטר דה שימי"
+      },
+      "definition": {
+        "en": "Lavoisier's landmark chemistry textbook published in 1789, whose title means 'Elementary Treatise on Chemistry.' It presented chemistry as a rigorous science based on precise measurement, listed the known chemical elements, and introduced the law of conservation of mass — making it the first truly modern chemistry textbook.",
+        "he": "ספר הלימוד הכימי המכונן של לבואזייה שפורסם ב-1789, ששמו פירושו 'חיבור יסודי בכימיה'. הוא הציג את הכימיה כמדע קפדני המבוסס על מדידה מדויקת, רשם את היסודות הכימיים הידועים והציג את חוק שימור המסה — מה שהפך אותו לספר הלימוד הכימי המודרני האמיתי הראשון."
+      },
+      "category": "historical work"
+    },
+    {
+      "id": "t-d12-11",
+      "term": {
+        "en": "Caloric",
+        "he": "קלוריק"
+      },
+      "definition": {
+        "en": "A hypothetical substance Lavoisier and others once believed carried heat — similar to how phlogiston was thought to carry fire. Lavoisier included 'caloric' in his list of elements. Though later proven wrong, this idea helped scientists think about heat as a measurable quantity.",
+        "he": "חומר היפותטי שלבואזייה ואחרים האמינו פעם שנושא חום — בדומה לאופן שבו חשבו שפלוגיסטון נושא אש. לבואזייה כלל את ה'קלוריק' ברשימת היסודות שלו. אף שהוכח מאוחר יותר כשגוי, רעיון זה עזר למדענים לחשוב על חום כמות מדידה."
+      },
+      "category": "historical concept"
+    },
+    {
+      "id": "t-d12-12",
+      "term": {
+        "en": "Balance Scale",
+        "he": "מאזניים"
+      },
+      "definition": {
+        "en": "A precision instrument used to measure mass by balancing a known weight against an unknown one. Lavoisier insisted on using extremely accurate balance scales in all his experiments, which allowed him to detect tiny changes in mass and formulate the law of conservation of mass.",
+        "he": "מכשיר דיוק המשמש למדידת מסה על ידי איזון משקל ידוע מול לא ידוע. לבואזייה התעקש להשתמש במאזניים מדויקות במיוחד בכל ניסויי, מה שאיפשר לו לגלות שינויים זעירים במסה ולנסח את חוק שימור המסה."
+      },
+      "category": "scientific instrument"
+    },
+    {
+      "id": "t-d12-13",
+      "term": {
+        "en": "Nitrogen",
+        "he": "חנקן"
+      },
+      "definition": {
+        "en": "A colorless, odorless gas that makes up about 78% of Earth's atmosphere. Lavoisier named it and recognized it as an element distinct from oxygen. Nitrogen is essential for life — it is a key part of proteins and DNA in all living organisms.",
+        "he": "גז חסר צבע וריח המהווה כ-78% מאטמוספרת כדור הארץ. לבואזייה קרא לו שם והכיר בו כיסוד הנבדל מחמצן. חנקן חיוני לחיים — הוא חלק מרכזי בחלבונים וב-DNA בכל האורגניזמים החיים."
+      },
+      "category": "chemistry"
+    },
+    {
+      "id": "t-d12-14",
+      "term": {
+        "en": "French Revolution",
+        "he": "המהפכה הצרפתית"
+      },
+      "definition": {
+        "en": "A period of radical political and social change in France from 1789 to 1799, in which the monarchy was overthrown and many aristocrats and others were executed by guillotine. Lavoisier, who had been a tax collector for the royal government, was arrested and guillotined in 1794 despite his scientific achievements.",
+        "he": "תקופה של שינוי פוליטי וחברתי קיצוני בצרפת משנת 1789 עד 1799, שבה המלוכה הופלה ואנשים אצילים ואחרים רבים הוצאו להורג על ידי גרדום. לבואזייה, שהיה גובה מס לממשלה המלכותית, נאסר ועלה לגרדום ב-1794 למרות הישגיו המדעיים."
+      },
+      "category": "historical event"
+    },
+    {
+      "id": "t-d12-15",
+      "term": {
+        "en": "Alchemy",
+        "he": "אלכימיה"
+      },
+      "definition": {
+        "en": "A medieval mixture of proto-science, philosophy, and mysticism that sought to transform base metals into gold and find a universal cure for disease. Though alchemists made some useful chemical discoveries, they lacked systematic methods. Lavoisier's rigorous, measurement-based approach transformed alchemy into modern chemistry.",
+        "he": "תערובת ימי-ביניימית של מדע-קדם, פילוסופיה ומיסטיקה שביקשה להפוך מתכות בסיסיות לזהב ולמצוא תרופה אוניברסלית למחלות. אף שאלכימאים עשו כמה תגליות כימיות שימושיות, חסרו להם שיטות שיטתיות. הגישה הקפדנית המבוססת על מדידה של לבואזייה הפכה את האלכימיה לכימיה מודרנית."
+      },
+      "category": "historical concept"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q-d12-01",
+      "question": {
+        "en": "What is Lavoisier's Law of Conservation of Mass?",
+        "he": "מהו חוק שימור המסה של לבואזייה?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Mass can be created from energy in a chemical reaction", "he": "מסה יכולה להיווצר מאנרגיה בתגובה כימית" } },
+        { "id": "b", "text": { "en": "Matter is neither created nor destroyed in a chemical reaction", "he": "חומר אינו נוצר ואינו נהרס בתגובה כימית" } },
+        { "id": "c", "text": { "en": "Hot objects lose mass when they cool down", "he": "עצמים חמים מאבדים מסה בהתקררם" } },
+        { "id": "d", "text": { "en": "Every element has a fixed mass that never changes", "he": "לכל יסוד יש מסה קבועה שלא משתנה לעולם" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Lavoisier's Law of Conservation of Mass states that the total mass of substances before a chemical reaction equals the total mass after the reaction. Mass is neither created nor destroyed — it is only rearranged into new substances. This is a cornerstone of modern chemistry.",
+        "he": "חוק שימור המסה של לבואזייה קובע שהמסה הכוללת של החומרים לפני תגובה כימית שווה למסה הכוללת לאחר התגובה. מסה אינה נוצרת ואינה נהרסת — היא רק מסודרת מחדש לחומרים חדשים. זהו אבן יסוד של הכימיה המודרנית."
+      }
+    },
+    {
+      "id": "q-d12-02",
+      "question": {
+        "en": "What was the phlogiston theory, which Lavoisier disproved?",
+        "he": "מהי תיאוריית הפלוגיסטון שלבואזייה הפריך?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "The idea that all matter is made of fire, water, air, and earth", "he": "הרעיון שכל החומר עשוי אש, מים, אוויר ואדמה" } },
+        { "id": "b", "text": { "en": "The idea that burning releases a mysterious fire-substance called phlogiston", "he": "הרעיון שבעירה משחררת חומר אש מסתורי הנקרא פלוגיסטון" } },
+        { "id": "c", "text": { "en": "The idea that oxygen is poisonous to animals", "he": "הרעיון שחמצן רעיל לבעלי חיים" } },
+        { "id": "d", "text": { "en": "The idea that gold cannot be made from other metals", "he": "הרעיון שלא ניתן לייצר זהב ממתכות אחרות" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The phlogiston theory held that all combustible materials contained a fire-element called phlogiston, which was released during burning. Lavoisier proved this wrong by showing that burning actually involves oxygen combining with the fuel — and that the total mass of reactants and products remains the same.",
+        "he": "תיאוריית הפלוגיסטון טענה שכל החומרים הדליקים מכילים יסוד אש הנקרא פלוגיסטון, המשתחרר בזמן שריפה. לבואזייה הוכיח שזה שגוי על ידי הראה שבעירה למעשה כוללת חמצן המתחבר עם הדלק — וכי המסה הכוללת של המגיבים והמוצרים נשארת זהה."
+      }
+    },
+    {
+      "id": "q-d12-03",
+      "question": {
+        "en": "What gas did Lavoisier prove was essential for combustion (burning)?",
+        "he": "איזה גז הוכיח לבואזייה שהכרחי לבעירה?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Nitrogen", "he": "חנקן" } },
+        { "id": "b", "text": { "en": "Carbon dioxide", "he": "פחמן דו-חמצני" } },
+        { "id": "c", "text": { "en": "Hydrogen", "he": "מימן" } },
+        { "id": "d", "text": { "en": "Oxygen", "he": "חמצן" } }
+      ],
+      "correctChoice": "d",
+      "explanation": {
+        "en": "Lavoisier identified and named oxygen as the gas essential for combustion. He showed that when substances burn, they react with oxygen from the air, and that the products of combustion contain oxygen combined with the original material.",
+        "he": "לבואזייה זיהה וקרא שם לחמצן כגז החיוני לבעירה. הוא הראה שכאשר חומרים בוערים, הם מגיבים עם חמצן מהאוויר, וכי מוצרי הבעירה מכילים חמצן בשילוב עם החומר המקורי."
+      }
+    },
+    {
+      "id": "q-d12-04",
+      "question": {
+        "en": "What two elements did Lavoisier show make up water?",
+        "he": "אילו שני יסודות הראה לבואזייה שמרכיבים מים?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Oxygen and nitrogen", "he": "חמצן וחנקן" } },
+        { "id": "b", "text": { "en": "Carbon and oxygen", "he": "פחמן וחמצן" } },
+        { "id": "c", "text": { "en": "Hydrogen and oxygen", "he": "מימן וחמצן" } },
+        { "id": "d", "text": { "en": "Sulfur and hydrogen", "he": "גופרית ומימן" } }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Lavoisier demonstrated that water (H₂O) is a compound made of hydrogen and oxygen. This overturned the ancient four-elements theory (earth, water, fire, air) by proving that water is not a basic element but a compound of two simpler elements.",
+        "he": "לבואזייה הדגים שמים (H₂O) הם תרכובת עשויה ממימן וחמצן. זה הפך את תיאוריית ארבעת היסודות העתיקה (אדמה, מים, אש, אוויר) על ידי הוכחה שמים אינם יסוד בסיסי אלא תרכובת של שני יסודות פשוטים יותר."
+      }
+    },
+    {
+      "id": "q-d12-05",
+      "question": {
+        "en": "What happened to Lavoisier in 1794 despite all his scientific achievements?",
+        "he": "מה קרה ללבואזייה ב-1794 למרות כל הישגיו המדעיים?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "He was awarded a great prize by the French Academy", "he": "הוא קיבל פרס גדול מהאקדמיה הצרפתית" } },
+        { "id": "b", "text": { "en": "He was guillotined during the French Revolution", "he": "הוא עלה לגרדום במהלך המהפכה הצרפתית" } },
+        { "id": "c", "text": { "en": "He retired to a quiet country estate", "he": "הוא פרש לאחוזת כפר שקטה" } },
+        { "id": "d", "text": { "en": "He emigrated to England", "he": "הוא עלה לאנגליה" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Tragically, Lavoisier was arrested during the Reign of Terror in the French Revolution and guillotined on May 8, 1794, at the age of 50. He had worked as a tax collector for the royal government, which made him an enemy of the revolution. The mathematician Lagrange remarked: 'It took only a moment to cut off that head, but France may not produce another like it in a century.'",
+        "he": "לצערנו, לבואזייה נאסר בתקופת הטרור במהפכה הצרפתית ועלה לגרדום ב-8 במאי 1794, בגיל 50. הוא עבד כגובה מס לממשלה המלכותית, מה שהפך אותו לאויב המהפכה. המתמטיקאי לגרנז' העיר: 'לקחה רק רגע לקצוץ את הראש ההוא, אך צרפת אולי לא תייצר כזה בדומה לו במאה שנה'."
+      }
+    },
+    {
+      "id": "q-d12-06",
+      "question": {
+        "en": "What was Lavoisier's important contribution to the language of chemistry?",
+        "he": "מה הייתה תרומתו החשובה של לבואזייה לשפת הכימיה?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "He wrote all chemistry in Latin", "he": "הוא כתב את כל הכימיה בלטינית" } },
+        { "id": "b", "text": { "en": "He created a systematic naming system for chemical elements and compounds", "he": "הוא יצר מערכת שמות שיטתית לאלמנטים כימיים ותרכובות" } },
+        { "id": "c", "text": { "en": "He invented the use of letters to represent elements", "he": "הוא המציא את השימוש באותיות לייצוג יסודות" } },
+        { "id": "d", "text": { "en": "He invented the Periodic Table", "he": "הוא המציא את הטבלה המחזורית" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Lavoisier and colleagues created the first systematic chemical nomenclature in 1787, giving logical names to elements and compounds that reflected their composition. This replaced the chaotic mixture of alchemical and folk names that had made chemistry hard to understand and communicate.",
+        "he": "לבואזייה ועמיתיו יצרו את הנומנקלטורה הכימית השיטתית הראשונה ב-1787, ונתנו שמות לוגיים ליסודות ותרכובות המשקפים את הרכבם. זה החליף את ערבוב הכאוטי של שמות אלכימיים ועממיים שהקשה להבין ולתקשר כימיה."
+      }
+    },
+    {
+      "id": "q-d12-07",
+      "question": {
+        "en": "How did Lavoisier show that animal respiration is similar to combustion?",
+        "he": "כיצד הראה לבואזייה שנשימת בעלי חיים דומה לבעירה?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "By measuring how long animals could survive in sealed jars", "he": "על ידי מדידת כמה זמן בעלי חיים יכולים לשרוד בצנצנות אטומות" } },
+        { "id": "b", "text": { "en": "By measuring oxygen consumed and heat produced by a guinea pig", "he": "על ידי מדידת החמצן הנצרך והחום המיוצר על ידי שפן ים" } },
+        { "id": "c", "text": { "en": "By comparing the breath of animals to candle flames", "he": "על ידי השוואת נשימת בעלי חיים ללהבות נרות" } },
+        { "id": "d", "text": { "en": "By burning animal tissue in a furnace", "he": "על ידי שריפת רקמות בעלי חיים בתנור" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Lavoisier and his colleague Laplace measured the amount of oxygen consumed and carbon dioxide produced by a guinea pig, and also measured the heat the animal generated. They showed these values matched those for burning charcoal, proving that respiration and combustion are chemically equivalent processes.",
+        "he": "לבואזייה ועמיתו לאפלס מדדו את כמות החמצן הנצרכת ופחמן הדו-חמצני המיוצר על ידי שפן ים, וגם מדדו את החום שהחיה ייצרה. הם הראו שערכים אלה תאמו לאלה של שריפת פחם, ומוכיחים שנשימה ובעירה הם תהליכים שקולים כימית."
+      }
+    },
+    {
+      "id": "q-d12-08",
+      "question": {
+        "en": "What did Lavoisier use that was essential to his precise experimental approach?",
+        "he": "מה השתמש לבואזייה שהיה חיוני לגישתו הניסויית המדויקת?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "A telescope", "he": "טלסקופ" } },
+        { "id": "b", "text": { "en": "A precise balance scale for weighing substances", "he": "מאזניים מדויקות לשקילת חומרים" } },
+        { "id": "c", "text": { "en": "A thermometer", "he": "מדחום" } },
+        { "id": "d", "text": { "en": "A microscope", "he": "מיקרוסקופ" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Lavoisier's insistence on using extremely precise balance scales to weigh substances before and after reactions was key to his success. This careful measurement approach allowed him to detect subtle changes in mass, leading to his formulation of the law of conservation of mass.",
+        "he": "התעקשותו של לבואזייה להשתמש במאזניים מדויקות במיוחד לשקילת חומרים לפני ואחרי תגובות הייתה מפתח להצלחתו. גישת מדידה זהירה זו איפשרה לו לגלות שינויים עדינים במסה, ומובילה לניסוחו של חוק שימור המסה."
+      }
+    },
+    {
+      "id": "q-d12-09",
+      "question": {
+        "en": "Why is Lavoisier called the 'Father of Modern Chemistry'?",
+        "he": "מדוע לבואזייה מכונה 'אבי הכימיה המודרנית'?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Because he discovered all the chemical elements", "he": "מכיוון שהוא גילה את כל היסודות הכימיים" } },
+        { "id": "b", "text": { "en": "Because he transformed chemistry from guesswork into a precise experimental science based on measurement", "he": "מכיוון שהוא הפך את הכימיה מניחושים למדע ניסויי מדויק המבוסס על מדידה" } },
+        { "id": "c", "text": { "en": "Because he invented the laboratory", "he": "מכיוון שהוא המציא את המעבדה" } },
+        { "id": "d", "text": { "en": "Because he wrote the first book about atoms", "he": "מכיוון שהוא כתב את הספר הראשון על אטומים" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Lavoisier earned the title 'Father of Modern Chemistry' because he fundamentally changed how chemistry was done — replacing guesswork and ancient theories with careful measurement, systematic experiments, and logical naming. He also identified key elements, explained combustion, and proved the conservation of mass.",
+        "he": "לבואזייה זכה בתואר 'אבי הכימיה המודרנית' מכיוון שהוא שינה מהותית את האופן שבו הכימיה בוצעה — החלפת ניחושים ותיאוריות עתיקות במדידה זהירה, ניסויים שיטתיים ושמות לוגיים. הוא גם זיהה יסודות מרכזיים, הסביר בעירה והוכיח את שימור המסה."
+      }
+    },
+    {
+      "id": "q-d12-10",
+      "question": {
+        "en": "What ancient practice did Lavoisier's scientific approach help replace?",
+        "he": "איזה עיסוק עתיק עזרה הגישה המדעית של לבואזייה להחליף?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Astrology", "he": "אסטרולוגיה" } },
+        { "id": "b", "text": { "en": "Alchemy", "he": "אלכימיה" } },
+        { "id": "c", "text": { "en": "Medicine based on the four humors", "he": "רפואה המבוססת על ארבעת הליחות" } },
+        { "id": "d", "text": { "en": "Astronomy based on the geocentric model", "he": "אסטרונומיה המבוססת על המודל הגיאוצנטרי" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Lavoisier's rigorous experimental approach replaced alchemy — the medieval mixture of mysticism, philosophy, and proto-science that sought to turn metals into gold and find the elixir of life. Lavoisier established chemistry as a proper science based on measurement, evidence, and logical reasoning.",
+        "he": "הגישה הניסויית הקפדנית של לבואזייה החליפה את האלכימיה — תערובת הימי-ביניימית של מיסטיקה, פילוסופיה ומדע-קדם שביקשה להפוך מתכות לזהב ולמצוא את הקסם לחיים. לבואזייה ביסס את הכימיה כמדע ראוי המבוסס על מדידה, ראיות והיגיון."
+      }
+    }
+  ],
+  "videoSources": ["jBdPUVZE42o"]
+}

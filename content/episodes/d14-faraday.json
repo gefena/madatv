@@ -1,0 +1,281 @@
+{
+  "id": "d14-faraday",
+  "episodeNumber": 14,
+  "youtubeId": "thxbmBtuSIQ",
+  "title": {
+    "en": "Faraday and Electricity",
+    "he": "פאראדיי והחשמל"
+  },
+  "summary": {
+    "en": "This episode tells the story of Michael Faraday, one of the greatest experimental scientists in history, who discovered the principles of electromagnetism that make modern electricity possible. Born in 1791 to a poor blacksmith's family in London, Faraday had almost no formal education but educated himself through voracious reading while working as a bookbinder's apprentice. At 21 he attended lectures by the famous chemist Humphry Davy and managed to become his laboratory assistant. Through decades of brilliantly designed experiments, Faraday discovered electromagnetic induction — the principle that a moving magnet can generate an electric current — and invented the first electric motor and the first electric generator (dynamo). He also discovered benzene, invented the Faraday cage, and developed the concept of electric and magnetic fields. Without Faraday's discoveries, there would be no electric generators, no electric motors, and no modern electrical power grid. The episode highlights how Faraday's lifelong curiosity and meticulous experimental approach transformed science and laid the foundation for the electrical age.",
+    "he": "פרק זה מספר את סיפורו של מייקל פאראדיי, אחד המדענים הניסיוניים הגדולים ביותר בהיסטוריה, שגילה את עקרונות האלקטרומגנטיות שהופכים את החשמל המודרני לאפשרי. נולד בשנת 1791 למשפחת נפח עניה בלונדון, לפאראדיי כמעט ולא הייתה השכלה פורמלית, אך חינך את עצמו דרך קריאה נלהבת בעבודה כשוליה של כורך ספרים. בגיל 21 השתתף בהרצאות של הכימאי המפורסם האמפרי דייבי והצליח להפוך לעוזר מעבדתו. דרך עשרות שנים של ניסויים מתוכננים בצורה מבריקה, גילה פאראדיי את האינדוקציה האלקטרומגנטית — העיקרון שמגנט נע יכול לייצר זרם חשמלי — והמציא את המנוע החשמלי הראשון ואת הגנרטור החשמלי הראשון (דינמו). הוא גם גילה את הבנזן, המציא את כלוב פאראדיי, ופיתח את מושג השדות החשמליים והמגנטיים. ללא גילויי פאראדיי, לא היו גנרטורים חשמליים, לא מנועים חשמליים ולא רשת חשמל מודרנית. הפרק מדגיש כיצד סקרנות פאראדיי לאורך כל חייו וגישתו הניסיונית הקפדנית שינו את המדע והניחו את היסוד לעידן החשמלי."
+  },
+  "thumbnail": "https://img.youtube.com/vi/thxbmBtuSIQ/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": [
+    "Michael Faraday",
+    "electromagnetic induction",
+    "electric motor and generator",
+    "field theory"
+  ],
+  "terminology": [
+    {
+      "id": "t-d14-01",
+      "term": { "en": "Electromagnetic Induction", "he": "אינדוקציה אלקטרומגנטית" },
+      "definition": {
+        "en": "The process by which a changing magnetic field produces an electric current in a conductor. Faraday discovered this principle in 1831 — it is the fundamental principle behind all electric generators, transformers, and wireless charging today.",
+        "he": "התהליך שבו שדה מגנטי משתנה מייצר זרם חשמלי במוליך. פאראדיי גילה עיקרון זה בשנת 1831 — הוא העיקרון הבסיסי מאחורי כל הגנרטורים החשמליים, השנאים וטעינה אלחוטית כיום."
+      },
+      "category": "physics"
+    },
+    {
+      "id": "t-d14-02",
+      "term": { "en": "Electric Motor", "he": "מנוע חשמלי" },
+      "definition": {
+        "en": "A machine that converts electrical energy into mechanical movement using the force between electric currents and magnetic fields. Faraday built the first primitive electric motor in 1821. Today electric motors are everywhere — in cars, washing machines, fans, and countless other devices.",
+        "he": "מכונה הממירה אנרגיה חשמלית לתנועה מכנית תוך שימוש בכוח בין זרמים חשמליים ושדות מגנטיים. פאראדיי בנה את המנוע החשמלי הפרימיטיבי הראשון בשנת 1821. כיום מנועים חשמליים נמצאים בכל מקום — במכוניות, מכונות כביסה, מאווררים וספירת התקנים אחרים."
+      },
+      "category": "technology"
+    },
+    {
+      "id": "t-d14-03",
+      "term": { "en": "Generator (Dynamo)", "he": "גנרטור (דינמו)" },
+      "definition": {
+        "en": "A machine that converts mechanical energy into electrical energy using electromagnetic induction — a coil of wire rotating in a magnetic field. Faraday built the first one in 1831. All the electricity we use — from power stations to bicycle lights — is produced by this principle.",
+        "he": "מכונה הממירה אנרגיה מכנית לאנרגיה חשמלית באמצעות אינדוקציה אלקטרומגנטית — סליל חוט מסתובב בשדה מגנטי. פאראדיי בנה את הראשון בשנת 1831. כל החשמל שאנו משתמשים בו — מתחנות כוח ועד אורות אופניים — מיוצר על ידי עיקרון זה."
+      },
+      "category": "technology"
+    },
+    {
+      "id": "t-d14-04",
+      "term": { "en": "Magnetic Field", "he": "שדה מגנטי" },
+      "definition": {
+        "en": "An invisible force field surrounding magnets and current-carrying wires that exerts forces on other magnets and moving charges. Faraday developed the concept of field lines to visualize magnetic fields — a fundamental idea in physics used in everything from MRI machines to electric motors.",
+        "he": "שדה כוח בלתי נראה המקיף מגנטים וחוטים נושאי זרם המפעיל כוחות על מגנטים אחרים ומטענים נעים. פאראדיי פיתח את מושג קווי השדה לדמיין שדות מגנטיים — רעיון יסודי בפיזיקה המשמש בכל דבר ממכשירי MRI ועד מנועים חשמליים."
+      },
+      "category": "physics"
+    },
+    {
+      "id": "t-d14-05",
+      "term": { "en": "Faraday Cage", "he": "כלוב פאראדיי" },
+      "definition": {
+        "en": "An enclosure made of conductive material that blocks electromagnetic fields from entering or exiting. Inside a Faraday cage, you are protected from lightning, radio waves, and electric shocks. Car bodies act as Faraday cages — that's why you're safe from lightning in a car.",
+        "he": "כלוב עשוי מחומר מוליך החוסם שדות אלקטרומגנטיים מכניסה או יציאה. בתוך כלוב פאראדיי, אתה מוגן מברק, גלי רדיו ומכות חשמל. גוף המכונית פועל ככלוב פאראדיי — לכן אתה בטוח מברק במכונית."
+      },
+      "category": "physics"
+    },
+    {
+      "id": "t-d14-06",
+      "term": { "en": "Electric Current", "he": "זרם חשמלי" },
+      "definition": {
+        "en": "The flow of electric charge (usually electrons) through a conductor such as a wire. Measured in amperes (amps), electric current is what flows through your phone charger, light bulbs, and all electrical devices. Faraday's discoveries made it possible to generate and control electric current.",
+        "he": "זרימת מטען חשמלי (בדרך כלל אלקטרונים) דרך מוליך כמו חוט. נמדד באמפר, זרם חשמלי הוא מה שזורם דרך מטען הטלפון שלך, נורות חשמל וכל המכשירים החשמליים. גילויי פאראדיי הפכו ייצור ובקרת זרם חשמלי לאפשריים."
+      },
+      "category": "physics"
+    },
+    {
+      "id": "t-d14-07",
+      "term": { "en": "Conductor", "he": "מוליך" },
+      "definition": {
+        "en": "A material that allows electricity to flow through it easily, because its electrons can move freely. Metals like copper, silver, and gold are excellent conductors. Faraday experimented extensively with different conductors to understand how electricity flows and how induction works.",
+        "he": "חומר המאפשר לחשמל לזרום דרכו בקלות, מכיוון שהאלקטרונים שלו יכולים לנוע בחופשיות. מתכות כמו נחושת, כסף וזהב הן מוליכים מצוינים. פאראדיי התנסה באופן נרחב בחומרים מוליכים שונים כדי להבין כיצד חשמל זורם וכיצד פועלת האינדוקציה."
+      },
+      "category": "physics"
+    },
+    {
+      "id": "t-d14-08",
+      "term": { "en": "Transformer", "he": "שנאי" },
+      "definition": {
+        "en": "A device using electromagnetic induction to change the voltage of an alternating electric current. Transformers are essential for transmitting electricity over long distances — power stations boost voltage for efficient long-distance transmission, and local transformers reduce it to safe household levels.",
+        "he": "מכשיר המשתמש באינדוקציה אלקטרומגנטית לשינוי המתח של זרם חשמלי מתחלף. שנאים חיוניים להעברת חשמל על מרחקים ארוכים — תחנות כוח מגבירות מתח להעברה יעילה על מרחק ארוך, ושנאים מקומיים מורידים אותו לרמות בטוחות לבית."
+      },
+      "category": "technology"
+    },
+    {
+      "id": "t-d14-09",
+      "term": { "en": "Electrolysis", "he": "אלקטרוליזה" },
+      "definition": {
+        "en": "The process of using electricity to drive a chemical reaction, typically splitting a compound into its elements. Faraday made fundamental discoveries about electrolysis, including Faraday's laws of electrolysis. This process is used today in metal plating, aluminum production, and hydrogen fuel production.",
+        "he": "התהליך של שימוש בחשמל להנעת תגובה כימית, בדרך כלל פיצול תרכובת לאלמנטיה. פאראדיי עשה גילויים יסודיים באלקטרוליזה, כולל חוקי האלקטרוליזה של פאראדיי. תהליך זה משמש כיום בציפוי מתכות, ייצור אלומיניום וייצור מימן לדלק."
+      },
+      "category": "chemistry"
+    },
+    {
+      "id": "t-d14-10",
+      "term": { "en": "Coil", "he": "סליל" },
+      "definition": {
+        "en": "A spiral of wire used in electrical devices. When electricity flows through a coil, it creates a magnetic field (making an electromagnet). When a coil moves through a magnetic field, it generates electricity. Coils are the heart of all motors, generators, and transformers — Faraday's key experimental tool.",
+        "he": "ספירלת חוט המשמשת במכשירים חשמליים. כאשר חשמל זורם דרך סליל, הוא יוצר שדה מגנטי (יוצר אלקטרומגנט). כאשר סליל נע דרך שדה מגנטי, הוא מייצר חשמל. סלילים הם לב כל המנועים, הגנרטורים והשנאים — כלי הניסוי המרכזי של פאראדיי."
+      },
+      "category": "technology"
+    },
+    {
+      "id": "t-d14-11",
+      "term": { "en": "Benzene", "he": "בנזן" },
+      "definition": {
+        "en": "An important organic chemical compound with the formula C₆H₆, discovered by Faraday in 1825. It became one of the most important chemicals in industrial chemistry — used in making plastics, dyes, drugs, and synthetic rubber. Faraday discovered it while investigating the residue from compressed gas used for lighting.",
+        "he": "תרכובת כימית אורגנית חשובה עם הנוסחה C₆H₆, שנגלתה על ידי פאראדיי בשנת 1825. היא הפכה לאחד הכימיקלים החשובים ביותר בכימיה תעשייתית — משמשת בייצור פלסטיק, צבעים, תרופות וגומי סינטטי. פאראדיי גילה אותה בזמן בדיקת שאריות מגז דחוס ששימש לתאורה."
+      },
+      "category": "chemistry"
+    },
+    {
+      "id": "t-d14-12",
+      "term": { "en": "Magnet", "he": "מגנט" },
+      "definition": {
+        "en": "An object that produces a magnetic field, attracting iron and other magnetic materials. Faraday's work showed the deep connection between magnetism and electricity — the two forces that together form electromagnetism. Every permanent magnet has a north pole and a south pole; like poles repel and unlike poles attract.",
+        "he": "עצם המייצר שדה מגנטי, המושך ברזל וחומרים מגנטיים אחרים. עבודתו של פאראדיי הראתה את הקשר העמוק בין מגנטיות לחשמל — שתי הכוחות שיחד יוצרים אלקטרומגנטיות. לכל מגנט קבוע יש קוטב צפוני ודרומי; קטבים דומים דוחים וקטבים שונים מושכים."
+      },
+      "category": "physics"
+    },
+    {
+      "id": "t-d14-13",
+      "term": { "en": "Power Grid", "he": "רשת חשמל" },
+      "definition": {
+        "en": "The interconnected network of power stations, transmission lines, and distribution systems that deliver electricity to homes and businesses. The entire modern power grid is based on Faraday's discoveries — generators produce electricity, transformers change its voltage, and motors convert it back to mechanical work.",
+        "he": "הרשת המקושרת של תחנות כוח, קווי העברה ומערכות הפצה המספקות חשמל לבתים ועסקים. כל רשת החשמל המודרנית מבוססת על גילויי פאראדיי — גנרטורים מייצרים חשמל, שנאים משנים את המתח שלו, ומנועים ממירים אותו בחזרה לעבודה מכנית."
+      },
+      "category": "technology"
+    },
+    {
+      "id": "t-d14-14",
+      "term": { "en": "Humphry Davy", "he": "האמפרי דייבי" },
+      "definition": {
+        "en": "A brilliant British chemist and Faraday's mentor, famous for discovering several chemical elements including sodium, potassium, and chlorine, and for inventing the miner's safety lamp. He hired the young Faraday as his laboratory assistant at the Royal Institution, launching Faraday's scientific career.",
+        "he": "כימאי בריטי מבריק ומנטור פאראדיי, מפורסם בגילוי מספר יסודות כימיים כולל נתרן, אשלגן וכלור, ובהמצאת מנורת הבטיחות של הכורה. הוא שכר את פאראדיי הצעיר כעוזר מעבדה במכון המלכותי, ומשיק את קריירת המדע של פאראדיי."
+      },
+      "category": "biography"
+    },
+    {
+      "id": "t-d14-15",
+      "term": { "en": "Royal Institution", "he": "המכון המלכותי" },
+      "definition": {
+        "en": "A famous British scientific organization founded in 1799 for scientific education and research. Faraday worked there for most of his life, eventually becoming its director. He is particularly famous for his Christmas Lectures there — public science talks for children that still continue today.",
+        "he": "ארגון מדעי בריטי מפורסם שנוסד בשנת 1799 לחינוך ומחקר מדעי. פאראדיי עבד שם את רוב חייו, ובסופו של דבר הפך למנהלו. הוא מפורסם במיוחד בהרצאות חג המולד שלו — הרצאות מדע ציבוריות לילדים שממשיכות עד היום."
+      },
+      "category": "history"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q-d14-01",
+      "question": { "en": "What important principle did Faraday discover in 1831?", "he": "איזה עיקרון חשוב גילה פאראדיי בשנת 1831?" },
+      "choices": [
+        { "id": "a", "text": { "en": "The law of gravity", "he": "חוק הכבידה" } },
+        { "id": "b", "text": { "en": "Electromagnetic induction", "he": "אינדוקציה אלקטרומגנטית" } },
+        { "id": "c", "text": { "en": "The speed of light", "he": "מהירות האור" } },
+        { "id": "d", "text": { "en": "Radioactivity", "he": "רדיואקטיביות" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "In 1831, Faraday discovered electromagnetic induction — the principle that a changing magnetic field produces an electric current. This discovery is the foundation of all electric generators and transformers, and makes modern electrical civilization possible.", "he": "בשנת 1831, פאראדיי גילה אינדוקציה אלקטרומגנטית — העיקרון שדה מגנטי משתנה מייצר זרם חשמלי. גילוי זה הוא הבסיס של כל הגנרטורים החשמליים והשנאים, ומאפשר את הציוויליזציה החשמלית המודרנית." }
+    },
+    {
+      "id": "q-d14-02",
+      "question": { "en": "What was Michael Faraday's background before becoming a scientist?", "he": "מה היה רקע מייקל פאראדיי לפני שהפך למדען?" },
+      "choices": [
+        { "id": "a", "text": { "en": "He was a university professor", "he": "הוא היה פרופסור באוניברסיטה" } },
+        { "id": "b", "text": { "en": "He was a wealthy nobleman", "he": "הוא היה אציל עשיר" } },
+        { "id": "c", "text": { "en": "He was an apprentice bookbinder from a poor family", "he": "הוא היה שוליה של כורך ספרים ממשפחה עניה" } },
+        { "id": "d", "text": { "en": "He was a soldier", "he": "הוא היה חייל" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Faraday was born into a poor family — his father was a blacksmith — and had almost no formal schooling. He became an apprentice to a bookbinder at 14, where he taught himself by reading the books he was binding. He then attended lectures by Humphry Davy, sending him detailed notes, and was hired as a lab assistant.", "he": "פאראדיי נולד למשפחה עניה — אביו היה נפח — וכמעט שלא קיבל חינוך פורמלי. הוא הפך לשוליה של כורך ספרים בגיל 14, שם לימד את עצמו בקריאת הספרים שכרך. לאחר מכן נכח בהרצאות של האמפרי דייבי, שלח לו הערות מפורטות, ונשכר כעוזר מעבדה." }
+    },
+    {
+      "id": "q-d14-03",
+      "question": { "en": "What did Faraday invent in 1821 that was a first of its kind?", "he": "מה המציא פאראדיי בשנת 1821 שהיה ראשון מסוגו?" },
+      "choices": [
+        { "id": "a", "text": { "en": "The first electric battery", "he": "הסוללה החשמלית הראשונה" } },
+        { "id": "b", "text": { "en": "The first electric motor", "he": "המנוע החשמלי הראשון" } },
+        { "id": "c", "text": { "en": "The first telegraph", "he": "המברק הראשון" } },
+        { "id": "d", "text": { "en": "The first light bulb", "he": "הנורה הראשונה" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "In 1821, Faraday built the first primitive electric motor — a wire rotating around a magnet when current passed through it. This demonstrated for the first time that electricity could be converted to continuous mechanical movement, the principle behind all modern electric motors.", "he": "בשנת 1821, פאראדיי בנה את המנוע החשמלי הפרימיטיבי הראשון — חוט מסתובב סביב מגנט כאשר זרם עבר דרכו. זה הדגים לראשונה שחשמל יכול להיות מומר לתנועה מכנית רציפה, העיקרון מאחורי כל המנועים החשמליים המודרניים." }
+    },
+    {
+      "id": "q-d14-04",
+      "question": { "en": "What is a Faraday cage used for?", "he": "לשם מה משמש כלוב פאראדיי?" },
+      "choices": [
+        { "id": "a", "text": { "en": "To store chemical experiments safely", "he": "לאחסון ניסויים כימיים בבטחה" } },
+        { "id": "b", "text": { "en": "To block electromagnetic fields from entering or exiting", "he": "לחסימת שדות אלקטרומגנטיים מכניסה או יציאה" } },
+        { "id": "c", "text": { "en": "To generate electricity from magnetism", "he": "לייצור חשמל ממגנטיות" } },
+        { "id": "d", "text": { "en": "To measure the strength of a magnet", "he": "למדידת חוזק מגנט" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "A Faraday cage is an enclosure made of conducting material that shields its interior from electromagnetic fields. A car body acts as a Faraday cage, protecting passengers from lightning. Microwave ovens use Faraday cage principles to keep microwaves inside.", "he": "כלוב פאראדיי הוא כלוב עשוי מחומר מוליך המגן על פנימיתו משדות אלקטרומגנטיים. גוף המכונית פועל ככלוב פאראדיי, מגן על נוסעים מברק. תנורי מיקרוגל משתמשים בעקרונות כלוב פאראדיי כדי לשמור על גלי מיקרו בפנים." }
+    },
+    {
+      "id": "q-d14-05",
+      "question": { "en": "What chemical compound did Faraday discover in 1825?", "he": "איזה תרכובת כימית גילה פאראדיי בשנת 1825?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Oxygen", "he": "חמצן" } },
+        { "id": "b", "text": { "en": "Benzene", "he": "בנזן" } },
+        { "id": "c", "text": { "en": "Carbon dioxide", "he": "פחמן דו-חמצני" } },
+        { "id": "d", "text": { "en": "Chlorine", "he": "כלור" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Faraday discovered benzene (C₆H₆) in 1825 while investigating the residue left after compressing gas used for lighting. Benzene became one of the most important industrial chemicals, used in making plastics, dyes, medicines, and synthetic rubber.", "he": "פאראדיי גילה בנזן (C₆H₆) בשנת 1825 בזמן בדיקת השאריות שנשארו לאחר דחיסת גז ששימש לתאורה. בנזן הפך לאחד הכימיקלים התעשייתיים החשובים ביותר, משמש בייצור פלסטיק, צבעים, תרופות וגומי סינטטי." }
+    },
+    {
+      "id": "q-d14-06",
+      "question": { "en": "Who was Faraday's famous mentor at the Royal Institution?", "he": "מי היה המנטור המפורסם של פאראדיי במכון המלכותי?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Isaac Newton", "he": "אייזק ניוטון" } },
+        { "id": "b", "text": { "en": "James Watt", "he": "ג'יימס ואט" } },
+        { "id": "c", "text": { "en": "Humphry Davy", "he": "האמפרי דייבי" } },
+        { "id": "d", "text": { "en": "Charles Darwin", "he": "צ'ארלס דארווין" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Humphry Davy was a famous chemist who hired the young Faraday as his laboratory assistant at the Royal Institution in London. Ironically, Davy is sometimes said to have made his greatest discovery in science when he hired Faraday — who went on to far surpass his teacher.", "he": "האמפרי דייבי היה כימאי מפורסם ששכר את פאראדיי הצעיר כעוזר מעבדה במכון המלכותי בלונדון. באופן אירוני, לפעמים אומרים שדייבי עשה את הגילוי הגדול ביותר שלו במדע כאשר שכר את פאראדיי — שהמשיך לעלות בהרבה על מורהו." }
+    },
+    {
+      "id": "q-d14-07",
+      "question": { "en": "How does an electric generator (dynamo) produce electricity?", "he": "כיצד מייצר גנרטור חשמלי (דינמו) חשמל?" },
+      "choices": [
+        { "id": "a", "text": { "en": "By burning fuel directly into electricity", "he": "על ידי שריפת דלק ישירות לחשמל" } },
+        { "id": "b", "text": { "en": "By rotating a coil of wire in a magnetic field", "he": "על ידי סיבוב סליל חוט בשדה מגנטי" } },
+        { "id": "c", "text": { "en": "By rubbing two metals together", "he": "על ידי שפשוף שתי מתכות" } },
+        { "id": "d", "text": { "en": "By splitting water with chemical reactions", "he": "על ידי פיצול מים בתגובות כימיות" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Based on Faraday's discovery of electromagnetic induction, a generator works by rotating a coil of wire inside a magnetic field (or rotating a magnet inside a coil). This changing magnetic field induces an electric current in the wire — the same principle used in all power stations today.", "he": "בהתבסס על גילויו של פאראדיי של אינדוקציה אלקטרומגנטית, גנרטור פועל על ידי סיבוב סליל חוט בתוך שדה מגנטי (או סיבוב מגנט בתוך סליל). שדה מגנטי משתנה זה מעורר זרם חשמלי בחוט — אותו עיקרון המשמש בכל תחנות הכוח כיום." }
+    },
+    {
+      "id": "q-d14-08",
+      "question": { "en": "What is the connection between Faraday's discoveries and your phone charger?", "he": "מה הקשר בין גילויי פאראדיי ומטען הטלפון שלך?" },
+      "choices": [
+        { "id": "a", "text": { "en": "There is no connection", "he": "אין קשר" } },
+        { "id": "b", "text": { "en": "Phone chargers use the same materials Faraday discovered", "he": "מטעני טלפון משתמשים באותם חומרים שפאראדיי גילה" } },
+        { "id": "c", "text": { "en": "The electricity in your charger comes from generators using Faraday's induction principle", "he": "החשמל במטען שלך מגיע מגנרטורים המשתמשים בעיקרון האינדוקציה של פאראדיי" } },
+        { "id": "d", "text": { "en": "Faraday invented the first battery used in phones", "he": "פאראדיי המציא את הסוללה הראשונה לשימוש בטלפונים" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "The electricity that charges your phone comes from a power station that uses turbines turning generators — which work exactly on the electromagnetic induction principle Faraday discovered in 1831. Without Faraday, there would be no electrical power grid, no chargers, and no phones.", "he": "החשמל שטוען את הטלפון שלך מגיע מתחנת כוח המשתמשת בטורבינות המסובבות גנרטורים — שעובדים בדיוק על עיקרון האינדוקציה האלקטרומגנטית שפאראדיי גילה בשנת 1831. ללא פאראדיי, לא הייתה רשת חשמל, לא מטענים ולא טלפונים." }
+    },
+    {
+      "id": "q-d14-09",
+      "question": { "en": "What are Faraday's Christmas Lectures?", "he": "מהן הרצאות חג המולד של פאראדיי?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Private lectures Faraday gave to wealthy sponsors", "he": "הרצאות פרטיות שפאראדיי נתן לספונסרים עשירים" } },
+        { "id": "b", "text": { "en": "Public science talks for children at the Royal Institution", "he": "הרצאות מדע ציבוריות לילדים במכון המלכותי" } },
+        { "id": "c", "text": { "en": "Religious lectures about science and faith", "he": "הרצאות דתיות על מדע ואמונה" } },
+        { "id": "d", "text": { "en": "Annual university graduation speeches", "he": "נאומי גמר שנתיים באוניברסיטה" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Faraday started a tradition of Christmas Lectures at the Royal Institution — accessible public science demonstrations aimed especially at young people. He gave 19 series of Christmas Lectures himself. This tradition continues today and is broadcast on British television every Christmas.", "he": "פאראדיי יזם מסורת של הרצאות חג המולד במכון המלכותי — הדגמות מדע ציבוריות נגישות שמיועדות במיוחד לצעירים. הוא עצמו נתן 19 סדרות של הרצאות חג המולד. מסורת זו נמשכת עד היום ומשודרת בטלוויזיה הבריטית מדי חג המולד." }
+    },
+    {
+      "id": "q-d14-10",
+      "question": { "en": "Why is Faraday considered so important despite having no formal education?", "he": "מדוע נחשב פאראדיי לחשוב כל כך למרות שלא קיבל חינוך פורמלי?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Because he was friends with many famous scientists", "he": "כי היה חבר עם מדענים מפורסמים רבים" } },
+        { "id": "b", "text": { "en": "Because his discoveries of electromagnetic induction, motors, and generators made modern electricity possible", "he": "כי גילוייו של אינדוקציה אלקטרומגנטית, מנועים וגנרטורים הפכו חשמל מודרני לאפשרי" } },
+        { "id": "c", "text": { "en": "Because he wrote many famous books about physics", "he": "כי כתב ספרים מפורסמים רבים על פיזיקה" } },
+        { "id": "d", "text": { "en": "Because he invented the steam engine", "he": "כי המציא את מנוע הקיטור" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Faraday's discoveries — electromagnetic induction, the electric motor, the generator, electrolysis laws, and the Faraday cage — form the very foundations of modern electrical technology. Albert Einstein kept a portrait of Faraday on his wall alongside Newton and Maxwell, calling him one of the greatest scientists who ever lived.", "he": "גילויי פאראדיי — אינדוקציה אלקטרומגנטית, המנוע החשמלי, הגנרטור, חוקי האלקטרוליזה וכלוב פאראדיי — מהווים את היסודות הממשיים של הטכנולוגיה החשמלית המודרנית. אלברט איינשטיין שמר תמונה של פאראדיי על קירו לצד ניוטון ומקסוול, וקרא לו אחד המדענים הגדולים ביותר שחיו אי פעם." }
+    }
+  ],
+  "videoSources": ["thxbmBtuSIQ"]
+}

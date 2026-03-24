@@ -1,0 +1,386 @@
+{
+  "id": "d09-galileo",
+  "episodeNumber": 9,
+  "youtubeId": "TevU4bJ7L-g",
+  "title": {
+    "en": "Galileo",
+    "he": "גלילאו"
+  },
+  "summary": {
+    "en": "This episode tells the dramatic story of Galileo Galilei, the Italian scientist who challenged centuries of accepted wisdom and transformed our understanding of the universe. Born in Pisa in 1564, Galileo used a telescope to observe the heavens and discovered mountains on the Moon, four moons orbiting Jupiter, and the phases of Venus — all of which supported the controversial idea that the Earth moves around the Sun rather than the other way round. He also conducted pioneering experiments on motion, discovering that falling objects accelerate at the same rate regardless of their weight, directly contradicting Aristotle's long-held teachings. His open support for the heliocentric model of Copernicus brought him into direct conflict with the Roman Catholic Inquisition, and in 1633 he was forced to recant his views and spent the rest of his life under house arrest. Despite his persecution, Galileo's work laid the foundations for modern physics and the scientific method itself, earning him the title 'Father of Modern Science.'",
+    "he": "פרק זה מספר את סיפורו הדרמטי של גלילאו גלילי, המדען האיטלקי שאתגר מאות שנים של חוכמה מקובלת ושינה את הבנתנו את היקום. נולד בפיזה ב-1564, גלילאו השתמש בטלסקופ לצפייה בשמיים וגילה הרים על הירח, ארבעה ירחים המקיפים את צדק, ושלבי נוגה — כל אלה תמכו ברעיון השנוי במחלוקת שכדור הארץ נע סביב השמש ולא להיפך. הוא גם ביצע ניסויים חלוציים על תנועה, וגילה שעצמים נופלים מאיצים באותו קצב ללא קשר למשקלם, מה שסתר ישירות את תורתו הוותיקה של אריסטו. תמיכתו הגלויה במודל הגיאוצנטרי של קופרניקוס הביאה אותו להתנגשות ישירה עם האינקוויזיציה הקתולית הרומית, וב-1633 הוא נאלץ לחזור בו מדעותיו ובילה את שארית חייו במעצר בית. למרות הרדיפה שחווה, עבודתו של גלילאו הניחה את היסודות לפיזיקה המודרנית ולשיטה המדעית עצמה, וזיכה אותו בתואר 'אבי המדע המודרני'."
+  },
+  "thumbnail": "https://img.youtube.com/vi/TevU4bJ7L-g/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": [
+    "Galileo Galilei",
+    "telescope and astronomy",
+    "heliocentrism",
+    "trial by Inquisition"
+  ],
+  "terminology": [
+    {
+      "id": "t-d09-01",
+      "term": {
+        "en": "Telescope",
+        "he": "טלסקופ"
+      },
+      "definition": {
+        "en": "An optical instrument that uses lenses or mirrors to make distant objects appear closer and larger, allowing us to see stars, planets, and other objects in space. Galileo was one of the first to point an improved telescope at the night sky and record what he saw.",
+        "he": "מכשיר אופטי המשתמש בעדשות או מראות כדי לגרום לעצמים רחוקים להיראות קרובים ורבים יותר, ומאפשר לנו לראות כוכבים, כוכבי לכת ועצמים אחרים בחלל. גלילאו היה מהראשונים שהפנו טלסקופ משופר לשמיים בלילה ותיעדו מה שראו."
+      },
+      "category": "scientific instrument"
+    },
+    {
+      "id": "t-d09-02",
+      "term": {
+        "en": "Heliocentrism",
+        "he": "תורת מרכזיות השמש"
+      },
+      "definition": {
+        "en": "The scientific model that places the Sun at the center of our solar system, with Earth and the other planets orbiting around it. This idea was proposed by Copernicus and supported by Galileo's observations, but it contradicted the Church's teaching that Earth was at the center.",
+        "he": "המודל המדעי הממקם את השמש במרכז מערכת השמש שלנו, כשכדור הארץ וכוכבי הלכת האחרים מקיפים אותה. רעיון זה הוצע על ידי קופרניקוס ונתמך על ידי תצפיותיו של גלילאו, אך הוא סתר את תורת הכנסייה שכדור הארץ נמצא במרכז."
+      },
+      "category": "astronomy"
+    },
+    {
+      "id": "t-d09-03",
+      "term": {
+        "en": "Geocentrism",
+        "he": "תורת מרכזיות כדור הארץ"
+      },
+      "definition": {
+        "en": "The old belief that Earth sits motionless at the center of the universe, with the Sun, Moon, planets, and stars all orbiting around it. This was the official view of the Catholic Church in Galileo's time, based on the ideas of Aristotle and Ptolemy.",
+        "he": "האמונה הישנה שכדור הארץ יושב בלי תנועה במרכז היקום, כשהשמש, הירח, כוכבי הלכת והכוכבים כולם מקיפים אותו. זו הייתה עמדתה הרשמית של הכנסייה הקתולית בתקופת גלילאו, המבוססת על רעיונותיהם של אריסטו ופטולמיוס."
+      },
+      "category": "astronomy"
+    },
+    {
+      "id": "t-d09-04",
+      "term": {
+        "en": "Inquisition",
+        "he": "אינקוויזיציה"
+      },
+      "definition": {
+        "en": "A powerful institution of the Roman Catholic Church that investigated and punished people accused of holding beliefs that went against Church teachings. Galileo was tried by the Roman Inquisition in 1633 for teaching that the Earth moves around the Sun.",
+        "he": "מוסד חזק של הכנסייה הקתולית הרומית שחקר וענש אנשים שהואשמו בהחזקת אמונות הסותרות את תורת הכנסייה. גלילאו נשפט על ידי האינקוויזיציה הרומית ב-1633 בשל לימוד כי כדור הארץ נע סביב השמש."
+      },
+      "category": "historical institution"
+    },
+    {
+      "id": "t-d09-05",
+      "term": {
+        "en": "Free Fall",
+        "he": "נפילה חופשית"
+      },
+      "definition": {
+        "en": "The motion of an object falling under the force of gravity alone, without air resistance. Galileo famously showed (and legend says he demonstrated from the Tower of Pisa) that all objects fall at the same rate regardless of their weight — contradicting Aristotle.",
+        "he": "התנועה של עצם הנופל תחת כוח הכבידה בלבד, ללא התנגדות אוויר. גלילאו הדגים בצורה מפורסמת (ולפי האגדה עשה זאת ממגדל פיזה) שכל העצמים נופלים באותו קצב ללא קשר למשקלם — בסתירה לאריסטו."
+      },
+      "category": "physics"
+    },
+    {
+      "id": "t-d09-06",
+      "term": {
+        "en": "Galileo Galilei",
+        "he": "גלילאו גלילי"
+      },
+      "definition": {
+        "en": "An Italian scientist (1564–1642) who is considered one of the founders of modern science. He improved the telescope, made key astronomical observations, and conducted experiments on motion — all while supporting the idea that the Earth orbits the Sun.",
+        "he": "מדען איטלקי (1564–1642) הנחשב לאחד ממייסדי המדע המודרני. הוא שיפר את הטלסקופ, ביצע תצפיות אסטרונומיות מרכזיות וניסויים על תנועה — הכל תוך תמיכה ברעיון שכדור הארץ מקיף את השמש."
+      },
+      "category": "historical figure"
+    },
+    {
+      "id": "t-d09-07",
+      "term": {
+        "en": "Phases of Venus",
+        "he": "שלבי נוגה"
+      },
+      "definition": {
+        "en": "The changing shapes of Venus as seen from Earth — from crescent to full and back again — similar to the phases of the Moon. Galileo's observation of Venus's full phases proved that Venus must orbit the Sun, not the Earth, supporting the heliocentric model.",
+        "he": "הצורות המשתנות של נוגה כפי שנראות מכדור הארץ — מסהר למלא ובחזרה — דומה לשלבי הירח. תצפיתו של גלילאו על השלבים המלאים של נוגה הוכיחה שנוגה חייבת לסוב סביב השמש, לא כדור הארץ, ותמכה במודל ההליוצנטרי."
+      },
+      "category": "astronomy"
+    },
+    {
+      "id": "t-d09-08",
+      "term": {
+        "en": "Moons of Jupiter",
+        "he": "ירחי צדק"
+      },
+      "definition": {
+        "en": "The four large moons of Jupiter — Io, Europa, Ganymede, and Callisto — first observed by Galileo in 1610. Their discovery proved that not everything in the sky orbits the Earth, supporting the idea that the Earth is not the center of the universe.",
+        "he": "ארבעת הירחים הגדולים של צדק — איו, אירופה, גנימד וקאליסטו — שנצפו לראשונה על ידי גלילאו ב-1610. גילויים הוכיח שלא כל דבר בשמיים מקיף את כדור הארץ, ותמך ברעיון שכדור הארץ אינו מרכז היקום."
+      },
+      "category": "astronomy"
+    },
+    {
+      "id": "t-d09-09",
+      "term": {
+        "en": "Pendulum",
+        "he": "מטוטלת"
+      },
+      "definition": {
+        "en": "A weight hung from a fixed point so it can swing freely back and forth. Galileo noticed that a pendulum's swing takes the same amount of time regardless of how wide the swing is — a discovery that eventually led to accurate mechanical clocks.",
+        "he": "משקולת תלויה מנקודה קבועה כדי שתוכל להתנדנד חופשית קדימה ואחורה. גלילאו שם לב שנדנוד מטוטלת אורך אותה כמות זמן ללא קשר לרוחב הנדנוד — גילוי שהוביל בסופו של דבר לשעונים מכניים מדויקים."
+      },
+      "category": "physics"
+    },
+    {
+      "id": "t-d09-10",
+      "term": {
+        "en": "Nicolaus Copernicus",
+        "he": "ניקולאוס קופרניקוס"
+      },
+      "definition": {
+        "en": "A Polish astronomer (1473–1543) who proposed that the Sun, not the Earth, is at the center of the solar system. Galileo later confirmed Copernicus's ideas with telescopic observations, and the heliocentric model is sometimes called the Copernican Revolution.",
+        "he": "אסטרונום פולני (1473–1543) שהציע כי השמש, ולא כדור הארץ, נמצאת במרכז מערכת השמש. גלילאו אישר מאוחר יותר את רעיונותיו של קופרניקוס דרך תצפיות טלסקופיות, והמודל ההליוצנטרי נקרא לפעמים המהפכה הקופרניקאית."
+      },
+      "category": "historical figure"
+    },
+    {
+      "id": "t-d09-11",
+      "term": {
+        "en": "Scientific Method",
+        "he": "השיטה המדעית"
+      },
+      "definition": {
+        "en": "A systematic approach to understanding the world through observation, forming a hypothesis, testing it with experiments, and drawing conclusions based on evidence. Galileo is considered a pioneer of the scientific method because he insisted on testing ideas rather than just accepting ancient authority.",
+        "he": "גישה שיטתית להבנת העולם דרך תצפית, גיבוש השערה, בדיקתה בניסויים והסקת מסקנות על בסיס ראיות. גלילאו נחשב לחלוץ השיטה המדעית מכיוון שהתעקש לבדוק רעיונות במקום לקבל סמכות עתיקה בלבד."
+      },
+      "category": "scientific concept"
+    },
+    {
+      "id": "t-d09-12",
+      "term": {
+        "en": "House Arrest",
+        "he": "מעצר בית"
+      },
+      "definition": {
+        "en": "A form of punishment where a person is forced to remain in their home and is not allowed to travel or speak freely. After his trial by the Inquisition in 1633, Galileo was sentenced to house arrest, where he remained for the rest of his life.",
+        "he": "סוג של ענישה שבה אדם מחויב להישאר בביתו ואינו מורשה לנסוע או לדבר בחופשיות. לאחר משפטו על ידי האינקוויזיציה ב-1633, גלילאו נגזר עליו מעצר בית, שם נשאר עד סוף ימיו."
+      },
+      "category": "historical event"
+    },
+    {
+      "id": "t-d09-13",
+      "term": {
+        "en": "Sunspots",
+        "he": "כתמי שמש"
+      },
+      "definition": {
+        "en": "Dark spots that appear on the surface of the Sun, caused by areas of intense magnetic activity. Galileo observed sunspots through his telescope and noticed they moved across the Sun's surface — proving that the Sun itself rotates, another blow to the idea of perfect, unchanging heavenly bodies.",
+        "he": "כתמים כהים המופיעים על פני השמש, הנגרמים על ידי אזורי פעילות מגנטית עצימה. גלילאו הבחין בכתמי שמש דרך הטלסקופ שלו ושם לב שהם עוברים על פני השמש — מה שמוכיח שהשמש עצמה מסתובבת, מכה נוספת לרעיון של גרמי שמיים מושלמים ובלתי משתנים."
+      },
+      "category": "astronomy"
+    },
+    {
+      "id": "t-d09-14",
+      "term": {
+        "en": "Recant",
+        "he": "לחזור בו מדעות"
+      },
+      "definition": {
+        "en": "To formally withdraw or deny a belief or statement you previously made, often under pressure. In 1633, Galileo was forced by the Inquisition to recant his support for the heliocentric view of the solar system in order to avoid severe punishment.",
+        "he": "לחזור רשמית מאמונה או הצהרה שהבעת בעבר, לרוב תחת לחץ. ב-1633, האינקוויזיציה אלצה את גלילאו לחזור בו מתמיכתו בהשקפה ההליוצנטרית של מערכת השמש כדי להימנע מעונש חמור."
+      },
+      "category": "historical concept"
+    },
+    {
+      "id": "t-d09-15",
+      "term": {
+        "en": "Acceleration",
+        "he": "תאוצה"
+      },
+      "definition": {
+        "en": "The rate at which an object's speed changes over time. Galileo was the first to measure how objects accelerate uniformly as they fall, discovering that all objects — heavy or light — gain speed at the same rate when falling freely under gravity.",
+        "he": "הקצב שבו מהירות עצם משתנה עם הזמן. גלילאו היה הראשון למדוד כיצד עצמים מאיצים באופן אחיד בנפילתם, וגילה שכל העצמים — כבדים או קלים — צוברים מהירות באותו קצב כשנופלים חופשית תחת הכבידה."
+      },
+      "category": "physics"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q-d09-01",
+      "question": {
+        "en": "What did Galileo observe through his telescope that supported the heliocentric model?",
+        "he": "מה הבחין גלילאו דרך הטלסקופ שלו שתמך במודל ההליוצנטרי?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Rings around Saturn", "he": "טבעות סביב שבתאי" } },
+        { "id": "b", "text": { "en": "Four moons orbiting Jupiter", "he": "ארבעה ירחים המקיפים את צדק" } },
+        { "id": "c", "text": { "en": "A comet passing Earth", "he": "שביט חולף ליד כדור הארץ" } },
+        { "id": "d", "text": { "en": "The Milky Way galaxy", "he": "גלקסיית שביל החלב" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Galileo discovered four large moons orbiting Jupiter — Io, Europa, Ganymede, and Callisto. This was a groundbreaking observation because it proved that not everything in the sky orbited the Earth, weakening the geocentric model.",
+        "he": "גלילאו גילה ארבעה ירחים גדולים המקיפים את צדק — איו, אירופה, גנימד וקאליסטו. זו הייתה תצפית פורצת דרך מכיוון שהוכיחה שלא כל דבר בשמיים מקיף את כדור הארץ, ופגמה במודל הגיאוצנטרי."
+      }
+    },
+    {
+      "id": "q-d09-02",
+      "question": {
+        "en": "Why was Galileo put on trial by the Inquisition?",
+        "he": "מדוע הועמד גלילאו לדין על ידי האינקוויזיציה?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "For stealing a telescope design", "he": "בשל גניבת עיצוב טלסקופ" } },
+        { "id": "b", "text": { "en": "For supporting the idea that the Earth moves around the Sun", "he": "בשל תמיכה ברעיון שכדור הארץ נע סביב השמש" } },
+        { "id": "c", "text": { "en": "For practicing medicine without a license", "he": "בשל עיסוק ברפואה ללא רישיון" } },
+        { "id": "d", "text": { "en": "For publishing a book without Church permission", "he": "בשל פרסום ספר ללא אישור הכנסייה" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Galileo was tried by the Roman Inquisition in 1633 for publicly supporting the Copernican heliocentric model — the idea that the Earth orbits the Sun. The Church declared this heresy because it contradicted the official geocentric view.",
+        "he": "גלילאו נשפט על ידי האינקוויזיציה הרומית ב-1633 בשל תמיכה פומבית במודל הקופרניקאי ההליוצנטרי — הרעיון שכדור הארץ מקיף את השמש. הכנסייה הכריזה על כך כעל כפירה מכיוון שסתר את ההשקפה הגיאוצנטרית הרשמית."
+      }
+    },
+    {
+      "id": "q-d09-03",
+      "question": {
+        "en": "What experiment (or demonstration) did Galileo reportedly perform to show that heavy and light objects fall at the same speed?",
+        "he": "איזה ניסוי (או הדגמה) ביצע גלילאו כביכול כדי להראות שעצמים כבדים וקלים נופלים באותה מהירות?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Dropping balls from a hot air balloon", "he": "הטלת כדורים מבלון פורח" } },
+        { "id": "b", "text": { "en": "Rolling balls down an inclined plane", "he": "גלגול כדורים במישור משופע" } },
+        { "id": "c", "text": { "en": "Dropping balls from the Tower of Pisa", "he": "הטלת כדורים ממגדל פיזה" } },
+        { "id": "d", "text": { "en": "Throwing rocks off a cliff into the sea", "he": "זריקת אבנים מצוק לים" } }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "According to legend, Galileo dropped two balls of different weights from the Tower of Pisa to show they hit the ground at the same time. Whether or not this actually happened, Galileo certainly proved this principle through careful experiments on inclined planes.",
+        "he": "לפי האגדה, גלילאו הפיל שני כדורים במשקלים שונים ממגדל פיזה כדי להראות שהם פגעו בקרקע באותו זמן. בין אם זה אכן קרה ובין אם לאו, גלילאו בהחלט הוכיח עיקרון זה דרך ניסויים זהירים על מישורים משופעים."
+      }
+    },
+    {
+      "id": "q-d09-04",
+      "question": {
+        "en": "What did Galileo observe when he looked at the Moon through his telescope?",
+        "he": "מה הבחין גלילאו כשהסתכל על הירח דרך הטלסקופ שלו?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "A perfectly smooth, glowing sphere", "he": "כדור חלק ומבריק לחלוטין" } },
+        { "id": "b", "text": { "en": "Mountains and craters on its surface", "he": "הרים ומכתשים על פניו" } },
+        { "id": "c", "text": { "en": "A ring system like Saturn's", "he": "מערכת טבעות כמו של שבתאי" } },
+        { "id": "d", "text": { "en": "An atmosphere with clouds", "he": "אטמוספרה עם עננים" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Galileo saw that the Moon's surface was rough and uneven, covered with mountains, valleys, and craters. This challenged the prevailing belief that celestial bodies were perfect, smooth spheres, as Aristotle had taught.",
+        "he": "גלילאו ראה שפני הירח הם גסים ובלתי אחידים, מכוסים בהרים, עמקים ומכתשים. זה אתגר את האמונה הרווחת שגרמי שמיים הם כדורים מושלמים וחלקים, כפי שלימד אריסטו."
+      }
+    },
+    {
+      "id": "q-d09-05",
+      "question": {
+        "en": "What was the heliocentric model originally proposed by?",
+        "he": "על ידי מי הוצע המודל ההליוצנטרי במקור?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Aristotle", "he": "אריסטו" } },
+        { "id": "b", "text": { "en": "Ptolemy", "he": "פטולמיוס" } },
+        { "id": "c", "text": { "en": "Nicolaus Copernicus", "he": "ניקולאוס קופרניקוס" } },
+        { "id": "d", "text": { "en": "Johannes Kepler", "he": "יוהנס קפלר" } }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Nicolaus Copernicus, a Polish astronomer, proposed the heliocentric model in his 1543 work De Revolutionibus. He argued that the Sun is at the center of the solar system and the Earth orbits it. Galileo later provided observational evidence supporting Copernicus's theory.",
+        "he": "ניקולאוס קופרניקוס, אסטרונום פולני, הציע את המודל ההליוצנטרי בעבודתו De Revolutionibus מ-1543. הוא טען שהשמש נמצאת במרכז מערכת השמש וכדור הארץ מקיף אותה. גלילאו סיפק מאוחר יותר ראיות תצפיתיות התומכות בתיאוריה של קופרניקוס."
+      }
+    },
+    {
+      "id": "q-d09-06",
+      "question": {
+        "en": "What punishment did the Inquisition give Galileo after his 1633 trial?",
+        "he": "איזה עונש נתנה האינקוויזיציה לגלילאו לאחר משפטו ב-1633?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "He was executed", "he": "הוא הוצא להורג" } },
+        { "id": "b", "text": { "en": "He was exiled from Italy", "he": "הוא גולה מאיטליה" } },
+        { "id": "c", "text": { "en": "He was placed under house arrest for the rest of his life", "he": "הוא הושם במעצר בית לשארית חייו" } },
+        { "id": "d", "text": { "en": "He was sent to prison for ten years", "he": "הוא נשלח לכלא לעשר שנים" } }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "After recanting his views, Galileo was sentenced to house arrest, which he served at his villa in Arcetri, near Florence. Even under house arrest, he continued to work on physics and completed his last great book, Two New Sciences.",
+        "he": "לאחר שחזר בו מדעותיו, גלילאו נגזר עליו מעצר בית, אותו ריצה בווילה שלו בארצ'טרי, ליד פירנצה. אפילו במעצר בית, המשיך לעבוד על פיזיקה והשלים את ספרו הגדול האחרון, שיחות ותגליות מתמטיות חדשות."
+      }
+    },
+    {
+      "id": "q-d09-07",
+      "question": {
+        "en": "Which phases of Venus did Galileo observe that supported heliocentrism?",
+        "he": "אילו שלבי נוגה הבחין גלילאו שתמכו בהליוצנטריות?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Only crescent phases, like the Moon", "he": "שלבי סהר בלבד, כמו הירח" } },
+        { "id": "b", "text": { "en": "A full range including full and gibbous phases", "he": "טווח מלא כולל שלבים מלאים וקמורים" } },
+        { "id": "c", "text": { "en": "No phases — Venus always looked the same", "he": "ללא שלבים — נוגה תמיד נראה אותו הדבר" } },
+        { "id": "d", "text": { "en": "Only new-Venus when it was invisible", "he": "רק נוגה חדש כאשר הוא לא נראה" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Galileo observed that Venus showed a full set of phases — from crescent to full — just like the Moon. In the geocentric model, Venus would only ever appear as a crescent. Seeing Venus fully lit proved it must orbit the Sun, not the Earth.",
+        "he": "גלילאו הבחין כי נוגה מציג מערכת מלאה של שלבים — מסהר למלא — בדיוק כמו הירח. במודל הגיאוצנטרי, נוגה היה מופיע תמיד רק כסהר. ראיית נוגה מואר במלואו הוכיחה שהוא חייב לסוב סביב השמש, לא כדור הארץ."
+      }
+    },
+    {
+      "id": "q-d09-08",
+      "question": {
+        "en": "In what year was Galileo born?",
+        "he": "באיזו שנה נולד גלילאו?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "1473", "he": "1473" } },
+        { "id": "b", "text": { "en": "1543", "he": "1543" } },
+        { "id": "c", "text": { "en": "1564", "he": "1564" } },
+        { "id": "d", "text": { "en": "1610", "he": "1610" } }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Galileo Galilei was born on February 15, 1564, in Pisa, Italy — the same year Shakespeare was born in England. He died in 1642, the same year Isaac Newton was born, suggesting a remarkable passing of the scientific torch.",
+        "he": "גלילאו גלילי נולד ב-15 בפברואר 1564 בפיזה, איטליה — אותה שנה שנולד שייקספיר באנגליה. הוא נפטר ב-1642, אותה שנה שנולד אייזק ניוטון, מה שמרמז על מסירה מרשימה של הלפיד המדעי."
+      }
+    },
+    {
+      "id": "q-d09-09",
+      "question": {
+        "en": "What property of a pendulum did Galileo discover?",
+        "he": "איזה מאפיין של מטוטלת גילה גלילאו?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "That heavier pendulums swing faster", "he": "שמטוטלות כבדות יותר מתנדנדות מהר יותר" } },
+        { "id": "b", "text": { "en": "That the time for each swing is constant regardless of the swing width", "he": "שהזמן לכל נדנוד קבוע ללא קשר לרוחב הנדנוד" } },
+        { "id": "c", "text": { "en": "That pendulums slow down in warm weather", "he": "שמטוטלות מאטות בזמן חם" } },
+        { "id": "d", "text": { "en": "That longer pendulums swing faster than shorter ones", "he": "שמטוטלות ארוכות מתנדנדות מהר יותר מקצרות" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Galileo discovered that a pendulum's period — the time it takes to complete one full swing — remains constant regardless of how wide the swing is, as long as the pendulum's length stays the same. This principle of isochronism eventually led to the invention of accurate pendulum clocks.",
+        "he": "גלילאו גילה שתקופת מטוטלת — הזמן שלוקח לה להשלים נדנוד מלא — נשארת קבועה ללא קשר לרוחב הנדנוד, כל עוד אורך המטוטלת נשאר זהה. עיקרון האיזוכרוניזם הזה הוביל בסופו של דבר להמצאת שעוני מטוטלת מדויקים."
+      }
+    },
+    {
+      "id": "q-d09-10",
+      "question": {
+        "en": "What did Galileo's observation of sunspots reveal?",
+        "he": "מה גילתה תצפיתו של גלילאו על כתמי שמש?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "That the Sun is cold at its surface", "he": "שהשמש קרה על פניה" } },
+        { "id": "b", "text": { "en": "That the Sun is moving toward Earth", "he": "שהשמש נעה לעבר כדור הארץ" } },
+        { "id": "c", "text": { "en": "That the Sun rotates on its axis", "he": "שהשמש מסתובבת סביב צירה" } },
+        { "id": "d", "text": { "en": "That the Sun is made of ice", "he": "שהשמש עשויה מקרח" } }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "By tracking sunspots over time, Galileo observed that they moved across the Sun's disk in a regular pattern, proving the Sun itself rotates. This was another challenge to Aristotle's teaching that the heavens are perfect and unchanging.",
+        "he": "על ידי מעקב אחר כתמי שמש לאורך זמן, הבחין גלילאו שהם עוברים על פני דיסקת השמש בדפוס סדיר, ומוכיחים שהשמש עצמה מסתובבת. זה היה אתגר נוסף לתורתו של אריסטו שהשמיים הם מושלמים ובלתי משתנים."
+      }
+    }
+  ],
+  "videoSources": ["TevU4bJ7L-g"]
+}

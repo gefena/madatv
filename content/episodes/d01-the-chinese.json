@@ -1,0 +1,342 @@
+{
+  "id": "d01-the-chinese",
+  "episodeNumber": 1,
+  "youtubeId": "4SDv3stWOyM",
+  "title": {
+    "en": "The Chinese, Our Ancestors",
+    "he": "הסינים, אבות אבותינו"
+  },
+  "summary": {
+    "en": "This episode takes us back thousands of years to ancient China, one of the most inventive civilizations in human history. Long before Europe had even imagined them, Chinese inventors gave the world paper, the printing press, gunpowder, the magnetic compass, and silk — discoveries that would fundamentally reshape civilization. We follow the story of how Chinese scholars, craftsmen, and explorers quietly transformed daily life, trade, and warfare across the globe. The episode shows that many technologies we consider modern actually have roots stretching deep into the rivers and workshops of ancient China, reminding us that human curiosity and ingenuity are truly universal.",
+    "he": "פרק זה לוקח אותנו אלפי שנים אחורה לסין העתיקה, אחת הציביליזציות היצירתיות ביותר בתולדות האנושות. הרבה לפני שאירופה בכלל דמיינה אותן, הסינים העניקו לעולם את הנייר, הדפוס, אבק השריפה, המצפן המגנטי והמשי — תגליות שעיצבו מחדש את הציביליזציה האנושית. אנו עוקבים אחרי הסיפור של כיצד חוקרים, אומנים וחוקרים סינים שינו בשקט את חיי היומיום, הסחר והלחימה ברחבי העולם. הפרק מראה שטכנולוגיות רבות שאנו מחשיבים כמודרניות נושאות שורשים עמוקים בנהרות ובבתי המלאכה של סין העתיקה, ומזכיר לנו שסקרנות ויצירתיות אנושית הן אוניברסליות באמת."
+  },
+  "thumbnail": "https://img.youtube.com/vi/4SDv3stWOyM/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": [
+    "ancient Chinese inventions",
+    "paper and printing",
+    "gunpowder and compass",
+    "silk and trade",
+    "history of technology"
+  ],
+  "terminology": [
+    {
+      "id": "t-d01-01",
+      "term": { "en": "Paper", "he": "נייר" },
+      "definition": {
+        "en": "A thin material made from plant fibers, first invented in China around 105 CE by Cai Lun. Before paper, people wrote on bones, shells, bamboo strips, and expensive silk. Paper made writing and record-keeping much easier and cheaper for everyone.",
+        "he": "חומר דק העשוי מסיבי צמחים, שהומצא לראשונה בסין בסביבות שנת 105 לספירה על ידי צאי לון. לפני הנייר, אנשים כתבו על עצמות, קונכיות, פסי במבוק ומשי יקר. הנייר הפך את הכתיבה ואת שמירת הרשומות להרבה יותר קלה וזולה עבור כולם."
+      },
+      "category": "invention"
+    },
+    {
+      "id": "t-d01-02",
+      "term": { "en": "Printing", "he": "דפוס" },
+      "definition": {
+        "en": "A method of reproducing text or images by pressing inked surfaces onto paper or other materials. The Chinese invented block printing around 600 CE and movable type around 1040 CE — hundreds of years before Gutenberg in Europe. Printing allowed books to be copied quickly and cheaply, spreading knowledge far and wide.",
+        "he": "שיטה לשכפול טקסט או תמונות על ידי לחיצת משטחים מודפסים על נייר או חומרים אחרים. הסינים המציאו את הדפוס בבלוקים בסביבות שנת 600 לספירה ואת הדפוס בגופנים ניידים בסביבות שנת 1040 לספירה — מאות שנים לפני גוטנברג באירופה. הדפוס אפשר להעתיק ספרים במהירות ובזול, ובכך להפיץ ידע לכל עבר."
+      },
+      "category": "invention"
+    },
+    {
+      "id": "t-d01-03",
+      "term": { "en": "Gunpowder", "he": "אבק שריפה" },
+      "definition": {
+        "en": "An explosive mixture of charcoal, sulfur, and potassium nitrate (saltpeter), accidentally discovered by Chinese alchemists around the 9th century while searching for the elixir of life. Gunpowder was first used in fireworks and signals before being adapted for weapons, eventually changing warfare across the entire world.",
+        "he": "תערובת נפיצה של פחם, גופרית וחנקן אשלגן (אבן מלח), שהתגלתה במקרה על ידי אלכימאים סינים בסביבות המאה ה-9 בעת חיפוש אחר קסם החיים. אבק השריפה שימש תחילה זיקוקים ואותות לפני שהותאם לנשק, וסופו שהוא שינה את הלחימה ברחבי העולם כולו."
+      },
+      "category": "invention"
+    },
+    {
+      "id": "t-d01-04",
+      "term": { "en": "Compass", "he": "מצפן" },
+      "definition": {
+        "en": "A navigational instrument that uses Earth's magnetic field to point toward the magnetic north pole. The Chinese invented the first compass using lodestone, a naturally magnetic mineral, around the 2nd century BCE. Sailors later used the magnetic compass to navigate the open ocean without landmarks, enabling great voyages of exploration.",
+        "he": "מכשיר ניווט המשתמש בשדה המגנטי של כדור הארץ כדי להצביע לעבר הקוטב הצפוני המגנטי. הסינים המציאו את המצפן הראשון תוך שימוש במגנטיט, מינרל מגנטי טבעי, בסביבות המאה ה-2 לפנה\"ס. לאחר מכן השתמשו מלחים במצפן המגנטי כדי לנווט בים הפתוח ללא ציוני דרך, מה שאפשר מסעות גילוי גדולים."
+      },
+      "category": "invention"
+    },
+    {
+      "id": "t-d01-05",
+      "term": { "en": "Silk", "he": "משי" },
+      "definition": {
+        "en": "A luxurious natural fiber produced by silkworms when they spin their cocoons. The Chinese discovered silk production, called sericulture, over 5,000 years ago and kept the method a closely guarded secret for centuries. Silk became so valuable that it was used as currency and gave its name to the famous Silk Road trade route connecting China to Europe.",
+        "he": "סיב טבעי יוקרתי המיוצר על ידי תולעי המשי כאשר הן טוות את הגולמים שלהן. הסינים גילו את ייצור המשי, הנקרא משיית משי, לפני יותר מ-5,000 שנה ושמרו את השיטה כסוד מוקפד לאורך מאות שנים. המשי היה יקר ערך כל כך עד שהשתמשו בו כמטבע ונתן את שמו לדרך המשי המפורסמת המחברת את סין לאירופה."
+      },
+      "category": "material"
+    },
+    {
+      "id": "t-d01-06",
+      "term": { "en": "Silk Road", "he": "דרך המשי" },
+      "definition": {
+        "en": "An ancient network of trade routes connecting China to Central Asia, the Middle East, and Europe, stretching over 6,400 kilometers. Named after the valuable silk traded along it, the Silk Road carried not only goods but also ideas, religions, art, and technologies between civilizations. It was one of the most important cultural exchanges in human history.",
+        "he": "רשת עתיקה של מסלולי סחר המחברת את סין למרכז אסיה, המזרח התיכון ואירופה, המשתרעת על פני יותר מ-6,400 קילומטרים. הנקראת על שם המשי היקר שנסחר לאורכה, דרך המשי העבירה לא רק סחורות אלא גם רעיונות, דתות, אמנות וטכנולוגיות בין ציביליזציות. היא הייתה אחד מחילופי התרבות החשובים ביותר בתולדות האנושות."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-d01-07",
+      "term": { "en": "Alchemy", "he": "אלכימיה" },
+      "definition": {
+        "en": "An early form of chemistry practiced in ancient China, Egypt, and later Europe, in which people tried to transform ordinary metals into gold and find a magical potion for eternal life. Although alchemists never achieved these impossible goals, their experiments led to many important discoveries in chemistry, including gunpowder.",
+        "he": "צורה מוקדמת של כימיה שנהגה בסין העתיקה, מצרים ולאחר מכן באירופה, שבה אנשים ניסו להפוך מתכות רגילות לזהב ולמצוא תרופת קסמים לחיי נצח. למרות שהאלכימאים לא השיגו מעולם את המטרות הבלתי אפשריות הללו, הניסויים שלהם הובילו לגילויים חשובים רבים בכימיה, כולל אבק שריפה."
+      },
+      "category": "science"
+    },
+    {
+      "id": "t-d01-08",
+      "term": { "en": "Woodblock Printing", "he": "דפוס בלוקים" },
+      "definition": {
+        "en": "A printing technique in which a craftsman carves an entire page of text or an image into a flat wooden block, covers it with ink, and presses it onto paper. Invented in China during the Tang Dynasty (around 600 CE), woodblock printing made it possible to produce many copies of the same text quickly, before individual movable type was invented.",
+        "he": "טכניקת דפוס שבה חרת בעל מלאכה עמוד שלם של טקסט או תמונה לתוך בלוק עץ שטוח, מכסה אותו בדיו ולוחץ אותו על נייר. הומצא בסין בתקופת שושלת טאנג (בסביבות שנת 600 לספירה), דפוס הבלוקים אפשר לייצר עותקים רבים של אותו טקסט במהירות, לפני שהומצאו גופנים ניידים נפרדים."
+      },
+      "category": "invention"
+    },
+    {
+      "id": "t-d01-09",
+      "term": { "en": "Porcelain", "he": "פורצלן" },
+      "definition": {
+        "en": "A fine, hard, white ceramic material made by firing special clay at very high temperatures. Invented in China around 600 CE, porcelain was so beautiful and valuable that in Europe it was called 'china.' It was used for dishes, decorative objects, and even insulators in electrical equipment much later. Chinese porcelain was one of the most sought-after trade goods on the Silk Road.",
+        "he": "חומר קרמי לבן, קשה ועדין, המיוצר על ידי שריפת חרסינה מיוחדת בטמפרטורות גבוהות מאוד. הומצא בסין בסביבות שנת 600 לספירה, הפורצלן היה כה יפה ויקר שבאירופה הוא כונה 'חרסינה'. הוא שימש לכלי שולחן, חפצי קישוט ואפילו מבדדים בציוד חשמלי הרבה יותר מאוחר. הפורצלן הסיני היה אחד מסחורות הסחר המבוקשות ביותר בדרך המשי."
+      },
+      "category": "material"
+    },
+    {
+      "id": "t-d01-10",
+      "term": { "en": "Kite", "he": "עפיפון" },
+      "definition": {
+        "en": "A flying object made of a light frame covered with paper or cloth, held in the air by wind and controlled by a string. Kites were invented in China about 3,000 years ago and were first used for military purposes — sending messages, measuring distances, and even lifting soldiers. Centuries later, they inspired inventors like Benjamin Franklin and the Wright Brothers to experiment with flight.",
+        "he": "עצם מעופף העשוי ממסגרת קלה מכוסה בנייר או בד, המוחזק באוויר על ידי רוח ומבוקר על ידי חוט. עפיפונים הומצאו בסין לפני כ-3,000 שנה ושימשו בתחילה למטרות צבאיות — שליחת הודעות, מדידת מרחקים ואפילו הרמת חיילים. מאות שנים מאוחר יותר, הם השרו השראה על ממציאים כגון בנג'מין פרנקלין ואחי רייט לנסות בטיסה."
+      },
+      "category": "invention"
+    },
+    {
+      "id": "t-d01-11",
+      "term": { "en": "Sericulture", "he": "גידול תולעי משי" },
+      "definition": {
+        "en": "The practice of raising silkworms to produce silk fiber. Workers feed silkworms mulberry leaves until the worms spin their silken cocoons. The cocoons are then carefully unwound to produce long, continuous threads of silk. China practiced sericulture for over 5,000 years and kept the secrets of silk production strictly hidden from the rest of the world.",
+        "he": "הנוהג של גידול תולעי משי לייצור סיב משי. עובדים מאכילים תולעי משי בעלי תות עד שהתולעים טוות את גולמי המשי שלהן. הגולמים מגוללים אז בזהירות לייצור חוטי משי ארוכים ורציפים. סין עסקה בגידול תולעי משי במשך יותר מ-5,000 שנה ושמרה בקפידה על סודות ייצור המשי הרחק מהשאר."
+      },
+      "category": "craft"
+    },
+    {
+      "id": "t-d01-12",
+      "term": { "en": "Lodestone", "he": "מגנטיט" },
+      "definition": {
+        "en": "A naturally occurring rock containing the mineral magnetite, which is permanently magnetized and attracts iron. Chinese scientists noticed that a piece of lodestone suspended on a thread always points north-south. This observation led to the invention of the compass, which revolutionized navigation. The word 'lodestone' comes from an old English word meaning 'leading stone.'",
+        "he": "סלע טבעי המכיל את המינרל מגנטיט, שהוא מגנטי לצמיתות ומושך ברזל. מדענים סינים שמו לב שחתיכת מגנטיט תלויה על חוט תמיד מצביעה לכיוון צפון-דרום. תצפית זו הובילה להמצאת המצפן, שחולל מהפכה בניווט. המילה 'מגנטיט' מגיעה ממילה אנגלית עתיקה שמשמעותה 'אבן מנחה'."
+      },
+      "category": "science"
+    },
+    {
+      "id": "t-d01-13",
+      "term": { "en": "Dynasty", "he": "שושלת" },
+      "definition": {
+        "en": "A series of rulers from the same family who pass power from one generation to the next. China was ruled by many dynasties over thousands of years, such as the Han, Tang, Song, and Ming dynasties. Many of China's greatest inventions came during these different dynasties, each leaving a unique mark on Chinese civilization and world history.",
+        "he": "סדרה של שליטים מאותה משפחה שמעבירים כוח מדור לדור. סין נשלטה על ידי שושלות רבות לאורך אלפי שנים, כגון שושלות האן, טאנג, סונג ומינג. רבות מהמצאות סין הגדולות ביותר הגיעו בתקופות השושלות השונות הללו, כאשר כל אחת הותירה חותם ייחודי על הציביליזציה הסינית ועל ההיסטוריה העולמית."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-d01-14",
+      "term": { "en": "Saltpeter", "he": "אשלגן חנקתי" },
+      "definition": {
+        "en": "A white, powdery chemical compound (potassium nitrate) that naturally forms in soil and caves. It is one of the three key ingredients in gunpowder, along with charcoal and sulfur. Saltpeter acts as an oxidizer, meaning it provides oxygen to help the mixture burn explosively very quickly. Chinese alchemists discovered its explosive properties while experimenting in their workshops.",
+        "he": "תרכובת כימית לבנה ואבקתית (חנקן אשלגן) הנוצרת באופן טבעי בקרקע ובמערות. זהו אחד משלושת המרכיבים המרכזיים באבק שריפה, יחד עם פחם וגופרית. האשלגן החנקתי משמש כמחמצן, כלומר הוא מספק חמצן לעזור לתערובת לבעור באופן נפיץ מהר מאוד. אלכימאים סינים גילו את תכונותיו הנפיצות בעת שניסו בבתי המלאכה שלהם."
+      },
+      "category": "science"
+    },
+    {
+      "id": "t-d01-15",
+      "term": { "en": "Civilization", "he": "ציביליזציה" },
+      "definition": {
+        "en": "A complex society characterized by the development of cities, government, writing, art, trade, and specialized occupations. Ancient Chinese civilization is one of the world's oldest, originating along the Yellow River over 4,000 years ago. It developed many features we associate with modern life, making China's contributions to world civilization enormous and long-lasting.",
+        "he": "חברה מורכבת המאופיינת בפיתוח ערים, ממשל, כתיבה, אמנות, סחר ועיסוקים מתמחים. הציביליזציה הסינית העתיקה היא אחת הוותיקות בעולם, שמקורה לאורך נהר הצהוב לפני יותר מ-4,000 שנה. היא פיתחה תכונות רבות שאנו מקשרים עם החיים המודרניים, ועשתה את תרומות סין לציביליזציה העולמית עצומות ומתמשכות."
+      },
+      "category": "history"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q-d01-01",
+      "question": {
+        "en": "Who is credited with inventing paper in ancient China?",
+        "he": "למי מיוחסת המצאת הנייר בסין העתיקה?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Confucius", "he": "קונפוציוס" } },
+        { "id": "b", "text": { "en": "Cai Lun", "he": "צאי לון" } },
+        { "id": "c", "text": { "en": "Bi Sheng", "he": "בי שנג" } },
+        { "id": "d", "text": { "en": "Sun Tzu", "he": "סון דזה" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Cai Lun, a Chinese court official, is credited with inventing paper around 105 CE. He made paper from bark, hemp, rags, and fishing nets, creating a cheap and practical writing material.",
+        "he": "צאי לון, פקיד חצר סיני, מקבל קרדיט על המצאת הנייר בסביבות שנת 105 לספירה. הוא הכין נייר מקליפת עצים, קנבוס, סמרטוטים ורשתות דיג, ויצר חומר כתיבה זול ומעשי."
+      }
+    },
+    {
+      "id": "q-d01-02",
+      "question": {
+        "en": "What were the three main ingredients in Chinese gunpowder?",
+        "he": "מה היו שלושת המרכיבים העיקריים באבק השריפה הסיני?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Sand, salt, and iron", "he": "חול, מלח וברזל" } },
+        { "id": "b", "text": { "en": "Charcoal, sulfur, and saltpeter", "he": "פחם, גופרית ואשלגן חנקתי" } },
+        { "id": "c", "text": { "en": "Coal, oil, and clay", "he": "פחם, שמן וחרסינה" } },
+        { "id": "d", "text": { "en": "Wood, wax, and copper", "he": "עץ, שעווה ונחושת" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Gunpowder is a mixture of charcoal, sulfur, and saltpeter (potassium nitrate). Chinese alchemists discovered this explosive combination around the 9th century while searching for a magical potion for eternal life.",
+        "he": "אבק שריפה הוא תערובת של פחם, גופרית ואשלגן חנקתי. אלכימאים סינים גילו את השילוב הנפיץ הזה בסביבות המאה ה-9 בעת חיפוש אחר תרופת קסמים לחיי נצח."
+      }
+    },
+    {
+      "id": "q-d01-03",
+      "question": {
+        "en": "What natural material was used to make the first Chinese compass?",
+        "he": "באיזה חומר טבעי השתמשו לייצור המצפן הסיני הראשון?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Gold", "he": "זהב" } },
+        { "id": "b", "text": { "en": "Jade", "he": "ירקן" } },
+        { "id": "c", "text": { "en": "Lodestone", "he": "מגנטיט" } },
+        { "id": "d", "text": { "en": "Bamboo", "he": "במבוק" } }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "The first Chinese compass was made using lodestone, a naturally magnetic mineral. Chinese scientists noticed that lodestone always aligned in a north-south direction, which made it perfect for navigation.",
+        "he": "המצפן הסיני הראשון נעשה תוך שימוש במגנטיט, מינרל מגנטי טבעי. מדענים סינים שמו לב שמגנטיט תמיד מתיישר בכיוון צפון-דרום, מה שהפך אותו למושלם לניווט."
+      }
+    },
+    {
+      "id": "q-d01-04",
+      "question": {
+        "en": "What insect produces the fiber used to make silk?",
+        "he": "איזה חרק מייצר את הסיב המשמש להכנת משי?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Bee", "he": "דבורה" } },
+        { "id": "b", "text": { "en": "Butterfly", "he": "פרפר" } },
+        { "id": "c", "text": { "en": "Spider", "he": "עכביש" } },
+        { "id": "d", "text": { "en": "Silkworm", "he": "תולעת משי" } }
+      ],
+      "correctChoice": "d",
+      "explanation": {
+        "en": "Silkworms produce silk. When silkworms are ready to become moths, they spin a cocoon made of one continuous thread of silk that can be up to 900 meters long. Chinese farmers discovered this process over 5,000 years ago.",
+        "he": "תולעי המשי מייצרות משי. כאשר תולעי המשי מוכנות להפוך לעשים, הן טוות גולם עשוי מחוט משי אחד רציף שיכול להיות עד 900 מטר ארוך. חקלאים סינים גילו תהליך זה לפני יותר מ-5,000 שנה."
+      }
+    },
+    {
+      "id": "q-d01-05",
+      "question": {
+        "en": "What was the trade route connecting China to Europe called?",
+        "he": "מה היה שמו של מסלול הסחר שחיבר את סין לאירופה?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "The Spice Route", "he": "דרך התבלינים" } },
+        { "id": "b", "text": { "en": "The Silk Road", "he": "דרך המשי" } },
+        { "id": "c", "text": { "en": "The Dragon Path", "he": "שביל הדרקון" } },
+        { "id": "d", "text": { "en": "The Jade Highway", "he": "כביש הירקן" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The Silk Road was a network of trade routes stretching over 6,400 km connecting China to Europe. Named after the valuable silk traded along it, the route also carried ideas, religions, art, and technologies between civilizations for thousands of years.",
+        "he": "דרך המשי הייתה רשת של מסלולי סחר המשתרעת על פני 6,400 ק\"מ המחברת את סין לאירופה. הנקראת על שם המשי היקר שנסחר לאורכה, המסלול גם העביר רעיונות, דתות, אמנות וטכנולוגיות בין ציביליזציות במשך אלפי שנים."
+      }
+    },
+    {
+      "id": "q-d01-06",
+      "question": {
+        "en": "Which Chinese invention helped sailors find their way on the open ocean?",
+        "he": "איזה המצאה סינית עזרה למלחים למצוא את דרכם בים הפתוח?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "The kite", "he": "העפיפון" } },
+        { "id": "b", "text": { "en": "Gunpowder", "he": "אבק שריפה" } },
+        { "id": "c", "text": { "en": "The compass", "he": "המצפן" } },
+        { "id": "d", "text": { "en": "Porcelain", "he": "פורצלן" } }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "The magnetic compass helped sailors navigate the open ocean even when they couldn't see land or stars. Chinese sailors were among the first to use compasses at sea, which made long ocean voyages and exploration possible.",
+        "he": "המצפן המגנטי עזר למלחים לנווט בים הפתוח גם כשלא יכלו לראות אדמה או כוכבים. מלחים סינים היו מהראשונים להשתמש במצפנים בים, מה שהפך מסעות אוקיינוס ארוכים וחקירה לאפשריים."
+      }
+    },
+    {
+      "id": "q-d01-07",
+      "question": {
+        "en": "When did Chinese inventors create movable type printing?",
+        "he": "מתי המציאו הממציאים הסינים את הדפוס בגופנים ניידים?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Around 1040 CE", "he": "בסביבות 1040 לספירה" } },
+        { "id": "b", "text": { "en": "Around 200 BCE", "he": "בסביבות 200 לפנה\"ס" } },
+        { "id": "c", "text": { "en": "Around 1450 CE", "he": "בסביבות 1450 לספירה" } },
+        { "id": "d", "text": { "en": "Around 3000 BCE", "he": "בסביבות 3000 לפנה\"ס" } }
+      ],
+      "correctChoice": "a",
+      "explanation": {
+        "en": "Chinese inventor Bi Sheng created movable type printing around 1040 CE during the Song Dynasty. This was about 400 years before Gutenberg invented his printing press in Europe, proving that China was far ahead in printing technology.",
+        "he": "הממציא הסיני בי שנג יצר את הדפוס בגופנים ניידים בסביבות 1040 לספירה בתקופת שושלת סונג. זה היה בסביבות 400 שנה לפני שגוטנברג המציא את מכבש הדפוס שלו באירופה, מה שמוכיח שסין הייתה הרבה לפנים בטכנולוגיית הדפוס."
+      }
+    },
+    {
+      "id": "q-d01-08",
+      "question": {
+        "en": "What were Chinese kites originally used for?",
+        "he": "למה שימשו עפיפונים סינים במקור?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Religious ceremonies", "he": "טקסים דתיים" } },
+        { "id": "b", "text": { "en": "Military purposes", "he": "מטרות צבאיות" } },
+        { "id": "c", "text": { "en": "Fishing", "he": "דיג" } },
+        { "id": "d", "text": { "en": "Children's games", "he": "משחקי ילדים" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Kites were invented in China about 3,000 years ago and were first used for military purposes, such as sending messages, measuring distances, and testing wind direction. Only later were they used for recreation, and centuries later they inspired the study of flight.",
+        "he": "עפיפונים הומצאו בסין לפני כ-3,000 שנה ושימשו תחילה למטרות צבאיות, כגון שליחת הודעות, מדידת מרחקים ובדיקת כיוון הרוח. רק מאוחר יותר השתמשו בהם לנופש, ומאות שנים לאחר מכן הם השרו השראה לחקר הטיסה."
+      }
+    },
+    {
+      "id": "q-d01-09",
+      "question": {
+        "en": "What did Chinese alchemists originally hope to find when they accidentally discovered gunpowder?",
+        "he": "מה קיוו האלכימאים הסינים למצוא כשגילו במקרה את אבק השריפה?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "A way to make gold", "he": "דרך לייצר זהב" } },
+        { "id": "b", "text": { "en": "A cure for disease", "he": "תרופה למחלות" } },
+        { "id": "c", "text": { "en": "An elixir for eternal life", "he": "קסם החיים לחיי נצח" } },
+        { "id": "d", "text": { "en": "A way to make fire without flint", "he": "דרך להצית אש בלי צור" } }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Chinese alchemists were searching for the elixir of life — a magical potion that would grant eternal life — when they accidentally discovered gunpowder. This shows how many great discoveries in science come from unexpected results during experiments aimed at something else entirely.",
+        "he": "אלכימאים סינים חיפשו את קסם החיים — תרופת קסמים שתעניק חיי נצח — כאשר גילו במקרה את אבק השריפה. זה מראה כיצד גילויים מדעיים גדולים רבים מגיעים מתוצאות בלתי צפויות במהלך ניסויים שמטרתם משהו אחר לחלוטין."
+      }
+    },
+    {
+      "id": "q-d01-10",
+      "question": {
+        "en": "Why was silk so valuable that it was sometimes used as currency?",
+        "he": "מדוע היה המשי כה יקר ערך עד שלעיתים השתמשו בו כמטבע?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Because it was very heavy", "he": "כי הוא היה כבד מאוד" } },
+        { "id": "b", "text": { "en": "Because it was rare and China kept the production method secret", "he": "כי הוא היה נדיר וסין שמרה את שיטת הייצור בסוד" } },
+        { "id": "c", "text": { "en": "Because only emperors were allowed to wear it", "he": "כי רק קיסרים הורשו ללבוש אותו" } },
+        { "id": "d", "text": { "en": "Because it could be used to make weapons", "he": "כי ניתן היה להשתמש בו לייצור נשק" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Silk was so valuable because China kept the method of making it (sericulture) a closely guarded secret for centuries. Anyone caught smuggling silkworm eggs out of China faced severe punishment. The rest of the world had to buy silk from China, making it extraordinarily precious.",
+        "he": "המשי היה יקר ערך כל כך מפני שסין שמרה את שיטת הכנתו (גידול תולעי משי) כסוד מוקפד לאורך מאות שנים. מי שנתפס מבריח ביצי תולעת משי מסין עמד בפני עונש חמור. שאר העולם נאלץ לקנות משי מסין, מה שהפך אותו יקר ערך יוצא דופן."
+      }
+    }
+  ],
+  "videoSources": ["4SDv3stWOyM"]
+}

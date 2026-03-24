@@ -1,0 +1,386 @@
+{
+  "id": "d08-the-doctors",
+  "episodeNumber": 8,
+  "youtubeId": "ZAn12z9Vze8",
+  "title": {
+    "en": "The Doctors",
+    "he": "הרופאים"
+  },
+  "summary": {
+    "en": "This episode traces the remarkable history of medicine from ancient Greece to the Renaissance, following the great physicians who transformed healing from superstition into science. It begins with Hippocrates of ancient Greece, who declared that diseases have natural causes rather than divine punishment, and established the ethical foundations of medicine still honored by doctors today in the Hippocratic Oath. The episode then follows the Roman physician Galen, whose detailed anatomical observations — though sometimes mistaken — dominated medical thinking for over a thousand years. We then meet Andreas Vesalius, the 16th-century Flemish anatomist who dared to correct Galen's errors through direct dissection of human bodies, revolutionizing our understanding of anatomy. Finally, the English physician William Harvey reveals the true nature of blood circulation, proving for the first time that the heart pumps blood around the body in a continuous loop, laying the groundwork for modern physiology.",
+    "he": "פרק זה עוקב אחר ההיסטוריה המרתקת של הרפואה מיוון העתיקה ועד לתקופת הרנסנס, ומציג את הרופאים הגדולים שהפכו את הריפוי מאמונה טפלה למדע. הפרק פותח עם היפוקרטס מיוון העתיקה, שהכריז כי למחלות יש סיבות טבעיות ולא עונשים אלוהיים, ושם את היסודות האתיים של הרפואה שרופאים עדיין מכבדים אותם היום בשבועת היפוקרטס. לאחר מכן אנו פוגשים את גלנוס הרומי, שתצפיותיו האנטומיות המפורטות — אף שלעיתים שגויות — שלטו בחשיבה הרפואית במשך למעלה מאלף שנה. לאחר מכן מופיע אנדראס וסאליוס, האנטום הפלמי מהמאה ה-16 שהעז לתקן את טעויות גלנוס דרך נתיחה ישירה של גופות אדם, ושינה מהפכנית את הבנתנו באנטומיה. לבסוף, הרופא האנגלי ויליאם הארווי מגלה את טבע זרימת הדם האמיתית, ומוכיח לראשונה שהלב שואב דם בכל הגוף במחזור רציף, ומניח את היסודות לפיזיולוגיה המודרנית."
+  },
+  "thumbnail": "https://img.youtube.com/vi/ZAn12z9Vze8/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": [
+    "history of medicine",
+    "Hippocrates",
+    "Vesalius and anatomy",
+    "Harvey and blood circulation"
+  ],
+  "terminology": [
+    {
+      "id": "t-d08-01",
+      "term": {
+        "en": "Hippocratic Oath",
+        "he": "שבועת היפוקרטס"
+      },
+      "definition": {
+        "en": "A solemn promise made by doctors to practice medicine ethically, to care for patients with honesty and skill, and to do no harm. Based on the teachings of the ancient Greek physician Hippocrates, it is still taken by medical graduates around the world today.",
+        "he": "הבטחה חגיגית שרופאים נותנים לעסוק ברפואה באופן אתי, לטפל בחולים ביושר ובמיומנות, ולא לגרום נזק. מבוסס על תורתו של הרופא היווני העתיק היפוקרטס, שבועה זו עדיין נשמרת על ידי בוגרי רפואה ברחבי העולם."
+      },
+      "category": "medical ethics"
+    },
+    {
+      "id": "t-d08-02",
+      "term": {
+        "en": "Anatomy",
+        "he": "אנטומיה"
+      },
+      "definition": {
+        "en": "The science that studies the structure of the body — where each organ is located, what it looks like, and how it connects to other parts. Early anatomists like Vesalius learned by carefully dissecting human and animal bodies.",
+        "he": "המדע החוקר את מבנה הגוף — היכן נמצא כל איבר, כיצד הוא נראה וכיצד הוא מחובר לחלקים אחרים. אנטומים מוקדמים כמו וסאליוס למדו על ידי נתיחה זהירה של גופות אדם ובעלי חיים."
+      },
+      "category": "medical science"
+    },
+    {
+      "id": "t-d08-03",
+      "term": {
+        "en": "Dissection",
+        "he": "נתיחה"
+      },
+      "definition": {
+        "en": "The careful cutting open and examination of a body (human or animal) to study its internal structure. For centuries, dissection was the main way doctors learned how the human body truly worked.",
+        "he": "חיתוך זהיר ובחינה של גוף (אדם או בעל חיים) כדי לחקור את מבנהו הפנימי. במשך מאות שנים, נתיחה הייתה הדרך העיקרית שבה רופאים למדו כיצד גוף האדם עובד באמת."
+      },
+      "category": "medical practice"
+    },
+    {
+      "id": "t-d08-04",
+      "term": {
+        "en": "Blood Circulation",
+        "he": "מחזור הדם"
+      },
+      "definition": {
+        "en": "The continuous movement of blood pumped by the heart through the blood vessels of the body, delivering oxygen and nutrients to every cell and carrying away waste products. William Harvey was the first to prove that blood travels in a closed loop.",
+        "he": "התנועה הרציפה של דם שנשאב על ידי הלב דרך כלי הדם של הגוף, המספק חמצן וחומרי מזון לכל תא ומסיר פסולת. ויליאם הארווי היה הראשון להוכיח שהדם נע במעגל סגור."
+      },
+      "category": "physiology"
+    },
+    {
+      "id": "t-d08-05",
+      "term": {
+        "en": "Hippocrates",
+        "he": "היפוקרטס"
+      },
+      "definition": {
+        "en": "An ancient Greek physician who lived around 460–370 BCE, often called the 'Father of Medicine.' He was the first to argue that illness comes from natural causes — such as diet, environment, and the body itself — rather than from angry gods or spirits.",
+        "he": "רופא יווני עתיק שחי בערך בשנים 460–370 לפנה\"ס, המכונה לרוב 'אבי הרפואה'. הוא היה הראשון שטען כי מחלות נובעות מסיבות טבעיות — כמו תזונה, סביבה ועצם הגוף — ולא מאלים זועמים או רוחות."
+      },
+      "category": "historical figure"
+    },
+    {
+      "id": "t-d08-06",
+      "term": {
+        "en": "Galen",
+        "he": "גלנוס"
+      },
+      "definition": {
+        "en": "A famous physician who lived in the Roman Empire around 129–216 CE. He wrote detailed books on anatomy and medicine based on dissecting animals, and his ideas were considered the ultimate authority in European medicine for nearly 1,400 years.",
+        "he": "רופא מפורסם שחי באימפריה הרומית בערך בשנים 129–216 לספירה. הוא כתב ספרים מפורטים על אנטומיה ורפואה המבוססים על נתיחת בעלי חיים, ורעיונותיו נחשבו לסמכות הגבוהה ביותר ברפואה האירופית במשך כמעט 1,400 שנה."
+      },
+      "category": "historical figure"
+    },
+    {
+      "id": "t-d08-07",
+      "term": {
+        "en": "Andreas Vesalius",
+        "he": "אנדראס וסאליוס"
+      },
+      "definition": {
+        "en": "A 16th-century Flemish physician and anatomist who proved that many of Galen's descriptions of the human body were wrong. By dissecting human cadavers himself, he created accurate anatomical drawings that transformed the study of the human body.",
+        "he": "רופא ואנטום פלמי מהמאה ה-16 שהוכיח כי תיאורים רבים של גלנוס לגוף האדם היו שגויים. על ידי נתיחת גופות אדם בעצמו, הוא יצר איורים אנטומיים מדויקים שהפכו מהפכנית את חקר גוף האדם."
+      },
+      "category": "historical figure"
+    },
+    {
+      "id": "t-d08-08",
+      "term": {
+        "en": "William Harvey",
+        "he": "ויליאם הארווי"
+      },
+      "definition": {
+        "en": "An English physician (1578–1657) who discovered that blood circulates continuously around the body, pumped by the heart. Before Harvey, most doctors believed blood was consumed by the body and constantly produced anew — Harvey's experiments proved this was wrong.",
+        "he": "רופא אנגלי (1578–1657) שגילה כי הדם זורם ברציפות בכל הגוף, משאוב על ידי הלב. לפני הארווי, רוב הרופאים האמינו שהגוף צורך דם ומייצר אותו מחדש ברציפות — ניסויי הארווי הוכיחו כי הדבר שגוי."
+      },
+      "category": "historical figure"
+    },
+    {
+      "id": "t-d08-09",
+      "term": {
+        "en": "Four Humors",
+        "he": "ארבעת הליחות"
+      },
+      "definition": {
+        "en": "An ancient medical theory that said the human body contained four fluids — blood, phlegm, yellow bile, and black bile — and that illness was caused by an imbalance among them. This idea, promoted by Hippocrates and Galen, guided medical treatment for over 2,000 years.",
+        "he": "תיאוריה רפואית עתיקה שטענה כי גוף האדם מכיל ארבע נוזלים — דם, ליחה, מרה צהובה ומרה שחורה — וכי מחלה נגרמת מחוסר איזון ביניהם. רעיון זה, שקודם על ידי היפוקרטס וגלנוס, הנחה את הטיפול הרפואי במשך למעלה מ-2,000 שנה."
+      },
+      "category": "historical concept"
+    },
+    {
+      "id": "t-d08-10",
+      "term": {
+        "en": "Physiology",
+        "he": "פיזיולוגיה"
+      },
+      "definition": {
+        "en": "The branch of science that studies how living organisms and their parts function — for example, how the heart pumps blood, how lungs breathe, or how the stomach digests food. Physiology explains the processes that keep us alive.",
+        "he": "ענף המדע החוקר כיצד אורגניזמים חיים וחלקיהם פועלים — לדוגמה, כיצד הלב שואב דם, כיצד הריאות נושמות, או כיצד הקיבה מעכלת מזון. הפיזיולוגיה מסבירה את התהליכים שמחזיקים אותנו בחיים."
+      },
+      "category": "medical science"
+    },
+    {
+      "id": "t-d08-11",
+      "term": {
+        "en": "Cadaver",
+        "he": "גופת נתיחה"
+      },
+      "definition": {
+        "en": "A dead human body used for the purpose of medical study and dissection. Renaissance anatomists like Vesalius used cadavers to learn the true structure of the human body, which sometimes got them into trouble with religious authorities.",
+        "he": "גוף אדם מת המשמש למטרת לימוד רפואי ונתיחה. אנטומים בתקופת הרנסנס כמו וסאליוס השתמשו בגופות נתיחה כדי ללמוד את המבנה האמיתי של גוף האדם, מה שלעיתים העמיד אותם בצרות עם הרשויות הדתיות."
+      },
+      "category": "medical practice"
+    },
+    {
+      "id": "t-d08-12",
+      "term": {
+        "en": "Pulse",
+        "he": "דופק"
+      },
+      "definition": {
+        "en": "The rhythmic beating that can be felt in arteries as the heart pumps blood through the body. Doctors have used the pulse to assess a patient's heart rate and health for thousands of years, and it was one of the key observations that helped Harvey understand circulation.",
+        "he": "הפעימה הקצבית שניתן להרגיש בעורקים כאשר הלב שואב דם בכל הגוף. רופאים השתמשו בדופק להערכת קצב לב ובריאות המטופל במשך אלפי שנים, והוא היה אחד התצפיות המרכזיות שעזרו להארווי להבין את מחזור הדם."
+      },
+      "category": "physiology"
+    },
+    {
+      "id": "t-d08-13",
+      "term": {
+        "en": "Artery",
+        "he": "עורק"
+      },
+      "definition": {
+        "en": "A blood vessel that carries oxygen-rich blood away from the heart to the rest of the body. Arteries have thick, elastic walls to withstand the pressure of blood pumped directly from the heart.",
+        "he": "כלי דם הנושא דם עשיר בחמצן מהלב לשאר הגוף. לעורקים יש דפנות עבות וגמישות כדי לעמוד בלחץ הדם הנשאב ישירות מהלב."
+      },
+      "category": "physiology"
+    },
+    {
+      "id": "t-d08-14",
+      "term": {
+        "en": "Vein",
+        "he": "וריד"
+      },
+      "definition": {
+        "en": "A blood vessel that carries blood back toward the heart after oxygen has been delivered to the body's tissues. Veins contain small valves that stop blood from flowing backward — an important clue that helped Harvey discover the direction of blood flow.",
+        "he": "כלי דם הנושא דם בחזרה ללב לאחר שחמצן נמסר לרקמות הגוף. בורידים יש שסתומים קטנים המונעים מהדם לזרום לאחור — רמז חשוב שעזר להארווי לגלות את כיוון זרימת הדם."
+      },
+      "category": "physiology"
+    },
+    {
+      "id": "t-d08-15",
+      "term": {
+        "en": "De Humani Corporis Fabrica",
+        "he": "דה הומאני קורפוריס פאבריקה"
+      },
+      "definition": {
+        "en": "A landmark book published by Vesalius in 1543, whose title means 'On the Fabric of the Human Body.' It contained beautifully detailed illustrations of human anatomy based on actual dissections, and it corrected many of Galen's centuries-old mistakes.",
+        "he": "ספר מכונן שפרסם וסאליוס ב-1543, ששמו פירושו 'על מבנה גוף האדם'. הוא הכיל איורים מפורטים ויפהפיים של אנטומיה אנושית המבוססים על נתיחות אמיתיות, ותיקן רבות מטעויותיו של גלנוס מהמאות הקודמות."
+      },
+      "category": "historical work"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q-d08-01",
+      "question": {
+        "en": "Who is called the 'Father of Medicine' and believed diseases have natural causes?",
+        "he": "מי מכונה 'אבי הרפואה' והאמין כי למחלות יש סיבות טבעיות?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Galen", "he": "גלנוס" } },
+        { "id": "b", "text": { "en": "Hippocrates", "he": "היפוקרטס" } },
+        { "id": "c", "text": { "en": "Vesalius", "he": "וסאליוס" } },
+        { "id": "d", "text": { "en": "Harvey", "he": "הארווי" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Hippocrates, the ancient Greek physician who lived around 460–370 BCE, is called the 'Father of Medicine' because he was among the first to argue that diseases have natural causes rather than being punishments from the gods.",
+        "he": "היפוקרטס, הרופא היווני העתיק שחי בערך בשנים 460–370 לפנה\"ס, מכונה 'אבי הרפואה' מכיוון שהיה מהראשונים שטענו כי למחלות יש סיבות טבעיות ולא עונשים מהאלים."
+      }
+    },
+    {
+      "id": "q-d08-02",
+      "question": {
+        "en": "What did William Harvey prove about blood?",
+        "he": "מה הוכיח ויליאם הארווי לגבי הדם?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "That blood is made in the lungs", "he": "שהדם מיוצר בריאות" } },
+        { "id": "b", "text": { "en": "That the body constantly makes new blood", "he": "שהגוף מייצר כל הזמן דם חדש" } },
+        { "id": "c", "text": { "en": "That blood circulates continuously in a loop pumped by the heart", "he": "שהדם זורם ברציפות במעגל שנשאב על ידי הלב" } },
+        { "id": "d", "text": { "en": "That blood does not move at all", "he": "שהדם כלל אינו נע" } }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "William Harvey proved through careful experiments that the heart pumps blood around the body in a continuous, closed loop. Before him, most people — following Galen — believed the liver constantly produced new blood which was simply consumed by the body.",
+        "he": "ויליאם הארווי הוכיח דרך ניסויים זהירים שהלב שואב דם בכל הגוף במעגל סגור ורציף. לפניו, רוב האנשים — בעקבות גלנוס — האמינו שהכבד מייצר ברציפות דם חדש שהגוף פשוט צורך."
+      }
+    },
+    {
+      "id": "q-d08-03",
+      "question": {
+        "en": "What ancient medical theory said illness was caused by imbalances in four body fluids?",
+        "he": "איזו תיאוריה רפואית עתיקה טענה שמחלה נגרמת מחוסר איזון בארבעה נוזלי גוף?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "The germ theory", "he": "תיאוריית החיידקים" } },
+        { "id": "b", "text": { "en": "The atomic theory", "he": "התיאוריה האטומית" } },
+        { "id": "c", "text": { "en": "The theory of evolution", "he": "תיאוריית האבולוציה" } },
+        { "id": "d", "text": { "en": "The four humors theory", "he": "תיאוריית ארבעת הליחות" } }
+      ],
+      "correctChoice": "d",
+      "explanation": {
+        "en": "The four humors theory held that the body contained four fluids — blood, phlegm, yellow bile, and black bile — and that illness resulted from an imbalance among them. This idea guided medicine for over 2,000 years until modern science replaced it.",
+        "he": "תיאוריית ארבעת הליחות טענה שהגוף מכיל ארבעה נוזלים — דם, ליחה, מרה צהובה ומרה שחורה — וכי מחלה נובעת מחוסר איזון ביניהם. רעיון זה הנחה את הרפואה במשך למעלה מ-2,000 שנה עד שהמדע המודרני החליף אותו."
+      }
+    },
+    {
+      "id": "q-d08-04",
+      "question": {
+        "en": "What major book did Vesalius publish in 1543?",
+        "he": "איזה ספר חשוב פרסם וסאליוס ב-1543?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "On the Motion of the Heart", "he": "על תנועת הלב" } },
+        { "id": "b", "text": { "en": "The Canon of Medicine", "he": "קנון הרפואה" } },
+        { "id": "c", "text": { "en": "De Humani Corporis Fabrica", "he": "דה הומאני קורפוריס פאבריקה" } },
+        { "id": "d", "text": { "en": "The Art of Medicine", "he": "אמנות הרפואה" } }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "In 1543, Vesalius published De Humani Corporis Fabrica (On the Fabric of the Human Body), a landmark work with detailed anatomical illustrations based on real human dissections. It corrected many of Galen's long-standing errors.",
+        "he": "ב-1543, וסאליוס פרסם את De Humani Corporis Fabrica (על מבנה גוף האדם), יצירת מופת עם איורים אנטומיים מפורטים המבוססים על נתיחות אדם אמיתיות. הוא תיקן רבות מטעויותיו הוותיקות של גלנוס."
+      }
+    },
+    {
+      "id": "q-d08-05",
+      "question": {
+        "en": "How long did Galen's medical ideas dominate European medicine?",
+        "he": "כמה זמן שלטו רעיונותיו הרפואיים של גלנוס ברפואה האירופית?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "About 50 years", "he": "כ-50 שנה" } },
+        { "id": "b", "text": { "en": "About 200 years", "he": "כ-200 שנה" } },
+        { "id": "c", "text": { "en": "About 500 years", "he": "כ-500 שנה" } },
+        { "id": "d", "text": { "en": "About 1,400 years", "he": "כ-1,400 שנה" } }
+      ],
+      "correctChoice": "d",
+      "explanation": {
+        "en": "Galen's medical writings were so respected that they dominated European medicine for approximately 1,400 years — from the 2nd century CE until the Renaissance, when Vesalius and others began questioning and correcting his work.",
+        "he": "כתביו הרפואיים של גלנוס היו מוקירים כל כך שהם שלטו ברפואה האירופית במשך כ-1,400 שנה — מהמאה ה-2 לספירה ועד לרנסנס, אז החלו וסאליוס ואחרים לפקפק בעבודתו ולתקן אותה."
+      }
+    },
+    {
+      "id": "q-d08-06",
+      "question": {
+        "en": "What are veins that helped Harvey understand blood circulation?",
+        "he": "מה הם מאפייני הורידים שעזרו להארווי להבין את מחזור הדם?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Their blue color", "he": "צבעם הכחול" } },
+        { "id": "b", "text": { "en": "Their small valves that prevent backward flow", "he": "השסתומים הקטנים שלהם המונעים זרימה לאחור" } },
+        { "id": "c", "text": { "en": "Their connection to the lungs", "he": "חיבורם לריאות" } },
+        { "id": "d", "text": { "en": "Their large diameter", "he": "קוטרם הגדול" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Harvey noticed that veins contain small one-way valves that allow blood to flow only toward the heart and block backward flow. This observation was a crucial clue that showed blood travels in one direction in a continuous circuit.",
+        "he": "הארווי שם לב כי בורידים יש שסתומים חד-כיווניים קטנים המאפשרים לדם לזרום רק לכיוון הלב ומחסמים זרימה לאחור. תצפית זו הייתה רמז מכריע שהראה כי הדם נע בכיוון אחד במעגל רציף."
+      }
+    },
+    {
+      "id": "q-d08-07",
+      "question": {
+        "en": "Hippocrates believed the best way to treat patients was through:",
+        "he": "היפוקרטס האמין שהדרך הטובה ביותר לטפל בחולים היא דרך:"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Prayer and religious rituals", "he": "תפילה וטקסים דתיים" } },
+        { "id": "b", "text": { "en": "Magic spells and potions", "he": "לחשים וקמעות" } },
+        { "id": "c", "text": { "en": "Observation, rest, diet, and natural remedies", "he": "תצפית, מנוחה, תזונה ותרופות טבעיות" } },
+        { "id": "d", "text": { "en": "Bloodletting from all patients", "he": "הקזת דם מכל החולים" } }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Hippocrates emphasized careful observation of patients, rest, proper diet, and natural remedies. He believed the body had the power to heal itself if given the right conditions, and a doctor's job was to support that natural healing process.",
+        "he": "היפוקרטס הדגיש תצפית זהירה של חולים, מנוחה, תזונה נכונה ותרופות טבעיות. הוא האמין שלגוף יש את הכוח לרפא את עצמו אם מסופקים לו התנאים הנכונים, ותפקידו של הרופא הוא לתמוך בתהליך הריפוי הטבעי הזה."
+      }
+    },
+    {
+      "id": "q-d08-08",
+      "question": {
+        "en": "Which scientist first accurately described the human skeleton and muscles by dissecting human bodies?",
+        "he": "איזה מדען היה הראשון לתאר בדיוק את השלד ושרירי האדם על ידי נתיחת גופות אדם?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Hippocrates", "he": "היפוקרטס" } },
+        { "id": "b", "text": { "en": "Galen", "he": "גלנוס" } },
+        { "id": "c", "text": { "en": "William Harvey", "he": "ויליאם הארווי" } },
+        { "id": "d", "text": { "en": "Andreas Vesalius", "he": "אנדראס וסאליוס" } }
+      ],
+      "correctChoice": "d",
+      "explanation": {
+        "en": "Andreas Vesalius was the first to perform systematic dissections of human bodies and produce accurate, detailed anatomical descriptions and illustrations. Galen's earlier works were based on animals, leading to many errors about human anatomy.",
+        "he": "אנדראס וסאליוס היה הראשון לבצע נתיחות שיטתיות של גופות אדם ולייצר תיאורים ואיורים אנטומיים מדויקים ומפורטים. עבודותיו הקודמות של גלנוס התבססו על בעלי חיים, מה שהוביל לטעויות רבות על אנטומיה אנושית."
+      }
+    },
+    {
+      "id": "q-d08-09",
+      "question": {
+        "en": "What is the Hippocratic Oath?",
+        "he": "מהי שבועת היפוקרטס?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "A medical textbook written by Hippocrates", "he": "ספר רפואה שכתב היפוקרטס" } },
+        { "id": "b", "text": { "en": "An ethical promise taken by doctors to practice medicine responsibly", "he": "הבטחה אתית שרופאים נותנים לעסוק ברפואה באחריות" } },
+        { "id": "c", "text": { "en": "A list of herbal medicines approved by Hippocrates", "he": "רשימת תרופות צמחיות שאושרו על ידי היפוקרטס" } },
+        { "id": "d", "text": { "en": "A contract between doctor and patient", "he": "חוזה בין רופא ומטופל" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The Hippocratic Oath is a solemn ethical pledge traditionally taken by doctors, promising to practice medicine with integrity, to care for patients, and to do no harm. Though its exact wording has changed over centuries, its spirit still guides medical ethics today.",
+        "he": "שבועת היפוקרטס היא התחייבות אתית חגיגית שרופאים נוטלים מסורתית, ומבטיחים לעסוק ברפואה ביושרה, לטפל בחולים ולא לגרום נזק. אף שניסוחה המדויק השתנה לאורך המאות, רוחה עדיין מנחה את האתיקה הרפואית כיום."
+      }
+    },
+    {
+      "id": "q-d08-10",
+      "question": {
+        "en": "Where did Galen work, and what animals did he mainly dissect?",
+        "he": "היכן עבד גלנוס, ואילו בעלי חיים ניתח בעיקר?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "In Greece, dissecting horses", "he": "ביוון, תוך ניתוח סוסים" } },
+        { "id": "b", "text": { "en": "In the Roman Empire, dissecting pigs and monkeys", "he": "באימפריה הרומית, תוך ניתוח חזירים וקופים" } },
+        { "id": "c", "text": { "en": "In Egypt, dissecting crocodiles", "he": "במצרים, תוך ניתוח תנינים" } },
+        { "id": "d", "text": { "en": "In England, dissecting dogs", "he": "באנגליה, תוך ניתוח כלבים" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Galen worked in the Roman Empire, serving as physician to gladiators and later to the emperor Marcus Aurelius. Since human dissection was largely forbidden, he dissected pigs, monkeys, and other animals, then assumed human anatomy was similar — an assumption that led to significant errors.",
+        "he": "גלנוס עבד באימפריה הרומית, שימש כרופא לגלדיאטורים ולאחר מכן לקיסר מרקוס אורליוס. מאחר שנתיחת אדם נאסרה במידה רבה, הוא ניתח חזירים, קופים ובעלי חיים אחרים, ואז הניח שאנטומיית האדם דומה — הנחה שהובילה לטעויות משמעותיות."
+      }
+    }
+  ],
+  "videoSources": ["ZAn12z9Vze8"]
+}

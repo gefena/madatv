@@ -1,0 +1,281 @@
+{
+  "id": "d13-stephenson",
+  "episodeNumber": 13,
+  "youtubeId": "GXYSEgpqPCU",
+  "title": {
+    "en": "George Stephenson, Full Steam Ahead!",
+    "he": "ג'ורג' סטיבנסון, קדימה בקיטור!"
+  },
+  "summary": {
+    "en": "This episode tells the story of George Stephenson, the self-taught engineer who built the world's first public steam-powered railway and transformed how people and goods travel across the world. Born in 1781 in a poor mining family in Northumberland, England, Stephenson never went to school but taught himself to read and became fascinated with the steam engines used in coal mines. In 1814 he built his first steam locomotive, Blucher, and went on to design the famous Rocket with his son Robert, which won the Rainhill Trials in 1829 and proved that steam locomotion was faster and more reliable than horse-drawn vehicles. In 1825, the Stockton and Darlington Railway became the world's first public steam railway, followed by the Liverpool and Manchester Railway in 1830. The episode explores how railways shrank distances, enabled the growth of cities, changed working life, and sparked the golden age of steam — making Stephenson one of the most important figures of the Industrial Revolution.",
+    "he": "פרק זה מספר את סיפורו של ג'ורג' סטיבנסון, המהנדס השלמד שבנה את מסילת הברזל הראשונה בעולם לשימוש הציבור ושינה את אופן נסיעת אנשים וסחורות ברחבי העולם. נולד בשנת 1781 למשפחת כורים עניים בנורת'אמברלנד, אנגליה, סטיבנסון לא הלך לבית ספר אך לימד את עצמו לקרוא והיה מרותק למנועי הקיטור ששימשו במכרות פחם. בשנת 1814 בנה את הקטר הראשון שלו, בלוצ'ר, והמשיך לעצב את הרוקט המפורסם עם בנו רוברט, שזכה במירוץ ריינהיל בשנת 1829 והוכיח שתחבורת קיטור מהירה ואמינה יותר מכלי רכב רתומי סוסים. בשנת 1825, מסילת הברזל של סטוקטון-דרינגטון הפכה למסילת הקיטור הציבורית הראשונה בעולם, ואחריה מסילת ליברפול-מנצ'סטר בשנת 1830. הפרק בוחן כיצד מסילות הברזל כיווצו מרחקים, אפשרו את צמיחת הערים, שינו את חיי העבודה ועוררו את עידן הקיטור המוזהב — מה שהפך את סטיבנסון לאחד הדמויות החשובות ביותר של המהפכה התעשייתית."
+  },
+  "thumbnail": "https://img.youtube.com/vi/GXYSEgpqPCU/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": [
+    "George Stephenson",
+    "steam locomotive",
+    "railways",
+    "Industrial Revolution"
+  ],
+  "terminology": [
+    {
+      "id": "t-d13-01",
+      "term": { "en": "Steam Locomotive", "he": "קטר קיטור" },
+      "definition": {
+        "en": "A railway vehicle powered by a steam engine that burns coal or wood to heat water, producing steam that pushes pistons to turn the wheels. Stephenson's Rocket (1829) was the breakthrough design that launched the railway age.",
+        "he": "רכב מסילה המונע על ידי מנוע קיטור השורף פחם או עץ כדי לחמם מים, ומייצר קיטור הדוחף בוכנות להסתובב את הגלגלים. הרוקט של סטיבנסון (1829) היה העיצוב פורץ הדרך שהשיק את עידן מסילות הברזל."
+      },
+      "category": "technology"
+    },
+    {
+      "id": "t-d13-02",
+      "term": { "en": "Industrial Revolution", "he": "המהפכה התעשייתית" },
+      "definition": {
+        "en": "A period of rapid industrial and technological change that began in Britain in the late 18th century and spread worldwide. It transformed societies from agricultural to manufacturing economies, powered by new machines, factories, coal, and steam engines.",
+        "he": "תקופה של שינוי תעשייתי וטכנולוגי מהיר שהחלה בבריטניה בסוף המאה ה-18 והתפשטה ברחבי העולם. היא הפכה חברות מכלכלות חקלאיות לכלכלות ייצור, המונעות על ידי מכונות חדשות, מפעלים, פחם ומנועי קיטור."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-d13-03",
+      "term": { "en": "The Rocket", "he": "הרוקט" },
+      "definition": {
+        "en": "The famous steam locomotive designed by George and Robert Stephenson that won the Rainhill Trials in 1829. It reached 46 km/h — faster than any land vehicle had ever traveled — and proved that steam railways were the future of transportation.",
+        "he": "הקטר המפורסם שתכנן ג'ורג' ורוברט סטיבנסון שזכה במירוץ ריינהיל בשנת 1829. הוא הגיע ל-46 קמ\"ש — מהר יותר מכל כלי רכב יבשתי שנסע אי פעם — והוכיח שמסילות ברזל לקיטור הן עתיד התחבורה."
+      },
+      "category": "technology"
+    },
+    {
+      "id": "t-d13-04",
+      "term": { "en": "Piston", "he": "בוכנה" },
+      "definition": {
+        "en": "A cylindrical part inside an engine that moves back and forth when pushed by expanding steam or gas, converting thermal energy into mechanical motion. In a steam locomotive, pistons connected to the wheels turn steam pressure into movement.",
+        "he": "חלק גלילי בתוך מנוע הנע הלוך ושוב כאשר דוחף אותו קיטור מתרחב או גז, הממיר אנרגיה תרמית לתנועה מכנית. בקטר קיטור, בוכנות המחוברות לגלגלים הופכות לחץ קיטור לתנועה."
+      },
+      "category": "technology"
+    },
+    {
+      "id": "t-d13-05",
+      "term": { "en": "Gauge (railway)", "he": "מסלול (מסילת ברזל)" },
+      "definition": {
+        "en": "The distance between the two rails of a railway track. Stephenson established the 'standard gauge' of 1,435 mm (4 ft 8.5 in), which became the most widely used railway gauge in the world. Having a standard gauge allowed trains to run on any compatible track.",
+        "he": "המרחק בין שני המסילות של מסילת ברזל. סטיבנסון קבע את 'המסלול הסטנדרטי' של 1,435 מ\"מ (4 רגל 8.5 אינץ'), שהפך למסלול הנפוץ ביותר בעולם. מסלול סטנדרטי אפשר לרכבות לנסוע על כל מסילה תואמת."
+      },
+      "category": "engineering"
+    },
+    {
+      "id": "t-d13-06",
+      "term": { "en": "Rainhill Trials", "he": "מירוץ ריינהיל" },
+      "definition": {
+        "en": "A competition held in 1829 to find the best steam locomotive design for the new Liverpool and Manchester Railway. Stephenson's Rocket won convincingly, demonstrating its superior speed and reliability. This event effectively launched the modern railway era.",
+        "he": "תחרות שנערכה בשנת 1829 למציאת עיצוב הקטר הטוב ביותר למסילת ליברפול-מנצ'סטר החדשה. הרוקט של סטיבנסון ניצח בשכנוע, ומדגים את מהירותו ואמינותו העדיפות. אירוע זה השיק בפועל את עידן מסילות הברזל המודרני."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-d13-07",
+      "term": { "en": "Coal", "he": "פחם" },
+      "definition": {
+        "en": "A black fossil fuel formed from ancient plants, mined from the earth and burned to produce heat. Coal was the primary fuel of the Industrial Revolution, powering steam engines in factories, ships, and locomotives. The demand for coal drove the development of early railways.",
+        "he": "דלק מאובן שחור שנוצר מצמחים עתיקים, מכרה מהאדמה ונשרף לייצור חום. פחם היה הדלק העיקרי של המהפכה התעשייתית, מניע מנועי קיטור במפעלים, ספינות ורכבות. הביקוש לפחם הניע את פיתוח מסילות הברזל המוקדמות."
+      },
+      "category": "materials"
+    },
+    {
+      "id": "t-d13-08",
+      "term": { "en": "Viaduct", "he": "ויאדוקט" },
+      "definition": {
+        "en": "A long bridge-like structure, typically supported by a series of arches, carrying a road or railway over a valley or other low ground. Building railways required massive civil engineering works including viaducts, tunnels, and embankments that transformed the landscape.",
+        "he": "מבנה דמוי גשר ארוך, הנשען בדרך כלל על סדרה של קשתות, הנושא כביש או מסילה מעל עמק או קרקע נמוכה אחרת. בניית מסילות ברזל דרשה עבודות הנדסה אזרחית מסיביות כולל ויאדוקטים, מנהרות וסוללות שהפכו את הנוף."
+      },
+      "category": "engineering"
+    },
+    {
+      "id": "t-d13-09",
+      "term": { "en": "Boiler", "he": "דוד קיטור" },
+      "definition": {
+        "en": "The closed vessel in a steam engine where water is heated to produce steam. Stephenson's innovation of a multi-tube boiler (many small tubes carrying hot gas through the water) greatly increased the efficiency of his locomotives compared to earlier designs with single flue boilers.",
+        "he": "הכלי הסגור במנוע קיטור שבו מים מחוממים לייצור קיטור. חידושו של סטיבנסון בדוד קיטור רב-צינורות (צינורות קטנים רבים הנושאים גז חם דרך המים) הגדיל מאוד את יעילות הקטרים שלו בהשוואה לעיצובים קודמים עם דודי קיטור חד-ערוציים."
+      },
+      "category": "technology"
+    },
+    {
+      "id": "t-d13-10",
+      "term": { "en": "Colliery", "he": "מכרה פחם" },
+      "definition": {
+        "en": "A coal mine and the surface buildings associated with it. George Stephenson grew up near collieries in Northumberland and first worked with steam engines in this context — pumping water out of mines and hauling coal to the surface. Railways were first built to serve collieries.",
+        "he": "מכרה פחם ומבני השטח הקשורים אליו. ג'ורג' סטיבנסון גדל ליד מכרות פחם בנורת'אמברלנד ועבד לראשונה עם מנועי קיטור בהקשר זה — שאיבת מים ממכרות ומשיכת פחם לפני השטח. מסילות ברזל נבנו תחילה לשרת מכרות פחם."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-d13-11",
+      "term": { "en": "Freight", "he": "מטען" },
+      "definition": {
+        "en": "Goods transported by a vehicle or railway, as opposed to passengers. The first railways were built mainly to haul freight — especially coal — from mines to ports. The ability to move heavy goods cheaply and quickly transformed industry and trade.",
+        "he": "סחורות המועברות על ידי כלי רכב או מסילה, בניגוד לנוסעים. מסילות הברזל הראשונות נבנו בעיקר להובלת מטענים — במיוחד פחם — ממכרות לנמלים. היכולת להעביר סחורות כבדות בזול ובמהירות הפכה את התעשייה והמסחר."
+      },
+      "category": "economy"
+    },
+    {
+      "id": "t-d13-12",
+      "term": { "en": "Surveying", "he": "מדידת שטח" },
+      "definition": {
+        "en": "The process of measuring and mapping land to plan construction projects. Before building a railway, engineers like Stephenson had to survey the landscape to find the best routes — avoiding steep hills and soft ground, planning where bridges, tunnels, and cuttings were needed.",
+        "he": "תהליך מדידת ומיפוי קרקע לתכנון פרויקטי בנייה. לפני בניית מסילה, מהנדסים כמו סטיבנסון נאלצו למדוד את הנוף כדי למצוא את המסלולים הטובים ביותר — הימנעות מגבעות תלולות וקרקע רכה, תכנון היכן נדרשים גשרים, מנהרות וחתכים."
+      },
+      "category": "engineering"
+    },
+    {
+      "id": "t-d13-13",
+      "term": { "en": "Self-taught", "he": "שלמד בכוחות עצמו" },
+      "definition": {
+        "en": "Having learned a skill or subject through personal study and effort, without formal schooling. George Stephenson never attended school but educated himself, learning to read at age 18. His achievements show that curiosity and determination can overcome lack of formal education.",
+        "he": "שלמד מיומנות או נושא דרך לימוד ומאמץ אישי, ללא חינוך פורמלי. ג'ורג' סטיבנסון מעולם לא הלך לבית ספר אך חינך את עצמו, לומד לקרוא בגיל 18. הישגיו מראים שסקרנות ונחישות יכולות להתגבר על חוסר השכלה פורמלית."
+      },
+      "category": "biography"
+    },
+    {
+      "id": "t-d13-14",
+      "term": { "en": "Timetable", "he": "לוח זמנים" },
+      "definition": {
+        "en": "A schedule showing the times of departures and arrivals. Railways required the first standardized timetables — and eventually prompted the creation of standard time zones, because previously every town kept its own local time. The railway forced societies to synchronize their clocks.",
+        "he": "לוח זמנים המציג את שעות היציאה וההגעה. מסילות הברזל דרשו את לוחות הזמנים המתוקנים הראשונים — ובסופו של דבר גרמו ליצירת אזורי זמן סטנדרטיים, מכיוון שקודם לכן כל עיר שמרה על שעון מקומי משלה. מסילת הברזל אילצה חברות לסנכרן את שעוניהן."
+      },
+      "category": "society"
+    },
+    {
+      "id": "t-d13-15",
+      "term": { "en": "Embankment", "he": "סוללה" },
+      "definition": {
+        "en": "A bank of earth or rock built to carry a road or railway over lower ground. Building railways across uneven terrain required constructing massive embankments (to cross valleys) and cuttings (to go through hills). These were dug by armies of laborers called 'navvies'.",
+        "he": "גדת אדמה או סלע שנבנתה כדי לשאת כביש או מסילה מעל קרקע נמוכה יותר. בניית מסילות ברזל בשטח לא אחיד חייבה בניית סוללות מסיביות (לחציית עמקים) וחתכים (לעבור דרך גבעות). אלה נחפרו על ידי צבאות של פועלים שנקראו 'ניוויז'."
+      },
+      "category": "engineering"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q-d13-01",
+      "question": { "en": "Where did George Stephenson grow up?", "he": "היכן גדל ג'ורג' סטיבנסון?" },
+      "choices": [
+        { "id": "a", "text": { "en": "London, England", "he": "לונדון, אנגליה" } },
+        { "id": "b", "text": { "en": "Northumberland, England, near coal mines", "he": "נורת'אמברלנד, אנגליה, ליד מכרות פחם" } },
+        { "id": "c", "text": { "en": "Manchester, England", "he": "מנצ'סטר, אנגליה" } },
+        { "id": "d", "text": { "en": "Edinburgh, Scotland", "he": "אדינבורג, סקוטלנד" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "George Stephenson was born in 1781 in Wylam, Northumberland, in northern England. His father worked at a coal mine pumping engine, and young George grew up fascinated by these machines — a passion that would lead him to build the world's first public railway.", "he": "ג'ורג' סטיבנסון נולד בשנת 1781 בוויילם, נורת'אמברלנד, בצפון אנגליה. אביו עבד במנוע שאיבה של מכרה פחם, וג'ורג' הצעיר גדל מרותק למכונות אלה — תשוקה שתוביל אותו לבנות את מסילת הברזל הציבורית הראשונה בעולם." }
+    },
+    {
+      "id": "q-d13-02",
+      "question": { "en": "What was the name of Stephenson's famous locomotive that won the Rainhill Trials?", "he": "מה שמו של הקטר המפורסם של סטיבנסון שזכה במירוץ ריינהיל?" },
+      "choices": [
+        { "id": "a", "text": { "en": "The Blucher", "he": "הבלוצ'ר" } },
+        { "id": "b", "text": { "en": "The Puffing Billy", "he": "הפאפינג ביל" } },
+        { "id": "c", "text": { "en": "The Rocket", "he": "הרוקט" } },
+        { "id": "d", "text": { "en": "The Iron Duke", "he": "הדוכס הברזלי" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "The Rocket, designed by George and his son Robert Stephenson, won the Rainhill Trials in 1829 with a top speed of about 46 km/h. Its multi-tube boiler design made it far more efficient than rivals, and it became the template for steam locomotive design for decades.", "he": "הרוקט, שתוכנן על ידי ג'ורג' ובנו רוברט סטיבנסון, זכה במירוץ ריינהיל בשנת 1829 במהירות שיא של כ-46 קמ\"ש. עיצוב הדוד הרב-צינורי שלו הפך אותו יעיל בהרבה מהמתחרים, והוא הפך לתבנית לעיצוב קטרי קיטור לעשרות שנים." }
+    },
+    {
+      "id": "q-d13-03",
+      "question": { "en": "What was the world's first public steam-powered railway?", "he": "מה הייתה מסילת הקיטור הציבורית הראשונה בעולם?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Liverpool and Manchester Railway", "he": "מסילת ליברפול-מנצ'סטר" } },
+        { "id": "b", "text": { "en": "London to Bristol Railway", "he": "מסילת לונדון-בריסטול" } },
+        { "id": "c", "text": { "en": "Stockton and Darlington Railway", "he": "מסילת סטוקטון-דרינגטון" } },
+        { "id": "d", "text": { "en": "Newcastle to Edinburgh Railway", "he": "מסילת ניוקאסל-אדינבורג" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "The Stockton and Darlington Railway, opened in September 1825, was the world's first public steam-powered railway. Stephenson drove the locomotive Locomotion No. 1 on its opening day, pulling 34 wagons at about 24 km/h — changing the world forever.", "he": "מסילת הברזל של סטוקטון-דרינגטון, שנפתחה בספטמבר 1825, הייתה מסילת הקיטור הציבורית הראשונה בעולם. סטיבנסון נהג בקטר לוקומושן מס' 1 ביום פתיחתה, משך 34 קרונות במהירות של כ-24 קמ\"ש — ומשנה את העולם לנצח." }
+    },
+    {
+      "id": "q-d13-04",
+      "question": { "en": "What fuel did Stephenson's steam locomotives burn?", "he": "איזה דלק שרפו קטרי הקיטור של סטיבנסון?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Gasoline", "he": "בנזין" } },
+        { "id": "b", "text": { "en": "Coal", "he": "פחם" } },
+        { "id": "c", "text": { "en": "Natural gas", "he": "גז טבעי" } },
+        { "id": "d", "text": { "en": "Wood only", "he": "עץ בלבד" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Steam locomotives burned coal to heat water and produce steam. This is why railways were so closely linked to the coal industry — trains were first built to carry coal from mines, and coal in turn fueled the trains themselves.", "he": "קטרי קיטור שרפו פחם לחמם מים ולייצר קיטור. זו הסיבה שמסילות הברזל היו קשורות כל כך לתעשיית הפחם — רכבות נבנו תחילה להובלת פחם ממכרות, ופחם בתורו הניע את הרכבות עצמן." }
+    },
+    {
+      "id": "q-d13-05",
+      "question": { "en": "George Stephenson never attended school. How did he learn to read?", "he": "ג'ורג' סטיבנסון מעולם לא הלך לבית ספר. כיצד למד לקרוא?" },
+      "choices": [
+        { "id": "a", "text": { "en": "His mother taught him at home", "he": "אמו לימדה אותו בבית" } },
+        { "id": "b", "text": { "en": "He taught himself by age 18", "he": "הוא לימד את עצמו בגיל 18" } },
+        { "id": "c", "text": { "en": "A church provided free lessons", "he": "כנסייה סיפקה שיעורים חינמיים" } },
+        { "id": "d", "text": { "en": "He learned from reading railway maps", "he": "הוא למד מקריאת מפות מסילות ברזל" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Stephenson taught himself to read at around age 18 by attending night school while working long hours in the mines. His determination to educate himself despite poverty and hard work is one of the most inspiring aspects of his story.", "he": "סטיבנסון לימד את עצמו לקרוא בגיל כ-18 על ידי בילוי בבית ספר לילי בזמן שעבד שעות ארוכות במכרות. נחישותו לחנך את עצמו על אף העוני ועבודה קשה היא אחד הדברים המעוררים ביותר בסיפורו." }
+    },
+    {
+      "id": "q-d13-06",
+      "question": { "en": "What was the top speed of Stephenson's Rocket locomotive?", "he": "מהי מהירות השיא של קטר הרוקט של סטיבנסון?" },
+      "choices": [
+        { "id": "a", "text": { "en": "About 10 km/h", "he": "כ-10 קמ\"ש" } },
+        { "id": "b", "text": { "en": "About 46 km/h", "he": "כ-46 קמ\"ש" } },
+        { "id": "c", "text": { "en": "About 100 km/h", "he": "כ-100 קמ\"ש" } },
+        { "id": "d", "text": { "en": "About 200 km/h", "he": "כ-200 קמ\"ש" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "The Rocket reached approximately 46 km/h during the Rainhill Trials — faster than any land vehicle had ever traveled. At a time when horses could only sustain about 15 km/h, this was astonishing and proved that steam power was the future of travel.", "he": "הרוקט הגיע למהירות של כ-46 קמ\"ש במהלך מירוץ ריינהיל — מהר יותר מכל כלי רכב יבשתי שנסע אי פעם. בתקופה שבה סוסים יכלו לשמור על כ-15 קמ\"ש בלבד, זה היה מדהים והוכיח שכוח הקיטור הוא עתיד הנסיעה." }
+    },
+    {
+      "id": "q-d13-07",
+      "question": { "en": "Why did railways lead to the creation of standard time zones?", "he": "מדוע מסילות הברזל הובילו ליצירת אזורי זמן סטנדרטיים?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Because trains ran at night", "he": "כי רכבות נסעו בלילה" } },
+        { "id": "b", "text": { "en": "Because each town had different local time, making timetables impossible", "he": "כי לכל עיר היה זמן מקומי שונה, מה שהפך לוחות זמנים לבלתי אפשריים" } },
+        { "id": "c", "text": { "en": "Because railway clocks were the most accurate", "he": "כי שעוני מסילות הברזל היו המדויקים ביותר" } },
+        { "id": "d", "text": { "en": "Because governments wanted to control travel", "he": "כי ממשלות רצו לשלוט בנסיעות" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Before railways, every town kept its own local solar time. But a train journey between cities made this chaos — passengers couldn't know when trains would arrive. Railways forced the adoption of synchronized 'railway time', which eventually became national and then international time zones.", "he": "לפני מסילות הברזל, כל עיר שמרה על שעון שמשי מקומי משלה. אבל נסיעה ברכבת בין ערים הפכה את זה לכאוס — נוסעים לא יכלו לדעת מתי יגיעו רכבות. מסילות הברזל אילצו את אימוץ 'זמן הרכבת' המסונכרן, שהפך בסופו של דבר לאזורי זמן לאומיים ואז בינלאומיים." }
+    },
+    {
+      "id": "q-d13-08",
+      "question": { "en": "What was the main cargo that early railways were first built to transport?", "he": "מה היה המטען העיקרי שמסילות הברזל המוקדמות נבנו תחילה להובלה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Passengers", "he": "נוסעים" } },
+        { "id": "b", "text": { "en": "Coal", "he": "פחם" } },
+        { "id": "c", "text": { "en": "Food and grain", "he": "אוכל ותבואה" } },
+        { "id": "d", "text": { "en": "Soldiers and weapons", "he": "חיילים ונשק" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "The earliest railways were built primarily to haul coal from collieries (coal mines) to rivers, canals, or ports. Stephenson's first railway, the Stockton and Darlington, was built to carry coal from the Durham coalfields to the River Tees.", "he": "מסילות הברזל המוקדמות ביותר נבנו בעיקר להובלת פחם ממכרות פחם לנהרות, תעלות או נמלים. מסילת הברזל הראשונה של סטיבנסון, סטוקטון-דרינגטון, נבנתה להובלת פחם משדות הפחם של דרהם לנהר טיס." }
+    },
+    {
+      "id": "q-d13-09",
+      "question": { "en": "What standard gauge did Stephenson establish for railways?", "he": "איזה מסלול סטנדרטי קבע סטיבנסון למסילות הברזל?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Exactly 1 meter (1,000 mm)", "he": "בדיוק מטר אחד (1,000 מ\"מ)" } },
+        { "id": "b", "text": { "en": "1,435 mm (4 ft 8.5 in)", "he": "1,435 מ\"מ (4 רגל 8.5 אינץ')" } },
+        { "id": "c", "text": { "en": "2 meters (2,000 mm)", "he": "2 מטר (2,000 מ\"מ)" } },
+        { "id": "d", "text": { "en": "760 mm (narrow gauge)", "he": "760 מ\"מ (מסלול צר)" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Stephenson chose 1,435 mm (4 feet 8.5 inches) as the gauge for his railways — a measurement based on the width of horse-drawn colliery wagons in the north of England. This 'standard gauge' was later adopted by most of the world's railways.", "he": "סטיבנסון בחר 1,435 מ\"מ (4 רגל 8.5 אינץ') כמסלול למסילות הברזל שלו — מדידה המבוססת על רוחב עגלות מכרות פחם רתומות לסוסים בצפון אנגליה. מסלול 'סטנדרטי' זה אומץ מאוחר יותר על ידי מרבית מסילות הברזל בעולם." }
+    },
+    {
+      "id": "q-d13-10",
+      "question": { "en": "How did railways change the growth of cities during the Industrial Revolution?", "he": "כיצד שינו מסילות הברזל את צמיחת הערים במהלך המהפכה התעשייתית?" },
+      "choices": [
+        { "id": "a", "text": { "en": "They slowed city growth by spreading people to the countryside", "he": "הן האטו את צמיחת הערים על ידי פיזור אנשים לכפר" } },
+        { "id": "b", "text": { "en": "They enabled cities to grow by linking them to food, coal and trade networks", "he": "הן אפשרו לערים לצמוח על ידי קישורן לרשתות מזון, פחם ומסחר" } },
+        { "id": "c", "text": { "en": "They had no effect on city size", "he": "לא היייתה להן השפעה על גודל הערים" } },
+        { "id": "d", "text": { "en": "They only benefited coal mining towns", "he": "הן הועילו רק לעיירות כרייה" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Railways transformed city growth dramatically. Cities could now import food, coal, and raw materials from far away — so they were no longer limited by what could be grown or mined nearby. Workers could commute between towns. Industries clustered around railway hubs. The result was explosive urban growth.", "he": "מסילות הברזל שינו את צמיחת הערים באופן דרמטי. ערים יכלו כעת לייבא מזון, פחם וחומרי גלם ממרחקים — כך שהן כבר לא היו מוגבלות למה שניתן היה לגדל או לכרות בסביבה. עובדים יכלו לנסוע בין ערים. תעשיות התקבצו סביב מרכזי מסילות. התוצאה הייתה צמיחה עירונית נפיצה." }
+    }
+  ],
+  "videoSources": ["GXYSEgpqPCU"]
+}

@@ -1,0 +1,342 @@
+{
+  "id": "d05-henry-the-navigator",
+  "episodeNumber": 5,
+  "youtubeId": "zzm_Kk4ouXU",
+  "title": {
+    "en": "Henry the Navigator and Cartography",
+    "he": "הנרי הנווט והקרטוגרפיה"
+  },
+  "summary": {
+    "en": "This episode explores one of the most exciting chapters in history — the Age of Exploration — and the Portuguese prince who launched it: Henry the Navigator. Though Henry himself rarely sailed, he established a school of navigation at Sagres, Portugal, where he gathered the world's best cartographers, astronomers, shipbuilders, and navigators to push the boundaries of the known world. Under his direction, Portuguese explorers inched their way down the African coast, developing new ship designs like the nimble caravel, improving navigation tools like the astrolabe and quadrant, and creating increasingly accurate maps of the world. The episode shows how cartography — the art and science of mapmaking — transformed from rough medieval drawings to precise charts that made global exploration and trade possible, fundamentally reshaping our understanding of the planet and connecting civilizations that had never before known of each other's existence.",
+    "he": "פרק זה בוחן אחד הפרקים המרגשים ביותר בהיסטוריה — עידן הגילויים — והנסיך הפורטוגלי שהשיק אותו: הנרי הנווט. למרות שהנרי עצמו לעיתים רחוקות יצא לים, הוא הקים בית ספר לניווט בסאגרס, פורטוגל, שם כינס את הקרטוגרפים, האסטרונומים, בוני הספינות והמלחים הטובים ביותר בעולם כדי לדחוף את גבולות העולם הידוע. תחת הנחייתו, חוקרים פורטוגלים התקדמו לאורך החוף האפריקאי, פיתחו עיצובי ספינות חדשים כגון הקרוול הזריז, שיפרו כלי ניווט כגון האסטרולב והרביע, ויצרו מפות עולם מדויקות יותר ויותר. הפרק מראה כיצד הקרטוגרפיה — האמנות והמדע של ייצור מפות — השתנתה מרישומי ימי הביניים גסים לתרשימים מדויקים שהפכו את הגילויים והסחר העולמיים לאפשריים, ועיצבה מחדש באופן יסודי את הבנתנו את הכדור ואת קישוריות הציביליזציות שמעולם לא ידעו על קיומן של אחרות."
+  },
+  "thumbnail": "https://img.youtube.com/vi/zzm_Kk4ouXU/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": [
+    "Prince Henry the Navigator",
+    "Age of Exploration",
+    "cartography and mapmaking",
+    "navigation instruments",
+    "Portuguese exploration"
+  ],
+  "terminology": [
+    {
+      "id": "t-d05-01",
+      "term": { "en": "Cartography", "he": "קרטוגרפיה" },
+      "definition": {
+        "en": "The art and science of making maps. For thousands of years, mapmakers (cartographers) tried to draw accurate pictures of the world's land and sea, but without exploration, most maps were full of errors and blank spaces. The Age of Exploration dramatically improved cartography as sailors returned with precise information about coastlines, distances, and the shapes of continents.",
+        "he": "האמנות והמדע של ייצור מפות. במשך אלפי שנים, יצרני מפות (קרטוגרפים) ניסו לצייר תמונות מדויקות של הקרקע והים בעולם, אך ללא חקירה, רוב המפות היו מלאות שגיאות ורווחים ריקים. עידן הגילויים שיפר באופן דרמטי את הקרטוגרפיה כאשר מלחים חזרו עם מידע מדויק על קווי חוף, מרחקים וצורות של יבשות."
+      },
+      "category": "science"
+    },
+    {
+      "id": "t-d05-02",
+      "term": { "en": "Henry the Navigator", "he": "הנרי הנווט" },
+      "definition": {
+        "en": "Prince Henry of Portugal (1394–1460), called 'the Navigator' because of his role in organizing and sponsoring sea expeditions, even though he rarely sailed himself. He established a navigation school at Sagres and sponsored dozens of voyages down the African coast, seeking a sea route to Asia. His work launched the Age of Exploration and made Portugal the greatest naval power of the 15th century.",
+        "he": "הנסיך הנרי מפורטוגל (1394–1460), הנקרא 'הנווט' בשל תפקידו בארגון ומימון מסעות ים, למרות שלעיתים רחוקות יצא לים בעצמו. הוא הקים בית ספר לניווט בסאגרס ומימן עשרות מסעות לאורך החוף האפריקאי, בחיפוש אחרי מסלול ים לאסיה. עבודתו השיקה את עידן הגילויים והפכה את פורטוגל לכוח הימי הגדול ביותר של המאה ה-15."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-d05-03",
+      "term": { "en": "Caravel", "he": "קרוול" },
+      "definition": {
+        "en": "A small, highly maneuverable sailing ship developed by the Portuguese in the 15th century for ocean exploration. Caravels had triangular (lateen) sails that allowed them to sail into the wind, making them much more flexible than older ships. Their shallow draft (the depth below the waterline) allowed them to explore rivers and coastal shallows. Columbus used two caravels, the Niña and the Pinta, on his famous 1492 voyage.",
+        "he": "ספינת מפרשים קטנה וניתנת לתמרון שפותחה על ידי הפורטוגלים במאה ה-15 לחקירת הים. לקרוולים היו מפרשים משולשים (מפרש לאטיני) שאפשרו להם לשוט נגד הרוח, מה שהפך אותם לגמישים הרבה יותר מספינות ישנות יותר. עומקן הרדוד (העומק מתחת לקו המים) אפשר להם לחקור נהרות ושטחי חוף רדודים. קולומבוס השתמש בשני קרוולים, הניניה והפינטה, במסעו המפורסם משנת 1492."
+      },
+      "category": "invention"
+    },
+    {
+      "id": "t-d05-04",
+      "term": { "en": "Astrolabe", "he": "אסטרולב" },
+      "definition": {
+        "en": "An ancient astronomical instrument used by sailors to measure the altitude of the sun or stars above the horizon, which allowed them to calculate their latitude (how far north or south they were). Astrolabes were used from ancient Greece through the Age of Exploration. By knowing the angle of the North Star or noon sun, a navigator could determine their position even in the middle of the ocean.",
+        "he": "מכשיר אסטרונומי עתיק המשמש מלחים למדידת גובה השמש או הכוכבים מעל האופק, מה שאפשר להם לחשב את קו הרוחב שלהם (כמה צפון או דרום הם). אסטרולבים שימשו מיוון העתיקה ועד עידן הגילויים. על ידי ידיעת זווית כוכב הצפון או השמש בצהריים, ניווט יכול לקבוע את מיקומו גם באמצע הים."
+      },
+      "category": "invention"
+    },
+    {
+      "id": "t-d05-05",
+      "term": { "en": "Latitude", "he": "קו רוחב" },
+      "definition": {
+        "en": "The angular distance of a place north or south of the Earth's equator, measured in degrees from 0° at the equator to 90° at the poles. Sailors in the Age of Exploration could measure their latitude using the astrolabe or quadrant by checking the height of the North Star or the sun. However, measuring longitude (east-west position) was much harder and remained a great challenge for another 200 years.",
+        "he": "המרחק הזוויתי של מקום צפון או דרום מקו המשווה של כדור הארץ, הנמדד במעלות מ-0° בקו המשווה ועד 90° בקטבים. מלחים בעידן הגילויים יכלו למדוד את קו הרוחב שלהם באמצעות האסטרולב או הרביע על ידי בדיקת גובה כוכב הצפון או השמש. עם זאת, מדידת קו האורך (מיקום מזרח-מערב) הייתה הרבה יותר קשה ונשארה אתגר גדול למשך 200 שנה נוספות."
+      },
+      "category": "science"
+    },
+    {
+      "id": "t-d05-06",
+      "term": { "en": "Longitude", "he": "קו אורך" },
+      "definition": {
+        "en": "The angular distance of a place east or west of the Prime Meridian (passing through Greenwich, London), measured in degrees from 0° to 180°. While sailors in the Age of Exploration could measure latitude fairly easily, calculating longitude at sea was extremely difficult — it required knowing the exact time difference between their current location and a fixed reference point. This problem was finally solved in the 18th century with the invention of the marine chronometer.",
+        "he": "המרחק הזוויתי של מקום מזרח או מערב של קו האורך הראשי (העובר דרך גריניץ', לונדון), הנמדד במעלות מ-0° ל-180°. בעוד שמלחים בעידן הגילויים יכלו למדוד קו רוחב בנחת יחסית, חישוב קו האורך בים היה קשה ביותר — הדבר דרש ידיעת הפרש הזמן המדויק בין מיקומם הנוכחי לנקודת ייחוס קבועה. בעיה זו נפתרה סופית במאה ה-18 עם המצאת הכרונומטר הימי."
+      },
+      "category": "science"
+    },
+    {
+      "id": "t-d05-07",
+      "term": { "en": "Age of Exploration", "he": "עידן הגילויים" },
+      "definition": {
+        "en": "The period from the early 15th century to the 17th century when European sailors, led first by the Portuguese and Spanish, explored and mapped the coastlines of Africa, the Americas, Asia, and the Pacific Ocean. This era of exploration connected previously isolated civilizations, established global trade routes, and dramatically changed the world — though it also brought devastating consequences for many indigenous peoples through conquest and colonization.",
+        "he": "התקופה מתחילת המאה ה-15 ועד המאה ה-17 שבה מלחים אירופאים, שהובלו תחילה על ידי הפורטוגלים והספרדים, חקרו ומיפו את קווי החוף של אפריקה, אמריקה, אסיה ואוקיאנוס השקט. עידן הגילויים חיבר ציביליזציות שהיו מבודדות בעבר, הקים מסלולי סחר עולמיים, ושינה את העולם באופן דרמטי — אם כי הביא גם השלכות הרסניות לעמים ילידים רבים באמצעות כיבוש וקולוניאליזם."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-d05-08",
+      "term": { "en": "Magnetic Declination", "he": "שקיעה מגנטית" },
+      "definition": {
+        "en": "The angle between magnetic north (what a compass needle points to) and true geographic north (the actual North Pole). A compass does not point to the geographic North Pole but to the magnetic north pole, which is in a slightly different location. Navigators in the Age of Exploration learned to account for this difference when using compasses to navigate. Today, GPS systems automatically correct for magnetic declination.",
+        "he": "הזווית בין הצפון המגנטי (לשם מחוג המצפן מצביע) לבין הצפון הגיאוגרפי האמיתי (הקוטב הצפוני בפועל). מצפן אינו מצביע על הקוטב הגיאוגרפי הצפוני אלא על הקוטב הצפוני המגנטי, הנמצא במיקום שונה במקצת. מנווטים בעידן הגילויים למדו להתחשב בהבדל זה בעת שימוש במצפנים לניווט. כיום, מערכות GPS מתקנות אוטומטית את השקיעה המגנטית."
+      },
+      "category": "science"
+    },
+    {
+      "id": "t-d05-09",
+      "term": { "en": "Trade Winds", "he": "רוחות הסחר" },
+      "definition": {
+        "en": "Steady winds that blow near the equator from east to west, caused by the Earth's rotation and the heating of air near the equator. Trade winds are so named because sailing ships used them to sail reliably across the Atlantic and Pacific oceans for trade. Sailors like Columbus relied on trade winds to cross the Atlantic Ocean westward to the Americas, and used different winds further north to return to Europe.",
+        "he": "רוחות קבועות הנושבות קרוב לקו המשווה ממזרח למערב, הנגרמות על ידי סיבוב כדור הארץ וחימום האוויר קרוב לקו המשווה. רוחות הסחר נקראות כך מכיוון שספינות מפרשים השתמשו בהן לשוט באמינות על פני האוקיינוסים האטלנטי והשקט למסחר. מלחים כגון קולומבוס הסתמכו על רוחות הסחר לחצות את האוקיינוס האטלנטי מערבה לאמריקה, והשתמשו ברוחות שונות בצפון כדי לחזור לאירופה."
+      },
+      "category": "science"
+    },
+    {
+      "id": "t-d05-10",
+      "term": { "en": "Portolan Chart", "he": "מפת פורטולן" },
+      "definition": {
+        "en": "A highly detailed nautical map developed in the Mediterranean from the 13th century onward, showing coastlines, ports, and compass directions. Portolan charts were the most accurate maps of their time and were used by sailors navigating the Mediterranean and, later, the oceans. They were drawn on sheepskin (vellum) and showed an intricate network of rhumb lines (compass direction lines) radiating from multiple points to help sailors plot their course.",
+        "he": "מפה ימית מפורטת מאוד שפותחה בים התיכון מהמאה ה-13 ואילך, המציגה קווי חוף, נמלים וכיווני מצפן. מפות הפורטולן היו המפות המדויקות ביותר בזמנן ושימשו מלחים המנווטים בים התיכון ובהמשך בים הפתוח. הן צוירו על עור כבש (קלף) והציגו רשת מורכבת של קווי כיוון מצפן (קווי רומב) הקורנים מנקודות מרובות כדי לעזור למלחים לתכנן את מסלולם."
+      },
+      "category": "invention"
+    },
+    {
+      "id": "t-d05-11",
+      "term": { "en": "Navigation", "he": "ניווט" },
+      "definition": {
+        "en": "The process of planning and controlling the route of a ship, aircraft, or other vehicle from one place to another. In the Age of Exploration, sailors used a combination of tools — compass, astrolabe, charts, and dead reckoning (estimating position based on known speed and direction) — to navigate across vast oceans without landmarks. Today, GPS satellites make navigation much easier and more precise.",
+        "he": "תהליך תכנון ושליטה במסלול של ספינה, מטוס או כלי רכב אחר ממקום אחד לאחר. בעידן הגילויים, מלחים השתמשו בשילוב של כלים — מצפן, אסטרולב, מפות וחישוב מדומה (אמדן מיקום על סמך מהירות וכיוון ידועים) — כדי לנווט על פני אוקיינוסים עצומים ללא ציוני דרך. כיום, לוויני GPS הופכים את הניווט לקל ומדויק הרבה יותר."
+      },
+      "category": "science"
+    },
+    {
+      "id": "t-d05-12",
+      "term": { "en": "Cape of Good Hope", "he": "כף התקווה הטובה" },
+      "definition": {
+        "en": "The southernmost tip of Africa, where the Atlantic and Indian Oceans meet. Portuguese explorer Bartolomeu Dias first rounded the Cape in 1488, proving it was possible to sail from Europe to Asia by going around Africa. Vasco da Gama later completed this journey in 1497–1498, establishing a vital sea trade route that broke the Arab and Ottoman monopoly on the spice trade with Asia.",
+        "he": "הקצה הדרומי ביותר של אפריקה, שבו נפגשים האוקיינוס האטלנטי וההודי. החוקר הפורטוגלי ברתולומיאו דיאש עגן לראשונה את הכף בשנת 1488, והוכיח שניתן לשוט מאירופה לאסיה בדרך סביב אפריקה. ואסקו דה גמה השלים מסע זה מאוחר יותר בשנים 1497–1498, ויצר מסלול סחר ים חיוני ששבר את המונופול הערבי והעות'מאני על סחר התבלינים עם אסיה."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-d05-13",
+      "term": { "en": "Quadrant", "he": "רביע" },
+      "definition": {
+        "en": "A navigation instrument shaped like a quarter circle (hence the name), used to measure the angle of the sun or stars above the horizon. Like the astrolabe, it helped sailors determine their latitude. The quadrant was simpler to use than the astrolabe and became a standard tool for navigators during the Age of Exploration. It was later replaced by the sextant, which was even more accurate.",
+        "he": "מכשיר ניווט בצורת רבע מעגל (ומכאן שמו), המשמש למדידת זווית השמש או הכוכבים מעל האופק. כמו האסטרולב, הוא עזר למלחים לקבוע את קו הרוחב שלהם. הרביע היה פשוט יותר לשימוש מהאסטרולב והפך לכלי סטנדרטי לנווטים בעידן הגילויים. הוא הוחלף מאוחר יותר על ידי הסקסטנט, שהיה מדויק אפילו יותר."
+      },
+      "category": "invention"
+    },
+    {
+      "id": "t-d05-14",
+      "term": { "en": "Vasco da Gama", "he": "ואסקו דה גמה" },
+      "definition": {
+        "en": "A Portuguese explorer (c. 1460–1524) who completed the first sea voyage from Europe to India by sailing around Africa in 1497–1498, fulfilling the goal that Prince Henry the Navigator had set decades earlier. Da Gama's successful voyage opened a direct sea trade route to Asia, bringing spices, silks, and other valuable goods to Europe and making Portugal fabulously wealthy.",
+        "he": "חוקר פורטוגלי (כ. 1460–1524) שהשלים את המסע הימי הראשון מאירופה להודו על ידי שיט סביב אפריקה בשנים 1497–1498, ובכך מימש את המטרה שהציב הנסיך הנרי הנווט עשורים קודם לכן. מסעו המוצלח של דה גמה פתח מסלול סחר ים ישיר לאסיה, הביא תבלינים, משי ומוצרים יקרי ערך אחרים לאירופה, ועשה את פורטוגל עשירה להפליא."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-d05-15",
+      "term": { "en": "Dead Reckoning", "he": "חישוב מדומה" },
+      "definition": {
+        "en": "A navigation method where sailors estimated their current position by starting from a known location and tracking their direction and speed over time. If you knew where you started, how fast you were going, and which direction you were sailing, you could calculate roughly where you were. Dead reckoning worked reasonably well but accumulated errors over long voyages, which is why celestial navigation (using stars) was also essential.",
+        "he": "שיטת ניווט שבה מלחים אמדו את מיקומם הנוכחי על ידי התחלה ממיקום ידוע ומעקב אחרי כיוונם ומהירותם לאורך זמן. אם ידעת מאיפה התחלת, כמה מהר הלכת ובאיזה כיוון שטת, יכולת לחשב בערך היכן אתה. החישוב המדומה עבד בסבירות טובה אך צבר שגיאות במשך מסעות ארוכים, וזו הסיבה שניווט שמיימי (באמצעות כוכבים) היה חיוני גם כן."
+      },
+      "category": "science"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q-d05-01",
+      "question": {
+        "en": "Why was Prince Henry called 'the Navigator' even though he rarely sailed himself?",
+        "he": "מדוע כונה הנסיך הנרי 'הנווט' למרות שלעיתים רחוקות יצא לים בעצמו?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Because he invented the compass", "he": "כי הוא המציא את המצפן" } },
+        { "id": "b", "text": { "en": "Because he organized and funded sea expeditions and a school of navigation", "he": "כי הוא ארגן ומימן מסעות ים ובית ספר לניווט" } },
+        { "id": "c", "text": { "en": "Because he drew all the maps himself", "he": "כי הוא צייר את כל המפות בעצמו" } },
+        { "id": "d", "text": { "en": "Because he sailed around Africa", "he": "כי הוא שט סביב אפריקה" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Henry was called 'the Navigator' not because he sailed extensively himself, but because he organized, funded, and directed dozens of sea expeditions and established a famous navigation school at Sagres, Portugal. He brought together the best navigators, cartographers, and shipbuilders of his time to advance the science of exploration.",
+        "he": "הנרי כונה 'הנווט' לא מכיוון שהוא עצמו שט רבות, אלא מכיוון שהוא ארגן, מימן והנחה עשרות מסעות ים והקים בית ספר לניווט מפורסם בסאגרס, פורטוגל. הוא כינס את הנווטים, הקרטוגרפים ובוני הספינות הטובים ביותר בזמנו כדי להקדם את מדע החקירה."
+      }
+    },
+    {
+      "id": "q-d05-02",
+      "question": {
+        "en": "What type of ship did the Portuguese develop for ocean exploration?",
+        "he": "איזה סוג ספינה פיתחו הפורטוגלים לחקירת הים?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "The galley", "he": "הגלאי" } },
+        { "id": "b", "text": { "en": "The caravel", "he": "הקרוול" } },
+        { "id": "c", "text": { "en": "The galleon", "he": "הגאלאון" } },
+        { "id": "d", "text": { "en": "The longship", "he": "הספינה הארוכה" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The caravel was a small, maneuverable sailing ship developed by the Portuguese in the 15th century. Its triangular lateen sails could sail into the wind, making it much more versatile than older ships. Columbus used two caravels — the Niña and Pinta — on his 1492 voyage to the Americas.",
+        "he": "הקרוול היה ספינת מפרשים קטנה וניתנת לתמרון שפותחה על ידי הפורטוגלים במאה ה-15. המפרשים המשולשים שלה יכלו לשוט נגד הרוח, מה שהפך אותה לרב-תכליתית הרבה יותר מספינות ישנות יותר. קולומבוס השתמש בשני קרוולים — הניניה והפינטה — במסעו משנת 1492 לאמריקה."
+      }
+    },
+    {
+      "id": "q-d05-03",
+      "question": {
+        "en": "What instrument did sailors use to measure their latitude by checking the angle of the sun or stars?",
+        "he": "איזה מכשיר השתמשו מלחים לקביעת קו הרוחב שלהם על ידי בדיקת זווית השמש או הכוכבים?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "A compass", "he": "מצפן" } },
+        { "id": "b", "text": { "en": "An astrolabe", "he": "אסטרולב" } },
+        { "id": "c", "text": { "en": "A telescope", "he": "טלסקופ" } },
+        { "id": "d", "text": { "en": "A barometer", "he": "ברומטר" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Sailors used an astrolabe to measure the angle of the sun at noon or the North Star at night above the horizon. By comparing this angle to tables of expected angles at different latitudes, they could calculate how far north or south they were. The astrolabe was essential for ocean navigation during the Age of Exploration.",
+        "he": "מלחים השתמשו באסטרולב למדידת זווית השמש בצהריים או כוכב הצפון בלילה מעל האופק. על ידי השוואת זווית זו לטבלאות של זוויות צפויות בקווי רוחב שונים, הם יכלו לחשב כמה צפון או דרום הם נמצאים. האסטרולב היה חיוני לניווט בים הפתוח בעידן הגילויים."
+      }
+    },
+    {
+      "id": "q-d05-04",
+      "question": {
+        "en": "Who was the first European explorer to sail around the Cape of Good Hope?",
+        "he": "מי היה החוקר האירופי הראשון שהפליג סביב כף התקווה הטובה?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Vasco da Gama", "he": "ואסקו דה גמה" } },
+        { "id": "b", "text": { "en": "Christopher Columbus", "he": "כריסטופר קולומבוס" } },
+        { "id": "c", "text": { "en": "Bartolomeu Dias", "he": "ברתולומיאו דיאש" } },
+        { "id": "d", "text": { "en": "Ferdinand Magellan", "he": "פרדיננד מגלן" } }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Bartolomeu Dias was the first European to sail around the Cape of Good Hope in 1488, proving it was possible to reach the Indian Ocean by sailing around Africa. Vasco da Gama later completed the full voyage to India in 1497–1498, building on Dias's discovery to open the sea route to Asia.",
+        "he": "ברתולומיאו דיאש היה הראשון מבין האירופאים להפליג סביב כף התקווה הטובה בשנת 1488, והוכיח שניתן להגיע לאוקיינוס ההודי על ידי שיט סביב אפריקה. ואסקו דה גמה השלים מאוחר יותר את המסע המלא להודו בשנים 1497–1498, ובנה על גילויו של דיאש לפתיחת מסלול הים לאסיה."
+      }
+    },
+    {
+      "id": "q-d05-05",
+      "question": {
+        "en": "What does 'latitude' measure?",
+        "he": "מה מודד 'קו הרוחב'?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "How far east or west you are", "he": "כמה מזרח או מערב אתה נמצא" } },
+        { "id": "b", "text": { "en": "How far north or south you are from the equator", "he": "כמה צפון או דרום אתה מקו המשווה" } },
+        { "id": "c", "text": { "en": "How high above sea level you are", "he": "כמה גבוה מעל פני הים אתה נמצא" } },
+        { "id": "d", "text": { "en": "The depth of the ocean below you", "he": "עומק האוקיינוס מתחתיך" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Latitude measures how far north or south a place is from the Earth's equator, expressed in degrees from 0° (equator) to 90° (poles). Sailors could measure latitude using an astrolabe or quadrant by checking the height of the North Star or the midday sun. Longitude (east-west position) was much harder to measure at sea.",
+        "he": "קו הרוחב מודד כמה צפון או דרום מקום נמצא מקו המשווה של כדור הארץ, מבוטא במעלות מ-0° (קו המשווה) ל-90° (קטבים). מלחים יכלו למדוד קו רוחב באמצעות אסטרולב או רביע על ידי בדיקת גובה כוכב הצפון או השמש בצהריים. קו האורך (מיקום מזרח-מערב) היה הרבה יותר קשה למדידה בים."
+      }
+    },
+    {
+      "id": "q-d05-06",
+      "question": {
+        "en": "Where did Henry the Navigator establish his famous school of navigation?",
+        "he": "היכן הקים הנרי הנווט את בית הספר המפורסם שלו לניווט?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Lisbon, Portugal", "he": "ליסבון, פורטוגל" } },
+        { "id": "b", "text": { "en": "Sagres, Portugal", "he": "סאגרס, פורטוגל" } },
+        { "id": "c", "text": { "en": "Seville, Spain", "he": "סביליה, ספרד" } },
+        { "id": "d", "text": { "en": "Genoa, Italy", "he": "גנובה, איטליה" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Henry the Navigator established his navigation school at Sagres, on the southwestern tip of Portugal. It was the perfect location — close to the ocean and at the edge of the known world. There, he brought together sailors, cartographers, astronomers, and shipbuilders from across Europe and the Arab world to advance navigation science.",
+        "he": "הנרי הנווט הקים את בית הספר לניווט שלו בסאגרס, בקצה הדרום-מערבי של פורטוגל. זה היה המיקום המושלם — קרוב לים ובשולי העולם הידוע. שם כינס מלחים, קרטוגרפים, אסטרונומים ובוני ספינות מרחבי אירופה והעולם הערבי לקידום מדע הניווט."
+      }
+    },
+    {
+      "id": "q-d05-07",
+      "question": {
+        "en": "What are trade winds?",
+        "he": "מה הן רוחות הסחר?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Winds that blow only in winter", "he": "רוחות הנושבות רק בחורף" } },
+        { "id": "b", "text": { "en": "Steady winds near the equator blowing from east to west", "he": "רוחות קבועות קרוב לקו המשווה הנושבות ממזרח למערב" } },
+        { "id": "c", "text": { "en": "Winds caused by storms at sea", "he": "רוחות הנגרמות על ידי סערות בים" } },
+        { "id": "d", "text": { "en": "Winds that only blow in port areas", "he": "רוחות הנושבות רק בסביבות נמלים" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Trade winds are steady winds that blow near the equator from east to west, caused by the Earth's rotation and the heating of air near the equator. Columbus used these winds to cross the Atlantic from east to west in 1492. They were called 'trade winds' because they reliably helped sailing ships engaged in trade cross the oceans.",
+        "he": "רוחות הסחר הן רוחות קבועות הנושבות קרוב לקו המשווה ממזרח למערב, הנגרמות על ידי סיבוב כדור הארץ וחימום האוויר קרוב לקו המשווה. קולומבוס השתמש ברוחות אלה לחצות את האוקיינוס האטלנטי ממזרח למערב בשנת 1492. הן נקראו 'רוחות סחר' מכיוון שהן עזרו באמינות לספינות מפרשים העוסקות בסחר לחצות את האוקיינוסים."
+      }
+    },
+    {
+      "id": "q-d05-08",
+      "question": {
+        "en": "Why was measuring longitude at sea so difficult for explorers?",
+        "he": "מדוע מדידת קו האורך בים הייתה כה קשה לחוקרים?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "No one knew what longitude was", "he": "אף אחד לא ידע מה זה קו אורך" } },
+        { "id": "b", "text": { "en": "It required knowing the exact time difference between two locations, which needed a very accurate clock", "he": "הדבר דרש ידיעת הפרש הזמן המדויק בין שני מיקומים, שהצריך שעון מדויק מאוד" } },
+        { "id": "c", "text": { "en": "The stars didn't help with east-west position", "he": "הכוכבים לא עזרו עם המיקום מזרח-מערב" } },
+        { "id": "d", "text": { "en": "Compass needles pointed east instead of north in the ocean", "he": "מחוגי מצפן הצביעו מזרחה במקום צפונה באוקיינוס" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Measuring longitude at sea required knowing the exact time difference between your current location and a reference point (like your home port). Since Earth rotates 360° in 24 hours, each hour of time difference equals 15° of longitude. But early mechanical clocks were not accurate enough at sea, so longitude was very hard to determine until John Harrison's marine chronometer was invented in the 18th century.",
+        "he": "מדידת קו האורך בים דרשה ידיעת הפרש הזמן המדויק בין מיקומך הנוכחי לנקודת ייחוס (כגון נמל הבית שלך). מכיוון שכדור הארץ מסתובב 360° ב-24 שעות, כל שעת הפרש זמן שווה ל-15° של קו אורך. אך שעונים מכניים מוקדמים לא היו מדויקים מספיק בים, ולכן קו האורך היה קשה מאוד לקביעה עד שהכרונומטר הימי של ג'ון הריסון הומצא במאה ה-18."
+      }
+    },
+    {
+      "id": "q-d05-09",
+      "question": {
+        "en": "What special feature did the caravel's lateen sails have?",
+        "he": "איזה תכונה מיוחדת היו למפרשים המשולשים (לאטיניים) של הקרוול?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "They were made of silk for extra strength", "he": "הם היו עשויים ממשי לחוזק נוסף" } },
+        { "id": "b", "text": { "en": "They allowed the ship to sail into the wind", "he": "הם אפשרו לספינה לשוט נגד הרוח" } },
+        { "id": "c", "text": { "en": "They automatically adjusted to the wind direction", "he": "הם כוונו אוטומטית לכיוון הרוח" } },
+        { "id": "d", "text": { "en": "They were much larger than regular sails", "he": "הם היו הרבה יותר גדולים ממפרשים רגילים" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The caravel's triangular lateen sails could be angled to catch wind from the side, allowing the ship to sail into (against) the wind using a zigzag technique called tacking. Earlier square-rigged ships could only sail with the wind behind them. This gave caravels much greater flexibility in navigation, essential for ocean exploration.",
+        "he": "המפרשים המשולשים (לאטיניים) של הקרוול ניתנו להטיה כדי לתפוס רוח מהצד, ובכך לאפשר לספינה לשוט נגד הרוח תוך שימוש בטכניקת זיגזג הנקראת 'tacking'. ספינות עם מפרשים מרובעים ישנות יותר יכלו לשוט רק עם הרוח מאחוריהן. זה נתן לקרוולים גמישות הרבה יותר גדולה בניווט, חיוני לחקירת הים."
+      }
+    },
+    {
+      "id": "q-d05-10",
+      "question": {
+        "en": "What was the main goal of the Portuguese expeditions down the African coast?",
+        "he": "מה הייתה המטרה העיקרית של המסעות הפורטוגליים לאורך החוף האפריקאי?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "To find gold mines in Africa", "he": "למצוא מכרות זהב באפריקה" } },
+        { "id": "b", "text": { "en": "To find a sea route to Asia for spices and trade goods", "he": "למצוא מסלול ים לאסיה לתבלינים ומוצרי סחר" } },
+        { "id": "c", "text": { "en": "To establish colonies in Africa", "he": "להקים מושבות באפריקה" } },
+        { "id": "d", "text": { "en": "To prove that the Earth was round", "he": "להוכיח שכדור הארץ הוא עגול" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The main goal of the Portuguese expeditions down the African coast was to find a sea route to Asia — specifically to the spice-producing regions of India and Southeast Asia. Spices like pepper, cinnamon, and nutmeg were extremely valuable in Europe, but the overland routes were controlled by Arab and Ottoman merchants who charged high prices.",
+        "he": "המטרה העיקרית של המסעות הפורטוגליים לאורך החוף האפריקאי הייתה למצוא מסלול ים לאסיה — באופן ספציפי לאזורים המייצרים תבלינים בהודו ובדרום-מזרח אסיה. תבלינים כגון פלפל, קינמון וג'וזת מוסקט היו יקרי ערך מאוד באירופה, אך המסלולים היבשתיים נשלטו על ידי סוחרים ערבים ועות'מאניים שגבו מחירים גבוהים."
+      }
+    }
+  ],
+  "videoSources": ["zzm_Kk4ouXU"]
+}

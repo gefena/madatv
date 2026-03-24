@@ -14,7 +14,8 @@ export interface SeriesMeta {
 
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 const seriesModules: Record<string, () => Promise<{ default: any }>> = {
-  life: () => import("@/content/series/life.json"),
+  life:         () => import("@/content/series/life.json"),
+  discoverers:  () => import("@/content/series/discoverers.json"),
 };
 
 export const SERIES_IDS = Object.keys(seriesModules);
