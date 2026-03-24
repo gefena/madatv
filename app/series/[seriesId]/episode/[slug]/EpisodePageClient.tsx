@@ -30,7 +30,7 @@ export default function EpisodePageClient({ seriesId, slug }: Props) {
   useEffect(() => {
     if (!slug) return;
     import("@/lib/content").then(({ getEpisode }) => {
-      getEpisode(slug).then((ep) => {
+      getEpisode(slug, seriesId).then((ep) => {
         setEpisode(ep);
         setLoading(false);
         if (ep) {
