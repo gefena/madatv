@@ -38,7 +38,7 @@ export default function MadaTVHome() {
           </div>
 
           {/* MadaTV logo text */}
-          <h1 className="text-4xl font-black sm:text-5xl md:text-6xl lg:text-7xl leading-none tracking-tight flex items-center justify-center gap-3 flex-wrap">
+          <h1 className="text-4xl font-black sm:text-5xl md:text-6xl lg:text-7xl leading-none tracking-tight flex items-center justify-center gap-3 flex-wrap" dir="ltr">
             <span>
               <span className="text-indigo-800">Mada</span>
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-pink-500">TV</span>

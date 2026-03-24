@@ -18,7 +18,7 @@ export function Header() {
             <MadaTVLogo size={40} />
           </div>
           <div>
-            <div className="flex items-center gap-1.5 leading-none">
+            <div className="flex items-center gap-1.5 leading-none" dir="ltr">
               <span className="text-lg font-black tracking-tight text-indigo-700 group-hover:text-indigo-900 transition-colors">Mada</span>
               <span className="text-lg font-black tracking-tight text-transparent bg-clip-text bg-gradient-to-r from-purple-500 via-fuchsia-500 to-pink-500">TV</span>
               <span className="text-[10px] font-black px-1.5 py-0.5 rounded-md bg-gradient-to-r from-orange-400 to-pink-500 text-white shadow-sm">
