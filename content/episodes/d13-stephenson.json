@@ -8,7 +8,7 @@
   },
   "summary": {
     "en": "This episode tells the story of George Stephenson, the self-taught engineer who built the world's first public steam-powered railway and transformed how people and goods travel across the world. Born in 1781 in a poor mining family in Northumberland, England, Stephenson never went to school but taught himself to read and became fascinated with the steam engines used in coal mines. In 1814 he built his first steam locomotive, Blucher, and went on to design the famous Rocket with his son Robert, which won the Rainhill Trials in 1829 and proved that steam locomotion was faster and more reliable than horse-drawn vehicles. In 1825, the Stockton and Darlington Railway became the world's first public steam railway, followed by the Liverpool and Manchester Railway in 1830. The episode explores how railways shrank distances, enabled the growth of cities, changed working life, and sparked the golden age of steam — making Stephenson one of the most important figures of the Industrial Revolution.",
-    "he": "פרק זה מספר את סיפורו של ג'ורג' סטיבנסון, המהנדס השלמד שבנה את מסילת הברזל הראשונה בעולם לשימוש הציבור ושינה את אופן נסיעת אנשים וסחורות ברחבי העולם. נולד בשנת 1781 למשפחת כורים עניים בנורת'אמברלנד, אנגליה, סטיבנסון לא הלך לבית ספר אך לימד את עצמו לקרוא והיה מרותק למנועי הקיטור ששימשו במכרות פחם. בשנת 1814 בנה את הקטר הראשון שלו, בלוצ'ר, והמשיך לעצב את הרוקט המפורסם עם בנו רוברט, שזכה במירוץ ריינהיל בשנת 1829 והוכיח שתחבורת קיטור מהירה ואמינה יותר מכלי רכב רתומי סוסים. בשנת 1825, מסילת הברזל של סטוקטון-דרינגטון הפכה למסילת הקיטור הציבורית הראשונה בעולם, ואחריה מסילת ליברפול-מנצ'סטר בשנת 1830. הפרק בוחן כיצד מסילות הברזל כיווצו מרחקים, אפשרו את צמיחת הערים, שינו את חיי העבודה ועוררו את עידן הקיטור המוזהב — מה שהפך את סטיבנסון לאחד הדמויות החשובות ביותר של המהפכה התעשייתית."
+    "he": "פרק זה מספר את סיפורו של ג'ורג' סטיבנסון, המהנדס השלמד שבנה את מסילת הברזל הראשונה בעולם לשימוש הציבור ושינה את אופן נסיעת אנשים וסחורות ברחבי העולם. נולד בשנת 1781 למשפחת כורים עניים בנורת'אמברלנד, אנגליה, סטיבנסון לא הלך לבית ספר אך לימד את עצמו לקרוא והיה מרותק למנועי הקיטור ששימשו במכרות פחם. בשנת 1814 בנה את הקטר הראשון שלו, בלוצ'ר, והמשיך לעצב את הרוקט המפורסם עם בנו רוברט, שזכה במירוץ ריינהיל בשנת 1829 והוכיח שתחבורת קיטור מהירה ואמינה יותר מכלי רכב רתומי סוסים. בשנת 1825, מסילת הברזל של סטוקטון-דרינגטון הפכה למסילת הקיטור הציבורית הראשונה בעולם, ואחריה מסילת ליברפול-מנצ'סטר בשנת 1830. הפרק בוחן כיצד מסילות הברזל כיווצו מרחקים, אפשרו את צמיחת הערים, שינו את חיי העבודה ועוררו את עידן הקיטור המוזהב — מה שהפך את סטיבנסון לאחת הדמויות החשובות ביותר של המהפכה התעשייתית."
   },
   "thumbnail": "https://img.youtube.com/vi/GXYSEgpqPCU/maxresdefault.jpg",
   "durationMinutes": 26,
@@ -24,7 +24,7 @@
       "term": { "en": "Steam Locomotive", "he": "קטר קיטור" },
       "definition": {
         "en": "A railway vehicle powered by a steam engine that burns coal or wood to heat water, producing steam that pushes pistons to turn the wheels. Stephenson's Rocket (1829) was the breakthrough design that launched the railway age.",
-        "he": "רכב מסילה המונע על ידי מנוע קיטור השורף פחם או עץ כדי לחמם מים, ומייצר קיטור הדוחף בוכנות להסתובב את הגלגלים. הרוקט של סטיבנסון (1829) היה העיצוב פורץ הדרך שהשיק את עידן מסילות הברזל."
+        "he": "רכב מסילה המונע על ידי מנוע קיטור השורף פחם או עץ כדי לחמם מים, ומייצר קיטור הדוחף בוכנות, שבתורן מסובבות את הגלגלים. הרוקט של סטיבנסון (1829) היה העיצוב פורץ הדרך שהשיק את עידן מסילות הברזל."
       },
       "category": "technology"
     },

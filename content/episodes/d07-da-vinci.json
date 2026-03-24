@@ -8,7 +8,7 @@
   },
   "summary": {
     "en": "This episode celebrates Leonardo da Vinci, perhaps the greatest genius in human history — a man who was simultaneously a painter, sculptor, architect, musician, mathematician, engineer, inventor, anatomist, geologist, botanist, and writer. Born in Vinci, Italy in 1452, Leonardo's curiosity was boundless: he filled thousands of notebook pages with detailed sketches of flying machines, armored vehicles, solar power, hydraulic machines, and the human body. His paintings — including the Mona Lisa and The Last Supper — are among the most studied artworks ever created, notable for revolutionary techniques like sfumato and the precise rendering of human emotion. Through detailed anatomical studies, Leonardo produced drawings of the human body that would not be surpassed for centuries. The episode explores how Leonardo's genius lay not only in his extraordinary skill across disciplines but in his ability to observe the natural world with fresh, unbiased eyes — seeing connections between art, science, and engineering that others missed entirely.",
-    "he": "פרק זה חוגג את לאונרדו דה וינצ'י, אולי הגאון הגדול ביותר בתולדות האנושות — איש שהיה בו-זמנית צייר, פסל, אדריכל, מוזיקאי, מתמטיקאי, מהנדס, ממציא, אנטום, גיאולוג, בוטניקאי וסופר. נולד בוינצ'י, איטליה בשנת 1452, סקרנותו של לאונרדו הייתה אין-סופית: הוא מילא אלפי עמודי מחברת בשרטוטים מפורטים של מכונות טיסה, רכבים משוריינים, אנרגיה סולארית, מכונות הידראוליות וגוף האדם. ציוריו — כולל מונה ליזה וסעודת הנשל — הם מיצירות האמנות הנחקרות ביותר שנוצרו אי פעם, הבולטות בטכניקות מהפכניות כמו ספומאטו והעיבוד המדויק של רגש אנושי. דרך מחקרים אנטומיים מפורטים, הפיק לאונרדו שרטוטים של גוף האדם שלא יעלו עליהם במשך מאות שנים. הפרק בוחן כיצד גאונותו של לאונרדו לא טמנה רק במיומנות יוצאת הדופן שלו בפני תחומים אלא ביכולתו לצפות בעולם הטבעי בעיניים טריות, בלתי מוטות — לראות קשרים בין אמנות, מדע והנדסה שאחרים פספסו לחלוטין."
+    "he": "פרק זה חוגג את לאונרדו דה וינצ'י, אולי הגאון הגדול ביותר בתולדות האנושות — איש שהיה בו-זמנית צייר, פסל, אדריכל, מוזיקאי, מתמטיקאי, מהנדס, ממציא, אנטום, גיאולוג, בוטניקאי וסופר. נולד בוינצ'י, איטליה בשנת 1452, סקרנותו של לאונרדו הייתה אין-סופית: הוא מילא אלפי עמודי מחברת בשרטוטים מפורטים של מכונות טיסה, רכבים משוריינים, אנרגיה סולארית, מכונות הידראוליות וגוף האדם. ציוריו — כולל מונה ליזה והסעודה האחרונה — הם מיצירות האמנות הנחקרות ביותר שנוצרו אי פעם, הבולטות בטכניקות מהפכניות כמו ספומאטו והעיבוד המדויק של רגש אנושי. דרך מחקרים אנטומיים מפורטים, הפיק לאונרדו שרטוטים של גוף האדם שלא יעלו עליהם במשך מאות שנים. הפרק בוחן כיצד גאונותו של לאונרדו לא התבטאה רק במיומנותו יוצאת הדופן בתחומים שונים אלא ביכולתו לצפות בעולם הטבעי בעיניים טריות, בלתי מוטות — לראות קשרים בין אמנות, מדע והנדסה שאחרים פספסו לחלוטין."
   },
   "thumbnail": "https://img.youtube.com/vi/-u8xDgnN8X0/maxresdefault.jpg",
   "durationMinutes": 26,
@@ -102,7 +102,7 @@
     },
     {
       "id": "t-d07-10",
-      "term": { "en": "The Last Supper", "he": "סעודת הנשל" },
+      "term": { "en": "The Last Supper", "he": "הסעודה האחרונה" },
       "definition": {
         "en": "A large mural painting by Leonardo, depicting the moment Jesus tells his apostles that one will betray him. Painted on a wall in Milan between 1495 and 1498, it is famous for capturing the different emotional reactions of each disciple and its masterful use of perspective drawing the eye to Jesus at the center.",
         "he": "ציור קיר גדול של לאונרדו, המציג את הרגע שבו ישוע אומר לשליחיו שאחד יבגוד בו. צויר על קיר במילאנו בין השנים 1495 ל-1498, הוא מפורסם בלכידת התגובות הרגשיות השונות של כל תלמיד ובשימוש המאסטרי בפרספקטיבה המפנה את העין לישוע במרכז."
@@ -132,7 +132,7 @@
       "term": { "en": "Armored Vehicle", "he": "רכב משוריין" },
       "definition": {
         "en": "Leonardo designed one of the world's first concepts for an armored fighting vehicle — a shell-like war machine with cannons pointed in all directions, propelled by cranking. This concept, sketched around 1487, anticipated the tank by over 400 years, though it had a design flaw that would have made it spin in circles.",
-        "he": "לאונרדו עיצב אחת מהמושגים הראשונים בעולם לרכב קרב משוריין — מכונת מלחמה בצורת קונכייה עם תותחים המצביעים לכל הכיוונים, מונעת על ידי ידית. מושג זה, שנורטט בסביבות שנת 1487, ציפה לטנק ביותר מ-400 שנה, אם כי היה בו פגם עיצובי שהיה גורם לו להסתובב במעגלים."
+        "he": "לאונרדו עיצב אחד מהמושגים הראשונים בעולם לרכב קרב משוריין — מכונת מלחמה בצורת קונכייה עם תותחים המצביעים לכל הכיוונים, מונעת על ידי ידית. מושג זה, ששורטט בסביבות שנת 1487, ציפה לטנק ביותר מ-400 שנה, אם כי היה בו פגם עיצובי שהיה גורם לו להסתובב במעגלים."
       },
       "category": "invention"
     },
@@ -256,7 +256,7 @@
       "id": "q-d07-09",
       "question": { "en": "What famous drawing shows a human figure inscribed in a circle and square?", "he": "איזה שרטוט מפורסם מציג דמות אנושית הכלואה במעגל ובריבוע?" },
       "choices": [
-        { "id": "a", "text": { "en": "The Last Supper", "he": "סעודת הנשל" } },
+        { "id": "a", "text": { "en": "The Last Supper", "he": "הסעודה האחרונה" } },
         { "id": "b", "text": { "en": "The Vitruvian Man", "he": "איש וויטרובי" } },
         { "id": "c", "text": { "en": "The Mona Lisa", "he": "מונה ליזה" } },
         { "id": "d", "text": { "en": "The Creation of Adam", "he": "בריאת אדם" } }

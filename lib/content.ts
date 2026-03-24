@@ -99,20 +99,18 @@ export async function getEpisode(slug: string, seriesId?: string): Promise<Episo
 
 export async function getSeriesEpisodes(seriesId: string): Promise<EpisodeListItem[]> {
   const slugs = getSeriesEpisodeSlugs(seriesId);
-  const items: EpisodeListItem[] = [];
-  for (const slug of slugs) {
-    const ep = await loadEpisode(slug, seriesId);
-    if (!ep) continue;
-    items.push({
+  const episodes = await Promise.all(slugs.map((slug) => loadEpisode(slug, seriesId)));
+  return episodes
+    .filter((ep): ep is Episode => ep !== null)
+    .sort((a, b) => a.episodeNumber - b.episodeNumber)
+    .map((ep) => ({
       id: ep.id,
       episodeNumber: ep.episodeNumber,
       youtubeId: ep.youtubeId,
       title: ep.title,
       thumbnail: ep.thumbnail,
       durationMinutes: ep.durationMinutes,
-    });
-  }
-  return items.sort((a, b) => a.episodeNumber - b.episodeNumber);
+    }));
 }
 
 /** @deprecated use getSeriesEpisodes(seriesId) */

@@ -8,7 +8,7 @@
   },
   "summary": {
     "en": "This episode explores the extraordinary life and discoveries of Isaac Newton, widely regarded as one of the greatest scientists who ever lived. Born in 1643 in Woolsthorpe, England, Newton formulated the law of universal gravitation — the insight, famously inspired by a falling apple, that the same force pulling an apple to the ground also holds the Moon in its orbit and governs the motion of the planets. He also established his three laws of motion, which describe how objects move and how forces affect them, forming the bedrock of classical mechanics for centuries. Beyond mechanics, Newton made a revolutionary discovery in optics by passing white light through a prism and proving it is composed of all the colors of the rainbow. He also independently co-invented calculus, the branch of mathematics needed to describe changing quantities — though this led to a famous dispute with the German mathematician Leibniz. Newton's masterwork, Principia Mathematica, published in 1687, remains one of the most influential books in the history of science.",
-    "he": "פרק זה חוקר את חייו המדהימים ותגליותיו של אייזק ניוטון, הנחשב באופן נרחב לאחד המדענים הגדולים שחיו אי פעם. נולד ב-1643 בוולסתורפ, אנגליה, ניוטון ניסח את חוק הכבידה האוניברסלית — התובנה, שלהניח נולדה בהשראת תפוח נופל, שאותה כוח המושך תפוח לקרקע גם מחזיק את הירח במסלולו ושולט בתנועת כוכבי הלכת. הוא גם ניסח את שלושת חוקי התנועה שלו, המתארים כיצד עצמים נעים וכיצד כוחות משפיעים עליהם, ומהווים את הבסיס למכניקה הקלאסית במשך מאות שנים. מעבר למכניקה, ניוטון עשה תגלית מהפכנית באופטיקה על ידי העברת אור לבן דרך פריזמה והוכחה שהוא מורכב מכל צבעי הקשת. הוא גם המציא באופן עצמאי את החשבון האינפיניטסימלי, ענף המתמטיקה הדרוש לתיאור כמויות משתנות — אף שהדבר הוביל לוויכוח מפורסם עם המתמטיקאי הגרמני לייבניץ. יצירת המופת של ניוטון, פרינקיפיה מתמטיקה, שפורסמה ב-1687, נותרת אחד הספרים המשפיעים ביותר בתולדות המדע."
+    "he": "פרק זה חוקר את חייו המדהימים ותגליותיו של אייזק ניוטון, הנחשב באופן נרחב לאחד המדענים הגדולים שחיו אי פעם. נולד ב-1643 בוולסתורפ, אנגליה, ניוטון ניסח את חוק הכבידה האוניברסלית — התובנה — כנראה בהשראת תפוח נופל, כך מספרת האגדה —, שאותה כוח המושך תפוח לקרקע גם מחזיק את הירח במסלולו ושולט בתנועת כוכבי הלכת. הוא גם ניסח את שלושת חוקי התנועה שלו, המתארים כיצד עצמים נעים וכיצד כוחות משפיעים עליהם, ומהווים את הבסיס למכניקה הקלאסית במשך מאות שנים. מעבר למכניקה, ניוטון עשה תגלית מהפכנית באופטיקה על ידי העברת אור לבן דרך פריזמה והוכחה שהוא מורכב מכל צבעי הקשת. הוא גם המציא באופן עצמאי את החשבון האינפיניטסימלי, ענף המתמטיקה הדרוש לתיאור כמויות משתנות — אף שהדבר הוביל לוויכוח מפורסם עם המתמטיקאי הגרמני לייבניץ. יצירת המופת של ניוטון, פרינקיפיה מתמטיקה, שפורסמה ב-1687, נותרת אחד הספרים המשפיעים ביותר בתולדות המדע."
   },
   "thumbnail": "https://img.youtube.com/vi/57_A3gRqF9E/maxresdefault.jpg",
   "durationMinutes": 26,
@@ -87,7 +87,7 @@
       },
       "definition": {
         "en": "Newton's masterwork, published in 1687, full title Philosophiæ Naturalis Principia Mathematica ('Mathematical Principles of Natural Philosophy'). It presented Newton's laws of motion and law of universal gravitation, and mathematically explained the motion of planets, moons, comets, and tides.",
-        "he": "יצירת המופת של ניוטון, שפורסמה ב-1687, שמה המלא Philosophiæ Naturalis Principia Mathematica ('עקרונות מתמטיים של פילוסופיה טבעית'). הציגה את חוקי התנועה של ניוטון ואת חוק הכבידה האוניברסלית, והסבירה מתמטית את תנועת כוכבי הלכת, הירחים, השביטים וגאות וירידה."
+        "he": "יצירת המופת של ניוטון, שפורסמה ב-1687, שמה המלא Philosophiæ Naturalis Principia Mathematica ('עקרונות מתמטיים של פילוסופיה טבעית'). הציגה את חוקי התנועה של ניוטון ואת חוק הכבידה האוניברסלית, והסבירה מתמטית את תנועת כוכבי הלכת, הירחים, השביטים וגאות ושפל."
       },
       "category": "historical work"
     },
@@ -143,7 +143,7 @@
       "id": "t-d10-11",
       "term": {
         "en": "Reflecting Telescope",
-        "he": "טלסקופ מחזיר"
+        "he": "טלסקופ השתקפות"
       },
       "definition": {
         "en": "A type of telescope that uses mirrors instead of lenses to collect and focus light. Newton invented the first practical reflecting telescope in 1668 to overcome the problem of color distortion (chromatic aberration) that affected refracting telescopes.",
@@ -299,7 +299,7 @@
       },
       "choices": [
         { "id": "a", "text": { "en": "A refracting telescope with two lenses", "he": "טלסקופ שבירה עם שתי עדשות" } },
-        { "id": "b", "text": { "en": "A reflecting telescope using mirrors", "he": "טלסקופ מחזיר באמצעות מראות" } },
+        { "id": "b", "text": { "en": "A reflecting telescope using mirrors", "he": "טלסקופ השתקפות באמצעות מראות" } },
         { "id": "c", "text": { "en": "A radio telescope", "he": "טלסקופ רדיו" } },
         { "id": "d", "text": { "en": "An infrared telescope", "he": "טלסקופ אינפרא-אדום" } }
       ],

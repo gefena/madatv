@@ -26,7 +26,7 @@
     {
       "id": "t-d16-03",
       "term": { "en": "Dominant Trait", "he": "תכונה דומיננטית" },
-      "definition": { "en": "A trait that appears in an offspring if at least one parent passes on the gene for it, 'overriding' the other version.", "he": "תכונה שמופיעה בצאצא אם לפחות הורה אחד העביר לו את הגן עבורה, ו'עוקפת' את הגרסה האחרת." },
+      "definition": { "en": "A trait that appears in an offspring if at least one parent passes on the gene for it, 'overriding' the other version.", "he": "תכונה שמופיעה בצאצא אם לפחות הורה אחד העביר לו את הגן עבורה, ו'מבטלת' את הגרסה האחרת." },
       "category": "biology"
     },
     {
@@ -91,7 +91,7 @@
     },
     {
       "id": "t-d16-14",
-      "term": { "en": "Pure-breeding", "he": "מין טהור" },
+      "term": { "en": "Pure-breeding", "he": "קו טהור" },
       "definition": { "en": "When a plant or animal always passes the same version of a trait to its offspring because it carries two identical copies of that gene.", "he": "כאשר צמח או בעל חיים תמיד מעביר את אותה גרסת תכונה לצאצאיו מכיוון שהוא נושא שני עותקים זהים של אותו גן." },
       "category": "biology"
     },
@@ -141,7 +141,7 @@
     },
     {
       "id": "q-d16-04",
-      "question": { "en": "What was Mendel's profession before becoming a scientist?", "he": "מה הייתה מקצועו של מנדל לפני שהפך למדען?" },
+      "question": { "en": "What was Mendel's profession before becoming a scientist?", "he": "מה היה מקצועו של מנדל לפני שהפך למדען?" },
       "choices": [
         { "id": "a", "text": { "en": "A doctor", "he": "רופא" } },
         { "id": "b", "text": { "en": "A monk", "he": "נזיר" } },

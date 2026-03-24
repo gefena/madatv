@@ -51,7 +51,7 @@
       },
       "definition": {
         "en": "A widely accepted but wrong 18th-century theory that said all flammable materials contained an invisible fire-substance called 'phlogiston' that was released when they burned. Lavoisier proved this theory was incorrect by showing that burning is a reaction with oxygen, not a release of phlogiston.",
-        "he": "תיאוריה מקובלת אך שגויה מהמאה ה-18 שאמרה שכל החומרים הדליקים מכילים חומר אש בלתי נראה הנקרא 'פלוגיסטון' שמשתחרר בזמן שריפה. לבואזייה הוכיח שתיאוריה זו שגויה על ידי הראה שבעירה היא תגובה עם חמצן, לא שחרור פלוגיסטון."
+        "he": "תיאוריה מקובלת אך שגויה מהמאה ה-18 שאמרה שכל החומרים הדליקים מכילים חומר אש בלתי נראה הנקרא 'פלוגיסטון' שמשתחרר בזמן שריפה. לבואזייה הוכיח שתיאוריה זו שגויה על ידי שהראה שבעירה היא תגובה עם חמצן, לא שחרור פלוגיסטון."
       },
       "category": "historical concept"
     },
@@ -159,7 +159,7 @@
       },
       "definition": {
         "en": "A precision instrument used to measure mass by balancing a known weight against an unknown one. Lavoisier insisted on using extremely accurate balance scales in all his experiments, which allowed him to detect tiny changes in mass and formulate the law of conservation of mass.",
-        "he": "מכשיר דיוק המשמש למדידת מסה על ידי איזון משקל ידוע מול לא ידוע. לבואזייה התעקש להשתמש במאזניים מדויקות במיוחד בכל ניסויי, מה שאיפשר לו לגלות שינויים זעירים במסה ולנסח את חוק שימור המסה."
+        "he": "מכשיר דיוק המשמש למדידת מסה על ידי איזון משקל ידוע מול לא ידוע. לבואזייה התעקש להשתמש במאזניים מדויקות במיוחד בכל ניסוייו, מה שאיפשר לו לגלות שינויים זעירים במסה ולנסח את חוק שימור המסה."
       },
       "category": "scientific instrument"
     },
@@ -234,7 +234,7 @@
       "correctChoice": "b",
       "explanation": {
         "en": "The phlogiston theory held that all combustible materials contained a fire-element called phlogiston, which was released during burning. Lavoisier proved this wrong by showing that burning actually involves oxygen combining with the fuel — and that the total mass of reactants and products remains the same.",
-        "he": "תיאוריית הפלוגיסטון טענה שכל החומרים הדליקים מכילים יסוד אש הנקרא פלוגיסטון, המשתחרר בזמן שריפה. לבואזייה הוכיח שזה שגוי על ידי הראה שבעירה למעשה כוללת חמצן המתחבר עם הדלק — וכי המסה הכוללת של המגיבים והמוצרים נשארת זהה."
+        "he": "תיאוריית הפלוגיסטון טענה שכל החומרים הדליקים מכילים יסוד אש הנקרא פלוגיסטון, המשתחרר בזמן שריפה. לבואזייה הוכיח שזה שגוי על ידי שהראה שבעירה למעשה כוללת חמצן המתחבר עם הדלק — וכי המסה הכוללת של המגיבים והמוצרים נשארת זהה."
       }
     },
     {

@@ -8,7 +8,7 @@
   },
   "summary": {
     "en": "This episode explores one of the most transformative inventions in human history — the printing press — and the man who made it possible: Johannes Gutenberg of Mainz, Germany. Before Gutenberg, books were painstakingly copied by hand, making them extremely rare and expensive; knowledge was the privilege of the clergy and nobility. Around 1450, Gutenberg combined the screw press (used for wine-making), oil-based ink, and movable metal type to create a machine that could reproduce pages of text quickly and accurately. His masterpiece, the Gutenberg Bible, demonstrated that printed books could be as beautiful as hand-copied manuscripts. Within decades, printing presses spread across Europe, and the cost of books fell dramatically — enabling the Renaissance, the Reformation, and the Scientific Revolution by making ideas available to millions. The episode shows how a single mechanical invention fundamentally changed the relationship between knowledge and power.",
-    "he": "פרק זה חוקר את אחד ההמצאות המשנות ביותר בתולדות האנושות — מכונת הדפוס — ואת האיש שהפך אותה לאפשרית: יוהנס גוטנברג ממיינץ, גרמניה. לפני גוטנברג, ספרים הועתקו בעמל רב ביד, מה שהפך אותם נדירים ויקרים ביותר; הידע היה פריבילגיה של הכמורה והאצולה. סביב שנת 1450, שילב גוטנברג את בורגי הלחץ (ששימשו ליצור יין), דיו על בסיס שמן ואותיות מתכת ניידות כדי ליצור מכונה שיכלה לשכפל עמודי טקסט במהירות ובדיוק. יצירת המופת שלו, התנ\"ך של גוטנברג, הוכיחה שספרים מודפסים יכולים להיות יפים כמו כתבי יד. תוך עשרות שנים התפשטו בתי דפוס ברחבי אירופה, ומחיר הספרים ירד באופן דרמטי — מה שאפשר את הרנסנס, הרפורמציה ומהפכת המדע בכך שהפך רעיונות זמינים למיליונים. הפרק מראה כיצד המצאה מכנית אחת שינתה מהותית את היחס בין ידע לכוח."
+    "he": "פרק זה עוסק באחת ההמצאות המשנות ביותר בתולדות האנושות — מכונת הדפוס — ואת האיש שהפך אותה לאפשרית: יוהנס גוטנברג ממיינץ, גרמניה. לפני גוטנברג, ספרים הועתקו בעמל רב ביד, מה שהפך אותם נדירים ויקרים ביותר; הידע היה פריבילגיה של הכמורה והאצולה. סביב שנת 1450, שילב גוטנברג את בורגי הלחץ (ששימשו לכבישת יין), דיו על בסיס שמן ואותיות מתכת ניידות כדי ליצור מכונה שיכלה לשכפל עמודי טקסט במהירות ובדיוק. יצירת המופת שלו, התנ\"ך של גוטנברג, הוכיחה שספרים מודפסים יכולים להיות יפים כמו כתבי יד. תוך עשרות שנים התפשטו בתי דפוס ברחבי אירופה, ומחיר הספרים ירד באופן דרמטי — מה שאפשר את הרנסנס, הרפורמציה ומהפכת המדע בכך שהפך רעיונות זמינים למיליונים. הפרק מראה כיצד המצאה מכנית אחת שינתה מהותית את היחס בין ידע לכוח."
   },
   "thumbnail": "https://img.youtube.com/vi/rpyb12-mzIs/maxresdefault.jpg",
   "durationMinutes": 26,
@@ -42,7 +42,7 @@
       "term": { "en": "Manuscript", "he": "כתב יד" },
       "definition": {
         "en": "A book or document written by hand, typically by trained monks called scribes. Before the printing press, creating a single manuscript Bible could take a monk an entire year or more, making books extremely rare.",
-        "he": "ספר או מסמך שנכתב ביד, בדרך כלל על ידי נזירים מיומנים שנקראו סופרים. לפני מכונת הדפוס, יצירת כתב יד אחד של התנ\"ך יכלה לקחת לנזיר שנה שלמה ויותר, מה שהפך ספרים נדירים ביותר."
+        "he": "ספר או מסמך שנכתב ביד, בדרך כלל על ידי נזירים מיומנים שנקראו סופרים. לפני מכונת הדפוס, יצירת כתב יד אחד של התנ\"ך יכלה לקחת לנזיר שנה שלמה ויותר, מה שהפך ספרים לנדירים ביותר."
       },
       "category": "history"
     },
@@ -178,7 +178,7 @@
         { "id": "d", "text": { "en": "Casting metal letters", "he": "לצקת אותיות מתכת" } }
       ],
       "correctChoice": "b",
-      "explanation": { "en": "Before the printing press, scribes — usually monks — spent years copying books by hand. A single Bible could take over a year to complete, making books extremely rare and expensive.", "he": "לפני מכונת הדפוס, סופרים — בדרך כלל נזירים — בילו שנים בהעתקת ספרים ביד. תנ\"ך אחד יכול היה לקחת יותר משנה להשלמה, מה שהפך ספרים נדירים ויקרים ביותר." }
+      "explanation": { "en": "Before the printing press, scribes — usually monks — spent years copying books by hand. A single Bible could take over a year to complete, making books extremely rare and expensive.", "he": "לפני מכונת הדפוס, סופרים — בדרך כלל נזירים — בילו שנים בהעתקת ספרים ביד. תנ\"ך אחד יכול היה לקחת יותר משנה להשלמה, מה שהפך ספרים לנדירים ויקרים ביותר." }
     },
     {
       "id": "q-d06-03",
@@ -214,7 +214,7 @@
         { "id": "d", "text": { "en": "The Age of Exploration", "he": "עידן הגילויים" } }
       ],
       "correctChoice": "b",
-      "explanation": { "en": "The Reformation was a 16th-century religious movement that divided European Christianity. Martin Luther's 95 Theses (1517) spread rapidly across Europe thanks to the printing press, making the Reformation possible in a way that earlier reformers never achieved.", "he": "הרפורמציה הייתה תנועה דתית מהמאה ה-16 שחילקה את הנצרות האירופאית. 95 התזות של מרטין לות'ר (1517) התפשטו במהירות ברחבי אירופה הודות למכונת הדפוס, מה שהפך את הרפורמציה לאפשרית בדרך שמתחוללים מוקדמים לא הצליחו בה." }
+      "explanation": { "en": "The Reformation was a 16th-century religious movement that divided European Christianity. Martin Luther's 95 Theses (1517) spread rapidly across Europe thanks to the printing press, making the Reformation possible in a way that earlier reformers never achieved.", "he": "הרפורמציה הייתה תנועה דתית מהמאה ה-16 שחילקה את הנצרות האירופאית. 95 התזות של מרטין לות'ר (1517) התפשטו במהירות ברחבי אירופה הודות למכונת הדפוס, מה שהפך את הרפורמציה לאפשרית בדרך שמתקנים קודמים לא הצליחו בה." }
     },
     {
       "id": "q-d06-06",

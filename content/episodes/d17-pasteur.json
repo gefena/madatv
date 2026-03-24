@@ -56,7 +56,7 @@
     {
       "id": "t-d17-08",
       "term": { "en": "Rabies", "he": "כלבת" },
-      "definition": { "en": "A dangerous disease caused by a virus, usually spread by the bite of an infected animal. Pasteur developed the first successful vaccine against rabies in 1885.", "he": "מחלה מסוכנת הנגרמת על ידי וירוס, בדרך כלל מועברת על ידי עקיצת בעל חיים נגוע. פסטר פיתח את החיסון הראשון המוצלח נגד כלבת בשנת 1885." },
+      "definition": { "en": "A dangerous disease caused by a virus, usually spread by the bite of an infected animal. Pasteur developed the first successful vaccine against rabies in 1885.", "he": "מחלה מסוכנת הנגרמת על ידי וירוס, בדרך כלל מועברת על ידי נשיכת בעל חיים נגוע. פסטר פיתח את החיסון הראשון המוצלח נגד כלבת בשנת 1885." },
       "category": "medicine"
     },
     {
@@ -137,7 +137,7 @@
         { "id": "d", "text": { "en": "Malaria", "he": "מלריה" } }
       ],
       "correctChoice": "c",
-      "explanation": { "en": "In 1885, Pasteur successfully tested his rabies vaccine on a boy named Joseph Meister who had been badly bitten by a rabid dog. The boy survived, and the vaccine went on to save many lives.", "he": "בשנת 1885 ניסה פסטר בהצלחה את חיסון הכלבת שלו על ילד בשם ג'וזף מייסטר שנעקץ קשות על ידי כלב כלוב. הילד שרד, והחיסון הציל חיים רבים." }
+      "explanation": { "en": "In 1885, Pasteur successfully tested his rabies vaccine on a boy named Joseph Meister who had been badly bitten by a rabid dog. The boy survived, and the vaccine went on to save many lives.", "he": "בשנת 1885 ניסה פסטר בהצלחה את חיסון הכלבת שלו על ילד בשם ג'וזף מייסטר שנעקץ קשות על ידי כלב חולה כלבת. הילד שרד, והחיסון הציל חיים רבים." }
     },
     {
       "id": "q-d17-04",

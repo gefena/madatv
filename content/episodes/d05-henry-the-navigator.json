@@ -52,7 +52,7 @@
       "term": { "en": "Astrolabe", "he": "אסטרולב" },
       "definition": {
         "en": "An ancient astronomical instrument used by sailors to measure the altitude of the sun or stars above the horizon, which allowed them to calculate their latitude (how far north or south they were). Astrolabes were used from ancient Greece through the Age of Exploration. By knowing the angle of the North Star or noon sun, a navigator could determine their position even in the middle of the ocean.",
-        "he": "מכשיר אסטרונומי עתיק המשמש מלחים למדידת גובה השמש או הכוכבים מעל האופק, מה שאפשר להם לחשב את קו הרוחב שלהם (כמה צפון או דרום הם). אסטרולבים שימשו מיוון העתיקה ועד עידן הגילויים. על ידי ידיעת זווית כוכב הצפון או השמש בצהריים, ניווט יכול לקבוע את מיקומו גם באמצע הים."
+        "he": "מכשיר אסטרונומי עתיק המשמש מלחים למדידת גובה השמש או הכוכבים מעל האופק, מה שאפשר להם לחשב את קו הרוחב שלהם (כמה צפון או דרום הם). אסטרולבים שימשו מיוון העתיקה ועד עידן הגילויים. על ידי ידיעת זווית כוכב הצפון או השמש בצהריים, נווט יכול לקבוע את מיקומו גם באמצע הים."
       },
       "category": "invention"
     },
@@ -85,7 +85,7 @@
     },
     {
       "id": "t-d05-08",
-      "term": { "en": "Magnetic Declination", "he": "שקיעה מגנטית" },
+      "term": { "en": "Magnetic Declination", "he": "נטייה מגנטית" },
       "definition": {
         "en": "The angle between magnetic north (what a compass needle points to) and true geographic north (the actual North Pole). A compass does not point to the geographic North Pole but to the magnetic north pole, which is in a slightly different location. Navigators in the Age of Exploration learned to account for this difference when using compasses to navigate. Today, GPS systems automatically correct for magnetic declination.",
         "he": "הזווית בין הצפון המגנטי (לשם מחוג המצפן מצביע) לבין הצפון הגיאוגרפי האמיתי (הקוטב הצפוני בפועל). מצפן אינו מצביע על הקוטב הגיאוגרפי הצפוני אלא על הקוטב הצפוני המגנטי, הנמצא במיקום שונה במקצת. מנווטים בעידן הגילויים למדו להתחשב בהבדל זה בעת שימוש במצפנים לניווט. כיום, מערכות GPS מתקנות אוטומטית את השקיעה המגנטית."
@@ -124,7 +124,7 @@
       "term": { "en": "Cape of Good Hope", "he": "כף התקווה הטובה" },
       "definition": {
         "en": "The southernmost tip of Africa, where the Atlantic and Indian Oceans meet. Portuguese explorer Bartolomeu Dias first rounded the Cape in 1488, proving it was possible to sail from Europe to Asia by going around Africa. Vasco da Gama later completed this journey in 1497–1498, establishing a vital sea trade route that broke the Arab and Ottoman monopoly on the spice trade with Asia.",
-        "he": "הקצה הדרומי ביותר של אפריקה, שבו נפגשים האוקיינוס האטלנטי וההודי. החוקר הפורטוגלי ברתולומיאו דיאש עגן לראשונה את הכף בשנת 1488, והוכיח שניתן לשוט מאירופה לאסיה בדרך סביב אפריקה. ואסקו דה גמה השלים מסע זה מאוחר יותר בשנים 1497–1498, ויצר מסלול סחר ים חיוני ששבר את המונופול הערבי והעות'מאני על סחר התבלינים עם אסיה."
+        "he": "הקצה הדרומי ביותר של אפריקה, שבו נפגשים האוקיינוס האטלנטי וההודי. החוקר הפורטוגלי ברתולומיאו דיאש הקיף לראשונה את הכף בשנת 1488, והוכיח שניתן לשוט מאירופה לאסיה בדרך סביב אפריקה. ואסקו דה גמה השלים מסע זה מאוחר יותר בשנים 1497–1498, ויצר מסלול סחר ים חיוני ששבר את המונופול הערבי והעות'מאני על סחר התבלינים עם אסיה."
       },
       "category": "history"
     },

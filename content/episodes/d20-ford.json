@@ -38,7 +38,7 @@
     {
       "id": "t-d20-05",
       "term": { "en": "Automobile", "he": "אוטומובייל / מכונית" },
-      "definition": { "en": "A self-propelled vehicle (one that moves under its own power) designed to carry people on roads. Also called a car or motorcar.", "he": "רכב עצמאי (אחד הנע בכוח עצמו) המיועד להסיע אנשים בכבישים. נקרא גם מכונית." },
+      "definition": { "en": "A self-propelled vehicle (one that moves under its own power) designed to carry people on roads. Also called a car or motorcar.", "he": "רכב עצמאי (אחת הנעה בכוח עצמה) המיועד להסיע אנשים בכבישים. נקרא גם מכונית." },
       "category": "technology"
     },
     {
@@ -67,8 +67,8 @@
     },
     {
       "id": "t-d20-10",
-      "term": { "en": "Standardization", "he": "תקנון / סטנדרטיזציה" },
-      "definition": { "en": "Making all parts of a product exactly the same size and shape so they are interchangeable. Ford used standardized parts to make cars faster and more cheaply.", "he": "ייצור כל חלקי מוצר בדיוק באותו גודל וצורה כך שניתן להחליף ביניהם. פורד השתמש בחלקים מתוקנים לייצור מכוניות מהר וזול יותר." },
+      "term": { "en": "Standardization", "he": "תקינה (סטנדרטיזציה)" },
+      "definition": { "en": "Making all parts of a product exactly the same size and shape so they are interchangeable. Ford used standardized parts to make cars faster and more cheaply.", "he": "ייצור כל חלקי מוצר בדיוק באותו גודל וצורה כך שניתן להחליף ביניהם. פורד השתמש בחלקים תקניים לייצור מכוניות מהר וזול יותר." },
       "category": "technology"
     },
     {
@@ -105,7 +105,7 @@
   "trivia": [
     {
       "id": "q-d20-01",
-      "question": { "en": "What revolutionary method did Ford use to make cars faster and more cheaply?", "he": "איזו שיטה מהפכנית השתמש פורד כדי לייצר מכוניות מהר ובזול יותר?" },
+      "question": { "en": "What revolutionary method did Ford use to make cars faster and more cheaply?", "he": "באיזו שיטה מהפכנית השתמש פורד כדי לייצר מכוניות מהר ובזול יותר?" },
       "choices": [
         { "id": "a", "text": { "en": "He used robots to build cars", "he": "הוא השתמש ברובוטים לבניית מכוניות" } },
         { "id": "b", "text": { "en": "He invented a new type of engine", "he": "הוא המציא סוג חדש של מנוע" } },

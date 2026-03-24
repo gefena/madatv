@@ -53,7 +53,7 @@
       "term": { "en": "Nobel Prize", "he": "פרס נובל" },
       "definition": {
         "en": "One of the most prestigious awards in the world, given each year to people who have made outstanding contributions to science, literature, or peace. It was established by the Swedish inventor Alfred Nobel, and Marie Curie won it twice.",
-        "he": "אחת הפרסות המכובדות ביותר בעולם, הניתנת מדי שנה לאנשים שתרמו תרומות יוצאות דופן למדע, לספרות או לשלום. נוסד על ידי הממציא השוודי אלפרד נובל, ומארי קירי זכתה בו פעמיים."
+        "he": "אחת הפרסים המכובדות ביותר בעולם, הניתנת מדי שנה לאנשים שתרמו תרומות יוצאות דופן למדע, לספרות או לשלום. נוסד על ידי הממציא השוודי אלפרד נובל, ומארי קירי זכתה בו פעמיים."
       },
       "category": "science history"
     },
@@ -80,7 +80,7 @@
       "term": { "en": "X-rays", "he": "קרני רנטגן" },
       "definition": {
         "en": "A form of invisible radiation that can pass through soft body tissue but is blocked by bones, making it possible to take pictures of skeletons inside living bodies. During World War I, Marie Curie helped set up mobile X-ray units to help treat wounded soldiers.",
-        "he": "סוג של קרינה בלתי נראית שיכולה לעבור דרך רקמות גוף רכות אך נחסמת על ידי עצמות, מה שמאפשר לצלם שלדים בתוך גופות חיות. במלחמת העולם הראשונה, מארי קירי עזרה להקים יחידות רנטגן ניידות לטיפול בחיילים פצועים."
+        "he": "סוג של קרינה בלתי נראית שיכולה לעבור דרך רקמות גוף רכות אך נחסמת על ידי עצמות, מה שמאפשר לצלם שלדים בתוך גופים חיים. במלחמת העולם הראשונה, מארי קירי עזרה להקים יחידות רנטגן ניידות לטיפול בחיילים פצועים."
       },
       "category": "physics"
     },
@@ -245,7 +245,7 @@
       "correctChoice": "c",
       "explanation": {
         "en": "Pierre Curie was Marie's husband and close scientific partner. Together they discovered polonium and radium, and both shared the 1903 Nobel Prize in Physics with Henri Becquerel. Pierre died tragically in a street accident in 1906.",
-        "he": "פייר קירי היה בעלה ושותפה המדעי הקרוב של מארי. יחד גילו את הפולוניום והרדיום, ושניהם חלקו את פרס נובל לפיזיקה בשנת 1903 עם אנרי בקרל. פייר מת באסון בתאונת רחוב בשנת 1906."
+        "he": "פייר קירי היה בעלה ושותפה המדעי הקרוב של מארי. יחד גילו את הפולוניום והרדיום, ושניהם חלקו את פרס נובל לפיזיקה בשנת 1903 עם אנרי בקרל. פייר מת באסון בתאונת דרכים בשנת 1906."
       }
     },
     {

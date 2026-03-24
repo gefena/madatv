@@ -5,7 +5,7 @@
   "title": { "en": "Aviation", "he": "התעופה" },
   "summary": {
     "en": "For centuries, humans dreamed of flying like birds, and countless inventors tried and failed to conquer the sky. It was two American brothers — Orville and Wilbur Wright, bicycle mechanics from Dayton, Ohio — who finally achieved what seemed impossible: on December 17, 1903, at Kitty Hawk, North Carolina, Orville piloted a powered, heavier-than-air machine (the Flyer) for 12 seconds and 37 meters, making history. The Wright Brothers succeeded where others failed because of their careful scientific approach — testing wing shapes in a wind tunnel, solving the problem of control, and using a light but powerful engine they designed themselves. From that modest beginning, aviation developed at breathtaking speed: within decades, planes were crossing oceans, carrying passengers, and serving as weapons of war, eventually leading to the jet age, supersonic flight, and eventually space travel.",
-    "he": "במשך מאות שנים חלמו בני האדם לעוף כמו ציפורים, ומאמינים רבים ניסו ונכשלו בכיבוש השמיים. שני אחים אמריקאים — אורוויל וווילבר רייט, מכונאי אופניים מדייטון, אוהיו — הם שהשיגו לבסוף את מה שנראה בלתי אפשרי: ב-17 בדצמבר 1903, בקיטי הוק, קרוליינה הצפונית, טס אורוויל במכונה מונעת, כבדה מהאוויר (ה'פלייר') במשך 12 שניות ו-37 מטרים, ועשה היסטוריה. האחים רייט הצליחו כאשר אחרים נכשלו בשל גישתם המדעית הזהירה — בדיקת צורות כנפיים במנהרת רוח, פתרון בעיית השליטה ושימוש במנוע קל אך עוצמתי שתכננו בעצמם. מאותה התחלה צנועה התפתחה התעופה במהירות מסחררת: תוך עשרות שנים חצו מטוסים אוקיינוסים, הסיעו נוסעים ושימשו כנשק מלחמה, מה שהוביל בסופו של דבר לעידן הסילון, לטיסה על-קולית ובסופו של דבר לטיסות חלל."
+    "he": "במשך מאות שנים חלמו בני האדם לעוף כמו ציפורים, וממציאים רבים ניסו ונכשלו בכיבוש השמיים. שני אחים אמריקאים — אורוויל וווילבר רייט, מכונאי אופניים מדייטון, אוהיו — הם שהשיגו לבסוף את מה שנראה בלתי אפשרי: ב-17 בדצמבר 1903, בקיטי הוק, קרוליינה הצפונית, טס אורוויל במכונה מונעת, כבדה מהאוויר (ה'פלייר') במשך 12 שניות ו-37 מטרים, ועשה היסטוריה. האחים רייט הצליחו כאשר אחרים נכשלו בשל גישתם המדעית הזהירה — בדיקת צורות כנפיים במנהרת רוח, פתרון בעיית השליטה ושימוש במנוע קל אך עוצמתי שתכננו בעצמם. מאותה התחלה צנועה התפתחה התעופה במהירות מסחררת: תוך עשרות שנים חצו מטוסים אוקיינוסים, הסיעו נוסעים ושימשו כנשק מלחמה, מה שהוביל בסופו של דבר לעידן הסילון, לטיסה על-קולית ובסופו של דבר לטיסות חלל."
   },
   "thumbnail": "https://img.youtube.com/vi/p2UtLpf20hg/maxresdefault.jpg",
   "durationMinutes": 26,
@@ -56,7 +56,7 @@
     {
       "id": "t-d21-08",
       "term": { "en": "Jet Engine", "he": "מנוע סילון" },
-      "definition": { "en": "A powerful engine that sucks in air, mixes it with fuel, burns the mixture, and shoots the hot gases out the back at great speed, pushing the aircraft forward much faster than a propeller can.", "he": "מנוע עוצמתי הינק אוויר, מערבב אותו עם דלק, שורף את התערובת ויורה את הגזים החמים לאחור במהירות רבה, ודוחף את כלי הטיס קדימה הרבה יותר מהר ממדחף." },
+      "definition": { "en": "A powerful engine that sucks in air, mixes it with fuel, burns the mixture, and shoots the hot gases out the back at great speed, pushing the aircraft forward much faster than a propeller can.", "he": "מנוע עוצמתי היונק אוויר, מערבב אותו עם דלק, שורף את התערובת ויורה את הגזים החמים לאחור במהירות רבה, ודוחף את כלי הטיס קדימה הרבה יותר מהר ממדחף." },
       "category": "technology"
     },
     {
@@ -68,7 +68,7 @@
     {
       "id": "t-d21-10",
       "term": { "en": "Biplane", "he": "דו-כנפי" },
-      "definition": { "en": "An early type of airplane with two sets of wings, one above the other. The Wright Brothers' Flyer was a biplane.", "he": "סוג מוקדם של מטוס עם שתי זוגות כנפיים, אחת מעל השנייה. הפלייר של האחים רייט היה דו-כנפי." },
+      "definition": { "en": "An early type of airplane with two sets of wings, one above the other. The Wright Brothers' Flyer was a biplane.", "he": "סוג מוקדם של מטוס עם שני זוגות כנפיים, אחד מעל השני. הפלייר של האחים רייט היה דו-כנפי." },
       "category": "technology"
     },
     {
@@ -113,7 +113,7 @@
         { "id": "d", "text": { "en": "January 1, 1898", "he": "1 בינואר 1898" } }
       ],
       "correctChoice": "a",
-      "explanation": { "en": "On December 17, 1903, at Kitty Hawk, North Carolina, Orville Wright piloted the Flyer on its first successful flight, covering 37 meters in 12 seconds. They made four flights that day.", "he": "ב-17 בדצמבר 1903, בקיטי הוק, קרוליינה הצפונית, טייס אורוויל רייט את הפלייר בטיסתו המוצלחת הראשונה, ועבר 37 מטרים ב-12 שניות. הם ביצעו ארבע טיסות באותו יום." }
+      "explanation": { "en": "On December 17, 1903, at Kitty Hawk, North Carolina, Orville Wright piloted the Flyer on its first successful flight, covering 37 meters in 12 seconds. They made four flights that day.", "he": "ב-17 בדצמבר 1903, בקיטי הוק, קרוליינה הצפונית, טס אורוויל רייט בפלייר בטיסתו המוצלחת הראשונה, ועבר 37 מטרים ב-12 שניות. הם ביצעו ארבע טיסות באותו יום." }
     },
     {
       "id": "q-d21-02",
@@ -181,7 +181,7 @@
       "choices": [
         { "id": "a", "text": { "en": "An engine that runs on water", "he": "מנוע הפועל על מים" } },
         { "id": "b", "text": { "en": "A type of spinning propeller", "he": "סוג של מדחף מסתובב" } },
-        { "id": "c", "text": { "en": "An engine that sucks in air, burns fuel with it, and shoots hot gases out the back to push the aircraft forward", "he": "מנוע הינק אוויר, שורף בו דלק ויורה גזים חמים לאחור כדי לדחוף את כלי הטיס קדימה" } },
+        { "id": "c", "text": { "en": "An engine that sucks in air, burns fuel with it, and shoots hot gases out the back to push the aircraft forward", "he": "מנוע היונק אוויר, שורף בו דלק ויורה גזים חמים לאחור כדי לדחוף את כלי הטיס קדימה" } },
         { "id": "d", "text": { "en": "A very large steam engine", "he": "מנוע קיטור גדול מאוד" } }
       ],
       "correctChoice": "c",
@@ -201,7 +201,7 @@
     },
     {
       "id": "q-d21-09",
-      "question": { "en": "What was the occupation of the Wright Brothers before they became famous aviators?", "he": "מה הייתה עיסוקם של האחים רייט לפני שהפכו לטייסים מפורסמים?" },
+      "question": { "en": "What was the occupation of the Wright Brothers before they became famous aviators?", "he": "מה היה עיסוקם של האחים רייט לפני שהפכו לטייסים מפורסמים?" },
       "choices": [
         { "id": "a", "text": { "en": "They were university professors", "he": "הם היו פרופסורים באוניברסיטה" } },
         { "id": "b", "text": { "en": "They were bicycle mechanics and shop owners", "he": "הם היו מכונאי אופניים ובעלי חנות" } },

@@ -122,7 +122,7 @@
         { "id": "a", "text": { "en": "Giant tortoises only", "he": "צבי ענק בלבד" } },
         { "id": "b", "text": { "en": "Iguanas and lizards", "he": "איגואנות ולטאות" } },
         { "id": "c", "text": { "en": "Finches with different beak shapes", "he": "ציפורי מקיק עם מקורים בצורות שונות" } },
-        { "id": "d", "text": { "en": "Tropical fish", "he": "דגי טרופיים" } }
+        { "id": "d", "text": { "en": "Tropical fish", "he": "דגים טרופיים" } }
       ],
       "correctChoice": "c",
       "explanation": { "en": "Darwin noticed that finches on different islands had differently shaped beaks, each suited to the type of food available on that island. This was key evidence for his theory of natural selection.", "he": "דארווין הבחין שלציפורי המקיק באיים שונים יש מקורים בצורות שונות, כל אחד מותאם לסוג המזון הזמין באותו האי. זו היתה ראיה מרכזית לתורת הברירה הטבעית שלו." }
@@ -215,7 +215,7 @@
       "id": "q-d15-10",
       "question": { "en": "According to Darwin's theory, why do some animals survive while others do not?", "he": "לפי תורתו של דארווין, מדוע חלק מהבעלי חיים שורדים בעוד אחרים לא?" },
       "choices": [
-        { "id": "a", "text": { "en": "The luckiest animals always survive", "he": "הבעלי חיים המזלזלים תמיד שורדים" } },
+        { "id": "a", "text": { "en": "The luckiest animals always survive", "he": "בעלי החיים בעלי המזל הרב ביותר תמיד שורדים" } },
         { "id": "b", "text": { "en": "The biggest animals always survive", "he": "הבעלי החיים הגדולים ביותר תמיד שורדים" } },
         { "id": "c", "text": { "en": "Animals with traits better suited to their environment are more likely to survive", "he": "בעלי חיים בעלי תכונות המתאימות יותר לסביבתם נוטים יותר לשרוד" } },
         { "id": "d", "text": { "en": "The fastest animals always survive", "he": "הבעלי חיים המהירים ביותר תמיד שורדים" } }

@@ -34,7 +34,7 @@
       "term": { "en": "Lever", "he": "מנוף" },
       "definition": {
         "en": "A simple machine consisting of a rigid bar that pivots around a fixed point called a fulcrum. By changing the position of the fulcrum, a lever can multiply the force applied to it, allowing a small force to lift a very heavy object. Archimedes famously said, 'Give me a place to stand and I will move the Earth,' demonstrating his understanding of the lever's power.",
-        "he": "מכונה פשוטה המורכבת ממוט נוקשה שמסתובב סביב נקודה קבועה הנקראת נקודת משען. על ידי שינוי מיקום נקודת המשען, מנוף יכול להכפיל את הכוח המופעל עליו, ומאפשר לכוח קטן להרים עצם כבד מאוד. ארכימדס אמר בפרסום, 'תן לי מקום לעמוד ואזיז את כדור הארץ', ומדגים את הבנתו את כוח המנוף."
+        "he": "מכונה פשוטה המורכבת ממוט נוקשה שמסתובב סביב נקודה קבועה הנקראת נקודת משען. על ידי שינוי מיקום נקודת המשען, מנוף יכול להכפיל את הכוח המופעל עליו, ומאפשר לכוח קטן להרים עצם כבד מאוד. ארכימדס אמר את המשפט המפורסם: 'תן לי מקום לעמוד ואזיז את כדור הארץ', ומדגים את הבנתו את כוח המנוף."
       },
       "category": "physics"
     },
@@ -97,7 +97,7 @@
       "term": { "en": "Density", "he": "צפיפות" },
       "definition": {
         "en": "A measure of how much mass is packed into a given volume. A material with high density, like gold, is very heavy for its size. A material with low density, like wood, is light for its size. Archimedes used the concept of density to determine if a crown was made of pure gold — pure gold is denser than silver, so if the crown had silver mixed in, it would displace more water than pure gold of the same weight.",
-        "he": "מדד לכמה מסה ארוזה בנפח נתון. חומר עם צפיפות גבוהה, כמו זהב, כבד מאוד למידתו. חומר עם צפיפות נמוכה, כמו עץ, קל למידתו. ארכימדס השתמש במושג הצפיפות כדי לקבוע אם כתר עשוי מזהב טהור — זהב טהור צפוף יותר מכסף, לכן אם הכתר ערבב כסף, הוא יעקור יותר מים מאשר זהב טהור באותו משקל."
+        "he": "מדד לכמה מסה ארוזה בנפח נתון. חומר עם צפיפות גבוהה, כמו זהב, כבד מאוד למידתו. חומר עם צפיפות נמוכה, כמו עץ, קל למידתו. ארכימדס השתמש במושג הצפיפות כדי לקבוע אם כתר עשוי מזהב טהור — זהב טהור צפוף יותר מכסף, לכן אם הכתר עורבב עם כסף, הוא יעקור יותר מים מאשר זהב טהור באותו משקל."
       },
       "category": "physics"
     },
@@ -197,7 +197,7 @@
       "id": "q-d02-03",
       "question": {
         "en": "What task was Archimedes given that led to his discovery of buoyancy?",
-        "he": "איזה משימה קיבל ארכימדס שהובילה לגילוי הציפה שלו?"
+        "he": "איזו משימה קיבל ארכימדס שהובילה לגילוי הציפה שלו?"
       },
       "choices": [
         { "id": "a", "text": { "en": "Building a bridge over the harbor", "he": "בניית גשר על הנמל" } },

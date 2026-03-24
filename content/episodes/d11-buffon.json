@@ -8,7 +8,7 @@
   },
   "summary": {
     "en": "This episode follows the fascinating life and ideas of Georges-Louis Leclerc, Comte de Buffon, the 18th-century French naturalist who dared to ask how old the Earth really is and what happened long before humans were around to record history. Buffon spent decades compiling his massive encyclopedia of nature, Histoire Naturelle, in which he described and classified thousands of animals, plants, and minerals in vivid detail. He challenged the prevailing biblical estimate that the Earth was only a few thousand years old, conducting experiments with heated iron spheres to estimate that the Earth might be at least 75,000 years old — a revolutionary and dangerous idea for his time. He also studied fossils and observed that similar species existed on different continents, hinting — carefully and cautiously — that species might change over time. Though Buffon never fully developed a theory of evolution, his bold questions about the age of the Earth, the history of life, and the classification of animals planted the seeds that would later blossom in the work of Lamarck and Darwin.",
-    "he": "פרק זה עוקב אחר חייו המרתקים ורעיונותיו של ז'ורז'-לואי לקלרק, הרוזן דה בופון, הטבעתן הצרפתי מהמאה ה-18 שהעז לשאול כמה עתיק כדור הארץ באמת ומה קרה הרבה לפני שבני האדם היו כאן כדי לתעד היסטוריה. בופון בילה עשרות שנים בחיבור האנציקלופדיה הטבעית המסיבית שלו, Histoire Naturelle, שבה תיאר וסיווג אלפי בעלי חיים, צמחים ומינרלים בפירוט חי. הוא אתגר את ההערכה המקראית הרווחת שכדור הארץ בן רק כמה אלפי שנים, ביצע ניסויים עם כדורי ברזל מחוממים כדי להעריך שכדור הארץ עשוי להיות בן לפחות 75,000 שנה — רעיון מהפכני ומסוכן לזמנו. הוא גם חקר מאובנים ושם לב שמינים דומים קיימו על יבשות שונות, מרמז — בזהירות רבה — שמינים אולי משתנים עם הזמן. אף שבופון מעולם לא פיתח באופן מלא תיאוריה של אבולוציה, שאלותיו הנועזות על גיל כדור הארץ, תולדות החיים וסיווג בעלי החיים זרעו את הגרעינים שיפרחו מאוחר יותר בעבודתם של למארק ודארווין."
+    "he": "פרק זה עוקב אחר חייו המרתקים ורעיונותיו של ז'ורז'-לואי לקלרק, הרוזן דה בופון, החוקר טבע הצרפתי מהמאה ה-18 שהעז לשאול כמה עתיק כדור הארץ באמת ומה קרה הרבה לפני שבני האדם היו כאן כדי לתעד היסטוריה. בופון בילה עשרות שנים בחיבור האנציקלופדיה הטבעית המסיבית שלו, Histoire Naturelle, שבה תיאר וסיווג אלפי בעלי חיים, צמחים ומינרלים בפירוט חי. הוא אתגר את ההערכה המקראית הרווחת שכדור הארץ בן רק כמה אלפי שנים, ביצע ניסויים עם כדורי ברזל מחוממים כדי להעריך שכדור הארץ עשוי להיות בן לפחות 75,000 שנה — רעיון מהפכני ומסוכן לזמנו. הוא גם חקר מאובנים ושם לב שמינים דומים קיימו על יבשות שונות, מרמז — בזהירות רבה — שמינים אולי משתנים עם הזמן. אף שבופון מעולם לא פיתח באופן מלא תיאוריה של אבולוציה, שאלותיו הנועזות על גיל כדור הארץ, תולדות החיים וסיווג בעלי החיים זרעו את הגרעינים שיפרחו מאוחר יותר בעבודתם של למארק ודארווין."
   },
   "thumbnail": "https://img.youtube.com/vi/NMVE6eJ0QhA/maxresdefault.jpg",
   "durationMinutes": 26,
@@ -51,7 +51,7 @@
       },
       "definition": {
         "en": "Georges-Louis Leclerc, Comte de Buffon (1707–1788), a French naturalist and author of the 44-volume Histoire Naturelle. He was one of the first scientists to suggest the Earth was far older than the Bible implied and to hint that species could change over time.",
-        "he": "ז'ורז'-לואי לקלרק, הרוזן דה בופון (1707–1788), טבעתן צרפתי ומחבר ה-Histoire Naturelle בן 44 הכרכים. הוא היה מהמדענים הראשונים שהציע שכדור הארץ עתיק הרבה יותר ממה שהתנ\"ך רמז, ורמז שמינים יכולים להשתנות עם הזמן."
+        "he": "ז'ורז'-לואי לקלרק, הרוזן דה בופון (1707–1788), חוקר טבע צרפתי ומחבר ה-Histoire Naturelle בן 44 הכרכים. הוא היה מהמדענים הראשונים שהציע שכדור הארץ עתיק הרבה יותר ממה שהתנ\"ך רמז, ורמז שמינים יכולים להשתנות עם הזמן."
       },
       "category": "historical figure"
     },
@@ -167,7 +167,7 @@
       "id": "t-d11-13",
       "term": {
         "en": "Naturalist",
-        "he": "טבעתן"
+        "he": "חוקר טבע"
       },
       "definition": {
         "en": "A scientist who studies the natural world — animals, plants, rocks, and the environment — through observation and fieldwork rather than laboratory experiments. Buffon was one of the greatest naturalists of the 18th century, combining observation with broad theoretical thinking.",
@@ -378,7 +378,7 @@
       "correctChoice": "b",
       "explanation": {
         "en": "Carl Linnaeus, a Swedish naturalist (1707–1778), developed the binomial nomenclature system — giving every species a two-part Latin name. Though Buffon and Linnaeus were contemporaries, they disagreed about the best way to classify nature: Linnaeus favored rigid categories while Buffon preferred descriptions of individual animals.",
-        "he": "קרל לינאוס, טבעתן שוודי (1707–1778), פיתח את מערכת שמות הבינום — נתינת שם לטיני דו-חלקי לכל מין. אף שבופון ולינאוס היו בני זמן, הם חלקו על הדרך הטובה ביותר לסווג את הטבע: לינאוס העדיף קטגוריות קפדניות בעוד בופון העדיף תיאורים של בעלי חיים בודדים."
+        "he": "קרל לינאוס, חוקר טבע שוודי (1707–1778), פיתח את מערכת שמות הבינום — נתינת שם לטיני דו-חלקי לכל מין. אף שבופון ולינאוס היו בני זמן, הם חלקו על הדרך הטובה ביותר לסווג את הטבע: לינאוס העדיף קטגוריות קפדניות בעוד בופון העדיף תיאורים של בעלי חיים בודדים."
       }
     }
   ],

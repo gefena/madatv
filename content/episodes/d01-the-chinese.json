@@ -8,7 +8,7 @@
   },
   "summary": {
     "en": "This episode takes us back thousands of years to ancient China, one of the most inventive civilizations in human history. Long before Europe had even imagined them, Chinese inventors gave the world paper, the printing press, gunpowder, the magnetic compass, and silk — discoveries that would fundamentally reshape civilization. We follow the story of how Chinese scholars, craftsmen, and explorers quietly transformed daily life, trade, and warfare across the globe. The episode shows that many technologies we consider modern actually have roots stretching deep into the rivers and workshops of ancient China, reminding us that human curiosity and ingenuity are truly universal.",
-    "he": "פרק זה לוקח אותנו אלפי שנים אחורה לסין העתיקה, אחת הציביליזציות היצירתיות ביותר בתולדות האנושות. הרבה לפני שאירופה בכלל דמיינה אותן, הסינים העניקו לעולם את הנייר, הדפוס, אבק השריפה, המצפן המגנטי והמשי — תגליות שעיצבו מחדש את הציביליזציה האנושית. אנו עוקבים אחרי הסיפור של כיצד חוקרים, אומנים וחוקרים סינים שינו בשקט את חיי היומיום, הסחר והלחימה ברחבי העולם. הפרק מראה שטכנולוגיות רבות שאנו מחשיבים כמודרניות נושאות שורשים עמוקים בנהרות ובבתי המלאכה של סין העתיקה, ומזכיר לנו שסקרנות ויצירתיות אנושית הן אוניברסליות באמת."
+    "he": "פרק זה לוקח אותנו אלפי שנים אחורה לסין העתיקה, אחת הציביליזציות היצירתיות ביותר בתולדות האנושות. הרבה לפני שאירופה בכלל דמיינה אותן, הסינים העניקו לעולם את הנייר, הדפוס, אבק השריפה, המצפן המגנטי והמשי — תגליות שעיצבו מחדש את הציביליזציה האנושית. אנו עוקבים אחרי הסיפור של כיצד סופרים, אומנים וחוקרי ארצות סינים שינו בשקט את חיי היומיום, הסחר והלחימה ברחבי העולם. הפרק מראה שטכנולוגיות רבות שאנו מחשיבים כמודרניות נושאות שורשים עמוקים בנהרות ובבתי המלאכה של סין העתיקה, ומזכיר לנו שסקרנות ויצירתיות אנושית הן אוניברסליות באמת."
   },
   "thumbnail": "https://img.youtube.com/vi/4SDv3stWOyM/maxresdefault.jpg",
   "durationMinutes": 26,
@@ -61,7 +61,7 @@
       "term": { "en": "Silk", "he": "משי" },
       "definition": {
         "en": "A luxurious natural fiber produced by silkworms when they spin their cocoons. The Chinese discovered silk production, called sericulture, over 5,000 years ago and kept the method a closely guarded secret for centuries. Silk became so valuable that it was used as currency and gave its name to the famous Silk Road trade route connecting China to Europe.",
-        "he": "סיב טבעי יוקרתי המיוצר על ידי תולעי המשי כאשר הן טוות את הגולמים שלהן. הסינים גילו את ייצור המשי, הנקרא משיית משי, לפני יותר מ-5,000 שנה ושמרו את השיטה כסוד מוקפד לאורך מאות שנים. המשי היה יקר ערך כל כך עד שהשתמשו בו כמטבע ונתן את שמו לדרך המשי המפורסמת המחברת את סין לאירופה."
+        "he": "סיב טבעי יוקרתי המיוצר על ידי תולעי המשי כאשר הן טוות את הגולמים שלהן. הסינים גילו את ייצור המשי, הנקרא גידול תולעי משי, לפני יותר מ-5,000 שנה ושמרו את השיטה כסוד מוקפד לאורך מאות שנים. המשי היה יקר ערך כל כך עד שהשתמשו בו כמטבע ונתן את שמו לדרך המשי המפורסמת המחברת את סין לאירופה."
       },
       "category": "material"
     },
@@ -88,7 +88,7 @@
       "term": { "en": "Woodblock Printing", "he": "דפוס בלוקים" },
       "definition": {
         "en": "A printing technique in which a craftsman carves an entire page of text or an image into a flat wooden block, covers it with ink, and presses it onto paper. Invented in China during the Tang Dynasty (around 600 CE), woodblock printing made it possible to produce many copies of the same text quickly, before individual movable type was invented.",
-        "he": "טכניקת דפוס שבה חרת בעל מלאכה עמוד שלם של טקסט או תמונה לתוך בלוק עץ שטוח, מכסה אותו בדיו ולוחץ אותו על נייר. הומצא בסין בתקופת שושלת טאנג (בסביבות שנת 600 לספירה), דפוס הבלוקים אפשר לייצר עותקים רבים של אותו טקסט במהירות, לפני שהומצאו גופנים ניידים נפרדים."
+        "he": "טכניקת דפוס שבה חורת בעל מלאכה עמוד שלם של טקסט או תמונה לתוך בלוק עץ שטוח, מכסה אותו בדיו ולוחץ אותו על נייר. הומצא בסין בתקופת שושלת טאנג (בסביבות שנת 600 לספירה), דפוס הבלוקים אפשר לייצר עותקים רבים של אותו טקסט במהירות, לפני שהומצאו גופנים ניידים נפרדים."
       },
       "category": "invention"
     },
@@ -115,7 +115,7 @@
       "term": { "en": "Sericulture", "he": "גידול תולעי משי" },
       "definition": {
         "en": "The practice of raising silkworms to produce silk fiber. Workers feed silkworms mulberry leaves until the worms spin their silken cocoons. The cocoons are then carefully unwound to produce long, continuous threads of silk. China practiced sericulture for over 5,000 years and kept the secrets of silk production strictly hidden from the rest of the world.",
-        "he": "הנוהג של גידול תולעי משי לייצור סיב משי. עובדים מאכילים תולעי משי בעלי תות עד שהתולעים טוות את גולמי המשי שלהן. הגולמים מגוללים אז בזהירות לייצור חוטי משי ארוכים ורציפים. סין עסקה בגידול תולעי משי במשך יותר מ-5,000 שנה ושמרה בקפידה על סודות ייצור המשי הרחק מהשאר."
+        "he": "הנוהג של גידול תולעי משי לייצור סיב משי. עובדים מאכילים תולעי משי בעלי תות עד שהתולעים טוות את גולמי המשי שלהן. הגולמים נפרמים אז בזהירות לייצור חוטי משי ארוכים ורציפים. סין עסקה בגידול תולעי משי במשך יותר מ-5,000 שנה ושמרה בקפידה על סודות ייצור המשי הרחק מהשאר."
       },
       "category": "craft"
     },

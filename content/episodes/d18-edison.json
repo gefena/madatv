@@ -20,7 +20,7 @@
     {
       "id": "t-d18-02",
       "term": { "en": "Incandescent Light Bulb", "he": "נורת להט" },
-      "definition": { "en": "A glass bulb containing a thin wire (filament) that glows when electricity passes through it, producing light. Edison made the first practical and long-lasting version.", "he": "כיפת זכוכית המכילה חוט דק (פילמנט) הזוהר כאשר חשמל עובר דרכו ומייצר אור. אדיסון ייצר את הגרסה הראשונה המעשית והמתמשכת." },
+      "definition": { "en": "A glass bulb containing a thin wire (filament) that glows when electricity passes through it, producing light. Edison made the first practical and long-lasting version.", "he": "בועת זכוכית המכילה חוט דק (פילמנט) הזוהר כאשר חשמל עובר דרכו ומייצר אור. אדיסון ייצר את הגרסה הראשונה המעשית והמתמשכת." },
       "category": "technology"
     },
     {
@@ -44,7 +44,7 @@
     {
       "id": "t-d18-06",
       "term": { "en": "Filament", "he": "פילמנט" },
-      "definition": { "en": "The very thin wire inside a light bulb that glows when electricity passes through it. Edison experimented with many materials before finding one that lasted long enough.", "he": "החוט הדק מאוד בתוך נורת הלייט הזוהר כאשר חשמל עובר דרכו. אדיסון ניסה חומרים רבים לפני שמצא כזה שנמשך מספיק זמן." },
+      "definition": { "en": "The very thin wire inside a light bulb that glows when electricity passes through it. Edison experimented with many materials before finding one that lasted long enough.", "he": "החוט הדק מאוד בתוך נורת הלהט הזוהר כאשר חשמל עובר דרכו. אדיסון ניסה חומרים רבים לפני שמצא כזה שנמשך מספיק זמן." },
       "category": "technology"
     },
     {
@@ -105,7 +105,7 @@
   "trivia": [
     {
       "id": "q-d18-01",
-      "question": { "en": "Approximately how many patents did Thomas Edison hold during his lifetime?", "he": "כמה פטנטים בערך הפיק תומאס אדיסון במהלך חייו?" },
+      "question": { "en": "Approximately how many patents did Thomas Edison hold during his lifetime?", "he": "כמה פטנטים בערך רשם תומאס אדיסון במהלך חייו?" },
       "choices": [
         { "id": "a", "text": { "en": "About 50", "he": "כ-50" } },
         { "id": "b", "text": { "en": "About 200", "he": "כ-200" } },
@@ -153,7 +153,7 @@
     },
     {
       "id": "q-d18-05",
-      "question": { "en": "What famous quote is attributed to Edison about the nature of genius?", "he": "איזו ציטוט מפורסם מיוחס לאדיסון על מהות הגאונות?" },
+      "question": { "en": "What famous quote is attributed to Edison about the nature of genius?", "he": "איזה ציטוט מפורסם מיוחס לאדיסון על מהות הגאונות?" },
       "choices": [
         { "id": "a", "text": { "en": "'I think, therefore I am'", "he": "'אני חושב, לכן אני קיים'" } },
         { "id": "b", "text": { "en": "'Genius is one percent inspiration and ninety-nine percent perspiration'", "he": "'גאונות היא אחוז אחד של השראה ותשעים ותשעה אחוז של זיעה'" } },
@@ -165,7 +165,7 @@
     },
     {
       "id": "q-d18-06",
-      "question": { "en": "What did Edison work on to improve before inventing the light bulb?", "he": "על מה עבד אדיסון לשפר לפני שהמציא את נורת הלייט?" },
+      "question": { "en": "What did Edison work on to improve before inventing the light bulb?", "he": "על מה עבד אדיסון לשפר לפני שהמציא את נורת הלהט?" },
       "choices": [
         { "id": "a", "text": { "en": "The steam engine", "he": "מנוע הקיטור" } },
         { "id": "b", "text": { "en": "The telegraph", "he": "הטלגרף" } },
@@ -201,7 +201,7 @@
     },
     {
       "id": "q-d18-09",
-      "question": { "en": "What material did Edison finally use for the filament in his successful light bulb?", "he": "איזה חומר השתמש אדיסון לבסוף לפילמנט בנורת הלייט המוצלחת שלו?" },
+      "question": { "en": "What material did Edison finally use for the filament in his successful light bulb?", "he": "איזה חומר השתמש אדיסון לבסוף לפילמנט בנורת הלהט המוצלחת שלו?" },
       "choices": [
         { "id": "a", "text": { "en": "Gold wire", "he": "חוט זהב" } },
         { "id": "b", "text": { "en": "Carbonized bamboo fiber", "he": "סיב במבוק מפוחם" } },
@@ -221,7 +221,7 @@
         { "id": "d", "text": { "en": "Studying nature without experiments", "he": "חקר הטבע ללא ניסויים" } }
       ],
       "correctChoice": "b",
-      "explanation": { "en": "Applied science is the use of scientific theories and knowledge to develop practical technologies, products, and solutions. Edison was a master of applied science — he took scientific understanding of electricity and turned it into useful inventions like the light bulb.", "he": "מדע יישומי הוא שימוש בתיאוריות וידע מדעי לפיתוח טכנולוגיות, מוצרים ופתרונות מעשיים. אדיסון היה אמן המדע היישומי — הוא לקח הבנה מדעית של חשמל והפך אותה להמצאות שימושיות כמו נורת הלייט." }
+      "explanation": { "en": "Applied science is the use of scientific theories and knowledge to develop practical technologies, products, and solutions. Edison was a master of applied science — he took scientific understanding of electricity and turned it into useful inventions like the light bulb.", "he": "מדע יישומי הוא שימוש בתיאוריות וידע מדעי לפיתוח טכנולוגיות, מוצרים ופתרונות מעשיים. אדיסון היה אמן המדע היישומי — הוא לקח הבנה מדעית של חשמל והפך אותה להמצאות שימושיות כמו נורת הלהט." }
     }
   ],
   "videoSources": ["V9vSwSsId8U"]

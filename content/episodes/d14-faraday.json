@@ -33,7 +33,7 @@
       "term": { "en": "Electric Motor", "he": "מנוע חשמלי" },
       "definition": {
         "en": "A machine that converts electrical energy into mechanical movement using the force between electric currents and magnetic fields. Faraday built the first primitive electric motor in 1821. Today electric motors are everywhere — in cars, washing machines, fans, and countless other devices.",
-        "he": "מכונה הממירה אנרגיה חשמלית לתנועה מכנית תוך שימוש בכוח בין זרמים חשמליים ושדות מגנטיים. פאראדיי בנה את המנוע החשמלי הפרימיטיבי הראשון בשנת 1821. כיום מנועים חשמליים נמצאים בכל מקום — במכוניות, מכונות כביסה, מאווררים וספירת התקנים אחרים."
+        "he": "מכונה הממירה אנרגיה חשמלית לתנועה מכנית תוך שימוש בכוח בין זרמים חשמליים ושדות מגנטיים. פאראדיי בנה את המנוע החשמלי הפרימיטיבי הראשון בשנת 1821. כיום מנועים חשמליים נמצאים בכל מקום — במכוניות, מכונות כביסה, מאווררים ואינספור מכשירים אחרים."
       },
       "category": "technology"
     },
@@ -96,7 +96,7 @@
       "term": { "en": "Electrolysis", "he": "אלקטרוליזה" },
       "definition": {
         "en": "The process of using electricity to drive a chemical reaction, typically splitting a compound into its elements. Faraday made fundamental discoveries about electrolysis, including Faraday's laws of electrolysis. This process is used today in metal plating, aluminum production, and hydrogen fuel production.",
-        "he": "התהליך של שימוש בחשמל להנעת תגובה כימית, בדרך כלל פיצול תרכובת לאלמנטיה. פאראדיי עשה גילויים יסודיים באלקטרוליזה, כולל חוקי האלקטרוליזה של פאראדיי. תהליך זה משמש כיום בציפוי מתכות, ייצור אלומיניום וייצור מימן לדלק."
+        "he": "התהליך של שימוש בחשמל להנעת תגובה כימית, בדרך כלל פיצול תרכובת ליסודותיה. פאראדיי עשה גילויים יסודיים באלקטרוליזה, כולל חוקי האלקטרוליזה של פאראדיי. תהליך זה משמש כיום בציפוי מתכות, ייצור אלומיניום וייצור מימן לדלק."
       },
       "category": "chemistry"
     },
@@ -123,7 +123,7 @@
       "term": { "en": "Magnet", "he": "מגנט" },
       "definition": {
         "en": "An object that produces a magnetic field, attracting iron and other magnetic materials. Faraday's work showed the deep connection between magnetism and electricity — the two forces that together form electromagnetism. Every permanent magnet has a north pole and a south pole; like poles repel and unlike poles attract.",
-        "he": "עצם המייצר שדה מגנטי, המושך ברזל וחומרים מגנטיים אחרים. עבודתו של פאראדיי הראתה את הקשר העמוק בין מגנטיות לחשמל — שתי הכוחות שיחד יוצרים אלקטרומגנטיות. לכל מגנט קבוע יש קוטב צפוני ודרומי; קטבים דומים דוחים וקטבים שונים מושכים."
+        "he": "עצם המייצר שדה מגנטי, המושך ברזל וחומרים מגנטיים אחרים. עבודתו של פאראדיי הראתה את הקשר העמוק בין מגנטיות לחשמל — שני הכוחות שיחד יוצרים אלקטרומגנטיות. לכל מגנט קבוע יש קוטב צפוני ודרומי; קטבים דומים דוחים וקטבים שונים מושכים."
       },
       "category": "physics"
     },
@@ -141,7 +141,7 @@
       "term": { "en": "Humphry Davy", "he": "האמפרי דייבי" },
       "definition": {
         "en": "A brilliant British chemist and Faraday's mentor, famous for discovering several chemical elements including sodium, potassium, and chlorine, and for inventing the miner's safety lamp. He hired the young Faraday as his laboratory assistant at the Royal Institution, launching Faraday's scientific career.",
-        "he": "כימאי בריטי מבריק ומנטור פאראדיי, מפורסם בגילוי מספר יסודות כימיים כולל נתרן, אשלגן וכלור, ובהמצאת מנורת הבטיחות של הכורה. הוא שכר את פאראדיי הצעיר כעוזר מעבדה במכון המלכותי, ומשיק את קריירת המדע של פאראדיי."
+        "he": "כימאי בריטי מבריק ומנטור פאראדיי, מפורסם בגילוי מספר יסודות כימיים כולל נתרן, אשלגן וכלור, ובהמצאת מנורת הבטיחות של הכורה. הוא שכר את פאראדיי הצעיר כעוזר מעבדה במכון המלכותי, ופתח בכך את קריירת המדע של פאראדיי."
       },
       "category": "biography"
     },
@@ -166,7 +166,7 @@
         { "id": "d", "text": { "en": "Radioactivity", "he": "רדיואקטיביות" } }
       ],
       "correctChoice": "b",
-      "explanation": { "en": "In 1831, Faraday discovered electromagnetic induction — the principle that a changing magnetic field produces an electric current. This discovery is the foundation of all electric generators and transformers, and makes modern electrical civilization possible.", "he": "בשנת 1831, פאראדיי גילה אינדוקציה אלקטרומגנטית — העיקרון שדה מגנטי משתנה מייצר זרם חשמלי. גילוי זה הוא הבסיס של כל הגנרטורים החשמליים והשנאים, ומאפשר את הציוויליזציה החשמלית המודרנית." }
+      "explanation": { "en": "In 1831, Faraday discovered electromagnetic induction — the principle that a changing magnetic field produces an electric current. This discovery is the foundation of all electric generators and transformers, and makes modern electrical civilization possible.", "he": "בשנת 1831, פאראדיי גילה אינדוקציה אלקטרומגנטית — העיקרון שלפיו שדה מגנטי משתנה מייצר זרם חשמלי. גילוי זה הוא הבסיס של כל הגנרטורים החשמליים והשנאים, ומאפשר את הציוויליזציה החשמלית המודרנית." }
     },
     {
       "id": "q-d14-02",

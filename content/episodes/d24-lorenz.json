@@ -8,7 +8,7 @@
   },
   "summary": {
     "en": "This episode tells the story of Konrad Lorenz, the Austrian scientist who founded the science of ethology — the study of animal behavior in natural conditions. From childhood, Lorenz was fascinated by animals and kept a virtual menagerie at his family home, carefully observing how creatures behaved and communicated. His most famous discovery was 'imprinting' — the process by which newborn animals, such as goslings (baby geese), attach themselves to the first moving creature they see shortly after hatching, normally their mother, and follow it everywhere. Lorenz showed that this attachment forms during a critical window of time and cannot easily be reversed, demonstrating that some complex behaviors are built into animals genetically rather than learned. He also studied how animals communicate — through sounds, postures, and rituals — and argued that understanding animal instincts could shed light on human behavior as well. In 1973, Lorenz shared the Nobel Prize in Physiology or Medicine with Nikolaas Tinbergen and Karl von Frisch for their discoveries in animal behavior research.",
-    "he": "פרק זה מספר את סיפורו של קונרד לורנץ, המדען האוסטרי שייסד את מדע האתולוגיה — חקר התנהגות בעלי חיים בתנאים טבעיים. מילדותו, לורנץ היה מוקסם מבעלי חיים והחזיק גן חיות קטן בביתו, ומתבונן בזהירות כיצד יצורים מתנהגים ומתקשרים. גילויו המפורסם ביותר היה 'הטבעה' — התהליך שבו חיות שנולדו, כמו גוזלי אווז, נצמדות לבן הנע הראשון שהן רואות זמן קצר לאחר הבקיעה, בדרך כלל האם, ועוקבות אחריו לכל מקום. לורנץ הראה שהתקשרות זו נוצרת במהלך חלון זמן קריטי ולא ניתן לבטלה בקלות, ומוכיח שהתנהגויות מורכבות מסוימות מוטמעות גנטית בבעלי חיים ולא נלמדות. הוא גם חקר כיצד בעלי חיים מתקשרים — דרך קולות, תנוחות וטקסים — וטען שהבנת אינסטינקטים של בעלי חיים יכולה לשפוך אור גם על התנהגות האדם. בשנת 1973, חלק לורנץ בפרס נובל לפיזיולוגיה או לרפואה עם ניקולאס טינברגן וקרל פון פריש על גילוייהם במחקר התנהגות בעלי חיים."
+    "he": "פרק זה מספר את סיפורו של קונרד לורנץ, המדען האוסטרי שייסד את מדע האתולוגיה — חקר התנהגות בעלי חיים בתנאים טבעיים. מילדותו, לורנץ היה מוקסם מבעלי חיים והחזיק גן חיות קטן בביתו, והתבונן בזהירות כיצד יצורים מתנהגים ומתקשרים. גילויו המפורסם ביותר היה 'הטבעה' — התהליך שבו חיות שנולדו, כמו גוזלי אווז, נצמדות לבן הנע הראשון שהן רואות זמן קצר לאחר הבקיעה, בדרך כלל האם, ועוקבות אחריו לכל מקום. לורנץ הראה שהתקשרות זו נוצרת במהלך חלון זמן קריטי ולא ניתן לבטלה בקלות, ומוכיח שהתנהגויות מורכבות מסוימות מוטמעות גנטית בבעלי חיים ולא נלמדות. הוא גם חקר כיצד בעלי חיים מתקשרים — דרך קולות, תנוחות וטקסים — וטען שהבנת אינסטינקטים של בעלי חיים יכולה לשפוך אור גם על התנהגות האדם. בשנת 1973, חלק לורנץ בפרס נובל לפיזיולוגיה או לרפואה עם ניקולאס טינברגן וקרל פון פריש על גילוייהם במחקר התנהגות בעלי חיים."
   },
   "thumbnail": "https://img.youtube.com/vi/O9Rik3dHemg/maxresdefault.jpg",
   "durationMinutes": 26,
@@ -44,7 +44,7 @@
       "term": { "en": "Instinct", "he": "אינסטינקט" },
       "definition": {
         "en": "A behavior that an animal is born knowing how to do, without needing to learn it. For example, a baby bird knows how to beg for food instinctively, and a spider knows how to spin a web without ever being taught. Lorenz studied how instincts work and why they evolved.",
-        "he": "התנהגות שבעל חיים יודע לעשות מלידה, ללא צורך ללמוד אותה. לדוגמה, ציפור גוזל יודעת כיצד להתחנן לאוכל מאינסטינקט, ועכביש יודע כיצד לארוג קורים ללא שנלמד. לורנץ חקר כיצד פועלים אינסטינקטים ומדוע התפתחו."
+        "he": "התנהגות שבעל חיים יודע לעשות מלידה, ללא צורך ללמוד אותה. לדוגמה, גוזל יודע כיצד להתחנן לאוכל מאינסטינקט, ועכביש יודע כיצד לארוג קורים ללא שנלמד. לורנץ חקר כיצד פועלים אינסטינקטים ומדוע התפתחו."
       },
       "category": "animal behavior"
     },
@@ -62,7 +62,7 @@
       "term": { "en": "Gosling", "he": "גוזל אווז" },
       "definition": {
         "en": "A baby goose. Konrad Lorenz became famous for raising goslings that imprinted on him and followed him everywhere as if he were their mother — wadling after him in a line and calling to him when he walked away.",
-        "he": "אווז גוזל. קונרד לורנץ נעשה מפורסם בגידול גוזלי אווז שהוטבעו עליו ועקבו אחריו לכל מקום כאילו היה אמם — מכורבלים אחריו בשורה וצועקים אליו כשהלך."
+        "he": "אווז גוזל. קונרד לורנץ נעשה מפורסם בגידול גוזלי אווז שהוטבעו עליו ועקבו אחריו לכל מקום כאילו היה אמם — מתנדנדים אחריו בשורה וצועקים אליו כשהלך."
       },
       "category": "zoology"
     },
@@ -98,7 +98,7 @@
       "term": { "en": "Fixed Action Pattern", "he": "דפוס פעולה קבוע" },
       "definition": {
         "en": "An instinctive behavior sequence that, once started by a trigger (called a 'releaser'), runs to completion automatically. For example, a goose will always roll a displaced egg back to its nest in the same way, even if the egg is removed mid-action.",
-        "he": "רצף התנהגות אינסטינקטיבי שברגע שמופעל על ידי גורם מפעיל (הנקרא 'משחרר'), מתנהל עד לסיום באופן אוטומטי. לדוגמה, אווז תמיד תגלגל ביצה שעקרה חזרה לקן שלה באותו אופן, גם אם הביצה תוסר באמצע הפעולה."
+        "he": "רצף התנהגות אינסטינקטיבי שברגע שמופעל על ידי גורם מפעיל (הנקרא 'משחרר'), מתנהל עד לסיום באופן אוטומטי. לדוגמה, אווז תמיד יגלגל ביצה שעקר חזרה לקן שלו באותו אופן, גם אם הביצה תוסר באמצע הפעולה."
       },
       "category": "animal behavior"
     },

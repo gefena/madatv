@@ -53,7 +53,7 @@
       "term": { "en": "Speed of Light", "he": "מהירות האור" },
       "definition": {
         "en": "The fastest speed possible in the universe — about 300,000 kilometers per second. Einstein showed that nothing with mass can ever reach this speed, and that light always travels at this speed no matter how fast the source is moving.",
-        "he": "המהירות המרבית האפשרית ביקום — כ-300,000 קילומטר בשנייה. איינשטיין הראה שאף דבר שיש לו מסה לא יכול להגיע למהירות זו, ושאור תמיד נע במהירות זו לא משנה כמה מהר זזה המקור."
+        "he": "המהירות המרבית האפשרית ביקום — כ-300,000 קילומטר בשנייה. איינשטיין הראה שאף דבר שיש לו מסה לא יכול להגיע למהירות זו, ושאור תמיד נע במהירות זו לא משנה כמה מהר זז המקור."
       },
       "category": "physics"
     },
@@ -134,7 +134,7 @@
       "term": { "en": "Solar Eclipse", "he": "ליקוי חמה" },
       "definition": {
         "en": "An astronomical event where the Moon passes between the Earth and the Sun, temporarily blocking sunlight. The 1919 solar eclipse was crucial for science because astronomers used it to confirm Einstein's prediction that the Sun's gravity bends the path of light from distant stars.",
-        "he": "אירוע אסטרונומי שבו הירח עובר בין כדור הארץ לשמש ומחסום זמנית את אור השמש. ליקוי החמה של 1919 היה מכריע למדע כי אסטרונומים השתמשו בו כדי לאשר את תחזיתו של איינשטיין שכבידת השמש מעקלת את מסלול האור מכוכבים רחוקים."
+        "he": "אירוע אסטרונומי שבו הירח עובר בין כדור הארץ לשמש וחוסם זמנית את אור השמש. ליקוי החמה של 1919 היה מכריע למדע כי אסטרונומים השתמשו בו כדי לאשר את תחזיתו של איינשטיין שכבידת השמש מעקלת את מסלול האור מכוכבים רחוקים."
       },
       "category": "astronomy"
     },

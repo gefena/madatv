@@ -2,7 +2,7 @@
   "id": "d19-marconi",
   "episodeNumber": 19,
   "youtubeId": "yg21NJjLOUI",
-  "title": { "en": "Marconi and Sound Waves", "he": "מרקוני וגלי הקול" },
+  "title": { "en": "Marconi and Sound Waves", "he": "מרקוני וגלי הרדיו" },
   "summary": {
     "en": "Guglielmo Marconi was an Italian inventor who, in the 1890s, became the first person to successfully develop and commercialize wireless telegraphy using radio waves. Building on the earlier theoretical work of scientists like James Clerk Maxwell and Heinrich Hertz, who had predicted and demonstrated the existence of electromagnetic waves, Marconi built practical devices to transmit and receive signals without wires across ever-greater distances. In 1901, he achieved the astonishing feat of sending a radio signal across the Atlantic Ocean — from England to Canada — proving that radio waves follow the curvature of the Earth. Marconi's wireless communication system revolutionized global communication, making it possible to send messages to ships at sea, and laid the foundation for modern radio, television, mobile phones, and all wireless communication technology we use today.",
     "he": "גוגלילמו מרקוני היה ממציא איטלקי שבשנות ה-1890 הפך לאדם הראשון שפיתח ומסחר בהצלחה טלגרפיה אלחוטית תוך שימוש בגלי רדיו. בנוסף על עבודתם התיאורטית הקודמת של מדענים כמו ג'יימס קלרק מקסוול והיינריך הרץ, שניבאו והדגימו את קיום הגלים האלקטרומגנטיים, בנה מרקוני מכשירים מעשיים לשידור וקליטת אותות ללא חוטים על פני מרחקים גדולים יותר ויותר. בשנת 1901 השיג את ההישג המדהים של שליחת אות רדיו מעבר לאוקיינוס האטלנטי — מאנגליה לקנדה — מה שהוכיח שגלי רדיו עוקבים אחר עקמומיות כדור הארץ. מערכת התקשורת האלחוטית של מרקוני חוללה מהפכה בתקשורת העולמית, אפשרה שליחת הודעות לספינות בים, והניחה את היסודות לרדיו המודרני, לטלוויזיה, לטלפונים ניידים ולכל טכנולוגיית התקשורת האלחוטית שאנו משתמשים בה כיום."
@@ -74,7 +74,7 @@
     {
       "id": "t-d19-11",
       "term": { "en": "Heinrich Hertz", "he": "היינריך הרץ" },
-      "definition": { "en": "A German physicist who, in 1887, was the first to prove the existence of radio waves through experiments. The unit of frequency 'Hertz' is named after him.", "he": "פיזיקאי גרמני שב-1887 היה הראשון להוכיח את קיות גלי הרדיו בניסויים. יחידת התדר 'הרץ' נקראת על שמו." },
+      "definition": { "en": "A German physicist who, in 1887, was the first to prove the existence of radio waves through experiments. The unit of frequency 'Hertz' is named after him.", "he": "פיזיקאי גרמני שב-1887 היה הראשון להוכיח את קיומם של גלי הרדיו בניסויים. יחידת התדר 'הרץ' נקראת על שמו." },
       "category": "science"
     },
     {
