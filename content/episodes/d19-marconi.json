@@ -1,0 +1,228 @@
+{
+  "id": "d19-marconi",
+  "episodeNumber": 19,
+  "youtubeId": "yg21NJjLOUI",
+  "title": { "en": "Marconi and Sound Waves", "he": "מרקוני וגלי הקול" },
+  "summary": {
+    "en": "Guglielmo Marconi was an Italian inventor who, in the 1890s, became the first person to successfully develop and commercialize wireless telegraphy using radio waves. Building on the earlier theoretical work of scientists like James Clerk Maxwell and Heinrich Hertz, who had predicted and demonstrated the existence of electromagnetic waves, Marconi built practical devices to transmit and receive signals without wires across ever-greater distances. In 1901, he achieved the astonishing feat of sending a radio signal across the Atlantic Ocean — from England to Canada — proving that radio waves follow the curvature of the Earth. Marconi's wireless communication system revolutionized global communication, making it possible to send messages to ships at sea, and laid the foundation for modern radio, television, mobile phones, and all wireless communication technology we use today.",
+    "he": "גוגלילמו מרקוני היה ממציא איטלקי שבשנות ה-1890 הפך לאדם הראשון שפיתח ומסחר בהצלחה טלגרפיה אלחוטית תוך שימוש בגלי רדיו. בנוסף על עבודתם התיאורטית הקודמת של מדענים כמו ג'יימס קלרק מקסוול והיינריך הרץ, שניבאו והדגימו את קיום הגלים האלקטרומגנטיים, בנה מרקוני מכשירים מעשיים לשידור וקליטת אותות ללא חוטים על פני מרחקים גדולים יותר ויותר. בשנת 1901 השיג את ההישג המדהים של שליחת אות רדיו מעבר לאוקיינוס האטלנטי — מאנגליה לקנדה — מה שהוכיח שגלי רדיו עוקבים אחר עקמומיות כדור הארץ. מערכת התקשורת האלחוטית של מרקוני חוללה מהפכה בתקשורת העולמית, אפשרה שליחת הודעות לספינות בים, והניחה את היסודות לרדיו המודרני, לטלוויזיה, לטלפונים ניידים ולכל טכנולוגיית התקשורת האלחוטית שאנו משתמשים בה כיום."
+  },
+  "thumbnail": "https://img.youtube.com/vi/yg21NJjLOUI/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": ["Guglielmo Marconi", "radio waves", "wireless telegraphy", "electromagnetic waves", "communication revolution"],
+  "terminology": [
+    {
+      "id": "t-d19-01",
+      "term": { "en": "Radio Wave", "he": "גל רדיו" },
+      "definition": { "en": "A type of invisible wave that can travel through the air (and space) at the speed of light and carry information — used in radio, TV, and mobile phones.", "he": "סוג של גל בלתי נראה שיכול לנוע באוויר (ובחלל) במהירות האור ולשאת מידע — משמש ברדיו, בטלוויזיה ובטלפונים ניידים." },
+      "category": "physics"
+    },
+    {
+      "id": "t-d19-02",
+      "term": { "en": "Wireless Telegraphy", "he": "טלגרפיה אלחוטית" },
+      "definition": { "en": "Sending messages (telegraph signals) through the air using radio waves, without any physical wire connection between sender and receiver.", "he": "שליחת הודעות (אותות טלגרף) באוויר באמצעות גלי רדיו, ללא חיבור פיזי בחוטים בין המשדר לבין המקלט." },
+      "category": "technology"
+    },
+    {
+      "id": "t-d19-03",
+      "term": { "en": "Electromagnetic Wave", "he": "גל אלקטרומגנטי" },
+      "definition": { "en": "A wave made of electric and magnetic energy that can travel through space. Light, radio waves, and X-rays are all types of electromagnetic waves.", "he": "גל העשוי מאנרגיה חשמלית ומגנטית שיכול לנוע בחלל. אור, גלי רדיו וקרני X הם כולם סוגים של גלים אלקטרומגנטיים." },
+      "category": "physics"
+    },
+    {
+      "id": "t-d19-04",
+      "term": { "en": "Transmitter", "he": "משדר" },
+      "definition": { "en": "A device that sends out radio waves carrying a signal or message.", "he": "מכשיר המשדר גלי רדיו הנושאים אות או הודעה." },
+      "category": "technology"
+    },
+    {
+      "id": "t-d19-05",
+      "term": { "en": "Receiver", "he": "מקלט" },
+      "definition": { "en": "A device that picks up radio waves and turns them back into a signal or sound that people can understand.", "he": "מכשיר הקולט גלי רדיו והופך אותם בחזרה לאות או לצליל שאנשים יכולים להבין." },
+      "category": "technology"
+    },
+    {
+      "id": "t-d19-06",
+      "term": { "en": "Antenna", "he": "אנטנה" },
+      "definition": { "en": "A metal rod or wire that sends out or picks up radio waves. Both transmitters and receivers need an antenna.", "he": "מוט מתכת או חוט השולח או קולט גלי רדיו. גם משדרים וגם מקלטים זקוקים לאנטנה." },
+      "category": "technology"
+    },
+    {
+      "id": "t-d19-07",
+      "term": { "en": "Atlantic Ocean", "he": "האוקיינוס האטלנטי" },
+      "definition": { "en": "The ocean between Europe/Africa and the Americas. In 1901, Marconi became the first person to send a radio signal all the way across it.", "he": "האוקיינוס שבין אירופה/אפריקה ליבשות אמריקה. בשנת 1901 הפך מרקוני לאדם הראשון ששלח אות רדיו לאורכו." },
+      "category": "geography"
+    },
+    {
+      "id": "t-d19-08",
+      "term": { "en": "Morse Code", "he": "קוד מורס" },
+      "definition": { "en": "A system of dots and dashes used to represent letters and numbers, allowing messages to be sent using electrical signals or radio waves.", "he": "מערכת של נקודות ומקפים המשמשות לייצוג אותיות ומספרים, המאפשרת שליחת הודעות באמצעות אותות חשמליים או גלי רדיו." },
+      "category": "technology"
+    },
+    {
+      "id": "t-d19-09",
+      "term": { "en": "Frequency", "he": "תדר" },
+      "definition": { "en": "The number of waves that pass a point in one second. Different radio stations use different frequencies so their signals do not mix up.", "he": "מספר הגלים העוברים בנקודה מסוימת בשנייה אחת. תחנות רדיו שונות משתמשות בתדרים שונים כדי שהאותות שלהן לא יתערבבו." },
+      "category": "physics"
+    },
+    {
+      "id": "t-d19-10",
+      "term": { "en": "Telegraph", "he": "טלגרף" },
+      "definition": { "en": "A system for sending messages over long distances using electrical signals through wires. Marconi made it wireless by using radio waves.", "he": "מערכת לשליחת הודעות למרחקים ארוכים באמצעות אותות חשמליים דרך חוטים. מרקוני הפך אותה לאלחוטית על ידי שימוש בגלי רדיו." },
+      "category": "technology"
+    },
+    {
+      "id": "t-d19-11",
+      "term": { "en": "Heinrich Hertz", "he": "היינריך הרץ" },
+      "definition": { "en": "A German physicist who, in 1887, was the first to prove the existence of radio waves through experiments. The unit of frequency 'Hertz' is named after him.", "he": "פיזיקאי גרמני שב-1887 היה הראשון להוכיח את קיות גלי הרדיו בניסויים. יחידת התדר 'הרץ' נקראת על שמו." },
+      "category": "science"
+    },
+    {
+      "id": "t-d19-12",
+      "term": { "en": "Nobel Prize", "he": "פרס נובל" },
+      "definition": { "en": "One of the world's most prestigious awards given to people who make outstanding contributions to science, literature, or peace. Marconi won the Nobel Prize in Physics in 1909.", "he": "אחד הפרסים היוקרתיים ביותר בעולם הניתן לאנשים שתרמו תרומה מצטיינת למדע, לספרות או לשלום. מרקוני זכה בפרס נובל בפיזיקה ב-1909." },
+      "category": "history"
+    },
+    {
+      "id": "t-d19-13",
+      "term": { "en": "Signal", "he": "אות" },
+      "definition": { "en": "Information sent from one place to another using waves, electrical pulses, or other methods.", "he": "מידע הנשלח ממקום למקום באמצעות גלים, דחפים חשמליים או שיטות אחרות." },
+      "category": "technology"
+    },
+    {
+      "id": "t-d19-14",
+      "term": { "en": "Speed of Light", "he": "מהירות האור" },
+      "definition": { "en": "The incredibly fast speed at which light and all electromagnetic waves travel — about 300,000 kilometres per second. This is why radio signals reach their destination almost instantly.", "he": "המהירות המדהימה שבה אור וכל הגלים האלקטרומגנטיים נעים — כ-300,000 קילומטרים בשנייה. לכן אותות רדיו מגיעים ליעדם כמעט מיידית." },
+      "category": "physics"
+    },
+    {
+      "id": "t-d19-15",
+      "term": { "en": "Wireless Communication", "he": "תקשורת אלחוטית" },
+      "definition": { "en": "Sending information (voice, data, or messages) without physical wires, using radio waves or other types of electromagnetic radiation.", "he": "שליחת מידע (קול, נתונים או הודעות) ללא חוטים פיזיים, תוך שימוש בגלי רדיו או בסוגים אחרים של קרינה אלקטרומגנטית." },
+      "category": "technology"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q-d19-01",
+      "question": { "en": "What nationality was Guglielmo Marconi?", "he": "מה לאומיותו של גוגלילמו מרקוני?" },
+      "choices": [
+        { "id": "a", "text": { "en": "French", "he": "צרפתי" } },
+        { "id": "b", "text": { "en": "Spanish", "he": "ספרדי" } },
+        { "id": "c", "text": { "en": "Italian", "he": "איטלקי" } },
+        { "id": "d", "text": { "en": "German", "he": "גרמני" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Guglielmo Marconi was Italian, born in Bologna, Italy in 1874. He later moved to England where he found greater support for developing his wireless telegraphy system.", "he": "גוגלילמו מרקוני היה איטלקי, נולד בבולוניה, איטליה ב-1874. לאחר מכן עבר לאנגליה שם מצא תמיכה רבה יותר לפיתוח מערכת הטלגרפיה האלחוטית שלו." }
+    },
+    {
+      "id": "q-d19-02",
+      "question": { "en": "What amazing achievement did Marconi accomplish in 1901?", "he": "איזה הישג מדהים השיג מרקוני בשנת 1901?" },
+      "choices": [
+        { "id": "a", "text": { "en": "He invented the telephone", "he": "הוא המציא את הטלפון" } },
+        { "id": "b", "text": { "en": "He sent the first radio signal across the Atlantic Ocean", "he": "הוא שלח את האות הראשון ברדיו מעבר לאוקיינוס האטלנטי" } },
+        { "id": "c", "text": { "en": "He launched the first radio station", "he": "הוא השיק את תחנת הרדיו הראשונה" } },
+        { "id": "d", "text": { "en": "He invented the television", "he": "הוא המציא את הטלוויזיה" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "In December 1901, Marconi transmitted a radio signal from Poldhu in Cornwall, England to Signal Hill in St. John's, Newfoundland, Canada — a distance of about 3,500 km — the first transatlantic wireless communication.", "he": "בדצמבר 1901 שידר מרקוני אות רדיו מפולדהו בקורנוול, אנגליה לסיגנל היל בסנט ג'ון, ניופאונדלנד, קנדה — מרחק של כ-3,500 ק\"מ — התקשורת האלחוטית הראשונה חוצת האטלנטי." }
+    },
+    {
+      "id": "q-d19-03",
+      "question": { "en": "Who first proved the existence of radio waves through experiments before Marconi?", "he": "מי הוכיח לראשונה את קיום גלי הרדיו בניסויים לפני מרקוני?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Albert Einstein", "he": "אלברט איינשטיין" } },
+        { "id": "b", "text": { "en": "Heinrich Hertz", "he": "היינריך הרץ" } },
+        { "id": "c", "text": { "en": "Thomas Edison", "he": "תומאס אדיסון" } },
+        { "id": "d", "text": { "en": "Alexander Graham Bell", "he": "אלכסנדר גרהם בל" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Heinrich Hertz was a German physicist who in 1887 was the first to prove the existence of electromagnetic radio waves through experiments. The unit of frequency 'Hertz' (Hz) is named in his honor.", "he": "היינריך הרץ היה פיזיקאי גרמני שב-1887 היה הראשון להוכיח בניסויים את קיום גלי רדיו אלקטרומגנטיים. יחידת התדר 'הרץ' (Hz) נקראת לכבודו." }
+    },
+    {
+      "id": "q-d19-04",
+      "question": { "en": "What is a radio wave?", "he": "מהו גל רדיו?" },
+      "choices": [
+        { "id": "a", "text": { "en": "A wave made of water molecules", "he": "גל העשוי ממולקולות מים" } },
+        { "id": "b", "text": { "en": "A sound wave transmitted through speakers", "he": "גל קול המועבר דרך רמקולים" } },
+        { "id": "c", "text": { "en": "An invisible electromagnetic wave that can carry information through air and space", "he": "גל אלקטרומגנטי בלתי נראה שיכול לשאת מידע דרך אוויר וחלל" } },
+        { "id": "d", "text": { "en": "A wave found only underwater", "he": "גל הנמצא רק מתחת לפני המים" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Radio waves are a type of invisible electromagnetic radiation that can travel through air, vacuum (space), and some solid materials. They carry information and travel at the speed of light — about 300,000 km per second.", "he": "גלי רדיו הם סוג של קרינה אלקטרומגנטית בלתי נראית שיכולה לנוע דרך אוויר, ואקום (חלל) וחלק מהחומרים המוצקים. הם נושאים מידע ונעים במהירות האור — כ-300,000 ק\"מ בשנייה." }
+    },
+    {
+      "id": "q-d19-05",
+      "question": { "en": "Which prestigious prize did Marconi win in 1909?", "he": "איזה פרס יוקרתי זכה מרקוני ב-1909?" },
+      "choices": [
+        { "id": "a", "text": { "en": "The Fields Medal", "he": "מדליית פילדס" } },
+        { "id": "b", "text": { "en": "The Nobel Prize in Physics", "he": "פרס נובל בפיזיקה" } },
+        { "id": "c", "text": { "en": "The Pulitzer Prize", "he": "פרס פוליצר" } },
+        { "id": "d", "text": { "en": "The Royal Medal", "he": "המדליה המלכותית" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Guglielmo Marconi was awarded the Nobel Prize in Physics in 1909, sharing it with Karl Ferdinand Braun, for their contributions to the development of wireless telegraphy.", "he": "גוגלילמו מרקוני זכה בפרס נובל בפיזיקה בשנת 1909, שיתפו עם קארל פרדיננד בראון, על תרומותיהם לפיתוח הטלגרפיה האלחוטית." }
+    },
+    {
+      "id": "q-d19-06",
+      "question": { "en": "What is Morse code?", "he": "מהו קוד מורס?" },
+      "choices": [
+        { "id": "a", "text": { "en": "A programming language for computers", "he": "שפת תכנות למחשבים" } },
+        { "id": "b", "text": { "en": "A system of dots and dashes used to send messages", "he": "מערכת של נקודות ומקפים לשליחת הודעות" } },
+        { "id": "c", "text": { "en": "A type of musical notation", "he": "סוג של תווים מוזיקליים" } },
+        { "id": "d", "text": { "en": "A secret language used by sailors", "he": "שפה סודית המשמשת ימאים" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Morse code is a system where letters and numbers are represented by combinations of short signals (dots) and long signals (dashes). It was widely used with the telegraph and early radio communication.", "he": "קוד מורס הוא מערכת שבה אותיות ומספרים מיוצגים על ידי שילובים של אותות קצרים (נקודות) ואותות ארוכים (מקפים). הוא שימש נרחבות עם הטלגרף ותקשורת הרדיו המוקדמת." }
+    },
+    {
+      "id": "q-d19-07",
+      "question": { "en": "How did Marconi's invention help ships at sea?", "he": "כיצד עזרה המצאתו של מרקוני לספינות בים?" },
+      "choices": [
+        { "id": "a", "text": { "en": "It made ships travel faster", "he": "זה גרם לספינות לנסוע מהר יותר" } },
+        { "id": "b", "text": { "en": "It allowed ships to communicate with land and other ships without wires", "he": "זה אפשר לספינות לתקשר עם היבשה ועם ספינות אחרות ללא חוטים" } },
+        { "id": "c", "text": { "en": "It helped ships navigate using stars", "he": "זה עזר לספינות לנווט באמצעות כוכבים" } },
+        { "id": "d", "text": { "en": "It provided electrical power to ships", "he": "זה סיפק כוח חשמלי לספינות" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Before Marconi's wireless telegraphy, ships at sea were completely cut off from communication once out of sight of land. His invention allowed ships to send distress signals, receive weather reports, and stay in contact with ports and other ships.", "he": "לפני הטלגרפיה האלחוטית של מרקוני, ספינות בים היו מנותקות לחלוטין מתקשורת ברגע שיצאו משדה הראייה של היבשה. המצאתו אפשרה לספינות לשלוח אותות מצוקה, לקבל תחזיות מזג אוויר ולהישאר בקשר עם נמלים וספינות אחרות." }
+    },
+    {
+      "id": "q-d19-08",
+      "question": { "en": "What did Marconi's wireless communication eventually lead to?", "he": "למה הובילה בסופו של דבר תקשורת האלחוט של מרקוני?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Only to better telegraph systems", "he": "רק למערכות טלגרף טובות יותר" } },
+        { "id": "b", "text": { "en": "Radio, television, and modern mobile phones", "he": "רדיו, טלוויזיה וטלפונים ניידים מודרניים" } },
+        { "id": "c", "text": { "en": "The internet", "he": "האינטרנט" } },
+        { "id": "d", "text": { "en": "Satellites only", "he": "לוויינים בלבד" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Marconi's pioneering work in wireless communication using radio waves laid the foundation for modern radio broadcasting, television, radar, mobile phones, Wi-Fi, and all wireless technology we use today.", "he": "עבודתו החלוצית של מרקוני בתקשורת אלחוטית באמצעות גלי רדיו הניחה את היסודות לשידורי הרדיו המודרניים, לטלוויזיה, לרדאר, לטלפונים ניידים, ל-Wi-Fi ולכל הטכנולוגיה האלחוטית שאנו משתמשים בה כיום." }
+    },
+    {
+      "id": "q-d19-09",
+      "question": { "en": "What do transmitters and receivers both need in order to send and receive radio waves?", "he": "מה משדרים ומקלטים שניהם זקוקים לו כדי לשלוח ולקבל גלי רדיו?" },
+      "choices": [
+        { "id": "a", "text": { "en": "A battery", "he": "סוללה" } },
+        { "id": "b", "text": { "en": "An antenna", "he": "אנטנה" } },
+        { "id": "c", "text": { "en": "A microphone", "he": "מיקרופון" } },
+        { "id": "d", "text": { "en": "A screen", "he": "מסך" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "An antenna is a metal rod or wire that is essential for sending and receiving radio waves. Transmitting antennas radiate radio waves into space, while receiving antennas pick up those waves and convert them back into electrical signals.", "he": "אנטנה היא מוט מתכת או חוט שהוא חיוני לשליחה וקליטה של גלי רדיו. אנטנות שידור מקרינות גלי רדיו לחלל, בעוד שאנטנות קליטה אוספות את הגלים הללו וממירות אותם בחזרה לאותות חשמליים." }
+    },
+    {
+      "id": "q-d19-10",
+      "question": { "en": "Why do different radio stations use different frequencies?", "he": "מדוע תחנות רדיו שונות משתמשות בתדרים שונים?" },
+      "choices": [
+        { "id": "a", "text": { "en": "To make their signals travel faster", "he": "כדי שהאותות שלהן יעברו מהר יותר" } },
+        { "id": "b", "text": { "en": "So that their signals do not mix up with each other", "he": "כדי שהאותות שלהן לא יתערבבו זה עם זה" } },
+        { "id": "c", "text": { "en": "Because it is the law", "he": "כי זה החוק" } },
+        { "id": "d", "text": { "en": "To save electricity", "he": "כדי לחסוך חשמל" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Each radio station is assigned a different frequency so that when you tune a radio to a specific frequency, you only hear that station's signal and not a confusing mix of all stations broadcasting at once.", "he": "לכל תחנת רדיו מוקצה תדר שונה, כך שכאשר אתה מכוון רדיו לתדר ספציפי, אתה שומע רק את האות של אותה תחנה ולא תערובת מבלבלת של כל התחנות השידור בו זמנית." }
+    }
+  ],
+  "videoSources": ["yg21NJjLOUI"]
+}

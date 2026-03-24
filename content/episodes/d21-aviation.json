@@ -1,0 +1,228 @@
+{
+  "id": "d21-aviation",
+  "episodeNumber": 21,
+  "youtubeId": "p2UtLpf20hg",
+  "title": { "en": "Aviation", "he": "התעופה" },
+  "summary": {
+    "en": "For centuries, humans dreamed of flying like birds, and countless inventors tried and failed to conquer the sky. It was two American brothers — Orville and Wilbur Wright, bicycle mechanics from Dayton, Ohio — who finally achieved what seemed impossible: on December 17, 1903, at Kitty Hawk, North Carolina, Orville piloted a powered, heavier-than-air machine (the Flyer) for 12 seconds and 37 meters, making history. The Wright Brothers succeeded where others failed because of their careful scientific approach — testing wing shapes in a wind tunnel, solving the problem of control, and using a light but powerful engine they designed themselves. From that modest beginning, aviation developed at breathtaking speed: within decades, planes were crossing oceans, carrying passengers, and serving as weapons of war, eventually leading to the jet age, supersonic flight, and eventually space travel.",
+    "he": "במשך מאות שנים חלמו בני האדם לעוף כמו ציפורים, ומאמינים רבים ניסו ונכשלו בכיבוש השמיים. שני אחים אמריקאים — אורוויל וווילבר רייט, מכונאי אופניים מדייטון, אוהיו — הם שהשיגו לבסוף את מה שנראה בלתי אפשרי: ב-17 בדצמבר 1903, בקיטי הוק, קרוליינה הצפונית, טס אורוויל במכונה מונעת, כבדה מהאוויר (ה'פלייר') במשך 12 שניות ו-37 מטרים, ועשה היסטוריה. האחים רייט הצליחו כאשר אחרים נכשלו בשל גישתם המדעית הזהירה — בדיקת צורות כנפיים במנהרת רוח, פתרון בעיית השליטה ושימוש במנוע קל אך עוצמתי שתכננו בעצמם. מאותה התחלה צנועה התפתחה התעופה במהירות מסחררת: תוך עשרות שנים חצו מטוסים אוקיינוסים, הסיעו נוסעים ושימשו כנשק מלחמה, מה שהוביל בסופו של דבר לעידן הסילון, לטיסה על-קולית ובסופו של דבר לטיסות חלל."
+  },
+  "thumbnail": "https://img.youtube.com/vi/p2UtLpf20hg/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": ["Wright Brothers", "first powered flight", "Kitty Hawk", "development of aviation", "jet age"],
+  "terminology": [
+    {
+      "id": "t-d21-01",
+      "term": { "en": "Aviation", "he": "תעופה" },
+      "definition": { "en": "The design, development, production, and operation of aircraft — vehicles that can fly through the air.", "he": "עיצוב, פיתוח, ייצור והפעלה של כלי טיס — כלי רכב היכולים לעוף באוויר." },
+      "category": "technology"
+    },
+    {
+      "id": "t-d21-02",
+      "term": { "en": "Wright Brothers", "he": "אחי רייט" },
+      "definition": { "en": "Orville and Wilbur Wright, two American brothers who made the first successful powered, controlled airplane flight in 1903 at Kitty Hawk, North Carolina.", "he": "אורוויל וווילבר רייט, שני אחים אמריקאים שביצעו את הטיסה המוצלחת הראשונה במטוס מונע ומבוקר ב-1903 בקיטי הוק, קרוליינה הצפונית." },
+      "category": "history"
+    },
+    {
+      "id": "t-d21-03",
+      "term": { "en": "Kitty Hawk", "he": "קיטי הוק" },
+      "definition": { "en": "A small town on a narrow strip of land in North Carolina, USA, where the Wright Brothers made their historic first powered flight on December 17, 1903.", "he": "עיירה קטנה על פס צר של אדמה בקרוליינה הצפונית, ארה\"ב, שבה ביצעו האחים רייט את טיסתם ההיסטורית הראשונה עם מנוע ב-17 בדצמבר 1903." },
+      "category": "history"
+    },
+    {
+      "id": "t-d21-04",
+      "term": { "en": "The Flyer", "he": "הפלייר" },
+      "definition": { "en": "The name of the Wright Brothers' first successful powered airplane, which flew for 12 seconds on December 17, 1903.", "he": "שמו של המטוס המונע הראשון המוצלח של האחים רייט, שעף למשך 12 שניות ב-17 בדצמבר 1903." },
+      "category": "history"
+    },
+    {
+      "id": "t-d21-05",
+      "term": { "en": "Wind Tunnel", "he": "מנהרת רוח" },
+      "definition": { "en": "A tube-shaped device that blows air over models of wings or aircraft to test how different shapes respond to airflow, without having to actually fly.", "he": "מכשיר בצורת צינור המנשב אוויר מעל דגמים של כנפיים או כלי טיס כדי לבדוק כיצד צורות שונות מגיבות לזרימת אוויר, מבלי שיש צורך לעוף בפועל." },
+      "category": "technology"
+    },
+    {
+      "id": "t-d21-06",
+      "term": { "en": "Lift", "he": "כוח עילוי" },
+      "definition": { "en": "The upward force created by air flowing over a curved wing that allows an aircraft to rise into the sky and stay up.", "he": "הכוח כלפי מעלה הנוצר על ידי אוויר הזורם מעל כנף מעוקלת המאפשר לכלי טיס לעלות לשמיים ולהישאר למעלה." },
+      "category": "physics"
+    },
+    {
+      "id": "t-d21-07",
+      "term": { "en": "Propeller", "he": "מדחף" },
+      "definition": { "en": "A spinning device with angled blades that pushes air backward to move an aircraft forward, similar to how oars push water to move a boat.", "he": "מכשיר מסתובב עם להבים מוטים הדוחף אוויר לאחור כדי להניע כלי טיס קדימה, בדומה לאיך שמשוטים דוחפים מים להנעת סירה." },
+      "category": "technology"
+    },
+    {
+      "id": "t-d21-08",
+      "term": { "en": "Jet Engine", "he": "מנוע סילון" },
+      "definition": { "en": "A powerful engine that sucks in air, mixes it with fuel, burns the mixture, and shoots the hot gases out the back at great speed, pushing the aircraft forward much faster than a propeller can.", "he": "מנוע עוצמתי הינק אוויר, מערבב אותו עם דלק, שורף את התערובת ויורה את הגזים החמים לאחור במהירות רבה, ודוחף את כלי הטיס קדימה הרבה יותר מהר ממדחף." },
+      "category": "technology"
+    },
+    {
+      "id": "t-d21-09",
+      "term": { "en": "Aerodynamics", "he": "אווירודינמיקה" },
+      "definition": { "en": "The study of how air moves around objects. Understanding aerodynamics is essential for designing aircraft that can fly efficiently.", "he": "חקר האופן שבו אוויר נע סביב עצמים. הבנת אווירודינמיקה חיונית לעיצוב כלי טיס שיכולים לעוף ביעילות." },
+      "category": "physics"
+    },
+    {
+      "id": "t-d21-10",
+      "term": { "en": "Biplane", "he": "דו-כנפי" },
+      "definition": { "en": "An early type of airplane with two sets of wings, one above the other. The Wright Brothers' Flyer was a biplane.", "he": "סוג מוקדם של מטוס עם שתי זוגות כנפיים, אחת מעל השנייה. הפלייר של האחים רייט היה דו-כנפי." },
+      "category": "technology"
+    },
+    {
+      "id": "t-d21-11",
+      "term": { "en": "Supersonic", "he": "על-קולי" },
+      "definition": { "en": "Faster than the speed of sound (about 1,235 km/h). Aircraft that fly supersonic create a loud 'sonic boom' when they break the sound barrier.", "he": "מהיר יותר ממהירות הקול (כ-1,235 ק\"מ לשעה). כלי טיס העפים על-קולי יוצרים 'בום קולי' רועש כאשר הם שוברים את מחסום הקול." },
+      "category": "physics"
+    },
+    {
+      "id": "t-d21-12",
+      "term": { "en": "Transatlantic Flight", "he": "טיסה חוצת האטלנטי" },
+      "definition": { "en": "A flight across the Atlantic Ocean. Charles Lindbergh made the first solo nonstop transatlantic flight in 1927, flying from New York to Paris in 33.5 hours.", "he": "טיסה מעבר לאוקיינוס האטלנטי. צ'ארלס לינדברג ביצע את הטיסה הסולו הראשונה ללא עצירה חוצת האטלנטי ב-1927, וטס מניו יורק לפריז ב-33.5 שעות." },
+      "category": "history"
+    },
+    {
+      "id": "t-d21-13",
+      "term": { "en": "Pilot", "he": "טייס" },
+      "definition": { "en": "A person trained and licensed to operate an aircraft.", "he": "אדם שהוכשר ומורשה להפעיל כלי טיס." },
+      "category": "technology"
+    },
+    {
+      "id": "t-d21-14",
+      "term": { "en": "Glider", "he": "דאון" },
+      "definition": { "en": "An aircraft without an engine that flies by using air currents and gravity. The Wright Brothers tested many gliders before adding an engine to create their powered Flyer.", "he": "כלי טיס ללא מנוע העף על ידי שימוש בזרמי אוויר ובכוח הכבידה. האחים רייט בדקו דאונים רבים לפני שהוסיפו מנוע כדי ליצור את הפלייר המונע שלהם." },
+      "category": "technology"
+    },
+    {
+      "id": "t-d21-15",
+      "term": { "en": "Sound Barrier", "he": "מחסום הקול" },
+      "definition": { "en": "The point at which an aircraft reaches the speed of sound (Mach 1). Aircraft had to be specially designed to break through it. Chuck Yeager first broke the sound barrier in 1947.", "he": "הנקודה שבה כלי טיס מגיע למהירות הקול (מאך 1). כלי טיס נאלצו להיות מתוכננים במיוחד כדי לפרוץ דרכו. צ'אק ייגר שבר לראשונה את מחסום הקול בשנת 1947." },
+      "category": "physics"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q-d21-01",
+      "question": { "en": "When did the Wright Brothers make their first successful powered flight?", "he": "מתי ביצעו האחים רייט את טיסתם המוצלחת הראשונה עם מנוע?" },
+      "choices": [
+        { "id": "a", "text": { "en": "December 17, 1903", "he": "17 בדצמבר 1903" } },
+        { "id": "b", "text": { "en": "July 4, 1900", "he": "4 ביולי 1900" } },
+        { "id": "c", "text": { "en": "March 3, 1910", "he": "3 במרץ 1910" } },
+        { "id": "d", "text": { "en": "January 1, 1898", "he": "1 בינואר 1898" } }
+      ],
+      "correctChoice": "a",
+      "explanation": { "en": "On December 17, 1903, at Kitty Hawk, North Carolina, Orville Wright piloted the Flyer on its first successful flight, covering 37 meters in 12 seconds. They made four flights that day.", "he": "ב-17 בדצמבר 1903, בקיטי הוק, קרוליינה הצפונית, טייס אורוויל רייט את הפלייר בטיסתו המוצלחת הראשונה, ועבר 37 מטרים ב-12 שניות. הם ביצעו ארבע טיסות באותו יום." }
+    },
+    {
+      "id": "q-d21-02",
+      "question": { "en": "Where were the Wright Brothers from?", "he": "מאיפה היו האחים רייט?" },
+      "choices": [
+        { "id": "a", "text": { "en": "New York City, New York", "he": "ניו יורק סיטי, ניו יורק" } },
+        { "id": "b", "text": { "en": "Dayton, Ohio", "he": "דייטון, אוהיו" } },
+        { "id": "c", "text": { "en": "Boston, Massachusetts", "he": "בוסטון, מסצ'וסטס" } },
+        { "id": "d", "text": { "en": "Chicago, Illinois", "he": "שיקגו, אילינוי" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Orville and Wilbur Wright were bicycle mechanics from Dayton, Ohio. They used skills and tools from their bicycle shop to design, build, and test their flying machines.", "he": "אורוויל וווילבר רייט היו מכונאי אופניים מדייטון, אוהיו. הם השתמשו במיומנויות ובכלים מחנות האופניים שלהם כדי לתכנן, לבנות ולבדוק את כלי הטיס שלהם." }
+    },
+    {
+      "id": "q-d21-03",
+      "question": { "en": "What was the Wright Brothers' airplane called?", "he": "כיצד נקרא המטוס של האחים רייט?" },
+      "choices": [
+        { "id": "a", "text": { "en": "The Eagle", "he": "הנשר" } },
+        { "id": "b", "text": { "en": "The Spirit", "he": "הרוח" } },
+        { "id": "c", "text": { "en": "The Flyer", "he": "הפלייר" } },
+        { "id": "d", "text": { "en": "The Pioneer", "he": "החלוץ" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "The Wright Brothers named their historic airplane 'the Flyer' (also known as Flyer I or Kitty Hawk Flyer). The original Flyer is now on display at the Smithsonian National Air and Space Museum in Washington D.C.", "he": "האחים רייט קראו למטוסם ההיסטורי 'הפלייר' (המכונה גם Flyer I או Kitty Hawk Flyer). הפלייר המקורי מוצג כיום במוזיאון הלאומי לאוויר וחלל של הסמיתסוניאן בוושינגטון הבירה." }
+    },
+    {
+      "id": "q-d21-04",
+      "question": { "en": "What tool did the Wright Brothers use to test wing shapes before building their full plane?", "he": "איזה כלי השתמשו האחים רייט לבדיקת צורות כנפיים לפני בניית המטוס המלא שלהם?" },
+      "choices": [
+        { "id": "a", "text": { "en": "A telescope", "he": "טלסקופ" } },
+        { "id": "b", "text": { "en": "A wind tunnel", "he": "מנהרת רוח" } },
+        { "id": "c", "text": { "en": "A special camera", "he": "מצלמה מיוחדת" } },
+        { "id": "d", "text": { "en": "A water tank", "he": "מיכל מים" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "The Wright Brothers built their own wind tunnel in 1901 to test over 200 different wing shapes. This systematic scientific approach helped them understand aerodynamics and design an effective wing, which was key to their success.", "he": "האחים רייט בנו מנהרת רוח משלהם בשנת 1901 לבדיקת יותר מ-200 צורות כנפיים שונות. גישה מדעית שיטתית זו עזרה להם להבין אווירודינמיקה ולתכנן כנף יעילה, שהייתה המפתח להצלחתם." }
+    },
+    {
+      "id": "q-d21-05",
+      "question": { "en": "What is 'lift' in aviation?", "he": "מהו 'כוח עילוי' בתעופה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "The force of the engine pushing the plane forward", "he": "כוח המנוע הדוחף את המטוס קדימה" } },
+        { "id": "b", "text": { "en": "The upward force on a wing that allows an aircraft to fly", "he": "הכוח כלפי מעלה על הכנף המאפשר לכלי טיס לעוף" } },
+        { "id": "c", "text": { "en": "The weight of the aircraft pushing it down", "he": "משקל כלי הטיס הדוחף אותו מטה" } },
+        { "id": "d", "text": { "en": "Wind that blows against the front of the plane", "he": "רוח הנושבת כנגד חזית המטוס" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Lift is the upward force produced when air flows faster over the curved upper surface of a wing than under its flat lower surface, creating lower pressure on top and higher pressure below — pushing the wing (and the plane) upward.", "he": "כוח עילוי הוא הכוח כלפי מעלה המיוצר כאשר אוויר זורם מהר יותר מעל פני הכנף המעוקלים העליונים מאשר מתחת לפניו השטוחים התחתונים, ויוצר לחץ נמוך יותר מלמעלה ולחץ גבוה יותר מלמטה — ודוחף את הכנף (ואת המטוס) כלפי מעלה." }
+    },
+    {
+      "id": "q-d21-06",
+      "question": { "en": "Who made the first solo nonstop flight across the Atlantic Ocean?", "he": "מי ביצע את הטיסה הסולו הראשונה ללא עצירה מעבר לאוקיינוס האטלנטי?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Orville Wright", "he": "אורוויל רייט" } },
+        { "id": "b", "text": { "en": "Amelia Earhart", "he": "אמליה ארהארט" } },
+        { "id": "c", "text": { "en": "Charles Lindbergh", "he": "צ'ארלס לינדברג" } },
+        { "id": "d", "text": { "en": "Howard Hughes", "he": "הווארד יוז" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Charles Lindbergh made the first solo nonstop transatlantic flight on May 20–21, 1927, flying 5,800 km from New York to Paris in 33.5 hours in his plane 'The Spirit of St. Louis'.", "he": "צ'ארלס לינדברג ביצע את הטיסה הסולו הראשונה ללא עצירה חוצת האטלנטי ב-20-21 במאי 1927, וטס 5,800 ק\"מ מניו יורק לפריז ב-33.5 שעות במטוסו 'רוח סנט לואיס'." }
+    },
+    {
+      "id": "q-d21-07",
+      "question": { "en": "What is a 'jet engine'?", "he": "מהו 'מנוע סילון'?" },
+      "choices": [
+        { "id": "a", "text": { "en": "An engine that runs on water", "he": "מנוע הפועל על מים" } },
+        { "id": "b", "text": { "en": "A type of spinning propeller", "he": "סוג של מדחף מסתובב" } },
+        { "id": "c", "text": { "en": "An engine that sucks in air, burns fuel with it, and shoots hot gases out the back to push the aircraft forward", "he": "מנוע הינק אוויר, שורף בו דלק ויורה גזים חמים לאחור כדי לדחוף את כלי הטיס קדימה" } },
+        { "id": "d", "text": { "en": "A very large steam engine", "he": "מנוע קיטור גדול מאוד" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "A jet engine works by sucking in air, compressing it, mixing it with fuel, igniting the mixture, and blasting the hot exhaust gases out the back. This thrust pushes the aircraft forward at much greater speeds than propeller-driven planes.", "he": "מנוע סילון פועל על ידי יניקת אוויר, דחיסתו, ערבובו עם דלק, הצתת התערובת וירי גזי הפליטה החמים לאחור. דחף זה דוחף את כלי הטיס קדימה במהירויות גבוהות הרבה יותר ממטוסים המונעים על ידי מדחף." }
+    },
+    {
+      "id": "q-d21-08",
+      "question": { "en": "How long did the Wright Brothers' first successful flight last?", "he": "כמה זמן ארכה הטיסה המוצלחת הראשונה של האחים רייט?" },
+      "choices": [
+        { "id": "a", "text": { "en": "1 minute", "he": "דקה אחת" } },
+        { "id": "b", "text": { "en": "12 seconds", "he": "12 שניות" } },
+        { "id": "c", "text": { "en": "5 minutes", "he": "5 דקות" } },
+        { "id": "d", "text": { "en": "30 seconds", "he": "30 שניות" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "The first successful flight by Orville Wright on December 17, 1903 lasted just 12 seconds and covered 37 metres. Their fourth and longest flight that same day lasted 59 seconds and covered 260 metres.", "he": "הטיסה המוצלחת הראשונה של אורוויל רייט ב-17 בדצמבר 1903 ארכה 12 שניות בלבד ועברה 37 מטרים. טיסתם הרביעית והארוכה ביותר באותו יום ארכה 59 שניות ועברה 260 מטרים." }
+    },
+    {
+      "id": "q-d21-09",
+      "question": { "en": "What was the occupation of the Wright Brothers before they became famous aviators?", "he": "מה הייתה עיסוקם של האחים רייט לפני שהפכו לטייסים מפורסמים?" },
+      "choices": [
+        { "id": "a", "text": { "en": "They were university professors", "he": "הם היו פרופסורים באוניברסיטה" } },
+        { "id": "b", "text": { "en": "They were bicycle mechanics and shop owners", "he": "הם היו מכונאי אופניים ובעלי חנות" } },
+        { "id": "c", "text": { "en": "They were military engineers", "he": "הם היו מהנדסים צבאיים" } },
+        { "id": "d", "text": { "en": "They were carpenters", "he": "הם היו נגרים" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Orville and Wilbur Wright owned and operated a bicycle shop in Dayton, Ohio. Their mechanical knowledge and problem-solving skills from bicycle work directly helped them design and build their flying machines.", "he": "אורוויל וווילבר רייט בעלו והפעילו חנות אופניים בדייטון, אוהיו. הידע המכאני ומיומנויות פתרון הבעיות שלהם מעבודת האופניים עזרו להם ישירות לתכנן ולבנות את כלי הטיס שלהם." }
+    },
+    {
+      "id": "q-d21-10",
+      "question": { "en": "What is 'supersonic' flight?", "he": "מהי טיסה 'על-קולית'?" },
+      "choices": [
+        { "id": "a", "text": { "en": "A flight that goes faster than light", "he": "טיסה המהירה יותר מהאור" } },
+        { "id": "b", "text": { "en": "A very quiet and smooth flight", "he": "טיסה שקטה ורגועה מאוד" } },
+        { "id": "c", "text": { "en": "A flight faster than the speed of sound", "he": "טיסה מהירה יותר ממהירות הקול" } },
+        { "id": "d", "text": { "en": "A very high altitude flight", "he": "טיסה בגובה רב מאוד" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Supersonic means faster than the speed of sound, which is about 1,235 km/h at sea level. American test pilot Chuck Yeager was the first person to break the sound barrier in 1947, flying an experimental aircraft called the Bell X-1.", "he": "על-קולי פירושו מהיר יותר ממהירות הקול, שהיא כ-1,235 ק\"מ לשעה ברמת פני הים. טייס הניסוי האמריקאי צ'אק ייגר היה האדם הראשון ששבר את מחסום הקול ב-1947, וטס במטוס ניסויי בשם Bell X-1." }
+    }
+  ],
+  "videoSources": ["p2UtLpf20hg"]
+}

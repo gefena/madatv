@@ -1,0 +1,228 @@
+{
+  "id": "d18-edison",
+  "episodeNumber": 18,
+  "youtubeId": "V9vSwSsId8U",
+  "title": { "en": "Edison and Applied Science", "he": "אדיסון והמדע היישומי" },
+  "summary": {
+    "en": "Thomas Edison was an American inventor and businessman who became one of the most prolific inventors in history, holding over 1,000 patents. Working from his famous laboratory in Menlo Park, New Jersey — the world's first industrial research laboratory — Edison and his team developed practical inventions that transformed everyday life, including a reliable incandescent light bulb, the phonograph (a machine that could record and play back sound), and improvements to the telegraph. Edison was a master of 'applied science', turning scientific knowledge into useful inventions, famously saying that 'genius is one percent inspiration and ninety-nine percent perspiration.' His work in creating a complete electrical system, including power stations, wiring, and meters, helped bring electricity into homes and factories across the world.",
+    "he": "תומאס אדיסון היה ממציא ואיש עסקים אמריקאי שהפך לאחד הממציאים הפוריים ביותר בתולדות האנושות, עם יותר מ-1,000 פטנטים. מהמעבדה המפורסמת שלו בנלו פארק, ניו ג'רזי — מעבדת המחקר התעשייתית הראשונה בעולם — פיתח אדיסון וצוותו המצאות מעשיות ששינו את החיים היומיומיים, כולל נורת להט אמינה, הפונוגרף (מכונה שיכולה להקליט ולהשמיע קול) ושיפורים לטלגרף. אדיסון היה אמן של 'מדע יישומי', הפיכת ידע מדעי להמצאות שימושיות, ואמר בפירסום כי 'גאונות היא אחוז אחד של השראה ותשעים ותשעה אחוז של זיעה.' עבודתו ביצירת מערכת חשמלית שלמה, כולל תחנות כוח, חיווט ומונים, עזרה להביא חשמל לבתים ולמפעלים ברחבי העולם."
+  },
+  "thumbnail": "https://img.youtube.com/vi/V9vSwSsId8U/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": ["Thomas Edison", "light bulb", "phonograph", "Menlo Park laboratory", "invention factory", "practical electricity"],
+  "terminology": [
+    {
+      "id": "t-d18-01",
+      "term": { "en": "Inventor", "he": "ממציא" },
+      "definition": { "en": "A person who creates new devices, processes, or solutions to problems that did not exist before.", "he": "אדם היוצר מכשירים, תהליכים או פתרונות חדשים לבעיות שלא היו קיימים לפני כן." },
+      "category": "science"
+    },
+    {
+      "id": "t-d18-02",
+      "term": { "en": "Incandescent Light Bulb", "he": "נורת להט" },
+      "definition": { "en": "A glass bulb containing a thin wire (filament) that glows when electricity passes through it, producing light. Edison made the first practical and long-lasting version.", "he": "כיפת זכוכית המכילה חוט דק (פילמנט) הזוהר כאשר חשמל עובר דרכו ומייצר אור. אדיסון ייצר את הגרסה הראשונה המעשית והמתמשכת." },
+      "category": "technology"
+    },
+    {
+      "id": "t-d18-03",
+      "term": { "en": "Phonograph", "he": "פונוגרף" },
+      "definition": { "en": "The first machine that could record sound and play it back, invented by Edison in 1877. It worked by engraving sound vibrations onto a rotating cylinder.", "he": "המכונה הראשונה שיכולה להקליט קול ולהשמיע אותו בחזרה, שהומצאה על ידי אדיסון ב-1877. היא עבדה על ידי חריטת רטיטות קול על גליל מסתובב." },
+      "category": "technology"
+    },
+    {
+      "id": "t-d18-04",
+      "term": { "en": "Patent", "he": "פטנט" },
+      "definition": { "en": "An official document that gives an inventor the exclusive right to make and sell their invention for a certain number of years.", "he": "מסמך רשמי המעניק לממציא את הזכות הבלעדית לייצר ולמכור את המצאתו לתקופת שנים מסוימת." },
+      "category": "science"
+    },
+    {
+      "id": "t-d18-05",
+      "term": { "en": "Applied Science", "he": "מדע יישומי" },
+      "definition": { "en": "Using scientific knowledge and discoveries to create practical inventions and solutions to real-world problems.", "he": "שימוש בידע מדעי ובתגליות ליצירת המצאות מעשיות ופתרונות לבעיות בעולם האמיתי." },
+      "category": "science"
+    },
+    {
+      "id": "t-d18-06",
+      "term": { "en": "Filament", "he": "פילמנט" },
+      "definition": { "en": "The very thin wire inside a light bulb that glows when electricity passes through it. Edison experimented with many materials before finding one that lasted long enough.", "he": "החוט הדק מאוד בתוך נורת הלייט הזוהר כאשר חשמל עובר דרכו. אדיסון ניסה חומרים רבים לפני שמצא כזה שנמשך מספיק זמן." },
+      "category": "technology"
+    },
+    {
+      "id": "t-d18-07",
+      "term": { "en": "Electricity", "he": "חשמל" },
+      "definition": { "en": "A form of energy caused by the movement of tiny particles called electrons. We use electricity to power lights, machines, and many other devices.", "he": "צורה של אנרגיה הנגרמת על ידי תנועת חלקיקים זעירים הנקראים אלקטרונים. אנו משתמשים בחשמל להפעלת אורות, מכונות ומכשירים רבים אחרים." },
+      "category": "physics"
+    },
+    {
+      "id": "t-d18-08",
+      "term": { "en": "Menlo Park", "he": "נלו פארק" },
+      "definition": { "en": "The location in New Jersey, USA, where Edison built the world's first industrial research laboratory in 1876, earning the nickname 'The Invention Factory'.", "he": "המיקום בניו ג'רזי, ארה\"ב, שם בנה אדיסון את מעבדת המחקר התעשייתית הראשונה בעולם בשנת 1876, שזכתה לכינוי 'מפעל ההמצאות'." },
+      "category": "history"
+    },
+    {
+      "id": "t-d18-09",
+      "term": { "en": "Telegraph", "he": "טלגרף" },
+      "definition": { "en": "A device that sends messages over long distances using electrical signals through wires. Edison made important improvements to the telegraph early in his career.", "he": "מכשיר השולח הודעות למרחקים ארוכים באמצעות אותות חשמליים דרך חוטים. אדיסון שיפר בצורה משמעותית את הטלגרף בתחילת הקריירה שלו." },
+      "category": "technology"
+    },
+    {
+      "id": "t-d18-10",
+      "term": { "en": "Power Station", "he": "תחנת כוח" },
+      "definition": { "en": "A building where electricity is generated and then sent through wires to homes and businesses. Edison built the first commercial power station in New York City in 1882.", "he": "בניין שבו מיוצר חשמל ולאחר מכן נשלח דרך חוטים לבתים ולעסקים. אדיסון בנה את תחנת הכוח המסחרית הראשונה בניו יורק ב-1882." },
+      "category": "technology"
+    },
+    {
+      "id": "t-d18-11",
+      "term": { "en": "Research Laboratory", "he": "מעבדת מחקר" },
+      "definition": { "en": "A special place equipped with tools and equipment where scientists and inventors work together to develop new ideas and inventions.", "he": "מקום מיוחד המצויד בכלים ובציוד שבו מדענים וממציאים עובדים יחד לפיתוח רעיונות והמצאות חדשות." },
+      "category": "science"
+    },
+    {
+      "id": "t-d18-12",
+      "term": { "en": "Kinetoscope", "he": "קינטוסקופ" },
+      "definition": { "en": "An early motion picture device invented by Edison's laboratory that let one person at a time watch a short film through a peephole — an early step toward cinema.", "he": "מכשיר קולנוע מוקדם שהומצא במעבדת אדיסון שאפשר לאדם אחד בכל פעם לצפות בסרטון קצר דרך חורית הצצה — צעד מוקדם לעבר הקולנוע." },
+      "category": "technology"
+    },
+    {
+      "id": "t-d18-13",
+      "term": { "en": "Experiment", "he": "ניסוי" },
+      "definition": { "en": "A careful test done to find out whether an idea is correct or to discover something new.", "he": "בדיקה מדוקדקת הנעשית כדי לגלות אם רעיון נכון או כדי לגלות משהו חדש." },
+      "category": "science"
+    },
+    {
+      "id": "t-d18-14",
+      "term": { "en": "Current (Electrical)", "he": "זרם (חשמלי)" },
+      "definition": { "en": "The flow of electricity through a wire or circuit, like water flowing through a pipe.", "he": "זרימת חשמל דרך חוט או מעגל, בדומה לזרימת מים דרך צינור." },
+      "category": "physics"
+    },
+    {
+      "id": "t-d18-15",
+      "term": { "en": "Innovation", "he": "חדשנות" },
+      "definition": { "en": "The creation of something new or the improvement of something existing, especially to solve a problem or meet a need.", "he": "יצירת משהו חדש או שיפור של משהו קיים, בייחוד כדי לפתור בעיה או לענות על צורך." },
+      "category": "science"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q-d18-01",
+      "question": { "en": "Approximately how many patents did Thomas Edison hold during his lifetime?", "he": "כמה פטנטים בערך הפיק תומאס אדיסון במהלך חייו?" },
+      "choices": [
+        { "id": "a", "text": { "en": "About 50", "he": "כ-50" } },
+        { "id": "b", "text": { "en": "About 200", "he": "כ-200" } },
+        { "id": "c", "text": { "en": "Over 1,000", "he": "יותר מ-1,000" } },
+        { "id": "d", "text": { "en": "About 500", "he": "כ-500" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Edison held 1,093 patents in the United States alone, making him one of the most prolific inventors in history. His inventions covered fields from electricity to communication to entertainment.", "he": "אדיסון הפיק 1,093 פטנטים בארצות הברית בלבד, מה שהפך אותו לאחד הממציאים הפוריים ביותר בתולדות האנושות. המצאותיו כיסו תחומים מחשמל ועד תקשורת ובידור." }
+    },
+    {
+      "id": "q-d18-02",
+      "question": { "en": "What was the phonograph?", "he": "מהו הפונוגרף?" },
+      "choices": [
+        { "id": "a", "text": { "en": "An early type of camera", "he": "סוג מוקדם של מצלמה" } },
+        { "id": "b", "text": { "en": "The first machine that could record and play back sound", "he": "המכונה הראשונה שיכולה להקליט ולהשמיע קול" } },
+        { "id": "c", "text": { "en": "A type of telephone", "he": "סוג של טלפון" } },
+        { "id": "d", "text": { "en": "A device for sending messages", "he": "מכשיר לשליחת הודעות" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "The phonograph, invented by Edison in 1877, was the first device ever to record sound and play it back. It used a stylus to engrave sound vibrations onto a rotating tin-foil cylinder.", "he": "הפונוגרף, שהומצא על ידי אדיסון ב-1877, היה המכשיר הראשון שהקליט קול והשמיע אותו בחזרה. הוא השתמש בחרט לחריטת רטיטות קול על גליל רדיד שמסתובב." }
+    },
+    {
+      "id": "q-d18-03",
+      "question": { "en": "What was special about Edison's laboratory at Menlo Park?", "he": "מה היה מיוחד במעבדת אדיסון בנלו פארק?" },
+      "choices": [
+        { "id": "a", "text": { "en": "It was the world's first university science department", "he": "זו הייתה המחלקה הראשונה לאוניברסיטת מדע בעולם" } },
+        { "id": "b", "text": { "en": "It was the world's first industrial research laboratory", "he": "זו הייתה מעבדת המחקר התעשייתית הראשונה בעולם" } },
+        { "id": "c", "text": { "en": "It was the largest building ever constructed", "he": "זה היה הבניין הגדול ביותר שנבנה אי פעם" } },
+        { "id": "d", "text": { "en": "It was built entirely underground", "he": "הוא נבנה לגמרי מתחת לאדמה" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Edison's Menlo Park laboratory, built in 1876, was the world's first industrial research laboratory — a place where teams of workers collaborated to develop inventions systematically. It was nicknamed 'The Invention Factory'.", "he": "מעבדת נלו פארק של אדיסון, שנבנתה ב-1876, הייתה מעבדת המחקר התעשייתית הראשונה בעולם — מקום שבו צוותי עובדים שיתפו פעולה לפיתוח המצאות בצורה שיטתית. היא זכתה לכינוי 'מפעל ההמצאות'." }
+    },
+    {
+      "id": "q-d18-04",
+      "question": { "en": "In which country was Thomas Edison born?", "he": "באיזו מדינה נולד תומאס אדיסון?" },
+      "choices": [
+        { "id": "a", "text": { "en": "United Kingdom", "he": "הממלכה המאוחדת" } },
+        { "id": "b", "text": { "en": "Germany", "he": "גרמניה" } },
+        { "id": "c", "text": { "en": "United States of America", "he": "ארצות הברית של אמריקה" } },
+        { "id": "d", "text": { "en": "Canada", "he": "קנדה" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Thomas Edison was born on February 11, 1847, in Milan, Ohio, USA. He grew up in Port Huron, Michigan, and later moved to New Jersey where he built his famous Menlo Park laboratory.", "he": "תומאס אדיסון נולד ב-11 בפברואר 1847 במילאן, אוהיו, ארה\"ב. הוא גדל בפורט יורון, מישיגן, ולאחר מכן עבר לניו ג'רזי שם בנה את מעבדת נלו פארק המפורסמת שלו." }
+    },
+    {
+      "id": "q-d18-05",
+      "question": { "en": "What famous quote is attributed to Edison about the nature of genius?", "he": "איזו ציטוט מפורסם מיוחס לאדיסון על מהות הגאונות?" },
+      "choices": [
+        { "id": "a", "text": { "en": "'I think, therefore I am'", "he": "'אני חושב, לכן אני קיים'" } },
+        { "id": "b", "text": { "en": "'Genius is one percent inspiration and ninety-nine percent perspiration'", "he": "'גאונות היא אחוז אחד של השראה ותשעים ותשעה אחוז של זיעה'" } },
+        { "id": "c", "text": { "en": "'To invent, you need a good imagination and a pile of junk'", "he": "'כדי להמציא, אתה צריך דמיון טוב וערמת זבל'" } },
+        { "id": "d", "text": { "en": "'The only way to do great work is to love what you do'", "he": "'הדרך היחידה לעשות עבודה נהדרת היא לאהוב את מה שאתה עושה'" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Edison famously said 'Genius is one percent inspiration and ninety-nine percent perspiration,' meaning that success comes mostly from hard work and persistence, not just natural talent or sudden brilliant ideas.", "he": "אדיסון אמר בפירסום 'גאונות היא אחוז אחד של השראה ותשעים ותשעה אחוז של זיעה', כלומר הצלחה מגיעה בעיקר מעבודה קשה ועקשנות, לא רק מכשרון טבעי או רעיונות מבריקים פתאומיים." }
+    },
+    {
+      "id": "q-d18-06",
+      "question": { "en": "What did Edison work on to improve before inventing the light bulb?", "he": "על מה עבד אדיסון לשפר לפני שהמציא את נורת הלייט?" },
+      "choices": [
+        { "id": "a", "text": { "en": "The steam engine", "he": "מנוע הקיטור" } },
+        { "id": "b", "text": { "en": "The telegraph", "he": "הטלגרף" } },
+        { "id": "c", "text": { "en": "The microscope", "he": "המיקרוסקופ" } },
+        { "id": "d", "text": { "en": "The printing press", "he": "דפוס הדפס" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Early in his career, Edison made important improvements to the telegraph, including a device that could send four messages at once. This work earned him money and reputation that helped fund his later, more famous inventions.", "he": "בתחילת הקריירה שלו, אדיסון ביצע שיפורים חשובים לטלגרף, כולל מכשיר שיכול לשלוח ארבע הודעות בבת אחת. עבודה זו הרוויחה לו כסף ומוניטין שעזרו לממן את המצאותיו המאוחרות יותר המפורסמות." }
+    },
+    {
+      "id": "q-d18-07",
+      "question": { "en": "What is a 'patent'?", "he": "מהו 'פטנט'?" },
+      "choices": [
+        { "id": "a", "text": { "en": "A type of scientific award", "he": "סוג של פרס מדעי" } },
+        { "id": "b", "text": { "en": "A document giving an inventor exclusive rights to their invention", "he": "מסמך המעניק לממציא זכויות בלעדיות על המצאתו" } },
+        { "id": "c", "text": { "en": "A scientific formula", "he": "נוסחה מדעית" } },
+        { "id": "d", "text": { "en": "A type of electrical circuit", "he": "סוג של מעגל חשמלי" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "A patent is an official government document that gives an inventor the exclusive right to make and sell their invention for a certain number of years, protecting it from being copied by others.", "he": "פטנט הוא מסמך ממשלתי רשמי המעניק לממציא את הזכות הבלעדית לייצר ולמכור את המצאתו לתקופת שנים מסוימת, ומגן עליה מהעתקה על ידי אחרים." }
+    },
+    {
+      "id": "q-d18-08",
+      "question": { "en": "Where did Edison build the world's first commercial power station?", "he": "היכן בנה אדיסון את תחנת הכוח המסחרית הראשונה בעולם?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Chicago", "he": "שיקגו" } },
+        { "id": "b", "text": { "en": "London", "he": "לונדון" } },
+        { "id": "c", "text": { "en": "New York City", "he": "ניו יורק סיטי" } },
+        { "id": "d", "text": { "en": "Boston", "he": "בוסטון" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "In 1882, Edison opened the Pearl Street Station in lower Manhattan, New York City — the world's first commercial electrical power station. It supplied electricity to a small area but marked the beginning of the electrical age.", "he": "ב-1882 פתח אדיסון את תחנת פרל סטריט במנהטן התחתית, ניו יורק סיטי — תחנת הכוח החשמלית המסחרית הראשונה בעולם. היא סיפקה חשמל לאזור קטן אך סימנה את תחילת עידן החשמל." }
+    },
+    {
+      "id": "q-d18-09",
+      "question": { "en": "What material did Edison finally use for the filament in his successful light bulb?", "he": "איזה חומר השתמש אדיסון לבסוף לפילמנט בנורת הלייט המוצלחת שלו?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Gold wire", "he": "חוט זהב" } },
+        { "id": "b", "text": { "en": "Carbonized bamboo fiber", "he": "סיב במבוק מפוחם" } },
+        { "id": "c", "text": { "en": "Iron wire", "he": "חוט ברזל" } },
+        { "id": "d", "text": { "en": "Copper thread", "he": "חוט נחושת" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "After testing thousands of materials, Edison found that carbonized (charred) bamboo fiber worked best as a filament, lasting over 1,200 hours. This breakthrough led to the commercialization of electric lighting.", "he": "לאחר בדיקת אלפי חומרים, גילה אדיסון שסיב במבוק מפוחם (מוסר) עובד בצורה הטובה ביותר כפילמנט, ונמשך יותר מ-1,200 שעות. פריצת דרך זו הובילה למסחור תאורת החשמל." }
+    },
+    {
+      "id": "q-d18-10",
+      "question": { "en": "What does 'applied science' mean?", "he": "מה פירוש 'מדע יישומי'?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Science studied only in universities", "he": "מדע הנלמד רק באוניברסיטאות" } },
+        { "id": "b", "text": { "en": "Using scientific knowledge to create practical inventions that solve real problems", "he": "שימוש בידע מדעי ליצירת המצאות מעשיות הפותרות בעיות אמיתיות" } },
+        { "id": "c", "text": { "en": "Science performed only in laboratories", "he": "מדע המתבצע רק במעבדות" } },
+        { "id": "d", "text": { "en": "Studying nature without experiments", "he": "חקר הטבע ללא ניסויים" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Applied science is the use of scientific theories and knowledge to develop practical technologies, products, and solutions. Edison was a master of applied science — he took scientific understanding of electricity and turned it into useful inventions like the light bulb.", "he": "מדע יישומי הוא שימוש בתיאוריות וידע מדעי לפיתוח טכנולוגיות, מוצרים ופתרונות מעשיים. אדיסון היה אמן המדע היישומי — הוא לקח הבנה מדעית של חשמל והפך אותה להמצאות שימושיות כמו נורת הלייט." }
+    }
+  ],
+  "videoSources": ["V9vSwSsId8U"]
+}

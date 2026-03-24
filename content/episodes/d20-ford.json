@@ -1,0 +1,228 @@
+{
+  "id": "d20-ford",
+  "episodeNumber": 20,
+  "youtubeId": "eNBSkQx0lpw",
+  "title": { "en": "Ford and the Adventure of the Motorcar", "he": "פורד והרפתקת המכונית" },
+  "summary": {
+    "en": "Henry Ford was an American industrialist and engineer who transformed the automobile from a luxury toy for the rich into an affordable machine that ordinary people could own. While Ford did not invent the automobile — Karl Benz had already built the first petrol-powered car in 1885 — Ford's genius lay in finding a way to make cars quickly and cheaply using the moving assembly line, where workers each performed one task repeatedly as the car moved past them. His Model T, introduced in 1908, became the first car truly affordable to the middle class, and as production increased and prices fell, millions of Americans bought one. Ford's assembly line method of mass production revolutionized not just the car industry but manufacturing worldwide, and the automobile itself transformed society by changing where people lived, worked, and traveled, while also reshaping cities and the environment.",
+    "he": "הנרי פורד היה תעשיין ומהנדס אמריקאי שהפך את המכונית מצעצוע יוקרתי לעשירים למכונה זולה שאנשים רגילים יכולים להחזיק. אמנם פורד לא המציא את המכונית — קארל בנץ כבר בנה את המכונית הראשונה על בנזין בשנת 1885 — אך גאונותו של פורד הייתה במציאת דרך לייצר מכוניות מהר וזול באמצעות פס ייצור נע, שבו עובדים ביצעו כל אחד משימה אחת שוב ושוב בעוד המכונית עברה לפניהם. מודל T שלו, שהוצג ב-1908, הפך למכונית הראשונה שניתנה לרכישה לאנשים מהמעמד הבינוני, וככל שהייצור עלה והמחירים ירדו, מיליוני אמריקאים רכשו אחד. שיטת פס הייצור לייצור המוני של פורד חוללה מהפכה לא רק בתעשיית הרכב אלא בייצור ברחבי העולם, והמכונית עצמה שינתה את החברה על ידי שינוי מיקום המגורים, העבודה והנסיעות, תוך עיצוב מחדש של ערים ושל הסביבה."
+  },
+  "thumbnail": "https://img.youtube.com/vi/eNBSkQx0lpw/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": ["Henry Ford", "automobile", "Model T", "assembly line", "mass production", "transformation of transport"],
+  "terminology": [
+    {
+      "id": "t-d20-01",
+      "term": { "en": "Assembly Line", "he": "פס ייצור" },
+      "definition": { "en": "A way of making products where each worker does one specific job as the product moves along on a moving belt, making production much faster and cheaper.", "he": "דרך לייצר מוצרים שבה כל עובד מבצע משימה ספציפית אחת בעוד המוצר נע על חגורה נעה, מה שהופך את הייצור למהיר ולזול הרבה יותר." },
+      "category": "technology"
+    },
+    {
+      "id": "t-d20-02",
+      "term": { "en": "Mass Production", "he": "ייצור המוני" },
+      "definition": { "en": "Making very large numbers of identical products quickly and at low cost using machines and assembly lines.", "he": "ייצור מספרים גדולים מאוד של מוצרים זהים בצורה מהירה ובעלות נמוכה תוך שימוש במכונות ופסי ייצור." },
+      "category": "technology"
+    },
+    {
+      "id": "t-d20-03",
+      "term": { "en": "Model T", "he": "מודל T" },
+      "definition": { "en": "The famous automobile produced by Ford starting in 1908. It was the first car affordable enough for ordinary middle-class families to buy.", "he": "המכונית המפורסמת שפורד ייצר החל מ-1908. זו הייתה המכונית הראשונה שהייתה זולה מספיק עבור משפחות מהמעמד הבינוני הרגיל לרכוש." },
+      "category": "history"
+    },
+    {
+      "id": "t-d20-04",
+      "term": { "en": "Internal Combustion Engine", "he": "מנוע בעירה פנימית" },
+      "definition": { "en": "An engine that produces power by burning fuel (like petrol) inside it. Most cars and trucks use this type of engine.", "he": "מנוע המייצר כוח על ידי שריפת דלק (כמו בנזין) בתוכו. רוב המכוניות והמשאיות משתמשות בסוג זה של מנוע." },
+      "category": "technology"
+    },
+    {
+      "id": "t-d20-05",
+      "term": { "en": "Automobile", "he": "אוטומובייל / מכונית" },
+      "definition": { "en": "A self-propelled vehicle (one that moves under its own power) designed to carry people on roads. Also called a car or motorcar.", "he": "רכב עצמאי (אחד הנע בכוח עצמו) המיועד להסיע אנשים בכבישים. נקרא גם מכונית." },
+      "category": "technology"
+    },
+    {
+      "id": "t-d20-06",
+      "term": { "en": "Industrialist", "he": "תעשיין" },
+      "definition": { "en": "A person who owns or manages a large industrial business or factory.", "he": "אדם המחזיק בעסק תעשייתי גדול או מנהל אותו." },
+      "category": "history"
+    },
+    {
+      "id": "t-d20-07",
+      "term": { "en": "Karl Benz", "he": "קארל בנץ" },
+      "definition": { "en": "A German engineer who built the first true automobile powered by a petrol engine in 1885, before Ford was even born. The Benz Patent-Motorwagen is considered the first true car.", "he": "מהנדס גרמני שבנה את המכונית האמיתית הראשונה המונעת במנוע בנזין ב-1885, לפני שפורד נולד. ה-Benz Patent-Motorwagen נחשב למכונית האמיתית הראשונה." },
+      "category": "history"
+    },
+    {
+      "id": "t-d20-08",
+      "term": { "en": "Ford Motor Company", "he": "חברת פורד מוטור" },
+      "definition": { "en": "The company founded by Henry Ford in 1903 that became one of the world's largest and most famous automobile manufacturers.", "he": "החברה שייסד הנרי פורד בשנת 1903 שהפכה לאחד מיצרניות הרכב הגדולות והמפורסמות בעולם." },
+      "category": "history"
+    },
+    {
+      "id": "t-d20-09",
+      "term": { "en": "Petrol (Gasoline)", "he": "בנזין" },
+      "definition": { "en": "A liquid fuel made from oil that is burned in internal combustion engines to power most cars and trucks.", "he": "דלק נוזלי המיוצר מנפט הנשרף במנועי בעירה פנימית להנעת רוב המכוניות והמשאיות." },
+      "category": "science"
+    },
+    {
+      "id": "t-d20-10",
+      "term": { "en": "Standardization", "he": "תקנון / סטנדרטיזציה" },
+      "definition": { "en": "Making all parts of a product exactly the same size and shape so they are interchangeable. Ford used standardized parts to make cars faster and more cheaply.", "he": "ייצור כל חלקי מוצר בדיוק באותו גודל וצורה כך שניתן להחליף ביניהם. פורד השתמש בחלקים מתוקנים לייצור מכוניות מהר וזול יותר." },
+      "category": "technology"
+    },
+    {
+      "id": "t-d20-11",
+      "term": { "en": "Highland Park Plant", "he": "מפעל היילנד פארק" },
+      "definition": { "en": "The Ford factory in Michigan where the moving assembly line was introduced in 1913, dramatically speeding up car production.", "he": "מפעל פורד במישיגן שבו הוכנס פס הייצור הנע ב-1913, מה שהאיץ דרמטית את ייצור המכוניות." },
+      "category": "history"
+    },
+    {
+      "id": "t-d20-12",
+      "term": { "en": "Minimum Wage", "he": "שכר מינימום" },
+      "definition": { "en": "The lowest amount of money an employer is required to pay workers. Ford famously doubled his workers' wages in 1914 to $5 per day, a revolutionary move for the time.", "he": "הסכום הנמוך ביותר שמעסיק נדרש לשלם לעובדים. פורד הכפיל בפרסום את שכר עובדיו ב-1914 ל-5 דולר ליום, מהלך מהפכני לאותה תקופה." },
+      "category": "history"
+    },
+    {
+      "id": "t-d20-13",
+      "term": { "en": "Transportation", "he": "תחבורה" },
+      "definition": { "en": "Moving people or goods from one place to another using vehicles, trains, ships, or other means.", "he": "הזזת אנשים או סחורות ממקום למקום באמצעות כלי רכב, רכבות, ספינות או אמצעים אחרים." },
+      "category": "technology"
+    },
+    {
+      "id": "t-d20-14",
+      "term": { "en": "Suburb", "he": "פרוור" },
+      "definition": { "en": "A residential area on the edge of a city. The widespread use of the automobile allowed cities to grow outward, creating suburbs where people could live farther from where they worked.", "he": "אזור מגורים בשולי עיר. השימוש הנרחב ברכב אפשר לערים לגדול כלפי חוץ ויצר פרוורים שבהם אנשים יכלו לגור רחוק יותר ממקום עבודתם." },
+      "category": "geography"
+    },
+    {
+      "id": "t-d20-15",
+      "term": { "en": "Efficiency", "he": "יעילות" },
+      "definition": { "en": "Doing a task or producing a product with as little wasted time, money, or effort as possible. Ford's assembly line greatly improved efficiency in car manufacturing.", "he": "ביצוע משימה או ייצור מוצר עם כמה שפחות זמן, כסף או מאמץ מבוזבזים. פס הייצור של פורד שיפר מאוד את היעילות בייצור מכוניות." },
+      "category": "technology"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q-d20-01",
+      "question": { "en": "What revolutionary method did Ford use to make cars faster and more cheaply?", "he": "איזו שיטה מהפכנית השתמש פורד כדי לייצר מכוניות מהר ובזול יותר?" },
+      "choices": [
+        { "id": "a", "text": { "en": "He used robots to build cars", "he": "הוא השתמש ברובוטים לבניית מכוניות" } },
+        { "id": "b", "text": { "en": "He invented a new type of engine", "he": "הוא המציא סוג חדש של מנוע" } },
+        { "id": "c", "text": { "en": "He introduced the moving assembly line", "he": "הוא הציג את פס הייצור הנע" } },
+        { "id": "d", "text": { "en": "He imported cheap parts from other countries", "he": "הוא יבא חלקים זולים ממדינות אחרות" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Ford introduced the moving assembly line at his Highland Park plant in 1913. On the line, each worker repeated one specific task as the car moved past, reducing the time to build a Model T from over 12 hours to about 93 minutes.", "he": "פורד הציג את פס הייצור הנע במפעל היילנד פארק שלו ב-1913. על פס הייצור, כל עובד חזר על משימה ספציפית אחת בעוד המכונית עברה לפניו, ומשך הזמן לבניית מודל T ירד מיותר מ-12 שעות לכ-93 דקות." }
+    },
+    {
+      "id": "q-d20-02",
+      "question": { "en": "Did Henry Ford invent the automobile?", "he": "האם הנרי פורד המציא את המכונית?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Yes, he built the very first car", "he": "כן, הוא בנה את המכונית הראשונה" } },
+        { "id": "b", "text": { "en": "No — Karl Benz built the first petrol-powered car before Ford", "he": "לא — קארל בנץ בנה את המכונית הראשונה על בנזין לפני פורד" } },
+        { "id": "c", "text": { "en": "No — the ancient Romans invented early cars", "he": "לא — הרומאים הקדמונים המציאו מכוניות מוקדמות" } },
+        { "id": "d", "text": { "en": "Yes, but only the electric car", "he": "כן, אבל רק את המכונית החשמלית" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Henry Ford did not invent the automobile. Karl Benz built the first petrol-powered automobile (the Benz Patent-Motorwagen) in 1885 — years before Ford's first car. Ford's genius was making cars affordable and fast to produce.", "he": "הנרי פורד לא המציא את המכונית. קארל בנץ בנה את המכונית הראשונה על בנזין (Benz Patent-Motorwagen) ב-1885 — שנים לפני המכונית הראשונה של פורד. גאונותו של פורד הייתה בהפיכת המכוניות לזולות ומהירות לייצור." }
+    },
+    {
+      "id": "q-d20-03",
+      "question": { "en": "What was special about Ford's Model T?", "he": "מה היה מיוחד במודל T של פורד?" },
+      "choices": [
+        { "id": "a", "text": { "en": "It was the fastest car ever built at that time", "he": "זו הייתה המכונית המהירה ביותר שנבנתה עד אז" } },
+        { "id": "b", "text": { "en": "It was the first car that ordinary middle-class families could afford to buy", "he": "זו הייתה המכונית הראשונה שמשפחות רגילות מהמעמד הבינוני יכלו להרשות לעצמן לרכוש" } },
+        { "id": "c", "text": { "en": "It was the first electric car", "he": "זו הייתה המכונית החשמלית הראשונה" } },
+        { "id": "d", "text": { "en": "It could also travel on water", "he": "היא יכלה גם לנסוע על מים" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "The Model T, launched in 1908, was designed to be simple, durable, and affordable. By 1914, thanks to the assembly line, its price had dropped so much that many ordinary workers could buy one, making it the first true 'people's car'.", "he": "מודל T, שהושק ב-1908, תוכנן להיות פשוט, עמיד וזול. עד 1914, בזכות פס הייצור, מחירו ירד כל כך שעובדים רגילים רבים יכלו לרכוש אחד, מה שהפך אותו ל'מכונית העם' האמיתית הראשונה." }
+    },
+    {
+      "id": "q-d20-04",
+      "question": { "en": "In which country was Henry Ford born and did most of his work?", "he": "באיזו מדינה נולד הנרי פורד ועשה את רוב עבודתו?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Canada", "he": "קנדה" } },
+        { "id": "b", "text": { "en": "Germany", "he": "גרמניה" } },
+        { "id": "c", "text": { "en": "United States of America", "he": "ארצות הברית של אמריקה" } },
+        { "id": "d", "text": { "en": "United Kingdom", "he": "הממלכה המאוחדת" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Henry Ford was born on July 30, 1863, in Dearborn, Michigan, USA. He spent his whole life working in the United States, founding the Ford Motor Company in Detroit, Michigan in 1903.", "he": "הנרי פורד נולד ב-30 ביולי 1863 בדירבורן, מישיגן, ארה\"ב. הוא בילה את כל חייו בעבודה בארצות הברית, וייסד את חברת פורד מוטור בדטרויט, מישיגן ב-1903." }
+    },
+    {
+      "id": "q-d20-05",
+      "question": { "en": "How did the Model T and Ford's assembly line change society?", "he": "כיצד שינו מודל T ופס הייצור של פורד את החברה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "They had very little impact on everyday life", "he": "היה להם השפעה קטנה מאוד על החיים היומיומיים" } },
+        { "id": "b", "text": { "en": "They only affected rich people", "he": "הם השפיעו רק על אנשים עשירים" } },
+        { "id": "c", "text": { "en": "They transformed where people lived, worked, and traveled, reshaping cities and the environment", "he": "הם שינו היכן אנשים גרו, עבדו ונסעו, ועיצבו מחדש ערים ואת הסביבה" } },
+        { "id": "d", "text": { "en": "They mainly improved farming", "he": "הם בעיקר שיפרו את החקלאות" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "The widespread availability of affordable cars transformed society: people could live farther from their workplaces (creating suburbs), goods could be transported more easily, road networks expanded, and new industries grew around cars — along with new environmental challenges.", "he": "הזמינות הנרחבת של מכוניות זולות שינתה את החברה: אנשים יכלו לגור רחוק יותר ממקומות עבודתם (ויצרו פרוורים), סחורות יכלו להיות מועברות בקלות רבה יותר, רשתות כבישים התרחבו ותעשיות חדשות צמחו סביב מכוניות — לצד אתגרים סביבתיים חדשים." }
+    },
+    {
+      "id": "q-d20-06",
+      "question": { "en": "What wage did Ford controversially introduce for his factory workers in 1914?", "he": "איזה שכר הציג פורד בצורה שנויה במחלוקת לעובדי המפעל שלו ב-1914?" },
+      "choices": [
+        { "id": "a", "text": { "en": "$1 per day", "he": "1 דולר ליום" } },
+        { "id": "b", "text": { "en": "$5 per day", "he": "5 דולר ליום" } },
+        { "id": "c", "text": { "en": "$2 per day", "he": "2 דולר ליום" } },
+        { "id": "d", "text": { "en": "$10 per day", "he": "10 דולר ליום" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "In January 1914, Ford announced he would pay his workers $5 per day — more than double the typical wage of about $2.25. This was considered radical but it reduced worker turnover, attracted the best workers, and helped workers afford the cars they built.", "he": "בינואר 1914 הכריז פורד שישלם לעובדיו 5 דולר ליום — יותר מכפל השכר הטיפוסי של כ-2.25 דולר. זה נחשב לרדיקלי אך הפחית את תחלופת העובדים, משך את העובדים הטובים ביותר ועזר לעובדים לרכוש את המכוניות שבנו." }
+    },
+    {
+      "id": "q-d20-07",
+      "question": { "en": "What does 'mass production' mean?", "he": "מה פירוש 'ייצור המוני'?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Making products by hand one at a time", "he": "ייצור מוצרים ביד אחד אחד" } },
+        { "id": "b", "text": { "en": "Making large numbers of identical products quickly and cheaply using machines", "he": "ייצור מספרים גדולים של מוצרים זהים בצורה מהירה וזולה באמצעות מכונות" } },
+        { "id": "c", "text": { "en": "Making products only for export to other countries", "he": "ייצור מוצרים רק לייצוא למדינות אחרות" } },
+        { "id": "d", "text": { "en": "Making products using natural materials only", "he": "ייצור מוצרים תוך שימוש בחומרים טבעיים בלבד" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Mass production means manufacturing large quantities of standardized products efficiently, typically using machines and assembly lines. Ford's system could produce a Model T every three minutes at its peak, compared to days or weeks for hand-built cars.", "he": "ייצור המוני פירושו ייצור כמויות גדולות של מוצרים מתוקנים ביעילות, בדרך כלל תוך שימוש במכונות ופסי ייצור. המערכת של פורד יכלה לייצר מודל T כל שלוש דקות בשיאה, בהשוואה לימים או שבועות למכוניות בנויות ביד." }
+    },
+    {
+      "id": "q-d20-08",
+      "question": { "en": "In what year was the Model T first introduced?", "he": "באיזו שנה הוצג מודל T לראשונה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "1900", "he": "1900" } },
+        { "id": "b", "text": { "en": "1913", "he": "1913" } },
+        { "id": "c", "text": { "en": "1908", "he": "1908" } },
+        { "id": "d", "text": { "en": "1920", "he": "1920" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "The Model T was introduced on October 1, 1908. It was an immediate success and became the best-selling car in the world for many years, with over 15 million produced by the time it was discontinued in 1927.", "he": "מודל T הוצג ב-1 באוקטובר 1908. הוא הצליח מיד והפך למכונית הנמכרת ביותר בעולם במשך שנים רבות, עם יותר מ-15 מיליון שיוצרו עד שהופסק ב-1927." }
+    },
+    {
+      "id": "q-d20-09",
+      "question": { "en": "What is an 'internal combustion engine'?", "he": "מהו 'מנוע בעירה פנימית'?" },
+      "choices": [
+        { "id": "a", "text": { "en": "An engine powered by steam from boiling water", "he": "מנוע המונע על ידי קיטור ממים רותחים" } },
+        { "id": "b", "text": { "en": "An engine powered by batteries", "he": "מנוע המונע על ידי סוללות" } },
+        { "id": "c", "text": { "en": "An engine that produces power by burning fuel inside it", "he": "מנוע המייצר כוח על ידי שריפת דלק בתוכו" } },
+        { "id": "d", "text": { "en": "An engine powered by the wind", "he": "מנוע המונע על ידי הרוח" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "An internal combustion engine burns fuel (like petrol) inside cylinders to create small explosions that push pistons, which turn the wheels. Most cars, trucks, and motorcycles still use this type of engine.", "he": "מנוע בעירה פנימית שורף דלק (כמו בנזין) בתוך גלילים כדי ליצור פיצוצים קטנים הדוחפים בוכנות המסובבות את הגלגלים. רוב המכוניות, המשאיות והאופנועים עדיין משתמשים בסוג זה של מנוע." }
+    },
+    {
+      "id": "q-d20-10",
+      "question": { "en": "How did affordable cars change where people lived?", "he": "כיצד שינו מכוניות זולות את מקום מגוריהם של אנשים?" },
+      "choices": [
+        { "id": "a", "text": { "en": "People moved to live in the countryside and farm", "he": "אנשים עברו לגור בכפר ולחקלאות" } },
+        { "id": "b", "text": { "en": "People could live farther from their workplaces, creating suburbs", "he": "אנשים יכלו לגור רחוק יותר ממקומות עבודתם, ויצרו פרוורים" } },
+        { "id": "c", "text": { "en": "Everyone moved to live in city centers", "he": "כולם עברו לגור במרכזי ערים" } },
+        { "id": "d", "text": { "en": "Cars had no effect on where people chose to live", "he": "למכוניות לא הייתה השפעה על היכן שאנשים בחרו לגור" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Before affordable cars, most workers had to live close to their workplaces because they traveled on foot or by horse. Once they had cars, they could live miles away in newly built suburbs and drive to work, fundamentally changing city planning and social patterns.", "he": "לפני מכוניות זולות, רוב העובדים נאלצו לגור קרוב למקומות עבודתם מכיוון שנסעו ברגל או על סוס. ברגע שהיו להם מכוניות, יכלו לגור קילומטרים רחוק יותר בפרוורים שנבנו לאחרונה ולנהוג לעבודה, ושינו בצורה יסודית את תכנון הערים ואת הדפוסים החברתיים." }
+    }
+  ],
+  "videoSources": ["eNBSkQx0lpw"]
+}

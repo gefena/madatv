@@ -1,0 +1,228 @@
+{
+  "id": "d15-darwin",
+  "episodeNumber": 15,
+  "youtubeId": "glkg0i6hn5s",
+  "title": { "en": "Darwin and Evolution", "he": "דארווין והאבולוציה" },
+  "summary": {
+    "en": "Charles Darwin was a 19th-century British naturalist whose voyage on the HMS Beagle took him around the world and led him to one of science's greatest discoveries. During his five-year journey, Darwin collected specimens and made careful observations — most famously on the Galapagos Islands, where he noticed that finches on different islands had developed different beak shapes suited to the food available there. After years of patient research and reflection, Darwin published his landmark book 'On the Origin of Species' in 1859, introducing the theory of evolution by natural selection: the idea that living things change over generations because individuals with traits better suited to their environment are more likely to survive and reproduce. Darwin's theory forever changed how we understand life on Earth, showing that all living species are connected through a long history of gradual change.",
+    "he": "צ'ארלס דארווין היה טבעאי בריטי מהמאה ה-19 שמסעו על ספינת המחקר HMS Beagle הוביל אותו לאחת התגליות הגדולות בתולדות המדע. במשך חמש שנות המסע סביב העולם, אסף דארווין דגימות ורשם תצפיות מדוקדקות — ובייחוד באיי גלאפגוס, שם הבחין כי לציפורי המקיק באיים שונים יש מקורים בצורות שונות, המותאמות לסוג המזון הזמין בכל אי. לאחר שנים של מחקר והגות, פרסם דארווין בשנת 1859 את ספרו המהפכני 'מוצא המינים', ובו הציג את תורת האבולוציה על ידי ברירה טבעית: הרעיון שיצורים חיים משתנים לאורך דורות, כי פרטים בעלי תכונות המתאימות יותר לסביבתם שורדים ומתרבים בהצלחה רבה יותר. תורתו של דארווין שינתה לנצח את האופן שבו אנו מבינים את החיים על פני כדור הארץ, והראתה שכל היצורים החיים קשורים זה לזה בשרשרת אבולוציונית ארוכה."
+  },
+  "thumbnail": "https://img.youtube.com/vi/glkg0i6hn5s/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": ["Charles Darwin", "theory of evolution", "natural selection", "Galapagos Islands", "On the Origin of Species"],
+  "terminology": [
+    {
+      "id": "t-d15-01",
+      "term": { "en": "Evolution", "he": "אבולוציה" },
+      "definition": { "en": "The process by which living things gradually change over many generations, leading to new species over a very long time.", "he": "התהליך שבו יצורים חיים משתנים לאט לאט לאורך דורות רבים, ולעיתים מוביל ליצירת מינים חדשים לחלוטין." },
+      "category": "biology"
+    },
+    {
+      "id": "t-d15-02",
+      "term": { "en": "Natural Selection", "he": "ברירה טבעית" },
+      "definition": { "en": "The process where animals and plants with features that help them survive are more likely to have offspring, passing those helpful features to the next generation.", "he": "תהליך שבו בעלי חיים וצמחים בעלי תכונות שמסייעות להם לשרוד נוטים יותר להוליד צאצאים ולהעביר את התכונות המועילות הללו לדור הבא." },
+      "category": "biology"
+    },
+    {
+      "id": "t-d15-03",
+      "term": { "en": "Species", "he": "מין" },
+      "definition": { "en": "A group of living things that are very similar to each other and can reproduce together to have offspring.", "he": "קבוצה של יצורים חיים הדומים זה לזה מאוד ויכולים להתרבות זה עם זה ולהביא צאצאים." },
+      "category": "biology"
+    },
+    {
+      "id": "t-d15-04",
+      "term": { "en": "Adaptation", "he": "הסתגלות" },
+      "definition": { "en": "A feature of a living thing that helps it survive in its environment, developed over many generations.", "he": "תכונה של יצור חי המסייעת לו לשרוד בסביבתו, שהתפתחה לאורך דורות רבים." },
+      "category": "biology"
+    },
+    {
+      "id": "t-d15-05",
+      "term": { "en": "Naturalist", "he": "טבעאי" },
+      "definition": { "en": "A scientist who studies plants, animals, and the natural world, often by traveling and observing living things in their habitats.", "he": "מדען החוקר צמחים, בעלי חיים ואת הטבע בכלל, לעיתים קרובות על ידי נסיעות ותצפית על יצורים חיים בסביבתם הטבעית." },
+      "category": "science"
+    },
+    {
+      "id": "t-d15-06",
+      "term": { "en": "Fossil", "he": "מאובן" },
+      "definition": { "en": "The preserved remains or traces of ancient living things found in rocks, which give us clues about life long ago.", "he": "שרידים משומרים של יצורים חיים עתיקים הנמצאים בסלעים, המספקים לנו רמזים על החיים בעבר הרחוק." },
+      "category": "biology"
+    },
+    {
+      "id": "t-d15-07",
+      "term": { "en": "Variation", "he": "וריאציה" },
+      "definition": { "en": "The differences in features (like size, color, or shape) found among individuals of the same species.", "he": "ההבדלים בתכונות (כגון גודל, צבע או צורה) הנמצאים בין פרטים שונים מאותו המין." },
+      "category": "biology"
+    },
+    {
+      "id": "t-d15-08",
+      "term": { "en": "Galapagos Islands", "he": "איי גלאפגוס" },
+      "definition": { "en": "A group of islands in the Pacific Ocean off South America where Darwin observed unique animals that inspired his theory of evolution.", "he": "קבוצת איים באוקיינוס השקט סמוך לדרום אמריקה, שם צפה דארווין בבעלי חיים ייחודיים שעוררו בו את הרעיונות לתורת האבולוציה." },
+      "category": "geography"
+    },
+    {
+      "id": "t-d15-09",
+      "term": { "en": "Inheritance", "he": "תורשה" },
+      "definition": { "en": "The passing of traits from parents to their children through genes.", "he": "העברת תכונות מהורים לילדיהם באמצעות גנים." },
+      "category": "biology"
+    },
+    {
+      "id": "t-d15-10",
+      "term": { "en": "Common Ancestor", "he": "אב קדמון משותף" },
+      "definition": { "en": "A species in the distant past from which two or more different species later developed.", "he": "מין שחי בעבר הרחוק שממנו התפתחו בהמשך שני מינים שונים או יותר." },
+      "category": "biology"
+    },
+    {
+      "id": "t-d15-11",
+      "term": { "en": "HMS Beagle", "he": "ספינת הביגל" },
+      "definition": { "en": "The British Royal Navy ship that carried Darwin on his famous voyage around the world from 1831 to 1836.", "he": "ספינת הצי המלכותי הבריטי שנשאה את דארווין במסעו המפורסם סביב העולם בין השנים 1831 ל-1836." },
+      "category": "history"
+    },
+    {
+      "id": "t-d15-12",
+      "term": { "en": "On the Origin of Species", "he": "מוצא המינים" },
+      "definition": { "en": "Darwin's famous book published in 1859 that explained his theory of evolution by natural selection.", "he": "ספרו המפורסם של דארווין שפורסם ב-1859 ובו הסביר את תורת האבולוציה על ידי ברירה טבעית." },
+      "category": "history"
+    },
+    {
+      "id": "t-d15-13",
+      "term": { "en": "Survival of the Fittest", "he": "הישרדות המותאם ביותר" },
+      "definition": { "en": "The idea that individuals with traits best suited to their environment are most likely to survive and pass on their genes.", "he": "הרעיון שפרטים בעלי תכונות המתאימות ביותר לסביבתם נוטים יותר לשרוד ולהעביר את גניהם לדור הבא." },
+      "category": "biology"
+    },
+    {
+      "id": "t-d15-14",
+      "term": { "en": "Finch", "he": "מקיק" },
+      "definition": { "en": "A type of small bird; the finches Darwin found on the Galapagos Islands had differently shaped beaks suited to different foods, which helped him develop his theory.", "he": "סוג של ציפור קטנה; לציפורי המקיק שמצא דארווין באיי גלאפגוס היו מקורים בצורות שונות המתאימות למזונות שונים, מה שעזר לו לפתח את תורתו." },
+      "category": "biology"
+    },
+    {
+      "id": "t-d15-15",
+      "term": { "en": "Extinction", "he": "הכחדה" },
+      "definition": { "en": "When every individual of a species dies out and that type of living thing no longer exists anywhere on Earth.", "he": "כאשר כל הפרטים של מין מסוים מתים ואותו סוג של יצור חי כבר אינו קיים בשום מקום על פני כדור הארץ." },
+      "category": "biology"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q-d15-01",
+      "question": { "en": "What was the name of the ship Darwin sailed on during his famous voyage?", "he": "מה היה שם הספינה שעליה הפליג דארווין במסעו המפורסם?" },
+      "choices": [
+        { "id": "a", "text": { "en": "HMS Victory", "he": "HMS Victory" } },
+        { "id": "b", "text": { "en": "HMS Beagle", "he": "HMS Beagle" } },
+        { "id": "c", "text": { "en": "HMS Endeavour", "he": "HMS Endeavour" } },
+        { "id": "d", "text": { "en": "HMS Discovery", "he": "HMS Discovery" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Darwin traveled on HMS Beagle from 1831 to 1836, visiting South America, the Galapagos Islands, and many other places around the world.", "he": "דארווין הפליג על ספינת הביגל בין השנים 1831 ל-1836, ביקר בדרום אמריקה, באיי גלאפגוס ובמקומות רבים אחרים ברחבי העולם." }
+    },
+    {
+      "id": "q-d15-02",
+      "question": { "en": "Which animals on the Galapagos Islands particularly inspired Darwin's theory?", "he": "אילו בעלי חיים באיי גלאפגוס השפיעו במיוחד על תורתו של דארווין?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Giant tortoises only", "he": "צבי ענק בלבד" } },
+        { "id": "b", "text": { "en": "Iguanas and lizards", "he": "איגואנות ולטאות" } },
+        { "id": "c", "text": { "en": "Finches with different beak shapes", "he": "ציפורי מקיק עם מקורים בצורות שונות" } },
+        { "id": "d", "text": { "en": "Tropical fish", "he": "דגי טרופיים" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Darwin noticed that finches on different islands had differently shaped beaks, each suited to the type of food available on that island. This was key evidence for his theory of natural selection.", "he": "דארווין הבחין שלציפורי המקיק באיים שונים יש מקורים בצורות שונות, כל אחד מותאם לסוג המזון הזמין באותו האי. זו היתה ראיה מרכזית לתורת הברירה הטבעית שלו." }
+    },
+    {
+      "id": "q-d15-03",
+      "question": { "en": "In what year did Darwin publish 'On the Origin of Species'?", "he": "באיזו שנה פרסם דארווין את 'מוצא המינים'?" },
+      "choices": [
+        { "id": "a", "text": { "en": "1836", "he": "1836" } },
+        { "id": "b", "text": { "en": "1872", "he": "1872" } },
+        { "id": "c", "text": { "en": "1859", "he": "1859" } },
+        { "id": "d", "text": { "en": "1845", "he": "1845" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Darwin published 'On the Origin of Species' in 1859, more than 20 years after his voyage on the Beagle, during which time he carefully gathered evidence and developed his ideas.", "he": "דארווין פרסם את 'מוצא המינים' ב-1859, יותר מ-20 שנה לאחר מסעו על הביגל, תקופה שבה אסף ראיות בקפידה ופיתח את רעיונותיו." }
+    },
+    {
+      "id": "q-d15-04",
+      "question": { "en": "What does 'natural selection' mean?", "he": "מה פירוש 'ברירה טבעית'?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Animals choose where they want to live", "he": "בעלי חיים בוחרים היכן הם רוצים לחיות" } },
+        { "id": "b", "text": { "en": "Individuals with helpful traits are more likely to survive and reproduce", "he": "פרטים בעלי תכונות מועילות נוטים יותר לשרוד ולהתרבות" } },
+        { "id": "c", "text": { "en": "Farmers select the best crops to grow", "he": "חקלאים בוחרים את היבולים הטובים ביותר לגידול" } },
+        { "id": "d", "text": { "en": "Scientists decide which animals should survive", "he": "מדענים מחליטים אילו בעלי חיים צריכים לשרוד" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Natural selection is nature's way of 'choosing' — individuals whose traits help them survive in their environment tend to live longer and have more offspring, passing on those helpful traits.", "he": "ברירה טבעית היא דרכו של הטבע 'לבחור' — פרטים שתכונותיהם מסייעות להם לשרוד בסביבתם נוטים לחיות זמן רב יותר ולהוליד יותר צאצאים, ובכך להעביר את אותן תכונות מועילות." }
+    },
+    {
+      "id": "q-d15-05",
+      "question": { "en": "Where are the Galapagos Islands located?", "he": "היכן ממוקמים איי גלאפגוס?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Near Australia in the Indian Ocean", "he": "ליד אוסטרליה באוקיינוס ההודי" } },
+        { "id": "b", "text": { "en": "In the Caribbean Sea", "he": "בים הקריבי" } },
+        { "id": "c", "text": { "en": "In the Pacific Ocean near South America", "he": "באוקיינוס השקט ליד דרום אמריקה" } },
+        { "id": "d", "text": { "en": "Off the coast of Africa", "he": "ליד חוף אפריקה" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "The Galapagos Islands are a group of volcanic islands in the Pacific Ocean, about 1,000 km west of Ecuador in South America. Their isolation helped unique species develop there.", "he": "איי גלאפגוס הם קבוצת איים געשיים באוקיינוס השקט, כ-1,000 ק\"מ מערבית לאקוודור בדרום אמריקה. הבידוד שלהם עזר לפתח בהם מינים ייחודיים." }
+    },
+    {
+      "id": "q-d15-06",
+      "question": { "en": "How long did Darwin's voyage on the Beagle last?", "he": "כמה זמן ארך מסעו של דארווין על הביגל?" },
+      "choices": [
+        { "id": "a", "text": { "en": "One year", "he": "שנה אחת" } },
+        { "id": "b", "text": { "en": "Two years", "he": "שנתיים" } },
+        { "id": "c", "text": { "en": "Five years", "he": "חמש שנים" } },
+        { "id": "d", "text": { "en": "Ten years", "he": "עשר שנים" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Darwin's voyage on HMS Beagle lasted five years, from 1831 to 1836. During this time he visited many places and collected thousands of specimens.", "he": "מסעו של דארווין על הביגל ארך חמש שנים, מ-1831 עד 1836. במהלך תקופה זו ביקר במקומות רבים ואסף אלפי דגימות." }
+    },
+    {
+      "id": "q-d15-07",
+      "question": { "en": "What is a fossil?", "he": "מהו מאובן?" },
+      "choices": [
+        { "id": "a", "text": { "en": "A type of ancient rock", "he": "סוג של סלע עתיק" } },
+        { "id": "b", "text": { "en": "A preserved remain of an ancient living thing found in rock", "he": "שריד משומר של יצור חי עתיק הנמצא בסלע" } },
+        { "id": "c", "text": { "en": "A drawing of an extinct animal", "he": "ציור של בעל חיים שנכחד" } },
+        { "id": "d", "text": { "en": "A type of fuel found underground", "he": "סוג של דלק הנמצא מתחת לאדמה" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "A fossil is the preserved remains or traces of ancient plants and animals found in rocks. Fossils give scientists important clues about life millions of years ago.", "he": "מאובן הוא שרידים משומרים של צמחים ובעלי חיים עתיקים הנמצאים בסלעים. מאובנים מספקים למדענים רמזים חשובים על החיים לפני מיליוני שנים." }
+    },
+    {
+      "id": "q-d15-08",
+      "question": { "en": "What nationality was Charles Darwin?", "he": "מה לאומיותו של צ'ארלס דארווין?" },
+      "choices": [
+        { "id": "a", "text": { "en": "French", "he": "צרפתי" } },
+        { "id": "b", "text": { "en": "American", "he": "אמריקאי" } },
+        { "id": "c", "text": { "en": "German", "he": "גרמני" } },
+        { "id": "d", "text": { "en": "British", "he": "בריטי" } }
+      ],
+      "correctChoice": "d",
+      "explanation": { "en": "Charles Darwin was British, born in Shrewsbury, England in 1809. He studied at Cambridge University before embarking on his famous voyage.", "he": "צ'ארלס דארווין היה בריטי, נולד בשרוזברי שבאנגליה בשנת 1809. הוא למד באוניברסיטת קיימברידג' לפני שיצא למסעו המפורסם." }
+    },
+    {
+      "id": "q-d15-09",
+      "question": { "en": "What does 'extinction' mean?", "he": "מה פירוש המילה 'הכחדה'?" },
+      "choices": [
+        { "id": "a", "text": { "en": "When a species moves to a new place", "he": "כאשר מין עובר למקום חדש" } },
+        { "id": "b", "text": { "en": "When a species changes very quickly", "he": "כאשר מין משתנה מהר מאוד" } },
+        { "id": "c", "text": { "en": "When every individual of a species dies out forever", "he": "כאשר כל הפרטים של מין מסוים מתים לנצח" } },
+        { "id": "d", "text": { "en": "When animals go to sleep for the winter", "he": "כאשר בעלי חיים ישנים בחורף" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Extinction happens when every single individual of a species dies, so that type of living thing no longer exists anywhere on Earth. The dinosaurs are a famous example of an extinct group.", "he": "הכחדה מתרחשת כאשר כל הפרטים של מין מסוים מתים, ואותו יצור חי כבר אינו קיים בשום מקום על פני כדור הארץ. הדינוזאורים הם דוגמה מפורסמת לקבוצה שנכחדה." }
+    },
+    {
+      "id": "q-d15-10",
+      "question": { "en": "According to Darwin's theory, why do some animals survive while others do not?", "he": "לפי תורתו של דארווין, מדוע חלק מהבעלי חיים שורדים בעוד אחרים לא?" },
+      "choices": [
+        { "id": "a", "text": { "en": "The luckiest animals always survive", "he": "הבעלי חיים המזלזלים תמיד שורדים" } },
+        { "id": "b", "text": { "en": "The biggest animals always survive", "he": "הבעלי החיים הגדולים ביותר תמיד שורדים" } },
+        { "id": "c", "text": { "en": "Animals with traits better suited to their environment are more likely to survive", "he": "בעלי חיים בעלי תכונות המתאימות יותר לסביבתם נוטים יותר לשרוד" } },
+        { "id": "d", "text": { "en": "The fastest animals always survive", "he": "הבעלי חיים המהירים ביותר תמיד שורדים" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Darwin's theory of natural selection states that animals with traits better suited to their environment have a better chance of surviving, finding food, and having offspring. It is not always about being the biggest or fastest.", "he": "תורת הברירה הטבעית של דארווין קובעת שלבעלי חיים בעלי תכונות המתאימות יותר לסביבתם יש סיכוי טוב יותר לשרוד, למצוא מזון ולהוליד צאצאים. זה לא תמיד קשור לגדול ביותר או המהיר ביותר." }
+    }
+  ],
+  "videoSources": ["glkg0i6hn5s"]
+}

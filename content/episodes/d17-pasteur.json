@@ -1,0 +1,228 @@
+{
+  "id": "d17-pasteur",
+  "episodeNumber": 17,
+  "youtubeId": "jD4jXLzZtdA",
+  "title": { "en": "Pasteur and Micro-organisms", "he": "פסטר והמיקרואורגניזמים" },
+  "summary": {
+    "en": "Louis Pasteur was a French chemist and microbiologist whose discoveries in the 19th century transformed medicine and saved countless lives. Pasteur proved that tiny living organisms — bacteria and other microbes — cause diseases and food spoilage, overturning the old belief in 'spontaneous generation' (the idea that life could appear from nowhere). He invented the process of pasteurization, gently heating food and drink to kill harmful microbes without ruining their taste, and developed vaccines for deadly diseases including chicken cholera, anthrax, and most famously rabies. Pasteur's germ theory of disease changed the entire practice of medicine, leading doctors to sterilize instruments, wash their hands, and think about disease in a completely new way.",
+    "he": "לואי פסטר היה כימאי ומיקרוביולוג צרפתי שתגליותיו במאה ה-19 שינו את הרפואה והצילו חיים אין ספור. פסטר הוכיח שיצורים חיים זעירים — חיידקים ומיקרובים אחרים — גורמים למחלות ולקלקול מזון, ובכך הפריך את האמונה הישנה ב'דור ספונטני' (הרעיון שחיים יכולים להופיע יש מאין). הוא המציא את תהליך הפסטור, חימום עדין של מזון ומשקאות להריגת מיקרובים מזיקים מבלי לפגוע בטעמם, ופיתח חיסונים למחלות קטלניות כולל כולרת עוף, אנתרקס ובמיוחד כלבת. תורת החיידקים של פסטר שינתה לחלוטין את הרפואה, וגרמה לרופאים לעקר כלים, לשטוף ידיים ולחשוב על מחלות באופן חדש לגמרי."
+  },
+  "thumbnail": "https://img.youtube.com/vi/jD4jXLzZtdA/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": ["Louis Pasteur", "germ theory of disease", "pasteurization", "vaccines", "rabies", "spontaneous generation refuted"],
+  "terminology": [
+    {
+      "id": "t-d17-01",
+      "term": { "en": "Microbe", "he": "מיקרוב" },
+      "definition": { "en": "A tiny living thing so small you need a microscope to see it, such as bacteria, viruses, and fungi. Some microbes cause disease.", "he": "יצור חי זעיר שקטן כל כך עד שצריך מיקרוסקופ כדי לראות אותו, כגון חיידקים, וירוסים ופטריות. חלק מהמיקרובים גורמים למחלות." },
+      "category": "biology"
+    },
+    {
+      "id": "t-d17-02",
+      "term": { "en": "Germ Theory", "he": "תורת החיידקים" },
+      "definition": { "en": "The scientific idea, proven by Pasteur, that many diseases are caused by tiny microorganisms invading the body.", "he": "הרעיון המדעי, שהוכח על ידי פסטר, שמחלות רבות נגרמות על ידי מיקרואורגניזמים זעירים הפולשים לגוף." },
+      "category": "medicine"
+    },
+    {
+      "id": "t-d17-03",
+      "term": { "en": "Pasteurization", "he": "פסטור" },
+      "definition": { "en": "A process invented by Pasteur that heats liquids like milk and juice to a specific temperature to kill harmful bacteria, making them safe to drink.", "he": "תהליך שהמציא פסטר המחמם נוזלים כמו חלב ומיץ לטמפרטורה מסוימת להריגת חיידקים מזיקים, ובכך הופך אותם לבטוחים לשתייה." },
+      "category": "science"
+    },
+    {
+      "id": "t-d17-04",
+      "term": { "en": "Vaccine", "he": "חיסון" },
+      "definition": { "en": "A substance given to a person or animal to protect them from a disease by teaching the immune system to fight that disease.", "he": "חומר הניתן לאדם או לבעל חיים כדי להגן עליו ממחלה על ידי לימוד מערכת החיסון להילחם במחלה זו." },
+      "category": "medicine"
+    },
+    {
+      "id": "t-d17-05",
+      "term": { "en": "Bacteria", "he": "חיידקים" },
+      "definition": { "en": "Very tiny single-celled living things found almost everywhere. Some bacteria cause disease, but many are harmless or even helpful to us.", "he": "יצורים חיים זעירים חד-תאיים הנמצאים כמעט בכל מקום. חלק מהחיידקים גורמים למחלות, אך רבים אינם מזיקים או אף מועילים לנו." },
+      "category": "biology"
+    },
+    {
+      "id": "t-d17-06",
+      "term": { "en": "Spontaneous Generation", "he": "דור ספונטני" },
+      "definition": { "en": "The old, wrong idea that living things could appear from non-living matter — for example, that flies could be created from rotting meat. Pasteur proved this was false.", "he": "הרעיון הישן והשגוי שיצורים חיים יכולים להופיע מחומר דומם — לדוגמה, שזבובים יכולים להיווצר מבשר רקוב. פסטר הוכיח שזה שקר." },
+      "category": "science"
+    },
+    {
+      "id": "t-d17-07",
+      "term": { "en": "Fermentation", "he": "תסיסה" },
+      "definition": { "en": "A process where microorganisms like yeast or bacteria break down sugars to produce things like alcohol or acids. Pasteur discovered it is caused by living microbes, not chemistry alone.", "he": "תהליך שבו מיקרואורגניזמים כמו שמרים או חיידקים מפרקים סוכרים וייצרים חומרים כמו אלכוהול או חומצות. פסטר גילה שהוא נגרם על ידי מיקרובים חיים, לא רק כימיה." },
+      "category": "biology"
+    },
+    {
+      "id": "t-d17-08",
+      "term": { "en": "Rabies", "he": "כלבת" },
+      "definition": { "en": "A dangerous disease caused by a virus, usually spread by the bite of an infected animal. Pasteur developed the first successful vaccine against rabies in 1885.", "he": "מחלה מסוכנת הנגרמת על ידי וירוס, בדרך כלל מועברת על ידי עקיצת בעל חיים נגוע. פסטר פיתח את החיסון הראשון המוצלח נגד כלבת בשנת 1885." },
+      "category": "medicine"
+    },
+    {
+      "id": "t-d17-09",
+      "term": { "en": "Sterilization", "he": "עיקור" },
+      "definition": { "en": "The process of killing all microbes on an object or surface, for example by using heat or chemicals — a practice Pasteur helped introduce to hospitals.", "he": "התהליך של הריגת כל המיקרובים על חפץ או משטח, לדוגמה על ידי שימוש בחום או כימיקלים — נוהג שפסטר עזר להכניס לבתי החולים." },
+      "category": "medicine"
+    },
+    {
+      "id": "t-d17-10",
+      "term": { "en": "Immune System", "he": "מערכת החיסון" },
+      "definition": { "en": "The body's natural defense system that fights off diseases caused by harmful microbes.", "he": "מערכת ההגנה הטבעית של הגוף הנלחמת במחלות הנגרמות על ידי מיקרובים מזיקים." },
+      "category": "medicine"
+    },
+    {
+      "id": "t-d17-11",
+      "term": { "en": "Anthrax", "he": "אנתרקס" },
+      "definition": { "en": "A serious disease that can affect both animals and humans, caused by a type of bacteria. Pasteur developed one of the first vaccines against it.", "he": "מחלה חמורה שיכולה לפגוע הן בבעלי חיים והן בבני אדם, הנגרמת על ידי סוג של חיידקים. פסטר פיתח אחד מהחיסונים הראשונים נגדה." },
+      "category": "medicine"
+    },
+    {
+      "id": "t-d17-12",
+      "term": { "en": "Microscope", "he": "מיקרוסקופ" },
+      "definition": { "en": "A scientific instrument that uses lenses to make very small objects appear much larger, allowing scientists to see bacteria and other microbes.", "he": "מכשיר מדעי המשתמש בעדשות כדי להגדיל חפצים קטנים מאוד, ומאפשר למדענים לראות חיידקים ומיקרובים אחרים." },
+      "category": "science"
+    },
+    {
+      "id": "t-d17-13",
+      "term": { "en": "Contamination", "he": "זיהום" },
+      "definition": { "en": "When harmful microbes get into food, water, or a wound, making it unsafe or causing infection.", "he": "כאשר מיקרובים מזיקים נכנסים למזון, למים או לפצע, ומסכנים אותם או גורמים לזיהום." },
+      "category": "medicine"
+    },
+    {
+      "id": "t-d17-14",
+      "term": { "en": "Microbiologist", "he": "מיקרוביולוג" },
+      "definition": { "en": "A scientist who studies microorganisms like bacteria, viruses, and fungi.", "he": "מדען החוקר מיקרואורגניזמים כמו חיידקים, וירוסים ופטריות." },
+      "category": "science"
+    },
+    {
+      "id": "t-d17-15",
+      "term": { "en": "Infection", "he": "זיהום/הדבקה" },
+      "definition": { "en": "When harmful microbes enter the body and cause illness.", "he": "כאשר מיקרובים מזיקים נכנסים לגוף וגורמים למחלה." },
+      "category": "medicine"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q-d17-01",
+      "question": { "en": "What nationality was Louis Pasteur?", "he": "מה לאומיותו של לואי פסטר?" },
+      "choices": [
+        { "id": "a", "text": { "en": "German", "he": "גרמני" } },
+        { "id": "b", "text": { "en": "British", "he": "בריטי" } },
+        { "id": "c", "text": { "en": "French", "he": "צרפתי" } },
+        { "id": "d", "text": { "en": "Italian", "he": "איטלקי" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Louis Pasteur was French, born in Dole, France in 1822. He became one of France's greatest scientists and his work is still celebrated worldwide today.", "he": "לואי פסטר היה צרפתי, נולד בדול, צרפת בשנת 1822. הוא הפך לאחד המדענים הגדולים של צרפת ועבודתו נחגגת ברחבי העולם עד היום." }
+    },
+    {
+      "id": "q-d17-02",
+      "question": { "en": "What is pasteurization?", "he": "מהו פסטור?" },
+      "choices": [
+        { "id": "a", "text": { "en": "A way to freeze food for preservation", "he": "דרך להקפיא מזון לשמירתו" } },
+        { "id": "b", "text": { "en": "A process of gently heating liquids to kill harmful bacteria", "he": "תהליך של חימום עדין נוזלים להריגת חיידקים מזיקים" } },
+        { "id": "c", "text": { "en": "Adding chemicals to food to keep it fresh", "he": "הוספת כימיקלים למזון לשמירתו טרי" } },
+        { "id": "d", "text": { "en": "Drying food in the sun to remove moisture", "he": "ייבוש מזון בשמש להסרת לחות" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Pasteurization involves heating a liquid to a specific temperature for a set time to kill harmful bacteria, then quickly cooling it. This is why milk and juice in shops can be kept safely.", "he": "פסטור כולל חימום נוזל לטמפרטורה מסוימת למשך זמן קבוע להריגת חיידקים מזיקים, ולאחר מכן קירורו המהיר. לכן חלב ומיץ בחנויות יכולים להישמר בבטחה." }
+    },
+    {
+      "id": "q-d17-03",
+      "question": { "en": "What dangerous disease did Pasteur create a vaccine for in 1885?", "he": "לאיזה מחלה מסוכנת פיתח פסטר חיסון בשנת 1885?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Smallpox", "he": "אבעבועות שחורות" } },
+        { "id": "b", "text": { "en": "Tuberculosis", "he": "שחפת" } },
+        { "id": "c", "text": { "en": "Rabies", "he": "כלבת" } },
+        { "id": "d", "text": { "en": "Malaria", "he": "מלריה" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "In 1885, Pasteur successfully tested his rabies vaccine on a boy named Joseph Meister who had been badly bitten by a rabid dog. The boy survived, and the vaccine went on to save many lives.", "he": "בשנת 1885 ניסה פסטר בהצלחה את חיסון הכלבת שלו על ילד בשם ג'וזף מייסטר שנעקץ קשות על ידי כלב כלוב. הילד שרד, והחיסון הציל חיים רבים." }
+    },
+    {
+      "id": "q-d17-04",
+      "question": { "en": "What was 'spontaneous generation'?", "he": "מהו 'דור ספונטני'?" },
+      "choices": [
+        { "id": "a", "text": { "en": "A new method Pasteur invented for making vaccines", "he": "שיטה חדשה שפסטר המציא לייצור חיסונים" } },
+        { "id": "b", "text": { "en": "The old, incorrect belief that life could appear from non-living matter", "he": "האמונה הישנה והשגויה שחיים יכולים להופיע מחומר דומם" } },
+        { "id": "c", "text": { "en": "A process used in pasteurization", "he": "תהליך המשמש בפסטור" } },
+        { "id": "d", "text": { "en": "The rapid reproduction of bacteria", "he": "ריבוי מהיר של חיידקים" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Spontaneous generation was the old belief that life could arise from non-living matter — for example, that maggots appeared from rotting meat on their own. Pasteur proved this was false by showing that microbes in the air cause food to spoil.", "he": "דור ספונטני היה האמונה הישנה שחיים יכולים להיווצר מחומר דומם — לדוגמה, שתולעים מופיעות מבשר רקוב מעצמן. פסטר הוכיח שזה שקר על ידי הראיה שמיקרובים שבאוויר גורמים לקלקול מזון." }
+    },
+    {
+      "id": "q-d17-05",
+      "question": { "en": "What did Pasteur's germ theory state?", "he": "מה קבעה תורת החיידקים של פסטר?" },
+      "choices": [
+        { "id": "a", "text": { "en": "That diseases are caused by evil spirits", "he": "שמחלות נגרמות על ידי רוחות רעות" } },
+        { "id": "b", "text": { "en": "That diseases spread through bad air", "he": "שמחלות מתפשטות דרך אוויר רע" } },
+        { "id": "c", "text": { "en": "That tiny living organisms called germs cause many diseases", "he": "שיצורים חיים זעירים הנקראים חיידקים גורמים למחלות רבות" } },
+        { "id": "d", "text": { "en": "That all diseases are inherited from parents", "he": "שכל המחלות עוברות בתורשה מהורים" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "The germ theory of disease states that specific microorganisms — bacteria, viruses, and other microbes — are the cause of many diseases. This revolutionary idea replaced earlier beliefs and transformed medical practice.", "he": "תורת החיידקים קובעת שמיקרואורגניזמים ספציפיים — חיידקים, וירוסים ומיקרובים אחרים — הם הגורם למחלות רבות. רעיון מהפכני זה החליף אמונות קודמות ושינה את הרפואה." }
+    },
+    {
+      "id": "q-d17-06",
+      "question": { "en": "Why is washing hands important according to Pasteur's discoveries?", "he": "מדוע חשוב לשטוף ידיים לפי תגליותיו של פסטר?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Because dirty hands look bad", "he": "כי ידיים מלוכלכות נראות רע" } },
+        { "id": "b", "text": { "en": "Because it removes microbes that can spread disease", "he": "כי זה מסיר מיקרובים שיכולים להפיץ מחלות" } },
+        { "id": "c", "text": { "en": "Because it makes hands stronger", "he": "כי זה הופך ידיים לחזקות יותר" } },
+        { "id": "d", "text": { "en": "Because water neutralizes poisons", "he": "כי מים מנטרלים רעלים" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Pasteur's germ theory showed that microbes on hands can transfer disease from person to person or contaminate food. Washing hands removes these microbes and is one of the most effective ways to prevent disease.", "he": "תורת החיידקים של פסטר הראתה שמיקרובים על ידיים יכולים להעביר מחלות מאדם לאדם או לזהם מזון. שטיפת ידיים מסירה מיקרובים אלה והיא אחת הדרכים היעילות ביותר למניעת מחלות." }
+    },
+    {
+      "id": "q-d17-07",
+      "question": { "en": "What process involves microorganisms breaking down sugars to produce alcohol?", "he": "איזה תהליך כולל מיקרואורגניזמים המפרקים סוכרים לייצור אלכוהול?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Pasteurization", "he": "פסטור" } },
+        { "id": "b", "text": { "en": "Sterilization", "he": "עיקור" } },
+        { "id": "c", "text": { "en": "Fermentation", "he": "תסיסה" } },
+        { "id": "d", "text": { "en": "Vaccination", "he": "חיסון" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Fermentation is the process where microbes like yeast break down sugars and produce alcohol or acids. Pasteur showed that fermentation is caused by living microorganisms, not just chemical reactions.", "he": "תסיסה היא התהליך שבו מיקרובים כמו שמרים מפרקים סוכרים ומייצרים אלכוהול או חומצות. פסטר הראה שתסיסה נגרמת על ידי מיקרואורגניזמים חיים, לא רק תגובות כימיות." }
+    },
+    {
+      "id": "q-d17-08",
+      "question": { "en": "What scientific instrument did Pasteur use to study microbes?", "he": "איזה מכשיר מדעי השתמש פסטר לחקור מיקרובים?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Telescope", "he": "טלסקופ" } },
+        { "id": "b", "text": { "en": "Thermometer", "he": "מדחום" } },
+        { "id": "c", "text": { "en": "Microscope", "he": "מיקרוסקופ" } },
+        { "id": "d", "text": { "en": "Barometer", "he": "ברומטר" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Pasteur used a microscope to study microbes, since bacteria and other microorganisms are far too tiny to see with the naked eye. Advances in microscope technology were essential to his discoveries.", "he": "פסטר השתמש במיקרוסקופ לחקור מיקרובים, מכיוון שחיידקים ומיקרואורגניזמים אחרים קטנים מכדי לראות בעין בלתי מזוינת. התקדמות בטכנולוגיית המיקרוסקופ היתה חיונית לתגליותיו." }
+    },
+    {
+      "id": "q-d17-09",
+      "question": { "en": "What did Pasteur prove about food spoilage?", "he": "מה הוכיח פסטר לגבי קלקול מזון?" },
+      "choices": [
+        { "id": "a", "text": { "en": "That food spoils because of chemical reactions only", "he": "שמזון מתקלקל רק בגלל תגובות כימיות" } },
+        { "id": "b", "text": { "en": "That microbes in the air cause food to spoil", "he": "שמיקרובים שבאוויר גורמים לקלקול מזון" } },
+        { "id": "c", "text": { "en": "That cold temperatures cause food to spoil", "he": "שטמפרטורות קרות גורמות לקלקול מזון" } },
+        { "id": "d", "text": { "en": "That light causes food to spoil", "he": "שאור גורם לקלקול מזון" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Through his famous swan-neck flask experiment, Pasteur demonstrated that microbes floating in the air settle on food and cause it to spoil. When air is kept away from the food, it does not spoil, disproving spontaneous generation.", "he": "באמצעות ניסוי הבקבוק בצורת צוואר ברבור המפורסם שלו, הדגים פסטר שמיקרובים הצפים באוויר מתיישבים על המזון וגורמים לקלקולו. כאשר האוויר נמנע מהמזון, הוא אינו מתקלקל, מה שסתר את תורת הדור הספונטני." }
+    },
+    {
+      "id": "q-d17-10",
+      "question": { "en": "Which of the following is an example of pasteurization being used today?", "he": "מה מבין הבאים הוא דוגמה לשימוש בפסטור היום?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Freezing vegetables", "he": "הקפאת ירקות" } },
+        { "id": "b", "text": { "en": "Adding sugar to jam", "he": "הוספת סוכר לריבה" } },
+        { "id": "c", "text": { "en": "Heating milk before selling it in shops", "he": "חימום חלב לפני מכירתו בחנויות" } },
+        { "id": "d", "text": { "en": "Drying fruit in the sun", "he": "ייבוש פירות בשמש" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "One of the most common uses of pasteurization today is heating milk to kill harmful bacteria before it is sold. Fruit juices and many other drinks are also pasteurized to keep them safe and fresh longer.", "he": "אחד השימושים הנפוצים ביותר בפסטור כיום הוא חימום חלב להריגת חיידקים מזיקים לפני שהוא נמכר. מיצי פירות ומשקאות רבים אחרים גם עוברים פסטור כדי להישמר בטוחים וטריים יותר זמן." }
+    }
+  ],
+  "videoSources": ["jD4jXLzZtdA"]
+}

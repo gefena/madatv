@@ -1,0 +1,228 @@
+{
+  "id": "d16-mendel",
+  "episodeNumber": 16,
+  "youtubeId": "y-twAciT-P0",
+  "title": { "en": "Mendel and Peas", "he": "מנדל והאפונים" },
+  "summary": {
+    "en": "Gregor Mendel was an Austrian monk and scientist who, in the 1860s, discovered the basic rules of how traits are inherited from parents to offspring. Working in his monastery garden in Brno, Mendel carefully crossed thousands of pea plants over many years, tracking traits like seed color, plant height, and pod shape across generations. He discovered that some traits are 'dominant' — meaning they appear even when only one copy of the trait is inherited — while others are 'recessive' and only show up when two copies are present. Mendel's meticulous records and mathematical approach to biology led to the founding of the science of genetics, though his work was largely ignored during his lifetime and only recognized decades after his death as the foundation of our understanding of heredity.",
+    "he": "גרגור מנדל היה נזיר ומדען אוסטרי שבשנות ה-1860 גילה את הכללים הבסיסיים של תורשה — כיצד תכונות עוברות מהורים לצאצאים. בגינת המנזר שלו בעיר ברנו, הכליא מנדל בקפידה אלפי צמחי אפונה במשך שנים רבות, ועקב אחר תכונות כמו צבע הזרע, גובה הצמח וצורת התרמיל לאורך דורות. הוא גילה שחלק מהתכונות הן 'דומיננטיות' — כלומר הן מופיעות גם כאשר רק עותק אחד של התכונה עובר בתורשה — בעוד שאחרות הן 'רצסיביות' ומופיעות רק כאשר ישנם שני עותקים. עבודתו המדוקדקת והגישה המתמטית שלו לביולוגיה הניחו את היסודות למדע הגנטיקה, אם כי עבודתו לא זכתה להכרה בחייו ורק עשרות שנים לאחר מותו הוכרה כבסיס להבנתנו את התורשה."
+  },
+  "thumbnail": "https://img.youtube.com/vi/y-twAciT-P0/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": ["Gregor Mendel", "genetics", "inheritance", "dominant and recessive traits", "pea plant experiments"],
+  "terminology": [
+    {
+      "id": "t-d16-01",
+      "term": { "en": "Genetics", "he": "גנטיקה" },
+      "definition": { "en": "The science that studies how traits are passed from parents to their children through genes.", "he": "המדע החוקר כיצד תכונות עוברות מהורים לילדיהם באמצעות גנים." },
+      "category": "biology"
+    },
+    {
+      "id": "t-d16-02",
+      "term": { "en": "Heredity", "he": "תורשה" },
+      "definition": { "en": "The passing of features like eye color, height, or blood type from parents to their children.", "he": "העברת תכונות כמו צבע עיניים, גובה או סוג דם מהורים לילדיהם." },
+      "category": "biology"
+    },
+    {
+      "id": "t-d16-03",
+      "term": { "en": "Dominant Trait", "he": "תכונה דומיננטית" },
+      "definition": { "en": "A trait that appears in an offspring if at least one parent passes on the gene for it, 'overriding' the other version.", "he": "תכונה שמופיעה בצאצא אם לפחות הורה אחד העביר לו את הגן עבורה, ו'עוקפת' את הגרסה האחרת." },
+      "category": "biology"
+    },
+    {
+      "id": "t-d16-04",
+      "term": { "en": "Recessive Trait", "he": "תכונה רצסיבית" },
+      "definition": { "en": "A trait that only appears in an offspring if both parents pass on the gene for it; it is 'hidden' when a dominant gene is also present.", "he": "תכונה שמופיעה בצאצא רק אם שני ההורים העבירו לו את הגן עבורה; היא 'נסתרת' כאשר גם גן דומיננטי נמצא." },
+      "category": "biology"
+    },
+    {
+      "id": "t-d16-05",
+      "term": { "en": "Gene", "he": "גן" },
+      "definition": { "en": "A tiny unit of information inside our cells that carries the instructions for a particular trait, like hair color or height.", "he": "יחידת מידע קטנה בתוך תאינו הנושאת הוראות לתכונה מסוימת, כמו צבע שיער או גובה." },
+      "category": "biology"
+    },
+    {
+      "id": "t-d16-06",
+      "term": { "en": "Chromosome", "he": "כרומוזום" },
+      "definition": { "en": "A long strand inside a cell's nucleus that contains many genes. Humans have 46 chromosomes in most of their cells.", "he": "חוט ארוך בתוך גרעין התא המכיל גנים רבים. לבני אדם יש 46 כרומוזומים ברוב תאיהם." },
+      "category": "biology"
+    },
+    {
+      "id": "t-d16-07",
+      "term": { "en": "Cross-pollination", "he": "הכלאה" },
+      "definition": { "en": "When pollen from one plant fertilizes a flower of a different plant, producing seeds that have traits from both parents.", "he": "כאשר אבקה מצמח אחד מפרה את פרח צמח אחר, ומייצרת זרעים בעלי תכונות משני ההורים." },
+      "category": "biology"
+    },
+    {
+      "id": "t-d16-08",
+      "term": { "en": "Trait", "he": "תכונה" },
+      "definition": { "en": "A specific feature of a living thing, such as eye color, height, or the shape of a seed.", "he": "מאפיין ספציפי של יצור חי, כגון צבע עיניים, גובה או צורת זרע." },
+      "category": "biology"
+    },
+    {
+      "id": "t-d16-09",
+      "term": { "en": "Pea Plant", "he": "צמח האפונה" },
+      "definition": { "en": "The plant Mendel used for his famous experiments because it has clear, easy-to-observe traits and grows quickly.", "he": "הצמח שמנדל השתמש בו לניסוייו המפורסמים, מכיוון שיש לו תכונות ברורות וקלות לתצפית והוא גדל במהירות." },
+      "category": "biology"
+    },
+    {
+      "id": "t-d16-10",
+      "term": { "en": "Offspring", "he": "צאצא" },
+      "definition": { "en": "The children or young produced by a living thing; in plants, the new plants that grow from seeds.", "he": "הצאצאים או הצעירים שמוליד יצור חי; בצמחים, הצמחים החדשים הגדלים מזרעים." },
+      "category": "biology"
+    },
+    {
+      "id": "t-d16-11",
+      "term": { "en": "Allele", "he": "אלל" },
+      "definition": { "en": "One of two or more versions of a gene; for example, the gene for seed color in peas has an allele for yellow and an allele for green.", "he": "אחד משתי גרסאות או יותר של גן; לדוגמה, לגן לצבע הזרע באפונה יש אלל לצהוב ואלל לירוק." },
+      "category": "biology"
+    },
+    {
+      "id": "t-d16-12",
+      "term": { "en": "Monastery", "he": "מנזר" },
+      "definition": { "en": "A building where monks live and work; Mendel conducted his famous pea plant experiments in the garden of his monastery in Brno.", "he": "בניין שבו נזירים חיים ועובדים; מנדל ביצע את ניסויי האפונה המפורסמים שלו בגינת המנזר שלו בברנו." },
+      "category": "history"
+    },
+    {
+      "id": "t-d16-13",
+      "term": { "en": "Ratio", "he": "יחס" },
+      "definition": { "en": "A comparison of two numbers, like 3:1 — which Mendel found was the typical ratio of dominant to recessive traits in the second generation of plants.", "he": "השוואה בין שני מספרים, כמו 3:1 — היחס שמנדל גילה שהוא האופייני בין תכונות דומיננטיות לרצסיביות בדור השני של הצמחים." },
+      "category": "mathematics"
+    },
+    {
+      "id": "t-d16-14",
+      "term": { "en": "Pure-breeding", "he": "מין טהור" },
+      "definition": { "en": "When a plant or animal always passes the same version of a trait to its offspring because it carries two identical copies of that gene.", "he": "כאשר צמח או בעל חיים תמיד מעביר את אותה גרסת תכונה לצאצאיו מכיוון שהוא נושא שני עותקים זהים של אותו גן." },
+      "category": "biology"
+    },
+    {
+      "id": "t-d16-15",
+      "term": { "en": "Hybrid", "he": "היברידי" },
+      "definition": { "en": "An offspring that has two different versions of a gene — one from each parent — such as a pea plant with one gene for yellow seeds and one for green seeds.", "he": "צאצא בעל שתי גרסאות שונות של גן — אחת מכל הורה — כמו צמח אפונה עם גן אחד לזרעים צהובים וגן אחד לזרעים ירוקים." },
+      "category": "biology"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q-d16-01",
+      "question": { "en": "What plant did Mendel use for his famous genetics experiments?", "he": "איזה צמח השתמש מנדל לניסויי הגנטיקה המפורסמים שלו?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Rose plants", "he": "שיחי ורדים" } },
+        { "id": "b", "text": { "en": "Pea plants", "he": "צמחי אפונה" } },
+        { "id": "c", "text": { "en": "Apple trees", "he": "עצי תפוח" } },
+        { "id": "d", "text": { "en": "Wheat plants", "he": "צמחי חיטה" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Mendel chose pea plants because they grow quickly, have clearly visible traits like seed color and plant height, and are easy to cross-pollinate by hand.", "he": "מנדל בחר בצמחי אפונה מכיוון שהם גדלים במהירות, יש להם תכונות גלויות בבירור כמו צבע הזרע וגובה הצמח, וקל להכליא אותם ידנית." }
+    },
+    {
+      "id": "q-d16-02",
+      "question": { "en": "Where did Mendel carry out his experiments?", "he": "היכן ביצע מנדל את ניסוייו?" },
+      "choices": [
+        { "id": "a", "text": { "en": "In a university laboratory", "he": "במעבדת אוניברסיטה" } },
+        { "id": "b", "text": { "en": "In the garden of his monastery", "he": "בגינת המנזר שלו" } },
+        { "id": "c", "text": { "en": "On a farm in the countryside", "he": "בחווה בכפר" } },
+        { "id": "d", "text": { "en": "In a greenhouse in Vienna", "he": "בחממה בווינה" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Mendel was a monk and conducted his groundbreaking experiments in the garden of the Augustinian monastery of St. Thomas in Brno, in what is now the Czech Republic.", "he": "מנדל היה נזיר וביצע את ניסוייו החלוציים בגינת מנזר סנט תומס האוגוסטיני בברנו, שנמצאת כיום בצ'כיה." }
+    },
+    {
+      "id": "q-d16-03",
+      "question": { "en": "What is a 'dominant' trait?", "he": "מהי תכונה 'דומיננטית'?" },
+      "choices": [
+        { "id": "a", "text": { "en": "A trait that only appears when inherited from both parents", "he": "תכונה שמופיעה רק כאשר עוברת בירושה משני ההורים" } },
+        { "id": "b", "text": { "en": "A trait found only in plants", "he": "תכונה הנמצאת רק בצמחים" } },
+        { "id": "c", "text": { "en": "A trait that appears even if only one copy of the gene is inherited", "he": "תכונה שמופיעה גם אם עותק אחד בלבד של הגן עובר בירושה" } },
+        { "id": "d", "text": { "en": "The rarest trait in a species", "he": "התכונה הנדירה ביותר במין" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "A dominant trait shows up in an offspring even if only one copy of the gene for it is inherited. For example, yellow seed color in peas is dominant over green.", "he": "תכונה דומיננטית מופיעה בצאצא גם אם רק עותק אחד של הגן עבורה עובר בירושה. לדוגמה, צבע זרע צהוב באפונה הוא דומיננטי על פני ירוק." }
+    },
+    {
+      "id": "q-d16-04",
+      "question": { "en": "What was Mendel's profession before becoming a scientist?", "he": "מה הייתה מקצועו של מנדל לפני שהפך למדען?" },
+      "choices": [
+        { "id": "a", "text": { "en": "A doctor", "he": "רופא" } },
+        { "id": "b", "text": { "en": "A monk", "he": "נזיר" } },
+        { "id": "c", "text": { "en": "A farmer", "he": "חקלאי" } },
+        { "id": "d", "text": { "en": "A teacher", "he": "מורה" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Gregor Mendel was an Augustinian monk who lived and worked in a monastery. He combined his religious life with his passion for science and mathematics.", "he": "גרגור מנדל היה נזיר אוגוסטיני שחי ועבד במנזר. הוא שילב את חיי הדת שלו עם אהבתו למדע ולמתמטיקה." }
+    },
+    {
+      "id": "q-d16-05",
+      "question": { "en": "What is a 'recessive' trait?", "he": "מהי תכונה 'רצסיבית'?" },
+      "choices": [
+        { "id": "a", "text": { "en": "A trait that always appears in every generation", "he": "תכונה שתמיד מופיעה בכל דור" } },
+        { "id": "b", "text": { "en": "A trait that only shows when two copies of the gene are inherited", "he": "תכונה שמופיעה רק כאשר שני עותקים של הגן עוברים בירושה" } },
+        { "id": "c", "text": { "en": "A trait that comes from the mother only", "he": "תכונה שמגיעה מהאם בלבד" } },
+        { "id": "d", "text": { "en": "A harmful trait that causes disease", "he": "תכונה מזיקה הגורמת למחלה" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "A recessive trait is hidden when a dominant gene is present. It only shows up when both parents pass on the recessive version of the gene. Green seed color in peas is a recessive trait.", "he": "תכונה רצסיבית נסתרת כאשר גן דומיננטי נמצא. היא מופיעה רק כאשר שני ההורים מעבירים את הגרסה הרצסיבית של הגן. צבע זרע ירוק באפונה הוא תכונה רצסיבית." }
+    },
+    {
+      "id": "q-d16-06",
+      "question": { "en": "In which century did Mendel carry out his pea plant experiments?", "he": "באיזה מאה ביצע מנדל את ניסויי האפונה שלו?" },
+      "choices": [
+        { "id": "a", "text": { "en": "The 18th century (1700s)", "he": "המאה ה-18 (שנות 1700)" } },
+        { "id": "b", "text": { "en": "The 19th century (1800s)", "he": "המאה ה-19 (שנות 1800)" } },
+        { "id": "c", "text": { "en": "The 20th century (1900s)", "he": "המאה ה-20 (שנות 1900)" } },
+        { "id": "d", "text": { "en": "The 17th century (1600s)", "he": "המאה ה-17 (שנות 1600)" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Mendel conducted his famous experiments in the 1850s and 1860s, during the 19th century, in his monastery garden in Brno.", "he": "מנדל ביצע את ניסוייו המפורסמים בשנות ה-1850 וה-1860, במהלך המאה ה-19, בגינת המנזר שלו בברנו." }
+    },
+    {
+      "id": "q-d16-07",
+      "question": { "en": "What does a 'gene' do?", "he": "מה עושה 'גן'?" },
+      "choices": [
+        { "id": "a", "text": { "en": "It makes food for the cell", "he": "הוא מייצר מזון לתא" } },
+        { "id": "b", "text": { "en": "It carries instructions for a specific trait", "he": "הוא נושא הוראות לתכונה ספציפית" } },
+        { "id": "c", "text": { "en": "It protects the cell from disease", "he": "הוא מגן על התא ממחלה" } },
+        { "id": "d", "text": { "en": "It helps the cell move around", "he": "הוא עוזר לתא לנוע" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "A gene is like a tiny instruction manual inside your cells. Each gene carries the instructions for building or controlling a specific feature of your body, like your eye color or blood type.", "he": "גן הוא כמו מדריך הוראות קטן בתוך התאים שלך. כל גן נושא הוראות לבנייה או לשליטה במאפיין ספציפי של גופך, כמו צבע עיניך או סוג דמך." }
+    },
+    {
+      "id": "q-d16-08",
+      "question": { "en": "Was Mendel's work recognized while he was alive?", "he": "האם עבודתו של מנדל זכתה להכרה בחייו?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Yes, he won many awards and became very famous", "he": "כן, הוא זכה בפרסים רבים והפך מפורסם מאוד" } },
+        { "id": "b", "text": { "en": "Somewhat — only a few scientists knew about his work", "he": "במידה מסוימת — רק כמה מדענים ידעו על עבודתו" } },
+        { "id": "c", "text": { "en": "No, his work was largely ignored and only recognized decades after his death", "he": "לא, עבודתו לא זכתה להכרה ורק עשרות שנים לאחר מותו הוכרה" } },
+        { "id": "d", "text": { "en": "No, because his experiments were wrong", "he": "לא, כי ניסוייו לא היו נכונים" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Mendel published his results in 1866, but scientists at the time largely ignored his work. It was not until the early 1900s — more than 35 years after publication — that other scientists rediscovered his ideas and recognized their importance.", "he": "מנדל פרסם את תוצאותיו ב-1866, אך מדענים באותה תקופה התעלמו ברובם מעבודתו. רק בתחילת שנות ה-1900 — יותר מ-35 שנה לאחר הפרסום — מדענים אחרים גילו מחדש את רעיונותיו והכירו בחשיבותם." }
+    },
+    {
+      "id": "q-d16-09",
+      "question": { "en": "How many pea plants did Mendel approximately study during his experiments?", "he": "כמה צמחי אפונה למד מנדל בקירוב במהלך ניסוייו?" },
+      "choices": [
+        { "id": "a", "text": { "en": "About 100", "he": "כ-100" } },
+        { "id": "b", "text": { "en": "About 500", "he": "כ-500" } },
+        { "id": "c", "text": { "en": "About 28,000", "he": "כ-28,000" } },
+        { "id": "d", "text": { "en": "About 1,000", "he": "כ-1,000" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Mendel studied approximately 28,000 pea plants over about eight years. This huge number was important because it allowed him to find reliable mathematical patterns in how traits were inherited.", "he": "מנדל חקר כ-28,000 צמחי אפונה לאורך כשמונה שנים. מספר עצום זה היה חשוב מכיוון שאפשר לו למצוא דפוסים מתמטיים אמינים באופן שבו עוברות תכונות בתורשה." }
+    },
+    {
+      "id": "q-d16-10",
+      "question": { "en": "What is the science of studying how traits are passed from parents to children called?", "he": "כיצד נקרא המדע החוקר כיצד תכונות עוברות מהורים לילדים?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Ecology", "he": "אקולוגיה" } },
+        { "id": "b", "text": { "en": "Genetics", "he": "גנטיקה" } },
+        { "id": "c", "text": { "en": "Anatomy", "he": "אנטומיה" } },
+        { "id": "d", "text": { "en": "Botany", "he": "בוטניקה" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Genetics is the branch of biology that studies genes, heredity, and how traits are passed from parents to offspring. Mendel is called the 'Father of Genetics' because of his pioneering work.", "he": "גנטיקה היא ענף הביולוגיה החוקר גנים, תורשה וכיצד תכונות עוברות מהורים לצאצאים. מנדל מכונה 'אבי הגנטיקה' בשל עבודתו החלוצית." }
+    }
+  ],
+  "videoSources": ["y-twAciT-P0"]
+}
