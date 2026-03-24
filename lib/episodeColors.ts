@@ -21,7 +21,7 @@ export const EPISODE_COLORS: Record<string, {
   "13-the-skin":              { gradient: "from-amber-300 to-orange-400",     badge: "bg-amber-400",   text: "text-amber-600",   glow: "shadow-amber-200",   emoji: "🫶" },
   "14-mouth-and-teeth":       { gradient: "from-yellow-400 to-amber-500",     badge: "bg-yellow-500",  text: "text-yellow-600",  glow: "shadow-yellow-200",  emoji: "🦷" },
   "15-digestion":             { gradient: "from-green-400 to-emerald-500",    badge: "bg-green-500",   text: "text-green-600",   glow: "shadow-green-200",   emoji: "🥗" },
-  "16-the-liver":             { gradient: "from-amber-400 to-orange-500",     badge: "bg-amber-500",   text: "text-amber-600",   glow: "shadow-amber-200",   emoji: "🫀" },
+  "16-the-liver":             { gradient: "from-amber-400 to-orange-500",     badge: "bg-amber-500",   text: "text-amber-600",   glow: "shadow-amber-200",   emoji: "🟤" },
   "17-the-kidneys":           { gradient: "from-red-400 to-rose-500",         badge: "bg-red-400",     text: "text-red-600",     glow: "shadow-red-200",     emoji: "🫘" },
   "18-the-lymphatic-system":  { gradient: "from-cyan-400 to-blue-500",        badge: "bg-cyan-500",    text: "text-cyan-600",    glow: "shadow-cyan-200",    emoji: "🔵" },
   "19-bones-and-skeleton":    { gradient: "from-slate-400 to-blue-500",       badge: "bg-slate-500",   text: "text-slate-600",   glow: "shadow-slate-200",   emoji: "💀" },
