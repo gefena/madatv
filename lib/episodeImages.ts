@@ -3,4 +3,5 @@
 export const SERIES_BG_IMAGES: Record<string, string> = {
   life:        "/images/series-life-bg.jpg",
   discoverers: "/images/series-discoverers-bg.jpg",
+  man:         "/images/series-man-bg.jpg",
 };

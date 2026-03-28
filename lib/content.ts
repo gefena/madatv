@@ -99,6 +99,13 @@ const SERIES_EPISODES: Record<string, EpisodeLoader> = {
 // All slugs across all series (used for static generation)
 export const EPISODE_SLUGS = Object.values(SERIES_EPISODES).flatMap(Object.keys);
 
+export function getSeriesForSlug(slug: string): string | null {
+  for (const [seriesId, loader] of Object.entries(SERIES_EPISODES)) {
+    if (slug in loader) return seriesId;
+  }
+  return null;
+}
+
 export function getSeriesEpisodeSlugs(seriesId: string): string[] {
   return Object.keys(SERIES_EPISODES[seriesId] ?? {});
 }
