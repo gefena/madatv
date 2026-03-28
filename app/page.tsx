@@ -66,9 +66,6 @@ export default function MadaTVHome() {
           {series.map((s) => (
             <SeriesCard key={s.id} series={s} pick={pick} t={t} />
           ))}
-
-          {/* Coming soon placeholder */}
-          <ComingSoonCard t={t} />
         </div>
       </div>
     </div>
@@ -157,12 +154,3 @@ function SeriesCard({
   );
 }
 
-function ComingSoonCard({ t }: { t: (key: string) => string }) {
-  return (
-    <div className="flex flex-col items-center justify-center rounded-3xl border-2 border-dashed border-indigo-200 bg-indigo-50/50 p-10 text-center min-h-[320px]">
-      <div className="text-4xl mb-3">🚧</div>
-      <p className="font-black text-indigo-400 text-base">{t("madatv.comingSoon")}</p>
-      <p className="mt-1 text-xs font-semibold text-indigo-300">{t("madatv.moreSeries")}</p>
-    </div>
-  );
-}
