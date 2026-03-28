@@ -16,6 +16,7 @@ export interface SeriesMeta {
 const seriesModules: Record<string, () => Promise<{ default: any }>> = {
   life:         () => import("@/content/series/life.json"),
   discoverers:  () => import("@/content/series/discoverers.json"),
+  man:          () => import("@/content/series/man.json"),
 };
 
 export const SERIES_IDS = Object.keys(seriesModules);
