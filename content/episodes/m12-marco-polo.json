@@ -1,0 +1,273 @@
+{
+  "id": "m12-marco-polo",
+  "episodeNumber": 12,
+  "youtubeId": "oKtaK3SZVU8",
+  "videoSources": [],
+  "title": { "en": "The Travels of Marco Polo", "he": "מסעות מרקו פולו" },
+  "summary": {
+    "en": "In the 13th century, a fearsome Mongol warrior named Genghis Khan rose from the vast grasslands of Central Asia to unite the nomadic tribes and build the largest land empire in history, stretching from the Pacific Ocean to Eastern Europe. After Genghis Khan's death, his grandson Kublai Khan completed the conquest of China and established the magnificent Yuan Dynasty, ruling from a splendid court at what is now Beijing. Into this world of wonders traveled Marco Polo, a young Venetian merchant who set out in 1271 with his father and uncle on an extraordinary journey to the court of Kublai Khan, taking nearly four years to reach China along the Silk Road. Marco Polo spent nearly 17 years in China, serving Kublai Khan and witnessing marvels unknown in Europe — paper money, coal used for fuel, magnificent palaces, and cities of millions of people. When he returned to Venice and dictated his memoirs, Europeans were amazed and inspired, and his book sparked centuries of curiosity about the wonders of the East.",
+    "he": "במאה ה-13, לוחם מונגולי אדיר בשם ג'ינגיס חאן קם מהמישורים העצומים של מרכז אסיה כדי לאחד את השבטים הנוודים ולבנות את האימפריה היבשתית הגדולה ביותר בהיסטוריה, המשתרעת מהאוקיינוס השקט ועד מזרח אירופה. לאחר מותו של ג'ינגיס חאן, נכדו קובלאי חאן השלים את כיבוש סין וכונן את שושלת יואן המפוארת, ומשל מחצר נפלאה במה שנקרא כיום בייג'ינג. לעולם של פלאים זה נסע מרקו פולו, סוחר ונציאני צעיר שיצא בשנת 1271 עם אביו ודודו למסע יוצא דופן לחצרו של קובלאי חאן, ולקח כמעט ארבע שנים להגיע לסין לאורך דרך המשי. מרקו פולו בילה כמעט 17 שנה בסין, שירת את קובלאי חאן והיה עד לפלאים שלא נודעו באירופה — כסף נייר, פחם ששימש כדלק, ארמונות מפוארים וערים של מיליוני אנשים. כשחזר לונציה ואיכן את זיכרונותיו, האירופים הופתעו והתעוררו לפעולה, וספרו עורר מאות שנים של סקרנות לגבי פלאי המזרח."
+  },
+  "thumbnail": "https://img.youtube.com/vi/oKtaK3SZVU8/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": ["Mongol Empire", "Marco Polo", "Silk Road", "Medieval China"],
+  "terminology": [
+    {
+      "id": "t-m12-01",
+      "term": { "en": "Mongol Empire", "he": "האימפריה המונגולית" },
+      "definition": {
+        "en": "The largest contiguous land empire in history, founded by Genghis Khan in the early 13th century. At its greatest extent, it stretched from the Pacific Ocean to Eastern Europe, encompassing much of Asia and parts of Europe.",
+        "he": "האימפריה היבשתית הרציפה הגדולה ביותר בהיסטוריה, שנוסדה על ידי ג'ינגיס חאן בתחילת המאה ה-13. בשיאה, היא השתרעה מהאוקיינוס השקט ועד מזרח אירופה, וכיסתה חלקים גדולים של אסיה וחלקים של אירופה."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m12-02",
+      "term": { "en": "Genghis Khan", "he": "ג'ינגיס חאן" },
+      "definition": {
+        "en": "The founder and first Great Khan of the Mongol Empire, born around 1162 CE. Starting as the leader of a small tribe, he united all the Mongol tribes through conquest and diplomacy and launched devastating military campaigns across Asia and into Europe.",
+        "he": "מייסד הח'אן הגדול הראשון של האימפריה המונגולית, נולד בסביבות שנת 1162 לספירה. החל כמנהיג שבט קטן, הוא איחד את כל השבטים המונגוליים דרך כיבוש ודיפלומטיה ויצא למסעות צבאיים הרסניים ברחבי אסיה ולתוך אירופה."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m12-03",
+      "term": { "en": "Kublai Khan", "he": "קובלאי חאן" },
+      "definition": {
+        "en": "The grandson of Genghis Khan who became the ruler of the Mongol Empire and conquered China, founding the Yuan Dynasty. He ruled from a magnificent court at Khanbaliq, which is now Beijing. He was the Mongol ruler Marco Polo served for nearly 17 years.",
+        "he": "נכדו של ג'ינגיס חאן שהפך לשליט האימפריה המונגולית וכבש את סין, ויסד את שושלת יואן. הוא משל מחצר מפוארת בח'ן-באליק, שהיא כיום בייג'ינג. הוא היה השליט המונגולי שמרקו פולו שירת כמעט 17 שנה."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m12-04",
+      "term": { "en": "Marco Polo", "he": "מרקו פולו" },
+      "definition": {
+        "en": "A Venetian merchant and explorer who traveled from Europe to the court of Kublai Khan in China in 1271 CE, when he was only 17 years old. He spent nearly 17 years in Asia and his account of his travels, called The Travels of Marco Polo, introduced Europeans to the wonders of the East.",
+        "he": "סוחר ומחקר ונציאני שנסע מאירופה לחצרו של קובלאי חאן בסין בשנת 1271 לספירה, כשהיה בן 17 בלבד. הוא בילה כמעט 17 שנה באסיה וחשבון מסעותיו, הנקרא מסעות מרקו פולו, הציג בפני האירופים את פלאי המזרח."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m12-05",
+      "term": { "en": "Silk Road", "he": "דרך המשי" },
+      "definition": {
+        "en": "An ancient network of trade routes connecting China and East Asia with Central Asia, the Middle East, and Europe. Merchants traded luxury goods like silk, spices, precious stones, and gold. Ideas, technologies, and diseases also traveled these routes.",
+        "he": "רשת עתיקה של מסלולי סחר שחיברה את סין ומזרח אסיה עם מרכז אסיה, המזרח התיכון ואירופה. סוחרים סחרו בסחורות יוקרה כגון משי, תבלינים, אבנים יקרות וזהב. רעיונות, טכנולוגיות ומחלות גם הם עברו במסלולים אלה."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m12-06",
+      "term": { "en": "Venice", "he": "ונציה" },
+      "definition": {
+        "en": "A wealthy Italian city built on islands in a lagoon, famous in the Middle Ages as a powerful trading republic. Venice controlled much of the sea trade between Europe and the East, making it fabulously rich. It was the home city of Marco Polo.",
+        "he": "עיר איטלקית עשירה הבנויה על איים בלגונה, מפורסמת בימי הביניים כרפובליקת סחר חזקה. ונציה שלטה בחלק גדול מהסחר הימי בין אירופה למזרח, מה שהפך אותה לעשירה מאוד. היא הייתה עיר מולדתו של מרקו פולו."
+      },
+      "category": "geography"
+    },
+    {
+      "id": "t-m12-07",
+      "term": { "en": "Yuan Dynasty", "he": "שושלת יואן" },
+      "definition": {
+        "en": "The dynasty established in China by Kublai Khan after the Mongols conquered the country in 1271 CE. It was the first time a non-Chinese people ruled all of China. The Yuan Dynasty lasted until 1368 when the Mongols were driven out by the native Chinese Ming Dynasty.",
+        "he": "השושלת שכונן קובלאי חאן בסין לאחר שהמונגולים כבשו את המדינה בשנת 1271 לספירה. זו הייתה הפעם הראשונה שעם שאינו סיני שלט בכל סין. שושלת יואן נמשכה עד 1368 כאשר המונגולים גורשו על ידי שושלת מינג הסינית ילידת הארץ."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m12-08",
+      "term": { "en": "Paper Money", "he": "כסף נייר" },
+      "definition": {
+        "en": "Currency printed on paper rather than made of metal. Marco Polo was astonished to discover that China had been using paper money for centuries while Europeans still used heavy gold and silver coins. China invented paper money during the Tang Dynasty around 800 CE.",
+        "he": "מטבע מודפס על נייר ולא עשוי מתכת. מרקו פולו נדהם לגלות שסין השתמשה בכסף נייר במשך מאות שנים בעוד שהאירופים עדיין השתמשו במטבעות זהב וכסף כבדות. סין המציאה את כסף הנייר בתקופת שושלת טאנג בסביבות שנת 800 לספירה."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m12-09",
+      "term": { "en": "Nomad", "he": "נווד" },
+      "definition": {
+        "en": "A person who does not live in one fixed place but moves from location to location, usually following seasonal grazing routes for their animals. The Mongols were nomadic people of the Central Asian steppes who moved with their herds of horses, sheep, and cattle.",
+        "he": "אדם שאינו חי במקום קבוע אחד אלא עובר ממקום למקום, בדרך כלל עוקב אחר מסלולי מרעה עונתיים לבעלי חיים שלו. המונגולים היו עם נוודי של מישורי מרכז אסיה שעברו עם עדרי הסוסים, הכבשים והבקר שלהם."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m12-10",
+      "term": { "en": "Yurt", "he": "יורטה" },
+      "definition": {
+        "en": "A portable, round tent used by nomadic peoples of Central Asia, including the Mongols. Yurts could be set up and taken down quickly, making them ideal for people who frequently moved from place to place. They were warm in winter and could be cooled in summer.",
+        "he": "אוהל עגול נייד ששימש עמים נוודים של מרכז אסיה, כולל המונגולים. יורטות יכלו להיות מוקמות ומפורקות במהירות, מה שהפך אותן לאידיאליות לאנשים שהיו עוברים לעתים קרובות ממקום למקום. הן היו חמות בחורף ויכלו להיות מקוררות בקיץ."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m12-11",
+      "term": { "en": "Khanbaliq", "he": "ח'אן-באליק" },
+      "definition": {
+        "en": "The magnificent capital city of Kublai Khan's empire, called Khanbaliq by the Mongols, meaning City of the Khan. Marco Polo called it Cambaluc and was dazzled by its size and splendor. This city is known today as Beijing, the capital of China.",
+        "he": "בירתה המפוארת של אימפריית קובלאי חאן, שנקראה ח'אן-באליק על ידי המונגולים, שמשמעותו עיר הח'אן. מרקו פולו קרא לה קמבאלוק ונדהם מגודלה ותפארתה. עיר זו ידועה כיום בשם בייג'ינג, בירת סין."
+      },
+      "category": "geography"
+    },
+    {
+      "id": "t-m12-12",
+      "term": { "en": "Spices", "he": "תבלינים" },
+      "definition": {
+        "en": "Valuable plants or plant products used to flavor and preserve food. In the Middle Ages, spices like pepper, cinnamon, nutmeg, and cloves from Asia were worth as much as gold in Europe. The desire for spices was a major reason Europeans sought sea routes to Asia.",
+        "he": "צמחים יקרי ערך או מוצרי צמחים המשמשים לתיבול ולשימור מזון. בימי הביניים, תבלינים כמו פלפל, קינמון, אגוז מוסקט וציפורן מאסיה היו שווים כמו זהב באירופה. הרצון בתבלינים היה סיבה מרכזית לכך שהאירופים חיפשו מסלולי ים לאסיה."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m12-13",
+      "term": { "en": "Steppes", "he": "ערבות" },
+      "definition": {
+        "en": "Vast, flat grasslands stretching across Central Asia and Eastern Europe. The steppes were the homeland of the Mongols and many other nomadic peoples. Their wide-open landscape was perfect for horse riding and herding, making the people who lived there expert cavalry warriors.",
+        "he": "מישורי עשב שטוחים ועצומים המשתרעים ברחבי מרכז אסיה ומזרח אירופה. הערבות היו מולדתם של המונגולים ועמים נוודים רבים אחרים. הנוף הפתוח שלהם היה מושלם לרכיבה על סוסים ורעיית עדרים, מה שהפך את האנשים שחיו שם ללוחמי פרשים מומחים."
+      },
+      "category": "geography"
+    },
+    {
+      "id": "t-m12-14",
+      "term": { "en": "Caravan", "he": "שיירה" },
+      "definition": {
+        "en": "A group of merchants or travelers journeying together for safety across deserts and long distances. Caravans along the Silk Road included camels, horses, and many people, and could travel hundreds of miles carrying silks, spices, and other precious goods between China and Europe.",
+        "he": "קבוצה של סוחרים או מטיילים שנסעו יחד לבטחה על פני מדבריות ומרחקים ארוכים. שיירות לאורך דרך המשי כללו גמלים, סוסים ואנשים רבים, ויכלו לנסוע מאות קילומטרים נושאות משי, תבלינים וסחורות יקרות אחרות בין סין לאירופה."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m12-15",
+      "term": { "en": "Polo", "he": "פולו" },
+      "definition": {
+        "en": "A sport played on horseback in which players use long mallets to hit a ball through goal posts. The game originated in ancient Persia and Central Asia and was very popular among the Mongol nobility. Marco Polo saw the game played in Asia and it was later named after him in the West.",
+        "he": "ספורט הנשחק על גב סוס שבו שחקנים משתמשים בקלשונות ארוכים להכות כדור בין שערים. המשחק מקורו בפרס הקדומה ובמרכז אסיה והיה פופולרי מאוד בקרב האצולה המונגולית. מרקו פולו ראה את המשחק נשחק באסיה ובמערב הוא נקרא על שמו מאוחר יותר."
+      },
+      "category": "history"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q-m12-01",
+      "question": { "en": "Who founded the Mongol Empire in the early 13th century?", "he": "מי ייסד את האימפריה המונגולית בתחילת המאה ה-13?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Kublai Khan", "he": "קובלאי חאן" } },
+        { "id": "b", "text": { "en": "Marco Polo", "he": "מרקו פולו" } },
+        { "id": "c", "text": { "en": "Attila the Hun", "he": "אטילה ההון" } },
+        { "id": "d", "text": { "en": "Genghis Khan", "he": "ג'ינגיס חאן" } }
+      ],
+      "correctChoice": "d",
+      "explanation": { "en": "Genghis Khan united the Mongol tribes and founded the Mongol Empire in the early 13th century. Starting from the Central Asian steppes, he built the largest land empire in history.", "he": "ג'ינגיס חאן איחד את השבטים המונגוליים וייסד את האימפריה המונגולית בתחילת המאה ה-13. מתחיל מהערבות של מרכז אסיה, הוא בנה את האימפריה היבשתית הגדולה ביותר בהיסטוריה." }
+    },
+    {
+      "id": "q-m12-02",
+      "question": { "en": "How old was Marco Polo when he set out on his journey to China in 1271 CE?", "he": "בן כמה היה מרקו פולו כשיצא למסעו לסין בשנת 1271 לספירה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "17 years old", "he": "בן 17" } },
+        { "id": "b", "text": { "en": "25 years old", "he": "בן 25" } },
+        { "id": "c", "text": { "en": "35 years old", "he": "בן 35" } },
+        { "id": "d", "text": { "en": "40 years old", "he": "בן 40" } }
+      ],
+      "correctChoice": "a",
+      "explanation": { "en": "Marco Polo was only 17 years old when he left Venice with his father and uncle in 1271 CE. The journey to China took nearly four years along the Silk Road, and he spent about 17 years in Asia before returning home.", "he": "מרקו פולו היה בן 17 בלבד כשעזב את ונציה עם אביו ודודו בשנת 1271 לספירה. המסע לסין לקח כמעט ארבע שנים לאורך דרך המשי, והוא בילה כ-17 שנה באסיה לפני שחזר הביתה." }
+    },
+    {
+      "id": "q-m12-03",
+      "question": { "en": "What amazing invention did Marco Polo discover being used in China that did not yet exist in Europe?", "he": "מה היה ההמצאה המדהימה שמרקו פולו גילה שנעשה בה שימוש בסין שעדיין לא הייתה קיימת באירופה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "The wheel", "he": "הגלגל" } },
+        { "id": "b", "text": { "en": "Paper money", "he": "כסף נייר" } },
+        { "id": "c", "text": { "en": "The compass", "he": "המצפן" } },
+        { "id": "d", "text": { "en": "The printing press", "he": "דפוס הדפוס" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Marco Polo was astonished to discover that China had been using paper money for centuries. Europeans still used heavy metal coins, so the idea of lightweight paper as currency was revolutionary to him.", "he": "מרקו פולו נדהם לגלות שסין השתמשה בכסף נייר במשך מאות שנים. האירופים עדיין השתמשו במטבעות מתכת כבדות, כך שהרעיון של נייר קל כמטבע היה מהפכני עבורו." }
+    },
+    {
+      "id": "q-m12-04",
+      "question": { "en": "What was the capital of Kublai Khan's empire called, and where is it today?", "he": "כיצד נקראה בירת אימפריית קובלאי חאן, והיכן היא נמצאת כיום?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Samarkand, in modern Uzbekistan", "he": "סמרקנד, באוזבקיסטן המודרנית" } },
+        { "id": "b", "text": { "en": "Khanbaliq, now Beijing in China", "he": "ח'אן-באליק, כיום בייג'ינג בסין" } },
+        { "id": "c", "text": { "en": "Karakorum, in modern Mongolia", "he": "קרקורום, במונגוליה המודרנית" } },
+        { "id": "d", "text": { "en": "Constantinople, now Istanbul in Turkey", "he": "קונסטנטינופול, כיום איסטנבול בטורקיה" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Kublai Khan ruled from Khanbaliq, which Marco Polo called Cambaluc. This magnificent city is modern-day Beijing, now the capital of China. Marco Polo described it as the greatest city in the world.", "he": "קובלאי חאן משל מח'אן-באליק, שמרקו פולו קרא לה קמבאלוק. עיר מפוארת זו היא בייג'ינג של ימינו, כיום בירת סין. מרקו פולו תיאר אותה כעיר הגדולה ביותר בעולם." }
+    },
+    {
+      "id": "q-m12-05",
+      "question": { "en": "What was the Silk Road?", "he": "מהי דרך המשי?" },
+      "choices": [
+        { "id": "a", "text": { "en": "A famous road paved with silk fabric in ancient Rome", "he": "כביש מפורסם מרוצף בבד משי ברומא העתיקה" } },
+        { "id": "b", "text": { "en": "A network of trade routes connecting China to Europe", "he": "רשת של מסלולי סחר שחיברה את סין לאירופה" } },
+        { "id": "c", "text": { "en": "A sea route from India to the Mediterranean", "he": "מסלול ים מהודו לים התיכון" } },
+        { "id": "d", "text": { "en": "A type of Mongol horse trail through the steppes", "he": "סוג של שביל סוסים מונגולי בערבות" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "The Silk Road was an ancient network of trade routes connecting China and Asia with the Middle East and Europe. Merchants traded silk, spices, precious stones, and other luxury goods, and ideas and culture also traveled these routes.", "he": "דרך המשי הייתה רשת עתיקה של מסלולי סחר שחיברה את סין ואסיה עם המזרח התיכון ואירופה. סוחרים סחרו במשי, תבלינים, אבנים יקרות וסחורות יוקרה אחרות, ורעיונות ותרבות גם הם עברו במסלולים אלה." }
+    },
+    {
+      "id": "q-m12-06",
+      "question": { "en": "What is a nomad?", "he": "מהו נווד?" },
+      "choices": [
+        { "id": "a", "text": { "en": "A person who lives in a city and works as a merchant", "he": "אדם החי בעיר ועובד כסוחר" } },
+        { "id": "b", "text": { "en": "A type of Mongol warrior", "he": "סוג של לוחם מונגולי" } },
+        { "id": "c", "text": { "en": "A person who moves from place to place without a permanent home", "he": "אדם הנע ממקום למקום ללא בית קבוע" } },
+        { "id": "d", "text": { "en": "A skilled map maker in medieval times", "he": "קרטוגרף מיומן בימי הביניים" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "A nomad is a person who moves from place to place rather than living in one permanent location. The Mongols were nomadic herders who followed their animals across the vast Central Asian steppes, which made them excellent horsemen.", "he": "נווד הוא אדם שנע ממקום למקום ולא חי במקום אחד קבוע. המונגולים היו רועים נוודים שעברו עם בעלי חייהם על פני ערבות מרכז אסיה העצומות, מה שהפך אותם לפרשים מצוינים." }
+    },
+    {
+      "id": "q-m12-07",
+      "question": { "en": "Which dynasty did Kublai Khan establish in China?", "he": "איזו שושלת כונן קובלאי חאן בסין?" },
+      "choices": [
+        { "id": "a", "text": { "en": "The Tang Dynasty", "he": "שושלת טאנג" } },
+        { "id": "b", "text": { "en": "The Ming Dynasty", "he": "שושלת מינג" } },
+        { "id": "c", "text": { "en": "The Han Dynasty", "he": "שושלת האן" } },
+        { "id": "d", "text": { "en": "The Yuan Dynasty", "he": "שושלת יואן" } }
+      ],
+      "correctChoice": "d",
+      "explanation": { "en": "Kublai Khan established the Yuan Dynasty after conquering China. It was the first time a non-Chinese people had ruled all of China. The Yuan Dynasty lasted until 1368 when the native Chinese Ming Dynasty overthrew the Mongols.", "he": "קובלאי חאן כונן את שושלת יואן לאחר כיבוש סין. זו הייתה הפעם הראשונה שעם שאינו סיני שלט בכל סין. שושלת יואן נמשכה עד 1368 כאשר שושלת מינג הסינית הילידת הדיחה את המונגולים." }
+    },
+    {
+      "id": "q-m12-08",
+      "question": { "en": "From which Italian city did Marco Polo begin his famous journey?", "he": "מאיזו עיר איטלקית יצא מרקו פולו למסעו המפורסם?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Rome", "he": "רומא" } },
+        { "id": "b", "text": { "en": "Florence", "he": "פירנצה" } },
+        { "id": "c", "text": { "en": "Genoa", "he": "גנואה" } },
+        { "id": "d", "text": { "en": "Venice", "he": "ונציה" } }
+      ],
+      "correctChoice": "d",
+      "explanation": { "en": "Marco Polo set out from Venice, his home city, in 1271 CE with his father Nicolo and his uncle Maffeo. Venice was a powerful trading republic that had strong interests in Eastern trade.", "he": "מרקו פולו יצא מונציה, עיר מולדתו, בשנת 1271 לספירה עם אביו ניקולו ודודו מאפאו. ונציה הייתה רפובליקת סחר חזקה שהיו לה אינטרסים חזקים בסחר עם המזרח." }
+    },
+    {
+      "id": "q-m12-09",
+      "question": { "en": "How long did the Mongol Empire stretch at its greatest extent?", "he": "עד כמה השתרעה האימפריה המונגולית בשיאה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "From Spain to Egypt", "he": "מספרד למצרים" } },
+        { "id": "b", "text": { "en": "From France to India", "he": "מצרפת להודו" } },
+        { "id": "c", "text": { "en": "From the Pacific Ocean to Eastern Europe", "he": "מהאוקיינוס השקט ועד מזרח אירופה" } },
+        { "id": "d", "text": { "en": "From England to China", "he": "מאנגליה לסין" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "At its greatest extent, the Mongol Empire stretched from the Pacific Ocean in the East to Eastern Europe in the West. It was the largest contiguous land empire in human history, covering about 24 million square kilometers.", "he": "בשיאה, האימפריה המונגולית השתרעה מהאוקיינוס השקט במזרח ועד מזרח אירופה במערב. היא הייתה האימפריה היבשתית הרציפה הגדולה ביותר בתולדות האנושות, שכיסתה כ-24 מיליון קילומטרים רבועים." }
+    },
+    {
+      "id": "q-m12-10",
+      "question": { "en": "Why were spices so valuable in medieval Europe?", "he": "מדוע היו תבלינים יקרי ערך כל כך באירופה של ימי הביניים?" },
+      "choices": [
+        { "id": "a", "text": { "en": "They were used to make medicines and cure all diseases", "he": "הם שימשו לייצור תרופות לריפוי כל המחלות" } },
+        { "id": "b", "text": { "en": "They were used in religious ceremonies by the Church", "he": "הם שימשו בטקסים דתיים של הכנסייה" } },
+        { "id": "c", "text": { "en": "They were needed to flavor and preserve food, and were very difficult to obtain", "he": "הם היו נחוצים לתיבול ולשימור מזון, והיה קשה מאוד להשיגם" } },
+        { "id": "d", "text": { "en": "Kings collected them as a sign of their power", "he": "מלכים אספו אותם כסימן לכוחם" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Spices like pepper, cinnamon, and nutmeg were essential for flavoring and preserving food in the Middle Ages. They came from distant Asia and were very expensive due to the long trade routes. This demand helped drive European exploration.", "he": "תבלינים כמו פלפל, קינמון ואגוז מוסקט היו חיוניים לתיבול ולשימור מזון בימי הביניים. הם הגיעו מאסיה הרחוקה והיו יקרים מאוד בגלל מסלולי הסחר הארוכים. דרישה זו סייעה לדרבן את החקירה האירופית." }
+    }
+  ]
+}

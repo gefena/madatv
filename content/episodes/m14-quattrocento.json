@@ -1,0 +1,273 @@
+{
+  "id": "m14-quattrocento",
+  "episodeNumber": 14,
+  "youtubeId": "RL3nxW6IyT8",
+  "videoSources": [],
+  "title": { "en": "The Quattrocento", "he": "המאה ה-15" },
+  "summary": {
+    "en": "The fifteenth century saw the dawn of a new age — the Renaissance. In the Italian city-states, wealthy merchant families like the Medici of Florence became patrons of art, science, and learning. Artists and thinkers turned back to the ideals of ancient Greece and Rome, creating masterpieces of painting, sculpture, and architecture. Leonardo da Vinci sketched flying machines and studied anatomy. Donatello sculpted figures of remarkable human beauty. Gutenberg's printing press, invented around 1450, revolutionized the spread of knowledge. And in 1453, the Ottoman Turks captured Constantinople, ending the Byzantine Empire and sending Greek scholars to Italy — further fueling the Renaissance. This episode captures the explosion of human creativity that transformed Europe and laid the foundations of the modern world.",
+    "he": "המאה החמש-עשרה ראתה את שחר עידן חדש — הרנסנס. במדינות-הערים האיטלקיות, משפחות סוחרים עשירות כמו המדיצ'י של פירנצה הפכו לחסות לאמנות, מדע ולמידה. אמנים והוגי דעות פנו בחזרה לאידיאלים של יוון ורומא העתיקות, יצרו יצירות מופת של ציור, פיסול ואדריכלות. לאונרדו דה וינצ'י שרטט מכונות טיסה ולמד אנטומיה. דונטלו פיסל דמויות של יופי אנושי מרשים. דפוס גוטנברג, שהומצא סביב 1450, חולל מהפכה בהפצת הידע. ובשנת 1453, הכבישו הטורקים העות'מאניים את קונסטנטינופול, הסתיים את האימפריה הביזנטית ושלחו חכמים יוונים לאיטליה — מה שהזין עוד יותר את הרנסנס. פרק זה לוכד את פיצוץ היצירתיות האנושית שהפכה את אירופה ויצרה את יסודות העולם המודרני."
+  },
+  "thumbnail": "https://img.youtube.com/vi/RL3nxW6IyT8/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": ["Renaissance", "Italian City-States", "Medici Family", "Art and Culture"],
+  "terminology": [
+    {
+      "id": "t-m14-01",
+      "term": { "en": "Renaissance", "he": "רנסנס" },
+      "definition": {
+        "en": "A period of European cultural, artistic, and intellectual revival from the 14th to 17th centuries, beginning in Italy. The word means 'rebirth' in French, referring to the rediscovery of ancient Greek and Roman culture. The Renaissance saw great advances in art, science, literature, and philosophy.",
+        "he": "תקופה של התחדשות תרבותית, אמנותית ואינטלקטואלית אירופאית מהמאה ה-14 עד ה-17, שהחלה באיטליה. המילה פירושה 'לידה מחדש' בצרפתית, מתייחסת לגילוי מחדש של התרבות היוונית והרומאית העתיקה. הרנסנס ראה התקדמויות גדולות באמנות, מדע, ספרות ופילוסופיה."
+      },
+      "category": "culture"
+    },
+    {
+      "id": "t-m14-02",
+      "term": { "en": "Medici Family", "he": "משפחת מדיצ'י" },
+      "definition": {
+        "en": "A powerful Florentine banking dynasty that became the most influential patrons of the Renaissance. Under Lorenzo de' Medici (called 'the Magnificent'), Florence became the cultural capital of Europe. The Medici funded artists, architects, and scholars including Botticelli, Michelangelo, and Leonardo da Vinci.",
+        "he": "שושלת בנקאים פלורנטינית חזקה שהפכה לחסות המשפיעה ביותר של הרנסנס. תחת לורנצו דה מדיצ'י (הנקרא 'המפואר'), פירנצה הפכה לבירה התרבותית של אירופה. המדיצ'י מימנו אמנים, אדריכלים וחכמים כולל בוטיצ'לי, מיכלאנג'לו ולאונרדו דה וינצ'י."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m14-03",
+      "term": { "en": "Humanism", "he": "הומניזם" },
+      "definition": {
+        "en": "The intellectual movement at the heart of the Renaissance, which placed human beings and their achievements at the center of intellectual and artistic inquiry. Humanists studied ancient Greek and Latin texts, believed in the dignity and potential of humans, and focused on this world rather than the afterlife.",
+        "he": "התנועה האינטלקטואלית בלב הרנסנס, שהציבה בני אדם והישגיהם במרכז החקירה האינטלקטואלית והאמנותית. הומניסטים למדו טקסטים יווניים ולטיניים עתיקים, האמינו בכבוד ובפוטנציאל של בני האדם, והתמקדו בעולם הזה ולא בחיים שלאחר המוות."
+      },
+      "category": "culture"
+    },
+    {
+      "id": "t-m14-04",
+      "term": { "en": "Printing Press", "he": "דפוס" },
+      "definition": {
+        "en": "A revolutionary machine invented by Johannes Gutenberg around 1450 that could print multiple copies of books using movable type. Before the printing press, books were copied by hand and very expensive. The printing press made books affordable, spread literacy, and accelerated the Renaissance and the Reformation.",
+        "he": "מכונה מהפכנית שהמציא יוהנס גוטנברג סביב 1450 שיכלה להדפיס עותקים מרובים של ספרים באמצעות אותיות ניידות. לפני הדפוס, ספרים הועתקו ביד והיו יקרים מאוד. הדפוס הפך ספרים לזולים, הפיץ קריאה וכתיבה ואיץ את הרנסנס ואת הרפורמציה."
+      },
+      "category": "culture"
+    },
+    {
+      "id": "t-m14-05",
+      "term": { "en": "Perspective", "he": "פרספקטיבה" },
+      "definition": {
+        "en": "A revolutionary technique developed by Renaissance artists to create the illusion of three-dimensional depth on a flat surface. By using vanishing points and making objects smaller as they recede into the distance, artists could paint realistic-looking scenes. This transformed Western art.",
+        "he": "טכניקה מהפכנית שפיתחו אמני הרנסנס ליצירת אשליית עומק תלת-ממדי על משטח שטוח. על ידי שימוש בנקודות היעלמות וצמצום גודל עצמים בהתרחקם אל תוך הרחוק, יכלו אמנים לצייר סצנות נראות ריאליסטיות. זה שינה את האמנות המערבית."
+      },
+      "category": "culture"
+    },
+    {
+      "id": "t-m14-06",
+      "term": { "en": "Leonardo da Vinci", "he": "לאונרדו דה וינצ'י" },
+      "definition": {
+        "en": "The ultimate Renaissance man (1452–1519) — an Italian artist, scientist, engineer, and inventor whose genius spanned every field. He painted masterpieces like the Mona Lisa and The Last Supper, filled notebooks with designs for flying machines, weapons, and anatomical studies, and made contributions to nearly every area of human knowledge.",
+        "he": "איש הרנסנס המושלם (1452–1519) — אמן, מדען, מהנדס וממציא איטלקי שגאונותו השתרעה על כל תחום. הוא צייר יצירות מופת כמו מונה ליזה וסעודת הסדר האחרונה, מילא מחברות עם עיצובים למכונות טיסה, כלי נשק ומחקרים אנטומיים, ותרם לכמעט כל תחום ידע אנושי."
+      },
+      "category": "culture"
+    },
+    {
+      "id": "t-m14-07",
+      "term": { "en": "Florence", "he": "פירנצה" },
+      "definition": {
+        "en": "A city in central Italy that became the birthplace of the Renaissance. Under the patronage of the Medici family, Florence was home to the greatest artists, architects, and thinkers of the 15th century. Today it remains one of the world's greatest art cities, with the Uffizi Gallery holding countless Renaissance masterpieces.",
+        "he": "עיר במרכז איטליה שהפכה לערש הרנסנס. תחת חסות משפחת המדיצ'י, פירנצה הייתה ביתם של האמנים, האדריכלים וההוגים הגדולים ביותר של המאה ה-15. כיום היא נשארת אחת מהערים האמנותיות הגדולות ביותר בעולם, כשגלריית האופיצי מכילה אינספור יצירות מופת של הרנסנס."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m14-08",
+      "term": { "en": "Donatello", "he": "דונטלו" },
+      "definition": {
+        "en": "A pioneering Florentine sculptor (1386–1466) who created some of the most important works of the early Renaissance. His bronze statue of David was the first life-size free-standing nude statue since antiquity. His work revived classical techniques and influenced generations of later artists including Michelangelo.",
+        "he": "פסל פלורנטיני חלוץ (1386–1466) שיצר כמה מהיצירות החשובות ביותר של הרנסנס המוקדם. פסל הברונזה שלו של דוד היה הפסל הנגי בגודל אמיתי הראשון מאז העת העתיקה. יצירתו החייתה טכניקות קלאסיות והשפיעה על דורות של אמנים מאוחרים יותר כולל מיכלאנג'לו."
+      },
+      "category": "culture"
+    },
+    {
+      "id": "t-m14-09",
+      "term": { "en": "Fall of Constantinople", "he": "נפילת קונסטנטינופול" },
+      "definition": {
+        "en": "The conquest of the Byzantine capital Constantinople by Ottoman Sultan Mehmed II on May 29, 1453. This event ended the Byzantine Empire, which had lasted over 1,000 years, and is often used to mark the end of the Middle Ages. Many Greek scholars fled to Italy, bringing ancient texts that helped fuel the Renaissance.",
+        "he": "כיבוש הבירה הביזנטית קונסטנטינופול על ידי הסולטן העות'מאני מהמד השני ב-29 במאי 1453. אירוע זה הסתיים את האימפריה הביזנטית, שנמשכה למעלה מ-1,000 שנה, ומשמש לעתים קרובות לסמן את סוף ימי הביניים. חכמים יוונים רבים ברחו לאיטליה, והביאו טקסטים עתיקים שעזרו להצית את הרנסנס."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m14-10",
+      "term": { "en": "Ottoman Empire", "he": "האימפריה העות'מאנית" },
+      "definition": {
+        "en": "A powerful Islamic empire founded by Osman I around 1299 that reached its peak in the 16th century, spanning three continents. The Ottomans conquered Constantinople in 1453, ending the Byzantine Empire. At its height, the Ottoman Empire controlled much of southeastern Europe, western Asia, and northern Africa.",
+        "he": "אימפריה אסלאמית חזקה שנוסדה על ידי עות'מאן הראשון סביב 1299 שהגיעה לשיאה במאה ה-16, ומשתרעת על שלושה יבשות. העות'מאנים כבשו את קונסטנטינופול בשנת 1453, והסתיים את האימפריה הביזנטית. בשיאה, האימפריה העות'מאנית שלטה על חלק גדול מדרום-מזרח אירופה, מערב אסיה וצפון אפריקה."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m14-11",
+      "term": { "en": "Patron", "he": "מחסה (פטרון)" },
+      "definition": {
+        "en": "A wealthy or powerful person who supports and finances artists, musicians, scholars, or other creative people. During the Renaissance, wealthy families like the Medici were important patrons who commissioned great works of art and supported the careers of artists. Without patrons, many Renaissance masterpieces would never have been created.",
+        "he": "אדם עשיר או בעל עוצמה שתומך ומממן אמנים, מוזיקאים, חכמים או יצירתיים אחרים. במהלך הרנסנס, משפחות עשירות כמו המדיצ'י היו חסות חשובות שהזמינו יצירות אמנות גדולות ותמכו בקריירה של אמנים. בלי חסות, יצירות מופת רבות של הרנסנס לעולם לא היו נוצרות."
+      },
+      "category": "culture"
+    },
+    {
+      "id": "t-m14-12",
+      "term": { "en": "Botticelli", "he": "בוטיצ'לי" },
+      "definition": {
+        "en": "A Florentine painter (1445–1510) who created some of the most recognizable works of the Renaissance. His paintings 'The Birth of Venus' and 'Primavera' blend classical mythology with Renaissance ideals of beauty. He worked under the patronage of the Medici family.",
+        "he": "צייר פלורנטיני (1445–1510) שיצר כמה מהיצירות המוכרות ביותר של הרנסנס. ציוריו 'לידת ונוס' ו'פרימאוורה' משלבים מיתולוגיה קלאסית עם האידיאלים של הרנסנס של יופי. הוא עבד תחת חסות משפחת המדיצ'י."
+      },
+      "category": "culture"
+    },
+    {
+      "id": "t-m14-13",
+      "term": { "en": "Anatomy", "he": "אנטומיה" },
+      "definition": {
+        "en": "The study of the structure of the human body. Renaissance artists like Leonardo da Vinci studied anatomy by dissecting human corpses to understand how muscles and bones work. This knowledge helped them paint and sculpt more realistic human figures. Leonardo's anatomical drawings remain scientifically valuable today.",
+        "he": "חקר מבנה גוף האדם. אמני רנסנס כמו לאונרדו דה וינצ'י למדו אנטומיה על ידי ניתוח גוויות אנושיות כדי להבין כיצד פועלים שרירים ועצמות. ידע זה עזר להם לצייר ולפסל דמויות אנושיות ריאליסטיות יותר. ציורי האנטומיה של לאונרדו נשארים בעלי ערך מדעי גם היום."
+      },
+      "category": "culture"
+    },
+    {
+      "id": "t-m14-14",
+      "term": { "en": "City-State", "he": "מדינת-עיר" },
+      "definition": {
+        "en": "An independent state consisting of a city and its surrounding territory. During the Renaissance, Italy was not a unified country but a collection of independent city-states including Florence, Venice, Milan, Rome, and Naples. Competition between these city-states helped fuel the Renaissance as rulers competed to attract the best artists and scholars.",
+        "he": "מדינה עצמאית המורכבת מעיר ושטחה הסובב. במהלך הרנסנס, איטליה לא הייתה מדינה מאוחדת אלא אוסף של מדינות-ערים עצמאיות כולל פירנצה, ונציה, מילאן, רומא ונאפולי. התחרות בין מדינות-ערים אלה עזרה להצית את הרנסנס כשכן שליטים התחרו למשוך את האמנים והחכמים הטובים ביותר."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m14-15",
+      "term": { "en": "Mona Lisa", "he": "מונה ליזה" },
+      "definition": {
+        "en": "A portrait painting by Leonardo da Vinci, created between 1503 and 1519, now housed in the Louvre Museum in Paris. It is considered the most famous painting in the world, renowned for the mysterious smile of its subject. The painting is famous for Leonardo's masterful use of perspective and the sfumato technique (blending of tones).",
+        "he": "ציור פורטרט מאת לאונרדו דה וינצ'י, שנוצר בין 1503 ל-1519, הנמצא כיום במוזיאון הלובר בפריז. הוא נחשב לציור המפורסם ביותר בעולם, ידוע בחיוך המסתורי של נושאו. הציור מפורסם בשימוש המאסטרי של לאונרדו בפרספקטיבה ובטכניקת הספומאטו (שילוב גוונים)."
+      },
+      "category": "culture"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q-m14-01",
+      "question": { "en": "What does the word 'Renaissance' mean?", "he": "מה פירוש המילה 'רנסנס'?" },
+      "choices": [
+        { "id": "a", "text": { "en": "New beginning", "he": "התחלה חדשה" } },
+        { "id": "b", "text": { "en": "Rebirth", "he": "לידה מחדש" } },
+        { "id": "c", "text": { "en": "Golden age", "he": "תור זהב" } },
+        { "id": "d", "text": { "en": "Age of discovery", "he": "עידן הגילויים" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Renaissance comes from the French word for 'rebirth,' referring to the revival of ancient Greek and Roman culture and ideals. It began in Italy in the 14th century and spread across Europe, transforming art, science, and philosophy.", "he": "רנסנס מגיע מהמילה הצרפתית ל'לידה מחדש', המתייחסת להתחדשות התרבות והאידיאלים של יוון ורומא העתיקות. הוא החל באיטליה במאה ה-14 והתפשט ברחבי אירופה, ושינה את האמנות, המדע והפילוסופיה." }
+    },
+    {
+      "id": "q-m14-02",
+      "question": { "en": "Which Florentine family were the most important patrons of the Renaissance?", "he": "איזו משפחה פלורנטינית הייתה החסות החשובה ביותר של הרנסנס?" },
+      "choices": [
+        { "id": "a", "text": { "en": "The Borgia family", "he": "משפחת בורג'יה" } },
+        { "id": "b", "text": { "en": "The Sforza family", "he": "משפחת ספורצה" } },
+        { "id": "c", "text": { "en": "The Medici family", "he": "משפחת מדיצ'י" } },
+        { "id": "d", "text": { "en": "The Este family", "he": "משפחת אסטה" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "The Medici family of Florence were the most important patrons of the Renaissance. Their banking wealth allowed them to fund artists, architects, and scholars including Botticelli, Michelangelo, and Leonardo da Vinci, making Florence the cultural capital of Europe.", "he": "משפחת המדיצ'י של פירנצה הייתה החסות החשובה ביותר של הרנסנס. עושר הבנקאות שלהם אפשר להם לממן אמנים, אדריכלים וחכמים כולל בוטיצ'לי, מיכלאנג'לו ולאונרדו דה וינצ'י, ולהפוך את פירנצה לבירה התרבותית של אירופה." }
+    },
+    {
+      "id": "q-m14-03",
+      "question": { "en": "What did Gutenberg's printing press change?", "he": "מה שינה דפוס גוטנברג?" },
+      "choices": [
+        { "id": "a", "text": { "en": "It made paintings easier to reproduce", "he": "הוא הפך ציורים לקלים יותר לשכפול" } },
+        { "id": "b", "text": { "en": "It revolutionized the spread of knowledge by making books affordable", "he": "הוא חולל מהפכה בהפצת הידע על ידי הפיכת ספרים לזולים" } },
+        { "id": "c", "text": { "en": "It replaced handwritten manuscripts immediately", "he": "הוא החליף כתבי יד מיד" } },
+        { "id": "d", "text": { "en": "It was only used for printing religious texts", "he": "הוא שימש רק להדפסת טקסטים דתיים" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Gutenberg's printing press, invented around 1450, revolutionized the spread of knowledge by making books affordable for the first time. Before this, books were hand-copied and extremely expensive. The printing press accelerated the Renaissance, the Reformation, and the Scientific Revolution.", "he": "דפוס גוטנברג, שהומצא סביב 1450, חולל מהפכה בהפצת הידע על ידי הפיכת ספרים לזולים לראשונה. לפני כן, ספרים הועתקו ביד והיו יקרים ביותר. הדפוס האיץ את הרנסנס, הרפורמציה והמהפכה המדעית." }
+    },
+    {
+      "id": "q-m14-04",
+      "question": { "en": "What happened when Constantinople fell in 1453?", "he": "מה קרה כשקונסטנטינופול נפלה בשנת 1453?" },
+      "choices": [
+        { "id": "a", "text": { "en": "The Renaissance ended", "he": "הרנסנס הסתיים" } },
+        { "id": "b", "text": { "en": "The Ottoman Turks conquered it, ending the Byzantine Empire; Greek scholars fled to Italy", "he": "הטורקים העות'מאניים כבשו אותה, והסתיים את האימפריה הביזנטית; חכמים יוונים ברחו לאיטליה" } },
+        { "id": "c", "text": { "en": "Italy was invaded by the Turks", "he": "איטליה נפלשה על ידי הטורקים" } },
+        { "id": "d", "text": { "en": "The Pope moved to Constantinople", "he": "האפיפיור עבר לקונסטנטינופול" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "When the Ottoman Turks conquered Constantinople in 1453, they ended the Byzantine Empire. Many Greek scholars fled to Italy, bringing ancient Greek texts and knowledge that helped fuel the Renaissance in Italy.", "he": "כאשר הטורקים העות'מאניים כבשו את קונסטנטינופול בשנת 1453, הם הסתיים את האימפריה הביזנטית. חכמים יוונים רבים ברחו לאיטליה, והביאו טקסטים יווניים עתיקים וידע שעזרו להצית את הרנסנס באיטליה." }
+    },
+    {
+      "id": "q-m14-05",
+      "question": { "en": "What is the Mona Lisa?", "he": "מהי מונה ליזה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "A sculpture by Michelangelo", "he": "פסל מאת מיכלאנג'לו" } },
+        { "id": "b", "text": { "en": "A famous fresco painted on the Sistine Chapel ceiling", "he": "ציור קיר מפורסם שצוייר על תקרת הקפלה הסיסטינית" } },
+        { "id": "c", "text": { "en": "A portrait painting by Leonardo da Vinci, considered the world's most famous painting", "he": "ציור פורטרט מאת לאונרדו דה וינצ'י, הנחשב לציור המפורסם ביותר בעולם" } },
+        { "id": "d", "text": { "en": "A building designed by Brunelleschi in Florence", "he": "בניין שעוצב על ידי ברונלסקי בפירנצה" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "The Mona Lisa is a portrait painting by Leonardo da Vinci, created between 1503 and 1519. It is considered the world's most famous painting and is housed in the Louvre Museum in Paris. It is renowned for the mysterious smile of its subject.", "he": "מונה ליזה הוא ציור פורטרט מאת לאונרדו דה וינצ'י, שנוצר בין 1503 ל-1519. הוא נחשב לציור המפורסם ביותר בעולם ונמצא במוזיאון הלובר בפריז. הוא ידוע בחיוך המסתורי של נושאו." }
+    },
+    {
+      "id": "q-m14-06",
+      "question": { "en": "What was the main subject studied by humanist thinkers?", "he": "מה היה הנושא הראשי שחקרו הוגי הדעות ההומניסטים?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Religious theology and the afterlife", "he": "תיאולוגיה דתית וחיים שלאחר המוות" } },
+        { "id": "b", "text": { "en": "Ancient Greek and Latin texts, human dignity and potential", "he": "טקסטים יווניים ולטיניים עתיקים, כבוד ופוטנציאל אנושי" } },
+        { "id": "c", "text": { "en": "Mathematics and astronomy only", "he": "מתמטיקה ואסטרונומיה בלבד" } },
+        { "id": "d", "text": { "en": "Military tactics and warfare", "he": "טקטיקות צבאיות ולחימה" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Renaissance humanists studied ancient Greek and Latin texts and believed in the dignity and potential of human beings. They focused on this world rather than only the afterlife, and celebrated human achievement in art, science, and literature.", "he": "הומניסטים של הרנסנס למדו טקסטים יווניים ולטיניים עתיקים והאמינו בכבוד ובפוטנציאל של בני האדם. הם התמקדו בעולם הזה ולא רק בחיים שלאחר המוות, וחגגו הישגים אנושיים באמנות, מדע וספרות." }
+    },
+    {
+      "id": "q-m14-07",
+      "question": { "en": "Why was Italy the birthplace of the Renaissance?", "he": "מדוע הייתה איטליה ערש הרנסנס?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Because it had the strongest army in Europe", "he": "מפני שהיה לה הצבא החזק ביותר באירופה" } },
+        { "id": "b", "text": { "en": "Because wealthy city-states competed to attract the best artists and scholars", "he": "מפני שמדינות-ערים עשירות התחרו למשוך את האמנים והחכמים הטובים ביותר" } },
+        { "id": "c", "text": { "en": "Because the Pope encouraged new artistic movements", "he": "מפני שהאפיפיור עודד תנועות אמנותיות חדשות" } },
+        { "id": "d", "text": { "en": "Because Italy had the most ancient ruins from Roman times", "he": "מפני שלאיטליה היו ההריסות העתיקות ביותר מהתקופה הרומאית" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Italy was the birthplace of the Renaissance partly because its wealthy city-states like Florence, Venice, and Milan competed with each other to attract the best artists, architects, and scholars. This competition, funded by wealthy patrons like the Medici, created ideal conditions for a cultural explosion.", "he": "איטליה הייתה ערש הרנסנס חלקית מפני שמדינות-הערים העשירות שלה כמו פירנצה, ונציה ומילאן התחרו זו עם זו למשוך את האמנים, האדריכלים והחכמים הטובים ביותר. תחרות זו, שמומנה על ידי חסות עשירות כמו המדיצ'י, יצרה תנאים אידיאליים לפיצוץ תרבותי." }
+    },
+    {
+      "id": "q-m14-08",
+      "question": { "en": "What revolutionary technique did Renaissance artists develop for painting?", "he": "אילו טכניקה מהפכנית פיתחו אמני הרנסנס לציור?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Using only natural pigments from plants", "he": "שימוש רק בפיגמנטים טבעיים מצמחים" } },
+        { "id": "b", "text": { "en": "Perspective — creating the illusion of three-dimensional depth on a flat surface", "he": "פרספקטיבה — יצירת אשליית עומק תלת-ממדי על משטח שטוח" } },
+        { "id": "c", "text": { "en": "Painting on glass windows", "he": "ציור על חלונות זכוכית" } },
+        { "id": "d", "text": { "en": "Using photography to trace images", "he": "שימוש בצילום לעקיבת תמונות" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Renaissance artists developed perspective — a technique for creating the illusion of three-dimensional depth on a flat surface using vanishing points. This revolutionary technique transformed Western art and allowed painters to create much more realistic-looking scenes.", "he": "אמני הרנסנס פיתחו פרספקטיבה — טכניקה ליצירת אשליית עומק תלת-ממדי על משטח שטוח באמצעות נקודות היעלמות. טכניקה מהפכנית זו שינתה את האמנות המערבית ואפשרה לציירים ליצור סצנות נראות ריאליסטיות הרבה יותר." }
+    },
+    {
+      "id": "q-m14-09",
+      "question": { "en": "What was remarkable about Leonardo da Vinci's notebooks?", "he": "מה היה מרשים במחברות של לאונרדו דה וינצ'י?" },
+      "choices": [
+        { "id": "a", "text": { "en": "They contained only shopping lists and personal notes", "he": "הן הכילו רק רשימות קניות והערות אישיות" } },
+        { "id": "b", "text": { "en": "They contained designs for flying machines, anatomical studies, and scientific observations centuries ahead of their time", "he": "הן הכילו עיצובים למכונות טיסה, מחקרים אנטומיים ותצפיות מדעיות מאות שנים לפני זמנן" } },
+        { "id": "c", "text": { "en": "They were written in a secret code that has never been broken", "he": "הן נכתבו בקוד סודי שמעולם לא פוענח" } },
+        { "id": "d", "text": { "en": "They contained recipes for paints and pigments", "he": "הן הכילו מתכונים לצבעים ולפיגמנטים" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Leonardo da Vinci's notebooks are filled with designs for flying machines (like a helicopter), detailed anatomical drawings, studies of water and light, military machines, and countless scientific observations. His ideas were centuries ahead of their time.", "he": "מחברות לאונרדו דה וינצ'י מלאות בעיצובים למכונות טיסה (כמו מסוק), ציורים אנטומיים מפורטים, מחקרים על מים ואור, מכונות צבאיות ואינספור תצפיות מדעיות. רעיונותיו היו מאות שנים לפני זמנם." }
+    },
+    {
+      "id": "q-m14-10",
+      "question": { "en": "Which city became the cultural capital of Europe during the Renaissance?", "he": "איזו עיר הפכה לבירה התרבותית של אירופה במהלך הרנסנס?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Rome", "he": "רומא" } },
+        { "id": "b", "text": { "en": "Venice", "he": "ונציה" } },
+        { "id": "c", "text": { "en": "Florence", "he": "פירנצה" } },
+        { "id": "d", "text": { "en": "Paris", "he": "פריז" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Florence became the cultural capital of Europe during the early Renaissance, thanks largely to the patronage of the Medici family. Artists like Botticelli, Donatello, Leonardo da Vinci, and Michelangelo all worked in Florence under Medici patronage.", "he": "פירנצה הפכה לבירה התרבותית של אירופה במהלך הרנסנס המוקדם, הודות בעיקר לחסות משפחת המדיצ'י. אמנים כמו בוטיצ'לי, דונטלו, לאונרדו דה וינצ'י ומיכלאנג'לו עבדו כולם בפירנצה תחת חסות המדיצ'י." }
+    }
+  ]
+}

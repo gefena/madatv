@@ -1,0 +1,273 @@
+{
+  "id": "m04-fertile-valleys",
+  "episodeNumber": 4,
+  "youtubeId": "VKQA1Qal5uo",
+  "videoSources": [],
+  "title": { "en": "The Fertile Crescent", "he": "הסהר הפורה" },
+  "summary": {
+    "en": "As the last Ice Age ended, small groups of humans discovered they could grow food instead of just hunting it. In the Fertile Crescent — the rich lands between the Tigris and Euphrates rivers in Mesopotamia and along the Nile in Egypt — the world's first farmers planted wheat and barley, tamed animals, and built permanent villages. Over time these villages grew into great cities like Ur, Babylon, and Memphis. People invented writing to keep records, developed laws, built temples, and created the first complex civilizations. This episode follows the great leap from wandering hunter-gatherer to city-dwelling farmer, and the rise of the mighty civilizations of Mesopotamia and Egypt.",
+    "he": "עם סיום תקופת הקרח האחרונה, קבוצות קטנות של בני אדם גילו שהם יכולים לגדל מזון במקום רק לצוד אותו. בסהר הפורה — האדמות העשירות שבין נהרות החידקל והפרת במסופוטמיה ולאורך הנילוס במצרים — גידלו החקלאים הראשונים בעולם חיטה ושעורה, ביתו בעלי חיים ובנו כפרים קבועים. עם הזמן, כפרים אלה גדלו לערים גדולות כמו אור, בבל וממפיס. אנשים המציאו כתב לשמירת רשומות, פיתחו חוקים, בנו מקדשים ויצרו את הציביליזציות המורכבות הראשונות. פרק זה עוקב אחר הקפיצה הגדולה מאורח חיים נוודי של ציידים-לקטים לחקלאי המתגורר בעיר, ועלייתן של ציביליזציות מסופוטמיה ומצרים העצומות."
+  },
+  "thumbnail": "https://img.youtube.com/vi/VKQA1Qal5uo/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": ["Neolithic Revolution", "Mesopotamia", "Ancient Egypt", "First Civilizations"],
+  "terminology": [
+    {
+      "id": "t-m04-01",
+      "term": { "en": "Fertile Crescent", "he": "הסהר הפורה" },
+      "definition": {
+        "en": "A crescent-shaped region of rich farmland in the Middle East stretching from ancient Egypt through the Levant to Mesopotamia. It is often called the 'Cradle of Civilization' because some of the world's earliest cities and farming communities developed here.",
+        "he": "אזור בצורת סהר של אדמה חקלאית עשירה במזרח התיכון המשתרע ממצרים העתיקה דרך הלבנט ועד למסופוטמיה. הוא מכונה לעתים קרובות 'ערש הציביליזציה' מכיוון שכמה מהערים והקהילות החקלאיות הקדומות ביותר בעולם התפתחו כאן."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m04-02",
+      "term": { "en": "Mesopotamia", "he": "מסופוטמיה" },
+      "definition": {
+        "en": "An ancient region located between the Tigris and Euphrates rivers, mostly in modern-day Iraq. The name means 'land between the rivers' in Greek. It is one of the earliest cradles of civilization, home to the Sumerians, Akkadians, Babylonians, and Assyrians.",
+        "he": "אזור עתיק הממוקם בין נהרות החידקל והפרת, רובו בעיראק של ימינו. השם פירושו 'ארץ שבין הנהרות' ביוונית. זהו אחד מערשות הציביליזציה הקדומות ביותר, ובית לשומרים, האכדים, הבבלים והאשורים."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m04-03",
+      "term": { "en": "Neolithic Revolution", "he": "המהפכה הניאוליתית" },
+      "definition": {
+        "en": "The major transition in human history, around 10,000 BCE, from a hunter-gatherer lifestyle to settled farming communities. Humans began domesticating plants and animals, which allowed populations to grow and led to the rise of the first villages and cities.",
+        "he": "המעבר הגדול בתולדות האנושות, סביב 10,000 לפנה\"ס, מאורח חיים של ציידים-לקטים לקהילות חקלאיות מתיישבות. בני אדם החלו לבייד צמחים ובעלי חיים, מה שאפשר גידול אוכלוסין והוביל לעליית הכפרים והערים הראשונים."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m04-04",
+      "term": { "en": "Cuneiform", "he": "כתב היתדות" },
+      "definition": {
+        "en": "One of the earliest writing systems in the world, developed by the Sumerians of Mesopotamia around 3200 BCE. It was created by pressing a wedge-shaped stylus into soft clay tablets. Cuneiform was used to record trade, laws, stories, and religious texts.",
+        "he": "אחת ממערכות הכתיבה הקדומות ביותר בעולם, שפותחה על ידי השומרים של מסופוטמיה סביב 3200 לפנה\"ס. היא נוצרה על ידי לחיצת עט בצורת טריז על לוחות חרס רכים. כתב היתדות שימש לרישום סחר, חוקים, סיפורים וטקסטים דתיים."
+      },
+      "category": "culture"
+    },
+    {
+      "id": "t-m04-05",
+      "term": { "en": "Ziggurat", "he": "זיגורט" },
+      "definition": {
+        "en": "A massive stepped pyramid-like temple tower built in ancient Mesopotamia. Ziggurats were the largest structures in Sumerian and Babylonian cities and served as temples to the city's gods. The Tower of Babel described in the Bible may have been inspired by a ziggurat.",
+        "he": "מגדל מקדש מדורג ועצום הדומה לפירמידה, שנבנה במסופוטמיה העתיקה. הזיגורטים היו המבנים הגדולים ביותר בערי השומרים והבבלים ושימשו כמקדשים לאלי העיר. מגדל בבל המתואר בתנ\"ך עשוי היה להיות מושפע מזיגורט."
+      },
+      "category": "architecture"
+    },
+    {
+      "id": "t-m04-06",
+      "term": { "en": "Sumerians", "he": "שומרים" },
+      "definition": {
+        "en": "The earliest known civilization in Mesopotamia, flourishing in the 4th and 3rd millennia BCE in the region of southern Iraq. The Sumerians invented cuneiform writing, built the first cities like Ur and Uruk, developed mathematics, and created the first code of laws.",
+        "he": "הציביליזציה הידועה המוקדמת ביותר במסופוטמיה, שפרחה באלפיים הרביעי והשלישי לפנה\"ס באזור דרום עיראק. השומרים המציאו את כתב היתדות, בנו את הערים הראשונות כמו אור ואורוק, פיתחו מתמטיקה ויצרו את קוד החוקים הראשון."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m04-07",
+      "term": { "en": "Pharaoh", "he": "פרעה" },
+      "definition": {
+        "en": "The title given to the rulers of ancient Egypt. The pharaoh was considered a living god, both the political and religious leader of the country. Famous pharaohs include Tutankhamun, Ramesses II, and Cleopatra.",
+        "he": "התואר שניתן לשליטי מצרים העתיקה. הפרעה נחשב לאל חי, המנהיג הפוליטי והדתי של המדינה כאחד. פרעות מפורסמים כוללים את תות ענח' אמון, רעמסס השני וקליאופטרה."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m04-08",
+      "term": { "en": "Hieroglyphics", "he": "כתב ההיראוגליפים" },
+      "definition": {
+        "en": "The writing system used in ancient Egypt, consisting of pictorial symbols representing words and sounds. Hieroglyphics were used for religious texts, royal inscriptions, and tomb decorations. The Rosetta Stone helped modern scholars decipher this ancient script.",
+        "he": "מערכת הכתיבה ששימשה במצרים העתיקה, המורכבת מסמלים ציוריים המייצגים מילים וצלילים. ההיראוגליפים שימשו לטקסטים דתיים, כתובות מלכותיות וקישוטי קברים. אבן הרוזטה עזרה לחוקרים מודרניים לפענח כתב עתיק זה."
+      },
+      "category": "culture"
+    },
+    {
+      "id": "t-m04-09",
+      "term": { "en": "Pyramid", "he": "פירמידה" },
+      "definition": {
+        "en": "Massive stone monuments built as tombs for the pharaohs of ancient Egypt. The most famous are the Great Pyramids of Giza, built around 2560 BCE. They remain one of the greatest engineering achievements of the ancient world.",
+        "he": "אנדרטות אבן עצומות שנבנו כקברים לפרעות של מצרים העתיקה. המפורסמות ביותר הן הפירמידות הגדולות של גיזה, שנבנו סביב 2560 לפנה\"ס. הן נשארות אחת מהישגי ההנדסה הגדולים ביותר של העולם העתיק."
+      },
+      "category": "architecture"
+    },
+    {
+      "id": "t-m04-10",
+      "term": { "en": "Irrigation", "he": "השקיה" },
+      "definition": {
+        "en": "The artificial watering of land to grow crops. Early farmers in Mesopotamia and Egypt built canals and ditches to bring river water to their fields. Irrigation allowed farming in dry regions and was essential to the growth of early civilizations.",
+        "he": "השקיה מלאכותית של קרקע לגידול יבולים. חקלאים מוקדמים במסופוטמיה ומצרים בנו תעלות וחפירות להבאת מי נהר לשדותיהם. ההשקיה אפשרה חקלאות באזורים יבשים והייתה חיונית לצמיחתן של ציביליזציות מוקדמות."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m04-11",
+      "term": { "en": "Code of Hammurabi", "he": "חוקי חמורבי" },
+      "definition": {
+        "en": "One of the earliest and most complete written legal codes, created by Babylonian King Hammurabi around 1754 BCE. The code consisted of 282 laws covering trade, property, family, and criminal justice, and is famous for the principle of 'an eye for an eye.'",
+        "he": "אחד מקודי החוק הכתובים הקדומים והשלמים ביותר, שנוצר על ידי המלך הבבלי חמורבי סביב 1754 לפנה\"ס. הקוד כלל 282 חוקים המכסים סחר, רכוש, משפחה וצדק פלילי, והוא מפורסם בעיקרון 'עין תחת עין'."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m04-12",
+      "term": { "en": "River Nile", "he": "נהר הנילוס" },
+      "definition": {
+        "en": "The world's longest river, flowing through northeastern Africa and into the Mediterranean Sea. Ancient Egyptian civilization developed along its banks because the Nile flooded every year, depositing rich black soil perfect for farming. The ancient Egyptians called it 'Ar', meaning black.",
+        "he": "הנהר הארוך בעולם, הזורם דרך צפון-מזרח אפריקה ואל הים התיכון. הציביליזציה המצרית העתיקה התפתחה לאורך גדותיו מכיוון שהנילוס הציף כל שנה, ומשקע אדמה שחורה עשירה מושלמת לחקלאות. המצרים העתיקים קראו לו 'אר', שפירושו שחור."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m04-13",
+      "term": { "en": "Bronze Age", "he": "תקופת הברונזה" },
+      "definition": {
+        "en": "A prehistoric period characterized by the widespread use of bronze (an alloy of copper and tin) for tools and weapons, roughly 3300–1200 BCE. The Bronze Age saw the rise of the first cities, writing systems, and complex societies in Mesopotamia, Egypt, and the Aegean.",
+        "he": "תקופה פרהיסטורית המאופיינת בשימוש נרחב בברונזה (סגסוגת של נחושת ובדיל) לכלים ונשק, בערך 3300–1200 לפנה\"ס. תקופת הברונזה ראתה את עלייתן של הערים הראשונות, מערכות הכתיבה והחברות המורכבות במסופוטמיה, מצרים ואגאה."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m04-14",
+      "term": { "en": "Domestication", "he": "ביות" },
+      "definition": {
+        "en": "The process by which wild animals or plants are tamed or cultivated and adapted to live with and serve humans. Ancient peoples domesticated dogs, cattle, sheep, goats, and pigs for food and work. They also domesticated crops like wheat, barley, and rice.",
+        "he": "התהליך שבו בעלי חיים בר או צמחים מבוייתים ומתורבתים ומותאמים לחיות עם בני אדם ולשרתם. עמים עתיקים ביתו כלבים, בקר, כבשים, עיזים וחזירים למזון ולעבודה. הם גם ביתו גידולים כמו חיטה, שעורה ואורז."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m04-15",
+      "term": { "en": "Sphinx", "he": "ספינקס" },
+      "definition": {
+        "en": "A mythical creature with a human head and a lion's body. The Great Sphinx of Giza, built around 2500 BCE, is the largest and most famous sphinx. It stands near the Great Pyramids and is believed to represent Pharaoh Khafre.",
+        "he": "יצור מיתולוגי עם ראש אנושי וגוף אריה. הספינקס הגדול של גיזה, שנבנה סביב 2500 לפנה\"ס, הוא הספינקס הגדול והמפורסם ביותר. הוא עומד ליד הפירמידות הגדולות ומאמינים שהוא מייצג את פרעה ח'פרע."
+      },
+      "category": "culture"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q-m04-01",
+      "question": { "en": "What is the 'Fertile Crescent'?", "he": "מהו 'הסהר הפורה'?" },
+      "choices": [
+        { "id": "a", "text": { "en": "A desert region in Africa", "he": "אזור מדברי באפריקה" } },
+        { "id": "b", "text": { "en": "A crescent-shaped region of rich farmland in the Middle East", "he": "אזור בצורת סהר של אדמה חקלאית עשירה במזרח התיכון" } },
+        { "id": "c", "text": { "en": "A mountain range in Europe", "he": "רכס הרים באירופה" } },
+        { "id": "d", "text": { "en": "An island in the Mediterranean Sea", "he": "אי בים התיכון" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "The Fertile Crescent is a crescent-shaped region of rich farmland stretching from ancient Egypt through the Levant to Mesopotamia. It is called the 'Cradle of Civilization' because the world's earliest cities developed there.", "he": "הסהר הפורה הוא אזור בצורת סהר של אדמה חקלאית עשירה המשתרע ממצרים העתיקה דרך הלבנט ועד למסופוטמיה. הוא נקרא 'ערש הציביליזציה' מכיוון שהערים הקדומות ביותר בעולם התפתחו שם." }
+    },
+    {
+      "id": "q-m04-02",
+      "question": { "en": "What does the name 'Mesopotamia' mean in Greek?", "he": "מה פירוש השם 'מסופוטמיה' ביוונית?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Land of the sun", "he": "ארץ השמש" } },
+        { "id": "b", "text": { "en": "Land between the rivers", "he": "ארץ שבין הנהרות" } },
+        { "id": "c", "text": { "en": "Land of the pharaohs", "he": "ארץ הפרעות" } },
+        { "id": "d", "text": { "en": "Land of the desert", "he": "ארץ המדבר" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Mesopotamia comes from Greek words meaning 'land between the rivers' — referring to the Tigris and Euphrates rivers in modern-day Iraq. It was one of the earliest places where complex civilizations developed.", "he": "מסופוטמיה מגיעה ממילים יווניות שפירושן 'ארץ שבין הנהרות' — מתייחסת לנהרות החידקל והפרת בעיראק של ימינו. זה היה אחד המקומות הקדומים ביותר שבהם התפתחו ציביליזציות מורכבות." }
+    },
+    {
+      "id": "q-m04-03",
+      "question": { "en": "Which people invented cuneiform writing?", "he": "איזה עם המציא את כתב היתדות?" },
+      "choices": [
+        { "id": "a", "text": { "en": "The Egyptians", "he": "המצרים" } },
+        { "id": "b", "text": { "en": "The Greeks", "he": "היוונים" } },
+        { "id": "c", "text": { "en": "The Sumerians", "he": "השומרים" } },
+        { "id": "d", "text": { "en": "The Romans", "he": "הרומאים" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "The Sumerians of Mesopotamia invented cuneiform writing around 3200 BCE, making it one of the world's earliest writing systems. They pressed wedge-shaped marks into clay tablets to record trade, laws, and stories.", "he": "השומרים של מסופוטמיה המציאו את כתב היתדות סביב 3200 לפנה\"ס, מה שהופך אותו לאחת ממערכות הכתיבה הקדומות ביותר בעולם. הם לחצו סימנים בצורת טריז על לוחות חרס לרישום סחר, חוקים וסיפורים." }
+    },
+    {
+      "id": "q-m04-04",
+      "question": { "en": "What was the Great Sphinx of Giza built to represent?", "he": "מה נבנה הספינקס הגדול של גיזה לייצג?" },
+      "choices": [
+        { "id": "a", "text": { "en": "A lion god", "he": "אל אריה" } },
+        { "id": "b", "text": { "en": "Pharaoh Khafre", "he": "פרעה ח'פרע" } },
+        { "id": "c", "text": { "en": "The sun god Ra", "he": "אל השמש רע" } },
+        { "id": "d", "text": { "en": "The Nile River god", "he": "אל נהר הנילוס" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "The Great Sphinx of Giza is believed to represent Pharaoh Khafre, who ruled Egypt around 2500 BCE. The Sphinx has a human face (the pharaoh's) and a lion's body, combining human intelligence with animal strength.", "he": "מאמינים שהספינקס הגדול של גיזה מייצג את פרעה ח'פרע, ששלט במצרים סביב 2500 לפנה\"ס. לספינקס פנים אנושיות (של הפרעה) וגוף אריה, המשלב אינטליגנציה אנושית עם כוח בעלי חיים." }
+    },
+    {
+      "id": "q-m04-05",
+      "question": { "en": "What made the Nile River so important for ancient Egyptian farming?", "he": "מה הפך את נהר הנילוס לכה חשוב לחקלאות מצרים העתיקה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "It never flooded, making it safe to live near", "he": "הוא לעולם לא הציף, מה שהפך אותו לבטוח לגור ליד" } },
+        { "id": "b", "text": { "en": "It flooded yearly, depositing rich black soil perfect for farming", "he": "הוא הציף מדי שנה, ומשקע אדמה שחורה עשירה מושלמת לחקלאות" } },
+        { "id": "c", "text": { "en": "It provided freshwater fish as the only food source", "he": "הוא סיפק דגי מים מתוקים כמקור המזון היחיד" } },
+        { "id": "d", "text": { "en": "It connected Egypt to Europe by sea", "he": "הוא חיבר את מצרים לאירופה בים" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "The Nile flooded every year, depositing rich black soil (called 'kemet' or 'black land') along its banks. This made the surrounding area incredibly fertile for farming, which is why ancient Egyptian civilization flourished there.", "he": "הנילוס הציף מדי שנה, ומשקע אדמה שחורה עשירה (הנקראת 'כמת' או 'האדמה השחורה') לאורך גדותיו. זה הפך את האזור הסובב ליצרני ביותר לחקלאות, וזו הסיבה שהציביליזציה המצרית העתיקה פרחה שם." }
+    },
+    {
+      "id": "q-m04-06",
+      "question": { "en": "What was the purpose of ziggurats in ancient Mesopotamia?", "he": "מה הייתה מטרת הזיגורטים במסופוטמיה העתיקה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "They were royal palaces", "he": "הם היו ארמונות מלכותיים" } },
+        { "id": "b", "text": { "en": "They were defensive fortresses", "he": "הם היו מצודות הגנה" } },
+        { "id": "c", "text": { "en": "They were temples to the city's gods", "he": "הם היו מקדשים לאלי העיר" } },
+        { "id": "d", "text": { "en": "They were markets for trade", "he": "הם היו שווקים לסחר" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Ziggurats were massive stepped temple towers that served as the religious center of Sumerian and Babylonian cities. They were dedicated to the city's patron god and were the most impressive architectural achievements of Mesopotamian civilization.", "he": "הזיגורטים היו מגדלי מקדש מדורגים עצומים שהיוו את המרכז הדתי של ערי השומרים והבבלים. הם הוקדשו לאל החסות של העיר והיו ההישגים האדריכליים המרשימים ביותר של ציביליזציה מסופוטמית." }
+    },
+    {
+      "id": "q-m04-07",
+      "question": { "en": "Who created the Code of Hammurabi?", "he": "מי יצר את חוקי חמורבי?" },
+      "choices": [
+        { "id": "a", "text": { "en": "The Sumerian king Gilgamesh", "he": "המלך השומרי גילגמש" } },
+        { "id": "b", "text": { "en": "The Egyptian pharaoh Ramesses II", "he": "הפרעה המצרי רעמסס השני" } },
+        { "id": "c", "text": { "en": "The Babylonian king Hammurabi", "he": "המלך הבבלי חמורבי" } },
+        { "id": "d", "text": { "en": "The Persian king Cyrus", "he": "המלך הפרסי כורש" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "The Code of Hammurabi was created by Babylonian King Hammurabi around 1754 BCE. It is one of the earliest and most complete written legal codes in history, consisting of 282 laws carved on a tall stone pillar.", "he": "חוקי חמורבי נוצרו על ידי המלך הבבלי חמורבי סביב 1754 לפנה\"ס. הוא אחד מקודי החוק הכתובים הקדומים והשלמים ביותר בהיסטוריה, המורכב מ-282 חוקים חקוקים על עמוד אבן גבוה." }
+    },
+    {
+      "id": "q-m04-08",
+      "question": { "en": "What is the Neolithic Revolution?", "he": "מהי המהפכה הניאוליתית?" },
+      "choices": [
+        { "id": "a", "text": { "en": "The invention of bronze tools", "he": "המצאת כלי הברונזה" } },
+        { "id": "b", "text": { "en": "The building of the first pyramids", "he": "בניית הפירמידות הראשונות" } },
+        { "id": "c", "text": { "en": "The transition from hunter-gatherer life to farming communities", "he": "המעבר מחיי ציידים-לקטים לקהילות חקלאיות" } },
+        { "id": "d", "text": { "en": "The invention of iron weapons", "he": "המצאת נשק הברזל" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "The Neolithic Revolution, around 10,000 BCE, was the great shift when humans moved from hunting and gathering to farming and raising animals. This change allowed people to settle in permanent villages, which eventually grew into cities.", "he": "המהפכה הניאוליתית, סביב 10,000 לפנה\"ס, הייתה המעבר הגדול שבו עברו בני האדם מציד ולקט לחקלאות וגידול בעלי חיים. שינוי זה אפשר לאנשים להתיישב בכפרים קבועים, שבסופו של דבר גדלו לערים." }
+    },
+    {
+      "id": "q-m04-09",
+      "question": { "en": "What were the Great Pyramids of Giza built as?", "he": "מה נבנו הפירמידות הגדולות של גיזה בתור?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Temples for religious ceremonies", "he": "מקדשים לטקסים דתיים" } },
+        { "id": "b", "text": { "en": "Tombs for the pharaohs", "he": "קברים לפרעות" } },
+        { "id": "c", "text": { "en": "Observation towers for astronomers", "he": "מגדלי תצפית לאסטרונומים" } },
+        { "id": "d", "text": { "en": "Granaries for storing food", "he": "מחסנים לאחסון מזון" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "The Great Pyramids of Giza were built as tombs for the pharaohs of ancient Egypt. The largest, the Great Pyramid of Khufu, was built around 2560 BCE and contains the pharaoh's burial chamber deep inside its structure.", "he": "הפירמידות הגדולות של גיזה נבנו כקברים לפרעות של מצרים העתיקה. הגדולה ביותר, הפירמידה הגדולה של ח'ופו, נבנתה סביב 2560 לפנה\"ס ומכילה את חדר הקבורה של הפרעה עמוק בתוך מבנהה." }
+    },
+    {
+      "id": "q-m04-10",
+      "question": { "en": "Why did ancient farmers build irrigation canals?", "he": "מדוע בנו חקלאים עתיקים תעלות השקיה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "To transport goods between cities", "he": "להובלת סחורות בין ערים" } },
+        { "id": "b", "text": { "en": "To protect cities from flooding", "he": "להגנה על ערים מפני הצפות" } },
+        { "id": "c", "text": { "en": "To bring river water to their fields for farming", "he": "להבאת מי נהר לשדותיהם לחקלאות" } },
+        { "id": "d", "text": { "en": "To create barriers against enemy armies", "he": "ליצירת מחסומים נגד צבאות אויבים" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Ancient farmers built irrigation canals to bring water from rivers to their fields, allowing them to farm in dry areas far from rivers. This technology was crucial for the growth of civilizations in dry regions like Mesopotamia and Egypt.", "he": "חקלאים עתיקים בנו תעלות השקיה להבאת מים מנהרות לשדותיהם, מה שאפשר להם לעבד אדמה באזורים יבשים רחוקים מנהרות. טכנולוגיה זו הייתה חיונית לצמיחתן של ציביליזציות באזורים יבשים כמו מסופוטמיה ומצרים." }
+    }
+  ]
+}

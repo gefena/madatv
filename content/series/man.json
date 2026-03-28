@@ -1,0 +1,16 @@
+{
+  "id": "man",
+  "title": { "en": "Once Upon a Time... Man", "he": "היה היה - האדם" },
+  "originalTitle": "Il était une fois… l'homme",
+  "description": {
+    "en": "Travel through the entire history of humanity — from the first sparks of life on Earth to the modern age. Follow Maestro and friends across 26 thrilling episodes as they witness the rise and fall of civilizations, great empires, revolutions, and discoveries that shaped our world.",
+    "he": "סע דרך כל ההיסטוריה של האנושות — מניצוצות החיים הראשונים על כדור הארץ ועד העידן המודרני. עקוב אחרי מאסטרו וחבריו ב-26 פרקים מרגשים בזמן שהם עדים לעלייתן ונפילתן של ציוויליזציות, אימפריות גדולות, מהפכות וגילויים שעיצבו את עולמנו."
+  },
+  "episodeCount": 26,
+  "thumbnail": "/images/series-man-bg.jpg",
+  "emoji": "🏛️",
+  "gradient": "from-stone-600 to-amber-700",
+  "badgeColor": "bg-stone-600",
+  "year": "1978",
+  "ageRange": "7+"
+}

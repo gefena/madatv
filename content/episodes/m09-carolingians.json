@@ -1,0 +1,273 @@
+{
+  "id": "m09-carolingians",
+  "episodeNumber": 9,
+  "youtubeId": "ombYAztnMWs",
+  "videoSources": [],
+  "title": { "en": "Carolingians", "he": "בית קרל" },
+  "summary": {
+    "en": "After the fall of the Western Roman Empire, Europe fell into a period of chaos and division, but gradually the Frankish Kingdom rose to become the most powerful force in western Europe. Clovis I, the first great Frankish king, converted to Christianity around 496 CE, forever linking the Franks with the Catholic Church. Charles Martel, known as the Hammer, stopped the Muslim advance into Europe at the Battle of Tours in 732 CE, saving Christian Europe from Islamic conquest. His grandson Charlemagne became so powerful that on Christmas Day in the year 800, the Pope crowned him Holy Roman Emperor, creating a new kind of empire built on feudalism and the Christian faith. This episode explores how Europe was slowly rebuilt after the fall of Rome, with Charlemagne creating schools, spreading literacy, and establishing the foundations of what would become medieval European civilization.",
+    "he": "לאחר נפילת האימפריה הרומית המערבית, אירופה שקעה לתקופה של כאוס וחלוקה, אך לאט לאט עלה הממלכה הפרנקית להיות הכוח החזק ביותר במערב אירופה. קלובים הראשון, המלך הפרנקי הגדול הראשון, התנצר בסביבות שנת 496 לספירה, וקישר לנצח את הפרנקים עם הכנסייה הקתולית. שארל מרטל, הידוע בשם הפטיש, עצר את ההתקדמות המוסלמית לאירופה בקרב טור בשנת 732 לספירה, והציל את אירופה הנוצרית מכיבוש אסלאמי. נכדו קרל הגדול הפך כה חזק עד שביום חג המולד בשנת 800, האפיפיור כתר אותו לקיסר הרומי הקדוש, ויצר סוג חדש של אימפריה הבנויה על פיאודליזם ואמונה הנוצרית. פרק זה חוקר כיצד אירופה נבנתה מחדש לאט לאט לאחר נפילת רומא, כאשר קרל הגדול הקים בתי ספר, הפיץ אוריינות וקבע את היסודות של מה שיהפוך לציביליזציה האירופית של ימי הביניים."
+  },
+  "thumbnail": "https://img.youtube.com/vi/ombYAztnMWs/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": ["Frankish Kingdom", "Charlemagne", "Feudalism", "Rise of Medieval Europe"],
+  "terminology": [
+    {
+      "id": "t-m09-01",
+      "term": { "en": "Franks", "he": "הפרנקים" },
+      "definition": {
+        "en": "A Germanic tribe that settled in what is now France and neighboring regions after the fall of the Western Roman Empire. They became the most powerful people in western Europe and gave their name to modern France.",
+        "he": "שבט גרמאני שהתיישב במה שהוא כיום צרפת ואזורים שכנים לאחר נפילת האימפריה הרומית המערבית. הם הפכו לעם החזק ביותר במערב אירופה ונתנו את שמם לצרפת המודרנית."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m09-02",
+      "term": { "en": "Clovis I", "he": "קלובים הראשון" },
+      "definition": {
+        "en": "The first king to unite all the Frankish tribes and rule over a single Frankish kingdom. His conversion to Christianity around 496 CE created a powerful alliance between the Frankish kings and the Catholic Church.",
+        "he": "המלך הראשון שאיחד את כל השבטים הפרנקיים ושלט על ממלכה פרנקית אחת. התנצרותו בסביבות שנת 496 לספירה יצרה ברית חזקה בין המלכים הפרנקיים לכנסייה הקתולית."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m09-03",
+      "term": { "en": "Charles Martel", "he": "שארל מרטל" },
+      "definition": {
+        "en": "The Frankish ruler nicknamed the Hammer who defeated the Muslim Arab army at the Battle of Tours in 732 CE. This victory stopped the Muslim advance into western Europe and made him one of the most celebrated heroes of medieval Christendom.",
+        "he": "השליט הפרנקי שכונה הפטיש, שניצח את הצבא הערבי המוסלמי בקרב טור בשנת 732 לספירה. ניצחון זה עצר את ההתקדמות המוסלמית למערב אירופה והפך אותו לאחד מגיבורי הנצרות של ימי הביניים המפורסמים ביותר."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m09-04",
+      "term": { "en": "Charlemagne", "he": "קרל הגדול" },
+      "definition": {
+        "en": "King of the Franks and later the first Holy Roman Emperor, crowned by the Pope on Christmas Day 800 CE. He united most of western and central Europe, promoted education and literacy, and is often called the father of Europe.",
+        "he": "מלך הפרנקים ולאחר מכן הקיסר הרומי הקדוש הראשון, שכותר על ידי האפיפיור ביום חג המולד 800 לספירה. הוא איחד את רוב מערב ומרכז אירופה, קידם חינוך ואוריינות ומכונה לעתים קרובות אבי אירופה."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m09-05",
+      "term": { "en": "Holy Roman Empire", "he": "האימפריה הרומית הקדושה" },
+      "definition": {
+        "en": "A large political union in central Europe that began with Charlemagne's coronation in 800 CE and lasted until 1806. Despite its name, it was neither entirely holy, nor Roman, nor an empire in the classical sense — it was a union of many smaller kingdoms.",
+        "he": "איחוד פוליטי גדול במרכז אירופה שהחל עם כתרו של קרל הגדול בשנת 800 לספירה ונמשך עד 1806. למרות שמה, היא לא הייתה לגמרי קדושה, לא רומית ולא אימפריה במובן הקלאסי — היא הייתה איחוד של ממלכות קטנות רבות."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m09-06",
+      "term": { "en": "Feudalism", "he": "פיאודליזם" },
+      "definition": {
+        "en": "The system of organizing society in medieval Europe where a king gave land to nobles in exchange for their loyalty and military service. Those nobles then gave smaller pieces of land to knights, and peasants worked the land in exchange for protection.",
+        "he": "שיטת ארגון החברה באירופה של ימי הביניים שבה מלך נתן קרקע לאצילים בתמורה לנאמנותם ולשירותם הצבאי. אצילים אלה נתנו אז פיסות קרקע קטנות יותר לאבירים, ואיכרים עיבדו את האדמה בתמורה להגנה."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m09-07",
+      "term": { "en": "Serf", "he": "צמית" },
+      "definition": {
+        "en": "A peasant in medieval Europe who was bound to the land they worked on. Serfs were not slaves but could not leave the land without their lord's permission. They had to give a portion of what they grew to their lord.",
+        "he": "איכר באירופה של ימי הביניים שהיה קשור לאדמה שעיבד. הצמיתים לא היו עבדים אך לא יכלו לעזוב את האדמה ללא רשות אדונם. הם נאלצו לתת חלק ממה שגידלו לאדונם."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m09-08",
+      "term": { "en": "Pope", "he": "האפיפיור" },
+      "definition": {
+        "en": "The leader and head of the Roman Catholic Church, considered by Catholics to be the successor of Saint Peter and the representative of Jesus Christ on Earth. During the Middle Ages, the Pope was one of the most powerful people in Europe.",
+        "he": "המנהיג וראש הכנסייה הקתולית הרומית, הנחשב על ידי הקתולים כיורשו של פטרוס הקדוש ונציגו של ישו המשיח על פני האדמה. במהלך ימי הביניים, האפיפיור היה אחד האנשים החזקים ביותר באירופה."
+      },
+      "category": "religion"
+    },
+    {
+      "id": "t-m09-09",
+      "term": { "en": "Battle of Tours", "he": "קרב טור" },
+      "definition": {
+        "en": "A decisive battle fought in 732 CE in present-day France between the Frankish forces led by Charles Martel and an invading Muslim army. The Frankish victory stopped the northward spread of Islam into western Europe.",
+        "he": "קרב מכריע שנלחם בשנת 732 לספירה בצרפת של ימינו בין הכוחות הפרנקיים בפיקוד שארל מרטל לצבא מוסלמי פולש. הניצחון הפרנקי עצר את התפשטות האסלאם צפונה למערב אירופה."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m09-10",
+      "term": { "en": "Manor", "he": "אחוזה" },
+      "definition": {
+        "en": "The basic unit of medieval feudal society, consisting of the lord's castle or house, farmland, a village, and the serfs who worked the land. The manor was largely self-sufficient, producing most of what the people living there needed.",
+        "he": "היחידה הבסיסית של חברת ימי הביניים הפיאודלית, הכוללת את טירתו או ביתו של האדון, שדות חקלאיים, כפר והצמיתים שעיבדו את האדמה. האחוזה הייתה ברובה עצמאית, ומייצרת את רוב מה שאנשיה צרכו."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m09-11",
+      "term": { "en": "Knight", "he": "אביר" },
+      "definition": {
+        "en": "A mounted soldier in medieval Europe who served a lord in exchange for land. Knights were trained from childhood in fighting and horsemanship, and were expected to follow a code of honor called chivalry.",
+        "he": "חייל רכוב באירופה של ימי הביניים ששירת אדון בתמורה לקרקע. אבירים אומנו מילדות בלחימה ורכיבה, והיה עליהם לפעול לפי קוד כבוד הנקרא שיבלריה."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m09-12",
+      "term": { "en": "Christianity", "he": "נצרות" },
+      "definition": {
+        "en": "One of the world's major religions based on the life and teachings of Jesus Christ. During the Middle Ages, Christianity was the dominant religion in Europe and the Catholic Church held great political and social power.",
+        "he": "אחת הדתות הגדולות בעולם המבוססת על חייו ותורותיו של ישו המשיח. במהלך ימי הביניים, הנצרות הייתה הדת הדומיננטית באירופה והכנסייה הקתולית החזיקה בכוח פוליטי וחברתי רב."
+      },
+      "category": "religion"
+    },
+    {
+      "id": "t-m09-13",
+      "term": { "en": "Dark Ages", "he": "ימי הביניים האפלים" },
+      "definition": {
+        "en": "A term sometimes used for the early medieval period in Europe after the fall of Rome, roughly 500-1000 CE. Historians now prefer the term Early Middle Ages because, while it was a time of change, important cultures and kingdoms still flourished.",
+        "he": "מונח המשמש לעתים לתקופת ימי הביניים המוקדמים באירופה לאחר נפילת רומא, בערך 500-1000 לספירה. היסטוריונים מעדיפים כיום את המונח ימי הביניים המוקדמים מכיוון שלמרות שהייתה זו תקופת שינוי, תרבויות וממלכות חשובות עדיין פרחו."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m09-14",
+      "term": { "en": "Baptism", "he": "טבילה" },
+      "definition": {
+        "en": "A Christian religious ceremony in which a person is sprinkled with water or submerged in it as a sign of their acceptance into the Christian faith. When Clovis I was baptized, it marked the Frankish kingdom's official adoption of Christianity.",
+        "he": "טקס דתי נוצרי שבו אדם מוזה במים או טובל בהם כסימן לקבלתו לאמונה הנוצרית. כאשר התנצר קלובים הראשון, זה סימן את אימוץ הנצרות הרשמי של הממלכה הפרנקית."
+      },
+      "category": "religion"
+    },
+    {
+      "id": "t-m09-15",
+      "term": { "en": "Monastery", "he": "מנזר" },
+      "definition": {
+        "en": "A building where monks live and work together, following a religious life of prayer, study, and service. During the Middle Ages, monasteries were important centers of learning and literacy where monks copied books by hand.",
+        "he": "בניין שבו נזירים חיים ועובדים יחד, חיים חיים דתיים של תפילה, לימוד ושירות. במהלך ימי הביניים, מנזרים היו מרכזים חשובים של לימוד ואוריינות שבהם נזירים העתיקו ספרים ביד."
+      },
+      "category": "religion"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q-m09-01",
+      "question": { "en": "Who stopped the Muslim advance into western Europe at the Battle of Tours in 732 CE?", "he": "מי עצר את ההתקדמות המוסלמית למערב אירופה בקרב טור בשנת 732 לספירה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Charlemagne", "he": "קרל הגדול" } },
+        { "id": "b", "text": { "en": "Clovis I", "he": "קלובים הראשון" } },
+        { "id": "c", "text": { "en": "Charles Martel", "he": "שארל מרטל" } },
+        { "id": "d", "text": { "en": "Pope Gregory", "he": "האפיפיור גרגוריוס" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Charles Martel, nicknamed the Hammer, led the Frankish forces to victory over the Muslim army at Tours. This battle is considered one of the most important in European history.", "he": "שארל מרטל, המכונה הפטיש, הוביל את הכוחות הפרנקיים לניצחון על הצבא המוסלמי בטור. קרב זה נחשב לאחד החשובים ביותר בתולדות אירופה." }
+    },
+    {
+      "id": "q-m09-02",
+      "question": { "en": "On what special day was Charlemagne crowned Holy Roman Emperor?", "he": "באיזה יום מיוחד כותר קרל הגדול לקיסר הרומי הקדוש?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Easter Sunday", "he": "יום ראשון של פסחא" } },
+        { "id": "b", "text": { "en": "New Year's Day", "he": "ראש השנה" } },
+        { "id": "c", "text": { "en": "Christmas Day, 800 CE", "he": "יום חג המולד, 800 לספירה" } },
+        { "id": "d", "text": { "en": "Midsummer's Day", "he": "יום אמצע הקיץ" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Pope Leo III crowned Charlemagne Holy Roman Emperor on Christmas Day, 800 CE, in Rome. This symbolic act united the power of the Church with the power of the Frankish kingdom.", "he": "האפיפיור לאו השלישי כתר את קרל הגדול לקיסר הרומי הקדוש ביום חג המולד, 800 לספירה, ברומא. מעשה סמלי זה איחד את כוח הכנסייה עם כוח הממלכה הפרנקית." }
+    },
+    {
+      "id": "q-m09-03",
+      "question": { "en": "What is feudalism?", "he": "מהו פיאודליזם?" },
+      "choices": [
+        { "id": "a", "text": { "en": "A system where merchants controlled all trade", "he": "שיטה שבה סוחרים שלטו בכל הסחר" } },
+        { "id": "b", "text": { "en": "A system of organizing society where land was exchanged for loyalty and military service", "he": "שיטת ארגון חברה שבה קרקע הוחלפה בנאמנות ושירות צבאי" } },
+        { "id": "c", "text": { "en": "A system where the Church owned all land", "he": "שיטה שבה הכנסייה החזיקה בכל הקרקע" } },
+        { "id": "d", "text": { "en": "A democratic system of government", "he": "שיטת ממשל דמוקרטית" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Feudalism was the social system of medieval Europe where a king gave land to nobles in exchange for loyalty and military service. Those nobles gave land to knights, and peasants worked the land for protection.", "he": "פיאודליזם היה השיטה החברתית של אירופה בימי הביניים שבה מלך נתן קרקע לאצילים בתמורה לנאמנות ושירות צבאי. אצילים אלה נתנו קרקע לאבירים, ואיכרים עיבדו את האדמה בתמורה להגנה." }
+    },
+    {
+      "id": "q-m09-04",
+      "question": { "en": "What major event happened with Clovis I around 496 CE that changed Frankish history?", "he": "איזה אירוע מרכזי קרה עם קלובים הראשון בסביבות שנת 496 לספירה ושינה את ההיסטוריה הפרנקית?" },
+      "choices": [
+        { "id": "a", "text": { "en": "He conquered Rome", "he": "הוא כבש את רומא" } },
+        { "id": "b", "text": { "en": "He converted to Christianity", "he": "הוא התנצר" } },
+        { "id": "c", "text": { "en": "He defeated the Vikings", "he": "הוא ניצח את הוויקינגים" } },
+        { "id": "d", "text": { "en": "He became Holy Roman Emperor", "he": "הוא הפך לקיסר הרומי הקדוש" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Clovis I's conversion to Christianity created a powerful alliance between the Frankish kings and the Catholic Church. This bond would shape European politics and culture for centuries.", "he": "התנצרותו של קלובים הראשון יצרה ברית חזקה בין המלכים הפרנקיים לכנסייה הקתולית. קשר זה יעצב את הפוליטיקה והתרבות האירופית למשך מאות שנים." }
+    },
+    {
+      "id": "q-m09-05",
+      "question": { "en": "What important thing did Charlemagne do to promote learning in his empire?", "he": "מה עשה קרל הגדול החשוב לקידום הלמידה באימפריה שלו?" },
+      "choices": [
+        { "id": "a", "text": { "en": "He built the first university", "he": "הוא בנה את האוניברסיטה הראשונה" } },
+        { "id": "b", "text": { "en": "He invented the printing press", "he": "הוא המציא את דפוס הדפוס" } },
+        { "id": "c", "text": { "en": "He established schools and promoted literacy", "he": "הוא הקים בתי ספר וקידם אוריינות" } },
+        { "id": "d", "text": { "en": "He brought back ancient Roman books from Egypt", "he": "הוא הביא חזרה ספרים רומיים עתיקים ממצרים" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Charlemagne established schools throughout his empire, including a palace school at his court. He valued education and literacy, surrounding himself with scholars to revive learning after the chaos of the early Middle Ages.", "he": "קרל הגדול הקים בתי ספר ברחבי אימפריתו, כולל בית ספר ארמון בחצרו. הוא העריך חינוך ואוריינות, הקיף את עצמו בחוקרים כדי להחיות את הלמידה לאחר הכאוס של ימי הביניים המוקדמים." }
+    },
+    {
+      "id": "q-m09-06",
+      "question": { "en": "What was a serf in medieval Europe?", "he": "מה היה צמית באירופה של ימי הביניים?" },
+      "choices": [
+        { "id": "a", "text": { "en": "A traveling merchant", "he": "סוחר נודד" } },
+        { "id": "b", "text": { "en": "A church official", "he": "פקיד כנסייה" } },
+        { "id": "c", "text": { "en": "A trained knight who served a king", "he": "אביר מאומן שעבד מלך" } },
+        { "id": "d", "text": { "en": "A peasant bound to the land who could not leave without the lord's permission", "he": "איכר קשור לאדמה שלא יכול לעזוב ללא רשות האדון" } }
+      ],
+      "correctChoice": "d",
+      "explanation": { "en": "Serfs were peasants who were bound to the land in the feudal system. They were not slaves but could not freely leave the land. In exchange for their labor, they received protection from their lord.", "he": "צמיתים היו איכרים שנקשרו לאדמה במערכת הפיאודלית. הם לא היו עבדים אך לא יכלו לעזוב את האדמה בחופשיות. בתמורה לעבודתם, הם קיבלו הגנה מאדונם." }
+    },
+    {
+      "id": "q-m09-07",
+      "question": { "en": "Which Germanic tribe gave its name to modern France?", "he": "איזה שבט גרמאני נתן את שמו לצרפת המודרנית?" },
+      "choices": [
+        { "id": "a", "text": { "en": "The Visigoths", "he": "הוויזיגותים" } },
+        { "id": "b", "text": { "en": "The Saxons", "he": "הסכסונים" } },
+        { "id": "c", "text": { "en": "The Vandals", "he": "הוונדלים" } },
+        { "id": "d", "text": { "en": "The Franks", "he": "הפרנקים" } }
+      ],
+      "correctChoice": "d",
+      "explanation": { "en": "The Franks settled in what is now France and gave the country its name. The name France comes from the Latin word Francia, meaning land of the Franks.", "he": "הפרנקים התיישבו במה שהוא כיום צרפת ונתנו לארץ את שמה. השם צרפת מגיע מהמילה הלטינית פרנציה, שמשמעותה ארץ הפרנקים." }
+    },
+    {
+      "id": "q-m09-08",
+      "question": { "en": "What was the primary role of monks in medieval monasteries?", "he": "מה היה תפקידם העיקרי של נזירים במנזרים של ימי הביניים?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Trading goods across Europe", "he": "מסחר בסחורות ברחבי אירופה" } },
+        { "id": "b", "text": { "en": "Training knights for battle", "he": "אימון אבירים לקרב" } },
+        { "id": "c", "text": { "en": "Prayer, study, and copying books by hand", "he": "תפילה, לימוד והעתקת ספרים ביד" } },
+        { "id": "d", "text": { "en": "Collecting taxes for the king", "he": "גביית מסים עבור המלך" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Monks in medieval monasteries devoted their lives to prayer, study, and manual work. A crucial task was copying books by hand, which helped preserve ancient knowledge through the turbulent early Middle Ages.", "he": "נזירים במנזרים של ימי הביניים הקדישו את חייהם לתפילה, לימוד ועבודת כפיים. משימה מכרעת הייתה העתקת ספרים ביד, מה שסייע לשמור על ידע עתיק לאורך ימי הביניים המוקדמים הסוערים." }
+    },
+    {
+      "id": "q-m09-09",
+      "question": { "en": "What does the term Holy Roman Empire actually refer to?", "he": "למה מתייחס המונח האימפריה הרומית הקדושה בפועל?" },
+      "choices": [
+        { "id": "a", "text": { "en": "The Roman Empire restored under Christian rule", "he": "האימפריה הרומית ששוחזרה תחת שלטון נוצרי" } },
+        { "id": "b", "text": { "en": "A union of central European kingdoms under a Christian emperor", "he": "איחוד ממלכות מרכז אירופה תחת קיסר נוצרי" } },
+        { "id": "c", "text": { "en": "The lands directly controlled by the Pope", "he": "האדמות שנשלטו ישירות על ידי האפיפיור" } },
+        { "id": "d", "text": { "en": "The Byzantine Empire under Justinian", "he": "האימפריה הביזנטית תחת יוסטיניאנוס" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "The Holy Roman Empire was a political union of many smaller kingdoms and principalities in central Europe, ruled by an emperor whose authority was blessed by the Pope. It lasted from 800 CE until 1806.", "he": "האימפריה הרומית הקדושה הייתה איחוד פוליטי של ממלכות ושררות רבות קטנות יותר במרכז אירופה, שנשלטה על ידי קיסר שסמכותו בורכה על ידי האפיפיור. היא נמשכה מ-800 לספירה עד 1806." }
+    },
+    {
+      "id": "q-m09-10",
+      "question": { "en": "Charlemagne is often called the Father of Europe. Why?", "he": "קרל הגדול מכונה לעתים קרובות אבי אירופה. מדוע?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Because he had many children who became rulers of European kingdoms", "he": "כי היו לו ילדים רבים שהפכו לשליטי ממלכות אירופאיות" } },
+        { "id": "b", "text": { "en": "Because he united most of western Europe, promoted education, and established foundations of medieval civilization", "he": "כי איחד את רוב מערב אירופה, קידם חינוך וקבע את יסודות הציביליזציה של ימי הביניים" } },
+        { "id": "c", "text": { "en": "Because he was the oldest king in European history", "he": "כי היה המלך המבוגר ביותר בתולדות אירופה" } },
+        { "id": "d", "text": { "en": "Because he invented the European calendar", "he": "כי המציא את הלוח השנה האירופי" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Charlemagne earned the title Father of Europe because he united most of western and central Europe under one ruler, promoted education and literacy, established schools, and created a stable Christian civilization that formed the foundation of medieval Europe.", "he": "קרל הגדול זכה בתואר אבי אירופה מכיוון שאיחד את רוב מערב ומרכז אירופה תחת שליט אחד, קידם חינוך ואוריינות, הקים בתי ספר ויצר ציביליזציה נוצרית יציבה שיצרה את הבסיס לאירופה של ימי הביניים." }
+    }
+  ]
+}

@@ -1,0 +1,273 @@
+{
+  "id": "m10-age-of-vikings",
+  "episodeNumber": 10,
+  "youtubeId": "dJdfoknlCmw",
+  "videoSources": [],
+  "title": { "en": "The Age of Vikings", "he": "תקופת הוויקינגים" },
+  "summary": {
+    "en": "From around 790 CE, fierce Norse warriors known as Vikings burst onto the European stage, sailing their magnificent longships from Scandinavia to raid monasteries, towns, and coastlines across Britain, France, and as far as the Mediterranean. The Vikings were not only fearsome raiders but also skilled traders and explorers who settled in Iceland and Greenland, and even reached the shores of North America nearly 500 years before Columbus. The Norse chieftain Rollo negotiated with the Frankish king to settle in the region that became Normandy, and his descendants would eventually conquer England in 1066 under William the Conqueror. The Norman Conquest of England transformed the English language and culture forever. This episode explores how the Viking Age changed the face of Europe and how these Scandinavian adventurers shaped the medieval world in ways that are still felt today.",
+    "he": "מסביבות שנת 790 לספירה, לוחמים נורדיים אמיצים המכונים וויקינגים פרצו לזירה האירופית, שטים בספינות הלונגשיפ המפוארות שלהם מסקנדינביה לפשוט על מנזרים, עיירות וחופים ברחבי בריטניה, צרפת ועד הים התיכון. הוויקינגים לא היו רק פשיטנים אדירים אלא גם סוחרים וחוקרים מיומנים שהתיישבו באיסלנד ובגרינלנד, ואף הגיעו לחופי צפון אמריקה כ-500 שנה לפני קולומבוס. ראש השבט הנורדי רולו ניהל משא ומתן עם המלך הפרנקי להתיישב באזור שהפך לנורמנדי, וצאצאיו בסופו של דבר כבשו את אנגליה בשנת 1066 תחת וויליאם הכובש. הכיבוש הנורמני של אנגליה שינה לנצח את השפה והתרבות האנגלית. פרק זה חוקר כיצד תקופת הוויקינגים שינתה את פני אירופה וכיצד אותם הרפתקנים סקנדינביים עיצבו את העולם של ימי הביניים בדרכים שמורגשות עד היום."
+  },
+  "thumbnail": "https://img.youtube.com/vi/dJdfoknlCmw/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": ["Viking Age", "Norse Exploration", "Norman Conquest", "Medieval Scandinavia"],
+  "terminology": [
+    {
+      "id": "t-m10-01",
+      "term": { "en": "Vikings", "he": "וויקינגים" },
+      "definition": {
+        "en": "Norse seafarers from Scandinavia who were active from approximately 790 to 1100 CE. They were known as raiders and traders who traveled vast distances by sea, and their expeditions took them from North America to the Middle East.",
+        "he": "יורדי ים נורדיים מסקנדינביה שפעלו בערך מ-790 עד 1100 לספירה. הם היו ידועים כפשיטנים וסוחרים שנסעו למרחקים עצומים בים, ומסעותיהם הוליכו אותם מצפון אמריקה ועד המזרח התיכון."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m10-02",
+      "term": { "en": "Longship", "he": "לונגשיפ" },
+      "definition": {
+        "en": "The iconic Viking warship, long and narrow with a shallow draft that allowed it to sail on the open ocean as well as navigate shallow rivers. Longships were fast, could land directly on beaches, and were powered by both oars and a large sail.",
+        "he": "ספינת המלחמה האייקונית של הוויקינגים, ארוכה וצרה עם צמד רדוד שאפשר לה לשוט בים הפתוח וגם לנווט בנהרות רדודים. ספינות הלונגשיפ היו מהירות, יכלו לנחות ישירות על חופים, והונעו על ידי משוטים ומפרש גדול."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m10-03",
+      "term": { "en": "Scandinavia", "he": "סקנדינביה" },
+      "definition": {
+        "en": "The region of northern Europe consisting of modern-day Norway, Sweden, and Denmark. This was the homeland of the Vikings, and its rugged terrain and long coastlines shaped the Norse people into skilled sailors and seafarers.",
+        "he": "האזור של צפון אירופה הכולל את נורווגיה, שוודיה ודנמרק של ימינו. זה היה מולדתם של הוויקינגים, והשטח הקשה וקווי החוף הארוכים עיצבו את העם הנורדי ליורדי ים מיומנים."
+      },
+      "category": "geography"
+    },
+    {
+      "id": "t-m10-04",
+      "term": { "en": "Rollo", "he": "רולו" },
+      "definition": {
+        "en": "A powerful Norse chieftain who led raids on France in the early 10th century. In 911 CE, he made a deal with the Frankish king Charles the Simple to receive the region of Normandy in exchange for stopping his raids and converting to Christianity.",
+        "he": "ראש שבט נורדי חזק שהוביל פשיטות על צרפת בתחילת המאה העשירית. בשנת 911 לספירה, הוא עשה עסקה עם המלך הפרנקי שארל הפשוט לקבל את אזור נורמנדי בתמורה להפסקת פשיטותיו והתנצרות."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m10-05",
+      "term": { "en": "Normandy", "he": "נורמנדי" },
+      "definition": {
+        "en": "A region in northern France that was given to the Viking leader Rollo in 911 CE. The Norse settlers there eventually became the Normans, and their descendants would go on to conquer England in 1066.",
+        "he": "אזור בצפון צרפת שניתן למנהיג הוויקינגים רולו בשנת 911 לספירה. המתיישבים הנורדיים שם הפכו בסופו של דבר לנורמנים, וצאצאיהם עמדו לכבוש את אנגליה בשנת 1066."
+      },
+      "category": "geography"
+    },
+    {
+      "id": "t-m10-06",
+      "term": { "en": "Norman Conquest", "he": "הכיבוש הנורמני" },
+      "definition": {
+        "en": "The conquest of England in 1066 CE by William the Conqueror, the Duke of Normandy, following his victory at the Battle of Hastings. This event transformed English society, language, and culture and introduced feudalism to England on a grand scale.",
+        "he": "כיבוש אנגליה בשנת 1066 לספירה על ידי וויליאם הכובש, דוכס נורמנדי, לאחר ניצחונו בקרב האסטינגס. אירוע זה שינה את החברה, השפה והתרבות האנגלית והנהיג את הפיאודליזם באנגליה בקנה מידה גדול."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m10-07",
+      "term": { "en": "Valhalla", "he": "ואלהאלה" },
+      "definition": {
+        "en": "In Norse mythology, the great hall of the chief god Odin where warriors who died bravely in battle were brought after death. Vikings believed that dying heroically in battle was an honorable fate that would earn them a place in Valhalla.",
+        "he": "במיתולוגיה הנורדית, האולם הגדול של האל הראשי אודין שאליו הובאו לאחר מותם לוחמים שמתו באומץ בקרב. הוויקינגים האמינו שמות בגבורה בקרב הוא גורל מכובד שיזכה אותם במקום בואלהאלה."
+      },
+      "category": "religion"
+    },
+    {
+      "id": "t-m10-08",
+      "term": { "en": "Norse Mythology", "he": "מיתולוגיה נורדית" },
+      "definition": {
+        "en": "The set of religious stories and beliefs of the ancient Norse people. Their gods included Odin, the king of the gods, Thor the thunder god, and Loki the trickster. These stories explained the world and guided how Vikings lived and fought.",
+        "he": "מכלול הסיפורים הדתיים והאמונות של העם הנורדי הקדום. אליהם כללו את אודין, מלך האלים, תור אל הרעם, ולוקי המתחכם. סיפורים אלה הסבירו את העולם והנחו את אורח החיים של הוויקינגים."
+      },
+      "category": "religion"
+    },
+    {
+      "id": "t-m10-09",
+      "term": { "en": "Raid", "he": "פשיטה" },
+      "definition": {
+        "en": "A sudden surprise attack on a settlement or ship to steal valuable goods. Vikings were famous for their raids on coastal towns and monasteries across Europe, often striking quickly and sailing away before anyone could organize a proper defense.",
+        "he": "מתקפת הפתעה פתאומית על ישוב או ספינה כדי לגנוב סחורות יקרות. הוויקינגים היו מפורסמים בפשיטותיהם על עיירות חוף ומנזרים ברחבי אירופה, לעתים קרובות תקפו במהירות ושטו לפני שמישהו יכול לארגן הגנה ראויה."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m10-10",
+      "term": { "en": "Leif Erikson", "he": "לייף אריקסון" },
+      "definition": {
+        "en": "A Norse explorer who is believed to have been the first European to reach North America, around 1000 CE, nearly 500 years before Christopher Columbus. He established a settlement at a place he called Vinland, thought to be in present-day Newfoundland, Canada.",
+        "he": "חוקר נורדי שמאמינים שהיה האירופאי הראשון שהגיע לצפון אמריקה, בסביבות שנת 1000 לספירה, כ-500 שנה לפני כריסטופר קולומבוס. הוא הקים ישוב במקום שקרא לו וינלנד, שסבורים שנמצא בניופאונדלנד של ימינו, קנדה."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m10-11",
+      "term": { "en": "Berserker", "he": "ברסרקר" },
+      "definition": {
+        "en": "A type of Viking warrior known for fighting in a frenzied, trance-like state without armor, often described as being filled with the fury of wild animals. The word berserk in modern languages comes from these fearsome Norse warriors.",
+        "he": "סוג של לוחם וויקינג הידוע בלחימה במצב מטורף כמו בטראנס ללא שריון, המתואר לעתים כממולא בחרון של חיות בר. המילה ברסרק בשפות המודרניות מגיעה מלוחמי הוויקינגים האיומים הללו."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m10-12",
+      "term": { "en": "Runes", "he": "רונות" },
+      "definition": {
+        "en": "The letters of the alphabet used by the ancient Norse and other Germanic peoples to write. Runes were carved into stone, wood, and metal, and were also believed to have magical properties that could be used for protection or to cast spells.",
+        "he": "אותיות האלפבית שנעשה בהן שימוש על ידי העם הנורדי הקדום ועמים גרמאניים אחרים לכתיבה. רונות נחרטו על אבן, עץ ומתכת, וגם האמינו שיש להן תכונות קסם שניתן להשתמש בהן להגנה או לקסמים."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m10-13",
+      "term": { "en": "Battle of Hastings", "he": "קרב האסטינגס" },
+      "definition": {
+        "en": "A famous battle fought on October 14, 1066 CE, in southern England. William the Conqueror, Duke of Normandy, defeated the English King Harold II. This battle marked the beginning of the Norman rule in England.",
+        "he": "קרב מפורסם שנלחם ב-14 באוקטובר 1066 לספירה, בדרום אנגליה. וויליאם הכובש, דוכס נורמנדי, ניצח את המלך האנגלי הרולד השני. קרב זה סימן את תחילת שלטון הנורמנים באנגליה."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m10-14",
+      "term": { "en": "Fjord", "he": "פיורד" },
+      "definition": {
+        "en": "A long, narrow, deep inlet of the sea between steep cliffs, typical of the Scandinavian coastline, especially Norway. The dramatic Viking fjords made excellent natural harbors and helped shape the Norse culture of seamanship.",
+        "he": "כניסה ארוכה, צרה ועמוקה של הים בין צוקים תלולים, אופיינית לחוף הסקנדינבי, במיוחד בנורווגיה. הפיורדים הדרמטיים של הוויקינגים יצרו עגינות טבעיות מצוינות וסייעו לעצב את התרבות הנורדית של יסוד הים."
+      },
+      "category": "geography"
+    },
+    {
+      "id": "t-m10-15",
+      "term": { "en": "Normans", "he": "נורמנים" },
+      "definition": {
+        "en": "The descendants of the Vikings who settled in Normandy, France, in the 10th century. Over time they adopted French language and culture while keeping their fierce military spirit. The Normans went on to conquer England in 1066 and also established kingdoms in southern Italy and Sicily.",
+        "he": "צאצאי הוויקינגים שהתיישבו בנורמנדי, צרפת, במאה העשירית. עם הזמן אימצו את השפה והתרבות הצרפתית תוך שמרו על רוחם הצבאית האמיצה. הנורמנים כבשו את אנגליה בשנת 1066 וגם הקימו ממלכות בדרום איטליה ובסיציליה."
+      },
+      "category": "history"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q-m10-01",
+      "question": { "en": "What was special about Viking longships that made them so effective for raiding?", "he": "מה היה מיוחד בספינות הלונגשיפ של הוויקינגים שהפך אותן לאפקטיביות כל כך לפשיטות?" },
+      "choices": [
+        { "id": "a", "text": { "en": "They were powered by steam engines", "he": "הן הונעו על ידי מנועי קיטור" } },
+        { "id": "b", "text": { "en": "They had cannons on the sides", "he": "היה להן תותחים בצדדים" } },
+        { "id": "c", "text": { "en": "They were very large and carried hundreds of soldiers", "he": "הן היו גדולות מאוד ונשאו מאות חיילים" } },
+        { "id": "d", "text": { "en": "They were fast, shallow, and could land directly on beaches", "he": "הן היו מהירות, רדודות ויכלו לנחות ישירות על חופים" } }
+      ],
+      "correctChoice": "d",
+      "explanation": { "en": "Viking longships were long, narrow, and had a shallow draft which allowed them to sail in open seas and also navigate rivers. They could beach directly on shore, enabling surprise attacks with no need for a harbor.", "he": "ספינות הלונגשיפ של הוויקינגים היו ארוכות, צרות ובעלות עומק מים רדוד שאפשר להן לשוט בים פתוח וגם לנווט בנהרות. הן יכלו לנחות ישירות על החוף, מה שאפשר מתקפות פתע ללא צורך בנמל." }
+    },
+    {
+      "id": "q-m10-02",
+      "question": { "en": "What region of France did the Viking leader Rollo receive in 911 CE?", "he": "איזה אזור בצרפת קיבל מנהיג הוויקינגים רולו בשנת 911 לספירה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Burgundy", "he": "בורגון" } },
+        { "id": "b", "text": { "en": "Normandy", "he": "נורמנדי" } },
+        { "id": "c", "text": { "en": "Brittany", "he": "ברטאן" } },
+        { "id": "d", "text": { "en": "Provence", "he": "פרובאנס" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Rollo received Normandy from the Frankish king Charles the Simple in 911 CE in exchange for stopping his raids and converting to Christianity. The name Normandy means land of the Northmen.", "he": "רולו קיבל את נורמנדי מהמלך הפרנקי שארל הפשוט בשנת 911 לספירה בתמורה להפסקת פשיטותיו והתנצרות. השם נורמנדי פירושו ארץ אנשי הצפון." }
+    },
+    {
+      "id": "q-m10-03",
+      "question": { "en": "Which Norse explorer is believed to have reached North America around 1000 CE?", "he": "איזה חוקר נורדי מאמינים שהגיע לצפון אמריקה בסביבות שנת 1000 לספירה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Erik the Red", "he": "אריק האדום" } },
+        { "id": "b", "text": { "en": "Ragnar Lothbrok", "he": "רגנר לותברוק" } },
+        { "id": "c", "text": { "en": "Leif Erikson", "he": "לייף אריקסון" } },
+        { "id": "d", "text": { "en": "Rollo", "he": "רולו" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Leif Erikson is believed to have reached North America around 1000 CE, nearly 500 years before Columbus. He established a settlement at Vinland, thought to be in present-day Newfoundland, Canada.", "he": "מאמינים שלייף אריקסון הגיע לצפון אמריקה בסביבות שנת 1000 לספירה, כ-500 שנה לפני קולומבוס. הוא הקים ישוב בוינלנד, שסבורים שנמצא בניופאונדלנד של ימינו, קנדה." }
+    },
+    {
+      "id": "q-m10-04",
+      "question": { "en": "In which year did the Norman Conquest of England take place?", "he": "באיזו שנה התרחש הכיבוש הנורמני של אנגליה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "1000 CE", "he": "1000 לספירה" } },
+        { "id": "b", "text": { "en": "732 CE", "he": "732 לספירה" } },
+        { "id": "c", "text": { "en": "911 CE", "he": "911 לספירה" } },
+        { "id": "d", "text": { "en": "1066 CE", "he": "1066 לספירה" } }
+      ],
+      "correctChoice": "d",
+      "explanation": { "en": "The Norman Conquest of England happened in 1066 CE when William the Conqueror defeated King Harold II at the Battle of Hastings. This event transformed English language and culture forever.", "he": "הכיבוש הנורמני של אנגליה התרחש בשנת 1066 לספירה כאשר וויליאם הכובש ניצח את המלך הרולד השני בקרב האסטינגס. אירוע זה שינה לנצח את השפה והתרבות האנגלית." }
+    },
+    {
+      "id": "q-m10-05",
+      "question": { "en": "What was Valhalla in Norse mythology?", "he": "מה הייתה ואלהאלה במיתולוגיה הנורדית?" },
+      "choices": [
+        { "id": "a", "text": { "en": "The home of the frost giants", "he": "ביתם של ענקי הקרח" } },
+        { "id": "b", "text": { "en": "The great hall where brave warriors went after dying in battle", "he": "האולם הגדול שאליו הלכו לוחמים אמיצים לאחר מותם בקרב" } },
+        { "id": "c", "text": { "en": "The Viking word for the sea", "he": "המילה הוויקינגית לים" } },
+        { "id": "d", "text": { "en": "A famous Viking settlement in Iceland", "he": "ישוב וויקינגי מפורסם באיסלנד" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "In Norse mythology, Valhalla was the great hall of the god Odin where fallen warriors who died bravely in battle were taken. Vikings believed that dying heroically in battle guaranteed them a place in this glorious afterlife.", "he": "במיתולוגיה הנורדית, ואלהאלה היה האולם הגדול של האל אודין שאליו הועברו לוחמים שנפלו ומתו באומץ בקרב. הוויקינגים האמינו שמות בגבורה בקרב מבטיח להם מקום בחיי העולם הבא המפוארים הללו." }
+    },
+    {
+      "id": "q-m10-06",
+      "question": { "en": "Where did the Vikings originally come from?", "he": "מאיפה הגיעו הוויקינגים במקורם?" },
+      "choices": [
+        { "id": "a", "text": { "en": "The British Isles", "he": "האיים הבריטיים" } },
+        { "id": "b", "text": { "en": "Central Europe", "he": "מרכז אירופה" } },
+        { "id": "c", "text": { "en": "Scandinavia (modern Norway, Sweden, and Denmark)", "he": "סקנדינביה (נורווגיה, שוודיה ודנמרק המודרניות)" } },
+        { "id": "d", "text": { "en": "Eastern Europe and Russia", "he": "מזרח אירופה ורוסיה" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "The Vikings came from Scandinavia, which includes modern-day Norway, Sweden, and Denmark. The rugged terrain and long coastlines of Scandinavia shaped them into skilled seafarers.", "he": "הוויקינגים הגיעו מסקנדינביה, הכוללת את נורווגיה, שוודיה ודנמרק של ימינו. השטח הקשה וקווי החוף הארוכים של סקנדינביה עיצבו אותם ליורדי ים מיומנים." }
+    },
+    {
+      "id": "q-m10-07",
+      "question": { "en": "What is a fjord?", "he": "מהו פיורד?" },
+      "choices": [
+        { "id": "a", "text": { "en": "A type of Viking sword", "he": "סוג של חרב וויקינגית" } },
+        { "id": "b", "text": { "en": "A Norse god of the sea", "he": "אל נורדי של הים" } },
+        { "id": "c", "text": { "en": "A long, narrow sea inlet between steep cliffs", "he": "כניסת ים ארוכה וצרה בין צוקים תלולים" } },
+        { "id": "d", "text": { "en": "A Viking trading post", "he": "עמדת סחר וויקינגית" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "A fjord is a long, narrow, deep inlet of the sea between steep cliffs. Fjords are typical of the Norwegian coastline and formed natural harbors that helped the Norse people become expert sailors.", "he": "פיורד הוא כניסת ים ארוכה, צרה ועמוקה בין צוקים תלולים. פיורדים אופייניים לחוף הנורווגי ויצרו נמלים טבעיים שסייעו לעם הנורדי להפוך ליורדי ים מומחים." }
+    },
+    {
+      "id": "q-m10-08",
+      "question": { "en": "Who was the chief god in Norse mythology?", "he": "מי היה האל הראשי במיתולוגיה הנורדית?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Thor", "he": "תור" } },
+        { "id": "b", "text": { "en": "Loki", "he": "לוקי" } },
+        { "id": "c", "text": { "en": "Odin", "he": "אודין" } },
+        { "id": "d", "text": { "en": "Freyr", "he": "פריר" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Odin was the king of the Norse gods and the ruler of Valhalla. He was the god of wisdom, war, and death. Thor, his son, was the thunder god and was also very popular among the Vikings.", "he": "אודין היה מלך אלים הנורדיים ושליט ואלהאלה. הוא היה אל החכמה, המלחמה והמוות. תור, בנו, היה אל הרעם והיה פופולרי מאוד בקרב הוויקינגים." }
+    },
+    {
+      "id": "q-m10-09",
+      "question": { "en": "Approximately when did the Viking Age begin?", "he": "מתי בערך החלה תקופת הוויקינגים?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Around 500 CE", "he": "בסביבות שנת 500 לספירה" } },
+        { "id": "b", "text": { "en": "Around 1000 CE", "he": "בסביבות שנת 1000 לספירה" } },
+        { "id": "c", "text": { "en": "Around 790 CE", "he": "בסביבות שנת 790 לספירה" } },
+        { "id": "d", "text": { "en": "Around 1200 CE", "he": "בסביבות שנת 1200 לספירה" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "The Viking Age is generally considered to have begun around 790 CE, with the first major Viking raid on the monastery of Lindisfarne in England in 793 CE marking its dramatic start.", "he": "תקופת הוויקינגים נחשבת בדרך כלל להתחיל בסביבות שנת 790 לספירה, כאשר הפשיטה הוויקינגית הגדולה הראשונה על מנזר לינדיספרן באנגליה בשנת 793 לספירה מסמנת את תחילתה הדרמטית." }
+    },
+    {
+      "id": "q-m10-10",
+      "question": { "en": "What did the word berserker originally refer to?", "he": "למה התייחס המונח ברסרקר במקורו?" },
+      "choices": [
+        { "id": "a", "text": { "en": "A Viking ship captain", "he": "קפטן ספינה וויקינגי" } },
+        { "id": "b", "text": { "en": "A type of Viking armor", "he": "סוג של שריון וויקינגי" } },
+        { "id": "c", "text": { "en": "A Norse word for a great storm", "he": "מילה נורדית לסערה גדולה" } },
+        { "id": "d", "text": { "en": "A Viking warrior who fought in a wild, frenzied state without armor", "he": "לוחם וויקינגי שנלחם במצב פרוע ומשוגע ללא שריון" } }
+      ],
+      "correctChoice": "d",
+      "explanation": { "en": "Berserkers were Viking warriors said to fight in a wild, trance-like fury without armor. The modern word berserk, meaning out of control with rage, comes directly from these legendary Norse warriors.", "he": "ברסרקרים היו לוחמים וויקינגיים שנאמר שנלחמו בפראות, בטראנס כמו ללא שריון. המילה המודרנית ברסרק, שמשמעותה אובדן שליטה מכעס, מגיעה ישירות מלוחמי הנורדים האגדיים הללו." }
+    }
+  ]
+}

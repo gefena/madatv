@@ -1,0 +1,273 @@
+{
+  "id": "m08-conquest-of-islam",
+  "episodeNumber": 8,
+  "youtubeId": "Ijdsk2jhHb4",
+  "videoSources": [],
+  "title": { "en": "The Conquest of Islam", "he": "עליית האסלאם" },
+  "summary": {
+    "en": "In the 6th century, the Byzantine Empire under Emperor Justinian I reached great heights — he built the magnificent Hagia Sophia cathedral and reconquered lost Roman territories with the help of his brilliant general Belisarius, while his powerful wife Theodora played a key role in governing the empire. Then, in the 7th century, a new faith emerged in the Arabian Peninsula: Islam, founded by the Prophet Muhammad, whose teachings were recorded in the holy book called the Quran. Arab armies, united by their new faith, spread with remarkable speed across the Middle East, North Africa, and all the way to Spain within just one century. The rapid Arab conquests reshaped the entire world map and created a vast Islamic civilization that preserved and advanced knowledge in science, mathematics, and medicine. This episode explores how two powerful civilizations — the Byzantine Empire and the rising Islamic world — transformed the face of the ancient world.",
+    "he": "במאה השישית לספירה, האימפריה הביזנטית תחת הקיסר יוסטיניאנוס הראשון הגיעה לשיאה — הוא בנה את קתדרל אייה סופיה המפואר וכבש מחדש שטחים רומיים אבודים בעזרת גנרל המחונן שלו בליסריוס, ואשתו האמיצה תיאודורה מילאה תפקיד מרכזי בניהול האימפריה. לאחר מכן, במאה השביעית, נולדה דת חדשה בחצי האי ערב: האסלאם, שייסד הנביא מוחמד, ותורתו נרשמה בספר הקדוש הנקרא קוראן. צבאות ערב, מאוחדים על ידי אמונתם החדשה, התפשטו במהירות מדהימה על פני המזרח התיכון, צפון אפריקה ועד ספרד תוך מאה שנה בלבד. הכיבושים הערביים המהירים שינו את מפת העולם כולו ויצרו ציביליזציה אסלאמית עצומה ששמרה וקידמה ידע במדע, מתמטיקה ורפואה. פרק זה חוקר כיצד שתי ציביליזציות עוצמתיות — האימפריה הביזנטית והעולם האסלאמי הצומח — שינו את פני העולם העתיק."
+  },
+  "thumbnail": "https://img.youtube.com/vi/Ijdsk2jhHb4/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": ["Byzantine Empire", "Rise of Islam", "Arab Conquests", "Medieval Civilizations"],
+  "terminology": [
+    {
+      "id": "t-m08-01",
+      "term": { "en": "Byzantine Empire", "he": "האימפריה הביזנטית" },
+      "definition": {
+        "en": "The eastern half of the Roman Empire that survived for nearly a thousand years after the fall of Rome in 476 CE. Its capital was Constantinople, today's Istanbul, and it preserved Roman law and Greek culture.",
+        "he": "המחצית המזרחית של האימפריה הרומית שהמשיכה להתקיים כאלף שנים לאחר נפילת רומא בשנת 476 לספירה. בירתה הייתה קונסטנטינופול, איסטנבול של היום, והיא שמרה על חוק רומי ותרבות יוונית."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m08-02",
+      "term": { "en": "Justinian I", "he": "יוסטיניאנוס הראשון" },
+      "definition": {
+        "en": "Emperor of the Byzantine Empire from 527 to 565 CE. He attempted to reunite the old Roman Empire, created an important code of laws, and built the magnificent Hagia Sophia church in Constantinople.",
+        "he": "קיסר האימפריה הביזנטית מ-527 עד 565 לספירה. הוא ניסה לאחד מחדש את האימפריה הרומית הישנה, יצר קוד חוקים חשוב ובנה את כנסיית אייה סופיה המפוארת בקונסטנטינופול."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m08-03",
+      "term": { "en": "Hagia Sophia", "he": "אייה סופיה" },
+      "definition": {
+        "en": "A massive and breathtaking church built in Constantinople by Emperor Justinian I, completed in 537 CE. It was the largest cathedral in the world for nearly a thousand years and is famous for its enormous dome.",
+        "he": "כנסייה עצומה ומרהיבה שנבנתה בקונסטנטינופול על ידי הקיסר יוסטיניאנוס הראשון, הושלמה בשנת 537 לספירה. היא הייתה הקתדרל הגדול בעולם במשך כאלף שנה ומפורסמת בכיפתה העצומה."
+      },
+      "category": "architecture"
+    },
+    {
+      "id": "t-m08-04",
+      "term": { "en": "Theodora", "he": "תיאודורה" },
+      "definition": {
+        "en": "The wife and empress of Justinian I, she was one of the most powerful women in the history of the Byzantine Empire. She came from humble origins but became a key political advisor and helped shape important laws protecting women.",
+        "he": "אשתו וקיסרית של יוסטיניאנוס הראשון, היא הייתה אחת הנשים החזקות ביותר בתולדות האימפריה הביזנטית. היא הגיעה ממוצא צנוע אך הפכה ליועצת פוליטית מרכזית ועזרה לעצב חוקים חשובים להגנת נשים."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m08-05",
+      "term": { "en": "Belisarius", "he": "בליסריוס" },
+      "definition": {
+        "en": "The greatest general of the Byzantine Empire under Justinian I. He won remarkable victories in North Africa, Italy, and Persia, helping to temporarily restore much of the old Roman Empire's territory.",
+        "he": "הגנרל הגדול ביותר של האימפריה הביזנטית תחת יוסטיניאנוס הראשון. הוא זכה בניצחונות מרשימים בצפון אפריקה, איטליה ופרס, וסייע לשחזר זמנית חלק גדול משטחי האימפריה הרומית הישנה."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m08-06",
+      "term": { "en": "Islam", "he": "אסלאם" },
+      "definition": {
+        "en": "One of the world's major religions, founded in the 7th century CE in Arabia by the Prophet Muhammad. Its followers are called Muslims and they believe in one God, called Allah in Arabic. Islam's holy book is the Quran.",
+        "he": "אחת הדתות הגדולות בעולם, שנוסדה במאה השביעית לספירה בערב על ידי הנביא מוחמד. מאמיניה נקראים מוסלמים והם מאמינים באל אחד, הנקרא אלאה בערבית. הספר הקדוש של האסלאם הוא הקוראן."
+      },
+      "category": "religion"
+    },
+    {
+      "id": "t-m08-07",
+      "term": { "en": "Muhammad", "he": "מוחמד" },
+      "definition": {
+        "en": "The founder and prophet of Islam, born in Mecca around 570 CE. Muslims believe he received messages from God through the angel Gabriel, and these messages became the Quran. He united the Arab tribes under one faith.",
+        "he": "מייסד ונביא האסלאם, נולד במכה בערך בשנת 570 לספירה. מוסלמים מאמינים שהוא קיבל מסרים מאלוהים דרך המלאך ג'יבריל, ומסרים אלה הפכו לקוראן. הוא איחד את השבטים הערביים תחת אמונה אחת."
+      },
+      "category": "religion"
+    },
+    {
+      "id": "t-m08-08",
+      "term": { "en": "The Quran", "he": "הקוראן" },
+      "definition": {
+        "en": "The holy book of Islam, believed by Muslims to be the word of God as revealed to the Prophet Muhammad. It is written in Arabic and contains teachings about faith, law, and how to live a good life.",
+        "he": "הספר הקדוש של האסלאם, שמוסלמים מאמינים כי הוא דבר האל כפי שנגלה לנביא מוחמד. הוא כתוב בערבית ומכיל תורות על אמונה, חוק וכיצד לחיות חיים טובים."
+      },
+      "category": "religion"
+    },
+    {
+      "id": "t-m08-09",
+      "term": { "en": "Caliph", "he": "ח'ליפה" },
+      "definition": {
+        "en": "The title given to the political and religious leader of the Muslim community after the death of Muhammad. The Caliph was seen as the successor of the Prophet and led the Islamic world.",
+        "he": "התואר שניתן למנהיג הפוליטי והדתי של הקהילה המוסלמית לאחר מות מוחמד. הח'ליפה נחשב כיורשו של הנביא והוביל את העולם האסלאמי."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m08-10",
+      "term": { "en": "Arab Conquests", "he": "הכיבושים הערביים" },
+      "definition": {
+        "en": "The rapid military expansion of Arab Muslim forces in the 7th and 8th centuries, spreading Islam from Arabia to the Middle East, North Africa, Spain, and Central Asia. These conquests happened with astonishing speed.",
+        "he": "ההתפשטות הצבאית המהירה של כוחות ערב המוסלמיים במאות השביעית והשמינית, והפצת האסלאם מערב למזרח התיכון, צפון אפריקה, ספרד ומרכז אסיה. כיבושים אלה התרחשו במהירות מדהימה."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m08-11",
+      "term": { "en": "Mecca", "he": "מכה" },
+      "definition": {
+        "en": "The holiest city in Islam, located in modern-day Saudi Arabia. It is the birthplace of the Prophet Muhammad and home to the Kaaba, the cube-shaped structure that Muslims around the world face when they pray.",
+        "he": "העיר הקדושה ביותר באסלאם, הממוקמת בערב הסעודית של ימינו. היא עיר מולדתו של הנביא מוחמד ומקום הכעבה, המבנה המעוקב שמוסלמים ברחבי העולם פונים אליו כשהם מתפללים."
+      },
+      "category": "religion"
+    },
+    {
+      "id": "t-m08-12",
+      "term": { "en": "Constantinople", "he": "קונסטנטינופול" },
+      "definition": {
+        "en": "The magnificent capital city of the Byzantine Empire, founded by Emperor Constantine in 330 CE on the site of the ancient Greek city of Byzantium. Today it is known as Istanbul and is located in Turkey.",
+        "he": "בירתה המפוארת של האימפריה הביזנטית, שנוסדה על ידי הקיסר קונסטנטין בשנת 330 לספירה על אתר העיר היוונית הקדומה ביזנטיון. כיום היא ידועה בשם איסטנבול ונמצאת בטורקיה."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m08-13",
+      "term": { "en": "Mosque", "he": "מסגד" },
+      "definition": {
+        "en": "The Muslim place of worship, where believers gather to pray and learn. Mosques often have tall towers called minarets from which the call to prayer is announced five times a day.",
+        "he": "מקום הפולחן המוסלמי, שבו מתכנסים המאמינים להתפלל וללמוד. למסגדים יש לעתים קרובות מגדלים גבוהים הנקראים מינארטים שמהם מוכרזת הקריאה לתפילה חמש פעמים ביום."
+      },
+      "category": "religion"
+    },
+    {
+      "id": "t-m08-14",
+      "term": { "en": "Jihad", "he": "ג'יהאד" },
+      "definition": {
+        "en": "An Arabic word meaning struggle or effort. In Islam, it refers primarily to the inner struggle to be a good person and follow God's commands. It can also refer to the defense of the Muslim community.",
+        "he": "מילה ערבית שמשמעותה מאבק או מאמץ. באסלאם, היא מתייחסת בעיקר למאבק הפנימי להיות אדם טוב ולמלא את מצוות האל. היא יכולה גם להתייחס להגנה על הקהילה המוסלמית."
+      },
+      "category": "religion"
+    },
+    {
+      "id": "t-m08-15",
+      "term": { "en": "Silk Road", "he": "דרך המשי" },
+      "definition": {
+        "en": "An ancient network of trade routes connecting China and East Asia with Central Asia, the Middle East, and Europe. Merchants traded goods like silk, spices, and precious stones, and ideas, religions, and diseases also spread along these routes.",
+        "he": "רשת עתיקה של מסלולי סחר שחיברה את סין ומזרח אסיה עם מרכז אסיה, המזרח התיכון ואירופה. סוחרים סחרו בסחורות כגון משי, תבלינים ואבנים יקרות, וגם רעיונות, דתות ומחלות התפשטו לאורך מסלולים אלה."
+      },
+      "category": "history"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q-m08-01",
+      "question": { "en": "What is the name of the great church built by Emperor Justinian I in Constantinople?", "he": "מה שמה של הכנסייה הגדולה שבנה הקיסר יוסטיניאנוס הראשון בקונסטנטינופול?" },
+      "choices": [
+        { "id": "a", "text": { "en": "St. Peter's Basilica", "he": "בזיליקת פטרוס הקדוש" } },
+        { "id": "b", "text": { "en": "Notre Dame Cathedral", "he": "קתדרל נוטר דאם" } },
+        { "id": "c", "text": { "en": "Hagia Sophia", "he": "אייה סופיה" } },
+        { "id": "d", "text": { "en": "The Pantheon", "he": "הפנתאון" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "The Hagia Sophia was built by Emperor Justinian I and completed in 537 CE. Its enormous dome made it an architectural marvel of the ancient world.", "he": "אייה סופיה נבנתה על ידי הקיסר יוסטיניאנוס הראשון והושלמה בשנת 537 לספירה. כיפתה העצומה הפכה אותה לפלא אדריכלי של העולם הקדום." }
+    },
+    {
+      "id": "q-m08-02",
+      "question": { "en": "In which city was the Prophet Muhammad born?", "he": "באיזו עיר נולד הנביא מוחמד?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Medina", "he": "מדינה" } },
+        { "id": "b", "text": { "en": "Baghdad", "he": "בגדד" } },
+        { "id": "c", "text": { "en": "Jerusalem", "he": "ירושלים" } },
+        { "id": "d", "text": { "en": "Mecca", "he": "מכה" } }
+      ],
+      "correctChoice": "d",
+      "explanation": { "en": "Muhammad was born in Mecca, in modern-day Saudi Arabia, around 570 CE. Mecca remains the holiest city in Islam to this day.", "he": "מוחמד נולד במכה, בערב הסעודית של ימינו, בערך בשנת 570 לספירה. מכה נשארת העיר הקדושה ביותר באסלאם עד ימינו." }
+    },
+    {
+      "id": "q-m08-03",
+      "question": { "en": "What is the holy book of Islam called?", "he": "כיצד נקרא הספר הקדוש של האסלאם?" },
+      "choices": [
+        { "id": "a", "text": { "en": "The Torah", "he": "התורה" } },
+        { "id": "b", "text": { "en": "The Quran", "he": "הקוראן" } },
+        { "id": "c", "text": { "en": "The Bible", "he": "התנ'ך" } },
+        { "id": "d", "text": { "en": "The Talmud", "he": "התלמוד" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "The Quran is the holy book of Islam. Muslims believe it contains the words of God as revealed to the Prophet Muhammad through the angel Gabriel.", "he": "הקוראן הוא הספר הקדוש של האסלאם. מוסלמים מאמינים שהוא מכיל את דברי האל כפי שנגלו לנביא מוחמד דרך המלאך ג'יבריל." }
+    },
+    {
+      "id": "q-m08-04",
+      "question": { "en": "Who was the brilliant general who helped Justinian I reconquer lost Roman territories?", "he": "מי היה הגנרל המחונן שסייע ליוסטיניאנוס הראשון לכבוש מחדש שטחים רומיים אבודים?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Belisarius", "he": "בליסריוס" } },
+        { "id": "b", "text": { "en": "Julius Caesar", "he": "יוליוס קיסר" } },
+        { "id": "c", "text": { "en": "Alexander the Great", "he": "אלכסנדר הגדול" } },
+        { "id": "d", "text": { "en": "Hannibal", "he": "חניבעל" } }
+      ],
+      "correctChoice": "a",
+      "explanation": { "en": "Belisarius was the greatest general of Justinian I. He won brilliant victories across North Africa, Italy, and Persia, helping to restore much of the old Roman Empire.", "he": "בליסריוס היה הגנרל הגדול ביותר של יוסטיניאנוס הראשון. הוא זכה בניצחונות מבריקים ברחבי צפון אפריקה, איטליה ופרס, וסייע לשחזר חלק גדול מהאימפריה הרומית הישנה." }
+    },
+    {
+      "id": "q-m08-05",
+      "question": { "en": "By the 8th century, Arab conquests had spread Islam as far west as which modern country?", "he": "עד המאה השמינית, הגיעו הכיבושים הערביים עד לאיזו מדינה מודרנית במערב?" },
+      "choices": [
+        { "id": "a", "text": { "en": "France", "he": "צרפת" } },
+        { "id": "b", "text": { "en": "England", "he": "אנגליה" } },
+        { "id": "c", "text": { "en": "Spain", "he": "ספרד" } },
+        { "id": "d", "text": { "en": "Germany", "he": "גרמניה" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Arab Muslim armies crossed from North Africa into the Iberian Peninsula (modern Spain and Portugal) in 711 CE, spreading Islamic civilization to the far western edge of Europe.", "he": "צבאות ערב המוסלמיים חצו מצפון אפריקה לחצי האי האיברי (ספרד ופורטוגל המודרניות) בשנת 711 לספירה, והפיצו את הציביליזציה האסלאמית עד לקצה המערבי של אירופה." }
+    },
+    {
+      "id": "q-m08-06",
+      "question": { "en": "What role did Empress Theodora play in the Byzantine Empire?", "he": "איזה תפקיד מילאה הקיסרית תיאודורה באימפריה הביזנטית?" },
+      "choices": [
+        { "id": "a", "text": { "en": "She was only responsible for organizing celebrations", "he": "היא הייתה אחראית רק לארגון חגיגות" } },
+        { "id": "b", "text": { "en": "She led armies into battle", "he": "היא הובילה צבאות לקרב" } },
+        { "id": "c", "text": { "en": "She was a key political advisor who helped shape important laws", "he": "היא הייתה יועצת פוליטית מרכזית שסייעה לעצב חוקים חשובים" } },
+        { "id": "d", "text": { "en": "She had no political role", "he": "לא היה לה כל תפקיד פוליטי" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Theodora was one of the most powerful women in Byzantine history. Coming from humble origins, she became a key political advisor to Justinian I and helped create laws to protect women.", "he": "תיאודורה הייתה אחת הנשים החזקות ביותר בתולדות ביזנטיון. מגיעה ממוצא צנוע, היא הפכה ליועצת פוליטית מרכזית ליוסטיניאנוס הראשון וסייעה ליצור חוקים להגנת נשים." }
+    },
+    {
+      "id": "q-m08-07",
+      "question": { "en": "What is the title given to the political and religious leader of the Muslim community after Muhammad?", "he": "מה התואר שניתן למנהיג הפוליטי והדתי של הקהילה המוסלמית לאחר מוחמד?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Sultan", "he": "סולטן" } },
+        { "id": "b", "text": { "en": "Imam", "he": "אימאם" } },
+        { "id": "c", "text": { "en": "Emir", "he": "אמיר" } },
+        { "id": "d", "text": { "en": "Caliph", "he": "ח'ליפה" } }
+      ],
+      "correctChoice": "d",
+      "explanation": { "en": "The Caliph was the successor of Muhammad and served as both the political and religious leader of the Muslim world. The first four caliphs are known as the Rightly Guided Caliphs.", "he": "הח'ליפה היה יורשו של מוחמד ושימש כמנהיג הפוליטי והדתי של העולם המוסלמי. ארבעת הח'ליפות הראשונים ידועים כח'ליפות הצדיקים." }
+    },
+    {
+      "id": "q-m08-08",
+      "question": { "en": "When did the Byzantine Empire fall to Ottoman Turks?", "he": "מתי נפלה האימפריה הביזנטית לידי העות'מאנים הטורקים?" },
+      "choices": [
+        { "id": "a", "text": { "en": "1066 CE", "he": "1066 לספירה" } },
+        { "id": "b", "text": { "en": "1453 CE", "he": "1453 לספירה" } },
+        { "id": "c", "text": { "en": "1200 CE", "he": "1200 לספירה" } },
+        { "id": "d", "text": { "en": "1350 CE", "he": "1350 לספירה" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "The Byzantine Empire finally fell in 1453 CE when Ottoman Sultan Mehmed II conquered Constantinople. This event is often used to mark the end of the Middle Ages.", "he": "האימפריה הביזנטית נפלה סופית בשנת 1453 לספירה כאשר הסולטן העות'מאני מהמד השני כבש את קונסטנטינופול. אירוע זה משמש לעתים קרובות לסמן את סוף ימי הביניים." }
+    },
+    {
+      "id": "q-m08-09",
+      "question": { "en": "What was the capital city of the Byzantine Empire?", "he": "מה הייתה בירתה של האימפריה הביזנטית?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Rome", "he": "רומא" } },
+        { "id": "b", "text": { "en": "Athens", "he": "אתונה" } },
+        { "id": "c", "text": { "en": "Constantinople", "he": "קונסטנטינופול" } },
+        { "id": "d", "text": { "en": "Alexandria", "he": "אלכסנדריה" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Constantinople, founded by Emperor Constantine in 330 CE, was the magnificent capital of the Byzantine Empire. Today this city is known as Istanbul and is located in Turkey.", "he": "קונסטנטינופול, שנוסדה על ידי הקיסר קונסטנטין בשנת 330 לספירה, הייתה הבירה המפוארת של האימפריה הביזנטית. כיום עיר זו ידועה בשם איסטנבול ונמצאת בטורקיה." }
+    },
+    {
+      "id": "q-m08-10",
+      "question": { "en": "How many times a day are Muslims called to pray?", "he": "כמה פעמים ביום נקראים מוסלמים להתפלל?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Three times", "he": "שלוש פעמים" } },
+        { "id": "b", "text": { "en": "Once a day", "he": "פעם אחת ביום" } },
+        { "id": "c", "text": { "en": "Seven times", "he": "שבע פעמים" } },
+        { "id": "d", "text": { "en": "Five times", "he": "חמש פעמים" } }
+      ],
+      "correctChoice": "d",
+      "explanation": { "en": "Muslims are called to pray five times a day. The call to prayer, called the adhan, is announced from the minaret of a mosque by a person called a muezzin.", "he": "מוסלמים נקראים להתפלל חמש פעמים ביום. הקריאה לתפילה, הנקראת אדאן, מוכרזת ממינארט של מסגד על ידי אדם הנקרא מואזין." }
+    }
+  ]
+}

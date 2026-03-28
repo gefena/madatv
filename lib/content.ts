@@ -61,9 +61,39 @@ const DISCOVERERS_EPISODES: EpisodeLoader = {
   "d26-tomorrow":             () => import("@/content/episodes/d26-tomorrow.json"),
 };
 
+const MAN_EPISODES: EpisodeLoader = {
+  "m01-earth-created":        () => import("@/content/episodes/m01-earth-created.json"),
+  "m02-neanderthal-man":      () => import("@/content/episodes/m02-neanderthal-man.json"),
+  "m03-cro-magnon":           () => import("@/content/episodes/m03-cro-magnon.json"),
+  "m04-fertile-valleys":      () => import("@/content/episodes/m04-fertile-valleys.json"),
+  "m05-first-empires":        () => import("@/content/episodes/m05-first-empires.json"),
+  "m06-age-of-pericles":      () => import("@/content/episodes/m06-age-of-pericles.json"),
+  "m07-pax-romana":           () => import("@/content/episodes/m07-pax-romana.json"),
+  "m08-conquest-of-islam":    () => import("@/content/episodes/m08-conquest-of-islam.json"),
+  "m09-carolingians":         () => import("@/content/episodes/m09-carolingians.json"),
+  "m10-age-of-vikings":       () => import("@/content/episodes/m10-age-of-vikings.json"),
+  "m11-cathedral-builders":   () => import("@/content/episodes/m11-cathedral-builders.json"),
+  "m12-marco-polo":           () => import("@/content/episodes/m12-marco-polo.json"),
+  "m13-hundred-years-war":    () => import("@/content/episodes/m13-hundred-years-war.json"),
+  "m14-quattrocento":         () => import("@/content/episodes/m14-quattrocento.json"),
+  "m15-golden-age-of-spain":  () => import("@/content/episodes/m15-golden-age-of-spain.json"),
+  "m16-elizabethan-england":  () => import("@/content/episodes/m16-elizabethan-england.json"),
+  "m17-golden-age-low-countries": () => import("@/content/episodes/m17-golden-age-low-countries.json"),
+  "m18-louis-xiv":            () => import("@/content/episodes/m18-louis-xiv.json"),
+  "m19-peter-the-great":      () => import("@/content/episodes/m19-peter-the-great.json"),
+  "m20-age-of-reason":        () => import("@/content/episodes/m20-age-of-reason.json"),
+  "m21-america":              () => import("@/content/episodes/m21-america.json"),
+  "m22-french-revolution":    () => import("@/content/episodes/m22-french-revolution.json"),
+  "m23-awakening-of-peoples": () => import("@/content/episodes/m23-awakening-of-peoples.json"),
+  "m24-belle-epoque":         () => import("@/content/episodes/m24-belle-epoque.json"),
+  "m25-crazy-years":          () => import("@/content/episodes/m25-crazy-years.json"),
+  "m26-future":               () => import("@/content/episodes/m26-future.json"),
+};
+
 const SERIES_EPISODES: Record<string, EpisodeLoader> = {
   life: LIFE_EPISODES,
   discoverers: DISCOVERERS_EPISODES,
+  man: MAN_EPISODES,
 };
 
 // All slugs across all series (used for static generation)

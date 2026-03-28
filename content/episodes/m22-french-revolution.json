@@ -1,0 +1,273 @@
+{
+  "id": "m22-french-revolution",
+  "episodeNumber": 22,
+  "youtubeId": "ayuRQb8z9xU",
+  "videoSources": [],
+  "title": { "en": "The French Revolution", "he": "המהפכה הצרפתית" },
+  "summary": {
+    "en": "In 1789, the people of France rose up against King Louis XVI and the unfair society that kept them poor and hungry, storming the great Bastille prison in Paris as a symbol of freedom. The revolutionaries declared the rights of all people, but the revolution turned violent during the Reign of Terror, when Robespierre sent thousands to the guillotine. King Louis XVI and his wife Marie Antoinette were executed, shocking all of Europe. Out of the chaos rose a brilliant young general named Napoleon Bonaparte, who eventually crowned himself Emperor and conquered most of Europe. Napoleon's invasion of Russia, however, ended in disaster, and he was finally defeated and exiled far from France.",
+    "he": "בשנת 1789 קמו תושבי צרפת נגד המלך לואי ה-16 ונגד החברה הבלתי הוגנת שהותירה אותם עניים ורעבים, ותקפו את כלא הבסטיל הגדול בפריז כסמל לחירות. המהפכנים הכריזו על זכויות כל בני האדם, אולם המהפכה הפכה אלימה בתקופת הטרור, כאשר רובספייר שלח אלפים לגרדום. המלך לואי ה-16 ואשתו מארי אנטואנט הוצאו להורג, מה שהדהים את כל אירופה. מתוך הכאוס עלה גנרל צעיר ומבריק בשם נפוליאון בונפרטה, שהכתיר את עצמו בסופו של דבר לקיסר וכבש את רוב אירופה. פלישתו של נפוליאון לרוסיה, לעומת זאת, הסתיימה באסון, והוא הובס לבסוף וגלה רחוק מצרפת."
+  },
+  "thumbnail": "https://img.youtube.com/vi/ayuRQb8z9xU/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": ["French Revolution", "Bastille", "Napoleon", "Reign of Terror", "guillotine", "Declaration of Rights of Man"],
+  "terminology": [
+    {
+      "id": "t-m22-01",
+      "term": { "en": "French Revolution", "he": "המהפכה הצרפתית" },
+      "definition": {
+        "en": "The French Revolution was a period of radical political and social change in France from 1789 to 1799. The people overthrew the monarchy and established a republic, though the period was also marked by extreme violence.",
+        "he": "המהפכה הצרפתית הייתה תקופה של שינוי פוליטי וחברתי קיצוני בצרפת בין 1789 ל-1799. העם הפיל את המלוכה והקים רפובליקה, אם כי התקופה התאפיינה גם באלימות קשה."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m22-02",
+      "term": { "en": "Bastille", "he": "הבסטיל" },
+      "definition": {
+        "en": "The Bastille was a fortress and prison in Paris that became a symbol of royal tyranny. On July 14, 1789, revolutionaries stormed and captured it, and this date is still celebrated as Bastille Day in France.",
+        "he": "הבסטיל היה מבצר וכלא בפריז שהפך לסמל של עריצות מלכותית. ב-14 ביולי 1789 כבשו המהפכנים אותו בסערה, ותאריך זה עדיין נחגג כיום הבסטיל בצרפת."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m22-03",
+      "term": { "en": "Guillotine", "he": "גיליוטינה" },
+      "definition": {
+        "en": "The guillotine was a device used during the French Revolution to execute people by beheading. It was used to execute thousands of people, including King Louis XVI and Marie Antoinette.",
+        "he": "הגיליוטינה הייתה מכשיר ששימש במהלך המהפכה הצרפתית להוצאה להורג על ידי כריתת ראש. היא שימשה להוצאה להורג של אלפי אנשים, ביניהם המלך לואי ה-16 ומארי אנטואנט."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m22-04",
+      "term": { "en": "Reign of Terror", "he": "שלטון הטרור" },
+      "definition": {
+        "en": "The Reign of Terror was a period from 1793 to 1794 during the French Revolution when the revolutionary government executed thousands of people accused of being enemies of the revolution. It was led mainly by Maximilien Robespierre.",
+        "he": "שלטון הטרור היה תקופה בין 1793 ל-1794 במהלך המהפכה הצרפתית, שבה הממשלה המהפכנית הוציאה להורג אלפי אנשים שהואשמו בהיותם אויבי המהפכה. הוא הונהג בעיקר על ידי מקסימיליין רובספייר."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m22-05",
+      "term": { "en": "Louis XVI", "he": "לואי ה-16" },
+      "definition": {
+        "en": "Louis XVI was the King of France when the revolution broke out. He was seen as a weak ruler who could not solve the country's financial problems and food shortages. He was arrested, tried by the revolutionary government, and executed in 1793.",
+        "he": "לואי ה-16 היה מלך צרפת כאשר המהפכה פרצה. הוא נתפס כשליט חלש שלא יכול היה לפתור את בעיות הכספים ומחסור המזון של המדינה. הוא נעצר, נשפט על ידי הממשלה המהפכנית והוצא להורג ב-1793."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m22-06",
+      "term": { "en": "Marie Antoinette", "he": "מארי אנטואנט" },
+      "definition": {
+        "en": "Marie Antoinette was the Austrian-born Queen of France and wife of Louis XVI. She was known for her lavish lifestyle while many French people were starving. She was executed by guillotine in 1793.",
+        "he": "מארי אנטואנט הייתה המלכה הצרפתית ממוצא אוסטרי ואשתו של לואי ה-16. היא הייתה ידועה בסגנון חיים מפואר בעוד אנשים רבים בצרפת רעבו. היא הוצאה להורג בגיליוטינה ב-1793."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m22-07",
+      "term": { "en": "Robespierre", "he": "רובספייר" },
+      "definition": {
+        "en": "Maximilien Robespierre was a lawyer and one of the most powerful figures of the French Revolution. He led the Committee of Public Safety during the Reign of Terror, but was eventually arrested and executed himself in 1794.",
+        "he": "מקסימיליין רובספייר היה עורך דין ואחד הדמויות החזקות ביותר של המהפכה הצרפתית. הוא הוביל את ועדת הביטחון הציבורי במהלך שלטון הטרור, אך בסופו של דבר נעצר והוצא להורג בעצמו ב-1794."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m22-08",
+      "term": { "en": "Declaration of the Rights of Man", "he": "הכרזת זכויות האדם" },
+      "definition": {
+        "en": "The Declaration of the Rights of Man and of the Citizen was a key document of the French Revolution adopted in 1789. It proclaimed that all men are born free and equal, with rights to liberty, property, security, and resistance to oppression.",
+        "he": "הכרזת זכויות האדם והאזרח הייתה מסמך מפתח של המהפכה הצרפתית שאומץ ב-1789. הוא הכריז שכל בני האדם נולדים חופשיים ושווים, עם זכויות לחירות, קניין, ביטחון והתנגדות לדיכוי."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m22-09",
+      "term": { "en": "Napoleon Bonaparte", "he": "נפוליאון בונפרטה" },
+      "definition": {
+        "en": "Napoleon Bonaparte was a French military general who rose to power after the Revolution and crowned himself Emperor of France in 1804. He conquered much of Europe but was ultimately defeated and exiled to the island of Saint Helena.",
+        "he": "נפוליאון בונפרטה היה גנרל צבאי צרפתי שעלה לשלטון אחרי המהפכה והכתיר את עצמו לקיסר צרפת ב-1804. הוא כבש חלקים גדולים מאירופה אך הובס בסופו של דבר וגלה לאי סנט הלנה."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m22-10",
+      "term": { "en": "Republic", "he": "רפובליקה" },
+      "definition": {
+        "en": "A republic is a type of government in which the people elect their leaders and there is no king or queen. After the French Revolution, France became a republic, ending centuries of monarchy.",
+        "he": "רפובליקה היא סוג של ממשלה שבה העם בוחר את מנהיגיו ואין מלך או מלכה. אחרי המהפכה הצרפתית, צרפת הפכה לרפובליקה, וסיימה מאות שנים של מלוכה."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m22-11",
+      "term": { "en": "Danton", "he": "דנטון" },
+      "definition": {
+        "en": "Georges Danton was a leading figure in the French Revolution and a powerful orator who helped organize the early revolutionary government. He was later accused of being too moderate and was executed by guillotine in 1794.",
+        "he": "ג'ורז' דנטון היה דמות מובילה במהפכה הצרפתית ונואם רב עוצמה שסייע בארגון הממשלה המהפכנית הראשונה. לאחר מכן הואשם בהיותו מתון מדי והוצא להורג בגיליוטינה ב-1794."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m22-12",
+      "term": { "en": "Marat", "he": "מרה" },
+      "definition": {
+        "en": "Jean-Paul Marat was a radical journalist and politician during the French Revolution who used his newspaper to call for more executions of the revolution's enemies. He was famously stabbed to death in his bathtub in 1793.",
+        "he": "ז'אן-פול מרה היה עיתונאי ופוליטיקאי קיצוני במהלך המהפכה הצרפתית שהשתמש בעיתונו לקרוא להוצאות להורג נוספות של אויבי המהפכה. הוא נרצח בדרך מפורסמת בפגיון באמבטיה ב-1793."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m22-13",
+      "term": { "en": "Emperor", "he": "קיסר" },
+      "definition": {
+        "en": "An emperor is a ruler with supreme power over a large empire or group of countries. Napoleon crowned himself Emperor of France in 1804, taking a step away from the republican ideals of the Revolution.",
+        "he": "קיסר הוא שליט בעל כוח עליון על אימפריה גדולה או קבוצת מדינות. נפוליאון הכתיר את עצמו לקיסר צרפת ב-1804, ובכך הרחיק את עצמו מהאידיאלים הרפובליקניים של המהפכה."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m22-14",
+      "term": { "en": "Invasion of Russia", "he": "הפלישה לרוסיה" },
+      "definition": {
+        "en": "In 1812, Napoleon led his massive army into Russia, hoping for a quick victory. The Russian winter, vast distances, and a scorched-earth strategy by the Russians led to a catastrophic defeat, with most of his soldiers dying from cold and hunger.",
+        "he": "ב-1812 הוביל נפוליאון את צבאו האדיר לרוסיה, בתקווה לניצחון מהיר. החורף הרוסי, המרחקים העצומים ואסטרטגיית האדמה החרוכה של הרוסים הובילו לתבוסה קטסטרופלית, ורוב חייליו מתו מקור ורעב."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m22-15",
+      "term": { "en": "Monarchy", "he": "מלוכה" },
+      "definition": {
+        "en": "A monarchy is a system of government where a king or queen rules, usually inheriting power from their parents. The French Revolution overthrew the monarchy and replaced it with a republic where people had more rights.",
+        "he": "מלוכה היא שיטת ממשל שבה מלך או מלכה שולטים, לרוב יורשים את השלטון מהוריהם. המהפכה הצרפתית הפילה את המלוכה והחליפה אותה ברפובליקה שבה לאנשים היו זכויות רבות יותר."
+      },
+      "category": "history"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q-m22-01",
+      "question": { "en": "In what year did the French Revolution begin?", "he": "באיזו שנה החלה המהפכה הצרפתית?" },
+      "choices": [
+        { "id": "a", "text": { "en": "1776", "he": "1776" } },
+        { "id": "b", "text": { "en": "1804", "he": "1804" } },
+        { "id": "c", "text": { "en": "1789", "he": "1789" } },
+        { "id": "d", "text": { "en": "1815", "he": "1815" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "The French Revolution began in 1789 with the storming of the Bastille on July 14.", "he": "המהפכה הצרפתית החלה ב-1789 עם כיבוש הבסטיל ב-14 ביולי." }
+    },
+    {
+      "id": "q-m22-02",
+      "question": { "en": "What was the Bastille?", "he": "מה היה הבסטיל?" },
+      "choices": [
+        { "id": "a", "text": { "en": "A royal palace", "he": "ארמון מלכותי" } },
+        { "id": "b", "text": { "en": "A fortress and prison", "he": "מבצר וכלא" } },
+        { "id": "c", "text": { "en": "A large cathedral", "he": "קתדרלה גדולה" } },
+        { "id": "d", "text": { "en": "A market square", "he": "כיכר שוק" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "The Bastille was a fortress and prison in Paris that symbolized royal power and tyranny. Its capture on July 14, 1789 marked the start of the Revolution.", "he": "הבסטיל היה מבצר וכלא בפריז שסמל את כוח המלך ועריצותו. כיבושו ב-14 ביולי 1789 סימן את תחילת המהפכה." }
+    },
+    {
+      "id": "q-m22-03",
+      "question": { "en": "Who led the Reign of Terror?", "he": "מי הוביל את שלטון הטרור?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Napoleon Bonaparte", "he": "נפוליאון בונפרטה" } },
+        { "id": "b", "text": { "en": "Louis XVI", "he": "לואי ה-16" } },
+        { "id": "c", "text": { "en": "Danton", "he": "דנטון" } },
+        { "id": "d", "text": { "en": "Robespierre", "he": "רובספייר" } }
+      ],
+      "correctChoice": "d",
+      "explanation": { "en": "Robespierre led the Committee of Public Safety during the Reign of Terror and was responsible for sending thousands to the guillotine.", "he": "רובספייר הוביל את ועדת הביטחון הציבורי במהלך שלטון הטרור והיה אחראי לשליחת אלפים לגיליוטינה." }
+    },
+    {
+      "id": "q-m22-04",
+      "question": { "en": "What was the guillotine used for?", "he": "למה שימשה הגיליוטינה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Cutting bread", "he": "חיתוך לחם" } },
+        { "id": "b", "text": { "en": "Printing newspapers", "he": "הדפסת עיתונים" } },
+        { "id": "c", "text": { "en": "Executing people by beheading", "he": "הוצאה להורג על ידי כריתת ראש" } },
+        { "id": "d", "text": { "en": "Building bridges", "he": "בניית גשרים" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "The guillotine was a machine designed to execute people quickly by cutting off their head. It was widely used during the Reign of Terror.", "he": "הגיליוטינה הייתה מכונה שתוכננה להוצאה להורג מהירה על ידי כריתת ראש. היא שימשה רבות במהלך שלטון הטרור." }
+    },
+    {
+      "id": "q-m22-05",
+      "question": { "en": "What happened to King Louis XVI during the Revolution?", "he": "מה קרה למלך לואי ה-16 במהלך המהפכה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "He escaped to England", "he": "הוא ברח לאנגליה" } },
+        { "id": "b", "text": { "en": "He was executed by guillotine", "he": "הוא הוצא להורג בגיליוטינה" } },
+        { "id": "c", "text": { "en": "He became a general", "he": "הוא הפך לגנרל" } },
+        { "id": "d", "text": { "en": "He joined Napoleon's army", "he": "הוא הצטרף לצבאו של נפוליאון" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Louis XVI was arrested, put on trial, and executed by guillotine in January 1793, marking the end of the French monarchy.", "he": "לואי ה-16 נעצר, הועמד לדין והוצא להורג בגיליוטינה בינואר 1793, מה שסימן את סוף המלוכה הצרפתית." }
+    },
+    {
+      "id": "q-m22-06",
+      "question": { "en": "When did Napoleon crown himself Emperor of France?", "he": "מתי הכתיר נפוליאון את עצמו לקיסר צרפת?" },
+      "choices": [
+        { "id": "a", "text": { "en": "1789", "he": "1789" } },
+        { "id": "b", "text": { "en": "1799", "he": "1799" } },
+        { "id": "c", "text": { "en": "1804", "he": "1804" } },
+        { "id": "d", "text": { "en": "1812", "he": "1812" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Napoleon crowned himself Emperor of France in 1804 in a grand ceremony at Notre-Dame Cathedral in Paris.", "he": "נפוליאון הכתיר את עצמו לקיסר צרפת ב-1804 בטקס מפואר בקתדרלת נוטר-דאם בפריז." }
+    },
+    {
+      "id": "q-m22-07",
+      "question": { "en": "What was Marie Antoinette known for?", "he": "במה הייתה ידועה מארי אנטואנט?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Her military victories", "he": "ניצחונותיה הצבאיים" } },
+        { "id": "b", "text": { "en": "Her scientific discoveries", "he": "גילוייה המדעיים" } },
+        { "id": "c", "text": { "en": "Her lavish lifestyle while people starved", "he": "סגנון חייה המפואר בעוד אנשים רעבו" } },
+        { "id": "d", "text": { "en": "Writing the Declaration of Rights", "he": "כתיבת הכרזת הזכויות" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Marie Antoinette was widely criticized for her extravagant spending and parties at Versailles while ordinary French people struggled to afford bread.", "he": "מארי אנטואנט זכתה לביקורת נרחבת בשל הוצאותיה הבזבזניות והמסיבות בוורסאי בעוד הצרפתים הפשוטים התקשו להרשות לעצמם לחם." }
+    },
+    {
+      "id": "q-m22-08",
+      "question": { "en": "Why did Napoleon's invasion of Russia fail?", "he": "מדוע נכשלה פלישתו של נפוליאון לרוסיה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "The Russian army was much larger", "he": "הצבא הרוסי היה גדול בהרבה" } },
+        { "id": "b", "text": { "en": "Napoleon refused to fight", "he": "נפוליאון סירב להילחם" } },
+        { "id": "c", "text": { "en": "Britain blocked the roads", "he": "בריטניה חסמה את הדרכים" } },
+        { "id": "d", "text": { "en": "The Russian winter and scorched earth strategy destroyed his army", "he": "החורף הרוסי ואסטרטגיית האדמה החרוכה השמידו את צבאו" } }
+      ],
+      "correctChoice": "d",
+      "explanation": { "en": "Napoleon's 1812 invasion of Russia failed because of the brutal Russian winter and because the Russians burned their own land to deny his army food and shelter.", "he": "פלישתו של נפוליאון לרוסיה ב-1812 נכשלה בגלל החורף הרוסי האכזרי ובגלל שהרוסים שרפו את אדמתם שלהם כדי לשלול מצבאו מזון ומחסה." }
+    },
+    {
+      "id": "q-m22-09",
+      "question": { "en": "What did the Declaration of the Rights of Man proclaim?", "he": "מה הכריזה הכרזת זכויות האדם?" },
+      "choices": [
+        { "id": "a", "text": { "en": "That the king had all power", "he": "שלמלך יש כל הכוח" } },
+        { "id": "b", "text": { "en": "That all men are born free and equal", "he": "שכל בני האדם נולדים חופשיים ושווים" } },
+        { "id": "c", "text": { "en": "That France should invade other countries", "he": "שצרפת צריכה לפלוש למדינות אחרות" } },
+        { "id": "d", "text": { "en": "That women had the right to vote", "he": "שלנשים יש זכות הצבעה" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "The Declaration of the Rights of Man (1789) proclaimed that all men are born free and equal and have natural rights including liberty and security.", "he": "הכרזת זכויות האדם (1789) הכריזה שכל בני האדם נולדים חופשיים ושווים ויש להם זכויות טבעיות כולל חירות וביטחון." }
+    },
+    {
+      "id": "q-m22-10",
+      "question": { "en": "Who was Jean-Paul Marat?", "he": "מי היה ז'אן-פול מרה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "A general in Napoleon's army", "he": "גנרל בצבאו של נפוליאון" } },
+        { "id": "b", "text": { "en": "The last king of France", "he": "המלך האחרון של צרפת" } },
+        { "id": "c", "text": { "en": "A radical journalist and revolutionary politician", "he": "עיתונאי קיצוני ופוליטיקאי מהפכני" } },
+        { "id": "d", "text": { "en": "An Austrian diplomat", "he": "דיפלומט אוסטרי" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Marat was a radical journalist whose newspaper called for violent action against the revolution's enemies. He was murdered in his bathtub in 1793 and became a martyr of the Revolution.", "he": "מרה היה עיתונאי קיצוני שעיתונו קרא לפעולה אלימה נגד אויבי המהפכה. הוא נרצח באמבטיה ב-1793 והפך לקדוש המהפכה." }
+    }
+  ]
+}

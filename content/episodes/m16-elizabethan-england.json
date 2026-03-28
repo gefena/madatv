@@ -1,0 +1,279 @@
+{
+  "id": "m16-elizabethan-england",
+  "episodeNumber": 16,
+  "youtubeId": "3yvEUbLHq88",
+  "videoSources": [],
+  "title": { "en": "Elizabethan England", "he": "אנגליה בימי אליזבת'" },
+  "summary": {
+    "en": "This episode explores one of the most dramatic periods in English history, beginning with King Henry VIII, who broke away from the Catholic Church to create the Church of England so he could divorce his first wife, Catherine of Aragon. Henry had six wives in total, and his actions set off a turbulent struggle between Catholics and Protestants that would shape England for generations. His daughter Elizabeth I became queen in 1558 and presided over a golden age of exploration, culture, and power — her admiral Francis Drake circumnavigated the globe, and her navy defeated the mighty Spanish Armada in 1588. The era also saw the genius of William Shakespeare, whose plays and poetry remain among the greatest achievements in the English language.",
+    "he": "פרק זה חוקר אחת התקופות הדרמטיות ביותר בהיסטוריה האנגלית, החל מהמלך הנרי השמיני, שפרש מהכנסייה הקתולית ויצר את כנסיית אנגליה כדי שיוכל להתגרש מאשתו הראשונה, קתרין מארגון. לנרי היו שש נשים בסך הכל, ומעשיו עוררו מאבק סוער בין קתולים לפרוטסטנטים שעיצב את אנגליה לדורות. בתו אליזבת הראשונה הפכה למלכה בשנת 1558 ועמדה בראש תור זהב של חקר, תרבות וכוח — אדמירלה פרנסיס דרייק הקיף את הכדור הארץ, וצי הים שלה הביס את הארמדה הספרדית האדירה בשנת 1588. העידן ראה גם את גאוניותו של וויליאם שייקספיר, שמחזותיו ושיריו נותרים מבין הישגיה הגדולים ביותר של השפה האנגלית."
+  },
+  "thumbnail": "https://img.youtube.com/vi/3yvEUbLHq88/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": [
+    "Henry VIII and the creation of the Church of England",
+    "Elizabeth I and the Elizabethan golden age",
+    "defeating the Spanish Armada in 1588",
+    "Francis Drake circumnavigating the globe",
+    "Shakespeare and Elizabethan culture"
+  ],
+  "terminology": [
+    {
+      "id": "t-m16-01",
+      "term": { "en": "Henry VIII", "he": "הנרי השמיני" },
+      "definition": {
+        "en": "Henry VIII was King of England from 1509 to 1547, famous for breaking with the Catholic Church to create the Church of England so he could divorce his first wife. He had six wives in total — two were divorced, two were executed, one died in childbirth, and one outlived him. His religious reforms permanently changed England from a Catholic to a Protestant nation.",
+        "he": "הנרי השמיני היה מלך אנגליה מ-1509 עד 1547, מפורסם בשל פרישתו מהכנסייה הקתולית ויצירת כנסיית אנגליה כדי שיוכל להתגרש מאשתו הראשונה. היו לו שש נשים בסך הכל — שתיים התגרשו, שתיים הוצאו להורג, אחת מתה בלידה ואחת שרדה אותו. רפורמותיו הדתיות שינו לצמיתות את אנגליה ממדינה קתולית למדינה פרוטסטנטית."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m16-02",
+      "term": { "en": "Church of England", "he": "כנסיית אנגליה" },
+      "definition": {
+        "en": "The Church of England, also called the Anglican Church, was founded by Henry VIII in 1534 when he declared himself the Supreme Head of the Church of England, breaking away from the authority of the Pope in Rome. This break, called the English Reformation, was partly religious and partly political — Henry wanted to control church affairs in his kingdom and needed a divorce the Pope refused to grant. The Church of England still exists today as the official church of England.",
+        "he": "כנסיית אנגליה, הנקראת גם הכנסייה האנגליקנית, נוסדה על ידי הנרי השמיני בשנת 1534 כאשר הכריז על עצמו כראש העליון של כנסיית אנגליה, ופרש מסמכות האפיפיור ברומא. פרישה זו, הנקראת הרפורמציה האנגלית, הייתה חלקה דתית וחלקה פוליטית — הנרי רצה לשלוט בענייני הכנסייה בממלכתו ונזקק לגירושין שהאפיפיור סירב לאשר. כנסיית אנגליה עדיין קיימת היום כהכנסייה הרשמית של אנגליה."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m16-03",
+      "term": { "en": "Elizabeth I", "he": "אליזבת הראשונה" },
+      "definition": {
+        "en": "Elizabeth I was Queen of England from 1558 to 1603, one of the most celebrated monarchs in history. The daughter of Henry VIII and Anne Boleyn, she never married and became known as the Virgin Queen. Her reign, called the Elizabethan Era, saw England become a major sea power, great advances in exploration and culture, and the flowering of English literature with writers like Shakespeare and Marlowe.",
+        "he": "אליזבת הראשונה הייתה מלכת אנגליה מ-1558 עד 1603, אחת השליטות המפוארות ביותר בהיסטוריה. בתו של הנרי השמיני ואן בולין, היא מעולם לא נישאה ונודעה בתור המלכה הבתולה. שלטונה, הנקרא העידן האליזבתני, ראה את אנגליה הפכה למעצמת ים מרכזית, התקדמות גדולה בחקר ותרבות, ופריחת הספרות האנגלית עם סופרים כמו שייקספיר ומרלו."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m16-04",
+      "term": { "en": "Spanish Armada", "he": "הארמדה הספרדית" },
+      "definition": {
+        "en": "The Spanish Armada was a massive fleet of 130 ships sent by King Philip II of Spain in 1588 to invade England and overthrow Queen Elizabeth I. The English navy, aided by storms and superior tactics, defeated the Armada in a series of battles, with many Spanish ships wrecked by gales off the coasts of Scotland and Ireland. The defeat of the Armada marked the beginning of England's rise as the dominant sea power and ended Spain's dream of reconquering Protestant England.",
+        "he": "הארמדה הספרדית הייתה צי עצום של 130 ספינות שנשלח על ידי המלך פיליפ השני מספרד בשנת 1588 לפלוש לאנגליה ולהפיל את המלכה אליזבת הראשונה. הצי האנגלי, בסיוע סערות ותכסיסנות עדיפה, הביס את הארמדה בסדרת קרבות, כאשר ספינות ספרדיות רבות נטרפו בסופות קרוב לחופי סקוטלנד ואירלנד. הבסת הארמדה סימנה את תחילת עלייתה של אנגליה כמעצמת הים הדומיננטית וסיימה את חלומה של ספרד לכבוש מחדש את אנגליה הפרוטסטנטית."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m16-05",
+      "term": { "en": "Francis Drake", "he": "פרנסיס דרייק" },
+      "definition": {
+        "en": "Francis Drake was an English sea captain and privateer who became the first Englishman to circumnavigate the globe, completing the voyage between 1577 and 1580. Queen Elizabeth I knighted him on his return, making him Sir Francis Drake. He was also a feared pirate who raided Spanish treasure ships and ports in the Americas, and commanded ships against the Spanish Armada in 1588.",
+        "he": "פרנסיס דרייק היה קפיטן ים ופרטיזן אנגלי שהפך לאנגלי הראשון שהקיף את כדור הארץ, והשלים את המסע בין 1577 ל-1580. המלכה אליזבת הראשונה העניקה לו תואר אביר בשובו, והפכה אותו לסר פרנסיס דרייק. הוא היה גם פיראט ירא שפשט על ספינות האוצר הספרדיות ועל נמלים באמריקה, ופיקד על ספינות נגד הארמדה הספרדית בשנת 1588."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m16-06",
+      "term": { "en": "William Shakespeare", "he": "וויליאם שייקספיר" },
+      "definition": {
+        "en": "William Shakespeare was an English playwright and poet who lived from 1564 to 1616 and is widely regarded as the greatest writer in the English language. He wrote 37 plays including tragedies like Hamlet, Macbeth, and Romeo and Juliet, comedies like A Midsummer Night's Dream, and history plays. His works, written during the reign of Elizabeth I and James I, explored profound themes of love, power, jealousy, and the human condition.",
+        "he": "וויליאם שייקספיר היה מחזאי ומשורר אנגלי שחי מ-1564 עד 1616 ונחשב באופן נרחב לסופר הגדול ביותר בשפה האנגלית. הוא כתב 37 מחזות כולל טרגדיות כמו המלט, מקבת ורומיאו ויוליה, קומדיות כמו חלום ליל קיץ ומחזות היסטוריים. יצירותיו, שנכתבו בתקופת שלטון אליזבת הראשונה וג'יימס הראשון, חקרו נושאים עמוקים של אהבה, כוח, קנאה ומצב האדם."
+      },
+      "category": "culture"
+    },
+    {
+      "id": "t-m16-07",
+      "term": { "en": "Anne Boleyn", "he": "אן בולין" },
+      "definition": {
+        "en": "Anne Boleyn was the second wife of King Henry VIII and the mother of Queen Elizabeth I. Henry fell in love with Anne and sought to divorce his first wife, Catherine of Aragon, to marry her — a dispute that led to the English Reformation. Anne gave birth to Elizabeth in 1533, but when she failed to produce a male heir, Henry had her arrested on charges of adultery and treason, and she was executed in 1536.",
+        "he": "אן בולין הייתה אשתו השנייה של המלך הנרי השמיני ואמה של המלכה אליזבת הראשונה. הנרי התאהב באן ובקש להתגרש מאשתו הראשונה, קתרין מארגון, כדי להתחתן איתה — סכסוך שהוביל לרפורמציה האנגלית. אן ילדה את אליזבת בשנת 1533, אך כאשר לא הצליחה ללדת יורש זכר, הורה הנרי על מעצרה באשמת ניאוף ובגידה, והיא הוצאה להורג בשנת 1536."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m16-08",
+      "term": { "en": "Mary Queen of Scots", "he": "מרי מלכת סקוטים" },
+      "definition": {
+        "en": "Mary Queen of Scots was the Catholic queen of Scotland and a cousin of Elizabeth I who many Catholics believed had a stronger claim to the English throne than the Protestant Elizabeth. After being forced to abdicate in Scotland, Mary fled to England and became a prisoner of Elizabeth for nearly 20 years. When evidence emerged that Mary was involved in plots to assassinate Elizabeth, she was executed in 1587.",
+        "he": "מרי מלכת סקוטים הייתה המלכה הקתולית של סקוטלנד ובת דודתה של אליזבת הראשונה, שקתולים רבים האמינו שיש לה תביעה חזקה יותר לכס המלכות האנגלי מהפרוטסטנטית אליזבת. לאחר שנאלצה להתפטר בסקוטלנד, מרי ברחה לאנגליה והפכה לאסירתה של אליזבת כמעט 20 שנה. כאשר עלו ראיות שמרי הייתה מעורבת בקשירות קשר לרצח אליזבת, היא הוצאה להורג בשנת 1587."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m16-09",
+      "term": { "en": "Thomas More", "he": "תומאס מור" },
+      "definition": {
+        "en": "Thomas More was a scholar, lawyer, and statesman who served as Lord Chancellor under Henry VIII. He was also the author of Utopia, a famous book imagining an ideal society. More was a devout Catholic who refused to accept Henry VIII as the head of the Church of England or to acknowledge the annulment of Henry's marriage to Catherine of Aragon. For this refusal, he was imprisoned in the Tower of London and executed in 1535. He was later made a saint by the Catholic Church.",
+        "he": "תומאס מור היה חוקר, עורך דין ואיש מדינה שכיהן כלורד קנצלר תחת הנרי השמיני. הוא היה גם מחבר יוטופיה, ספר מפורסם המדמיין חברה אידיאלית. מור היה קתולי אדוק שסירב לקבל את הנרי השמיני כראש כנסיית אנגליה או להכיר בביטול נישואי הנרי עם קתרין מארגון. בשל סירוב זה נכלא במגדל לונדון והוצא להורג בשנת 1535. לאחר מכן הוכרז כקדוש על ידי הכנסייה הקתולית."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m16-10",
+      "term": { "en": "Protestant Reformation", "he": "הרפורמציה הפרוטסטנטית" },
+      "definition": {
+        "en": "The Protestant Reformation was a major religious movement in 16th-century Europe that challenged the authority and practices of the Roman Catholic Church. Beginning with Martin Luther in Germany in 1517, reformers protested corruption in the Church and argued that people could read the Bible and find their own path to God without needing priests as intermediaries. In England, Henry VIII used the Reformation as an opportunity to break from Rome and establish his own church.",
+        "he": "הרפורמציה הפרוטסטנטית הייתה תנועה דתית מרכזית באירופה של המאה ה-16 שאתגרה את סמכות ונוהגי הכנסייה הקתולית הרומית. החל ממרטין לותר בגרמניה בשנת 1517, טענו המתקנים על שחיתות בכנסייה וטענו שאנשים יכולים לקרוא את התנ"ך ולמצוא את דרכם לאלוהים ללא כמרים כמתווכים. באנגליה, השתמש הנרי השמיני ברפורמציה כהזדמנות לפרוש מרומא ולהקים את כנסייתו שלו."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m16-11",
+      "term": { "en": "The Globe Theatre", "he": "תיאטרון הגלוב" },
+      "definition": {
+        "en": "The Globe Theatre was the famous playhouse in London where many of Shakespeare's plays were first performed. Built in 1599 by Shakespeare's company, the Lord Chamberlain's Men, it was an open-air theatre that could hold up to 3,000 spectators. People of all social classes came to watch plays there — wealthy patrons sat in covered galleries while poorer audience members stood in the open yard below, earning the nickname groundlings.",
+        "he": "תיאטרון הגלוב היה בית התיאטרון המפורסם בלונדון שבו הוצגו בפעם הראשונה מחזות רבים של שייקספיר. נבנה בשנת 1599 על ידי להקתו של שייקספיר, אנשי לורד הצ'מברליין, היה זה תיאטרון בחוץ שיכול היה להכיל עד 3,000 צופים. אנשים מכל שכבות החברה באו לצפות שם במחזות — פטרונים עשירים ישבו בגלריות מקורות בעוד חברי קהל עניים יותר עמדו בחצר הפתוחה למטה, וקיבלו את הכינוי גראונדלינגז."
+      },
+      "category": "culture"
+    },
+    {
+      "id": "t-m16-12",
+      "term": { "en": "Circumnavigation", "he": "הקפת כדור הארץ" },
+      "definition": {
+        "en": "Circumnavigation means sailing or travelling completely around the Earth. Ferdinand Magellan led the first expedition to circumnavigate the globe, beginning in 1519, though he died during the voyage and his navigator Sebastian del Cano completed the journey in 1522. Francis Drake became the first person to captain a ship the entire way around the world, completing his voyage from 1577 to 1580. These expeditions proved that the Earth was round and revealed the true scale of the oceans.",
+        "he": "הקפת כדור הארץ פירושה הפלגה או נסיעה מסביב לכדור הארץ לחלוטין. פרדיננד מגלן הוביל את המשלחת הראשונה להקיף את הגלובוס, החל מ-1519, אם כי מת במהלך המסע ונווטו סבסטיאן דל קאנו השלים את המסע בשנת 1522. פרנסיס דרייק הפך לאדם הראשון שניהג ספינה כל הדרך מסביב לעולם, והשלים את מסעו מ-1577 עד 1580. מסעות אלה הוכיחו שכדור הארץ עגול וחשפו את הממדים האמיתיים של האוקיינוסים."
+      },
+      "category": "geography"
+    },
+    {
+      "id": "t-m16-13",
+      "term": { "en": "Tower of London", "he": "מגדל לונדון" },
+      "definition": {
+        "en": "The Tower of London is a historic fortress on the north bank of the Thames River in London, founded by William the Conqueror in the 11th century. During the Tudor period, it served as a royal prison where many famous people were imprisoned and executed, including Anne Boleyn, Thomas More, and Mary Queen of Scots. Today it is a famous museum and UNESCO World Heritage Site where the British Crown Jewels are kept.",
+        "he": "מגדל לונדון הוא מבצר היסטורי על הגדה הצפונית של נהר התמס בלונדון, שנוסד על ידי וויליאם הכובש במאה ה-11. בתקופת הטיודורים שימש כבית כלא מלכותי שבו נכלאו והוצאו להורג אנשים מפורסמים רבים, כולל אן בולין, תומאס מור ומרי מלכת סקוטים. כיום הוא מוזיאון מפורסם ואתר מורשת עולמי של אונסק"ו שבו שמורים תכשיטי הכתר הבריטי."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m16-14",
+      "term": { "en": "Privateers", "he": "פרטיזנים" },
+      "definition": {
+        "en": "Privateers were privately owned armed ships that were authorized by their government to attack and capture enemy ships and ports during wartime. In practice, they were often little different from pirates, but they had official permission called a letter of marque. English privateers like Francis Drake and John Hawkins attacked Spanish treasure ships and coastal towns in the Americas with the approval of Queen Elizabeth I, who shared in the profits.",
+        "he": "פרטיזנים היו ספינות חמושות בבעלות פרטית שהוסמכו על ידי ממשלתן לתקוף וללכוד ספינות ונמלי אויב בזמן מלחמה. בפועל, הם לא היו שונים בהרבה מפיראטים, אך היה להם אישור רשמי הנקרא מכתב מארק. פרטיזנים אנגלים כמו פרנסיס דרייק וג'ון הוקינס תקפו ספינות אוצר ספרדיות ועיירות חוף באמריקה באישור המלכה אליזבת הראשונה, שחלקה ברווחים."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m16-15",
+      "term": { "en": "Tudor Dynasty", "he": "שושלת טיודור" },
+      "definition": {
+        "en": "The Tudor Dynasty was the royal family that ruled England and Wales from 1485 to 1603. Founded by Henry VII after his victory at the Battle of Bosworth Field, it included some of England's most famous monarchs — Henry VIII, Edward VI, Mary I (Bloody Mary), and Elizabeth I. The Tudor period was marked by religious upheaval, the English Reformation, great voyages of exploration, and a flowering of English culture and literature.",
+        "he": "שושלת טיודור הייתה המשפחה המלכותית ששלטה באנגליה ובוויילס מ-1485 עד 1603. שנוסדה על ידי הנרי השביעי לאחר ניצחונו בקרב בוסוורת' פילד, כללה כמה מהשליטים המפורסמים ביותר של אנגליה — הנרי השמיני, אדוארד השישי, מרי הראשונה (מרי הדמים) ואליזבת הראשונה. תקופת טיודור התאפיינה במהפכה דתית, הרפורמציה האנגלית, מסעות חקר גדולים ופריחת התרבות והספרות האנגלית."
+      },
+      "category": "history"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q-m16-01",
+      "question": { "en": "Why did Henry VIII create the Church of England?", "he": "מדוע הנרי השמיני יצר את כנסיית אנגליה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "He wanted to become Pope", "he": "הוא רצה להיות אפיפיור" } },
+        { "id": "b", "text": { "en": "He disagreed with Catholic beliefs about God", "he": "הוא חלק על אמונות קתוליות לגבי אלוהים" } },
+        { "id": "c", "text": { "en": "He wanted to divorce his first wife and the Pope refused", "he": "הוא רצה להתגרש מאשתו הראשונה והאפיפיור סירב" } },
+        { "id": "d", "text": { "en": "He wanted to make England stronger militarily", "he": "הוא רצה לחזק את אנגליה מבחינה צבאית" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Henry VIII wanted to divorce Catherine of Aragon because she had not given him a male heir. When Pope Clement VII refused to grant the divorce, Henry broke away from Rome and declared himself head of the new Church of England.", "he": "הנרי השמיני רצה להתגרש מקתרין מארגון מכיוון שלא ילדה לו יורש זכר. כאשר האפיפיור קלמנט השביעי סירב לאשר את הגירושין, פרש הנרי מרומא והכריז על עצמו כראש כנסיית אנגליה החדשה." }
+    },
+    {
+      "id": "q-m16-02",
+      "question": { "en": "How many wives did Henry VIII have?", "he": "כמה נשים היו להנרי השמיני?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Two", "he": "שתיים" } },
+        { "id": "b", "text": { "en": "Four", "he": "ארבע" } },
+        { "id": "c", "text": { "en": "Five", "he": "חמש" } },
+        { "id": "d", "text": { "en": "Six", "he": "שש" } }
+      ],
+      "correctChoice": "d",
+      "explanation": { "en": "Henry VIII had six wives in total: Catherine of Aragon, Anne Boleyn, Jane Seymour, Anne of Cleves, Catherine Howard, and Catherine Parr. Two were divorced, two were executed, one died after childbirth, and one outlived Henry.", "he": "להנרי השמיני היו שש נשים בסך הכל: קתרין מארגון, אן בולין, ג'יין סיימור, אן מקלב, קתרין הווארד וקתרין פאר. שתיים התגרשו, שתיים הוצאו להורג, אחת מתה לאחר לידה ואחת שרדה את הנרי." }
+    },
+    {
+      "id": "q-m16-03",
+      "question": { "en": "What was Elizabeth I known as, since she never married?", "he": "בשם מה הייתה ידועה אליזבת הראשונה, מאחר שמעולם לא נישאה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "The Warrior Queen", "he": "מלכת הלוחמים" } },
+        { "id": "b", "text": { "en": "The Virgin Queen", "he": "המלכה הבתולה" } },
+        { "id": "c", "text": { "en": "The Sun Queen", "he": "מלכת השמש" } },
+        { "id": "d", "text": { "en": "The Sea Queen", "he": "מלכת הים" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Elizabeth I was called the Virgin Queen because she never married or had children. Despite many proposals, she chose to remain single, saying she was married to England and her subjects were her children.", "he": "אליזבת הראשונה כונתה המלכה הבתולה מכיוון שמעולם לא נישאה ולא ילדה ילדים. למרות הצעות רבות, בחרה להישאר רווקה, ואמרה שנישאה לאנגליה ונתיניה הם ילדיה." }
+    },
+    {
+      "id": "q-m16-04",
+      "question": { "en": "In what year was the Spanish Armada defeated?", "he": "באיזו שנה הובסה הארמדה הספרדית?" },
+      "choices": [
+        { "id": "a", "text": { "en": "1580", "he": "1580" } },
+        { "id": "b", "text": { "en": "1600", "he": "1600" } },
+        { "id": "c", "text": { "en": "1588", "he": "1588" } },
+        { "id": "d", "text": { "en": "1570", "he": "1570" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "The Spanish Armada was defeated in 1588. King Philip II of Spain sent the fleet to invade England, but a combination of English tactics, fireships, and violent storms wrecked the Armada, with only about half the ships returning to Spain.", "he": "הארמדה הספרדית הובסה בשנת 1588. המלך פיליפ השני מספרד שלח את הצי לפלוש לאנגליה, אך שילוב של טקטיקות אנגליות, ספינות אש וסופות אלימות הרסו את הארמדה, כאשר רק כחצי מהספינות חזרו לספרד." }
+    },
+    {
+      "id": "q-m16-05",
+      "question": { "en": "What did Francis Drake accomplish between 1577 and 1580?", "he": "מה השיג פרנסיס דרייק בין 1577 ל-1580?" },
+      "choices": [
+        { "id": "a", "text": { "en": "He discovered Australia", "he": "הוא גילה את אוסטרליה" } },
+        { "id": "b", "text": { "en": "He became the first Englishman to circumnavigate the globe", "he": "הוא הפך לאנגלי הראשון שהקיף את כדור הארץ" } },
+        { "id": "c", "text": { "en": "He defeated the Spanish Armada", "he": "הוא הביס את הארמדה הספרדית" } },
+        { "id": "d", "text": { "en": "He founded the first English colony in America", "he": "הוא ייסד את המושבה האנגלית הראשונה באמריקה" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Francis Drake became the first Englishman — and only the second person ever — to circumnavigate the globe, sailing from England in 1577 and returning in 1580. Queen Elizabeth I knighted him upon his return.", "he": "פרנסיס דרייק הפך לאנגלי הראשון — ורק האדם השני אי פעם — שהקיף את כדור הארץ, הפליג מאנגליה בשנת 1577 וחזר בשנת 1580. המלכה אליזבת הראשונה העניקה לו תואר אביר בשובו." }
+    },
+    {
+      "id": "q-m16-06",
+      "question": { "en": "Who was the mother of Queen Elizabeth I?", "he": "מי הייתה אמה של המלכה אליזבת הראשונה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Catherine of Aragon", "he": "קתרין מארגון" } },
+        { "id": "b", "text": { "en": "Jane Seymour", "he": "ג'יין סיימור" } },
+        { "id": "c", "text": { "en": "Mary Queen of Scots", "he": "מרי מלכת סקוטים" } },
+        { "id": "d", "text": { "en": "Anne Boleyn", "he": "אן בולין" } }
+      ],
+      "correctChoice": "d",
+      "explanation": { "en": "Elizabeth I was the daughter of Henry VIII and his second wife, Anne Boleyn. Anne was executed in 1536 when Elizabeth was only 2 years old. Despite this, Elizabeth became one of England's greatest monarchs.", "he": "אליזבת הראשונה הייתה בתם של הנרי השמיני ואשתו השנייה, אן בולין. אן הוצאה להורג בשנת 1536 כאשר אליזבת הייתה בת שנתיים בלבד. למרות זאת, אליזבת הפכה לאחת השליטות הגדולות ביותר של אנגליה." }
+    },
+    {
+      "id": "q-m16-07",
+      "question": { "en": "In which famous theatre were many of Shakespeare's plays first performed?", "he": "באיזה תיאטרון מפורסם הוצגו לראשונה מחזות רבים של שייקספיר?" },
+      "choices": [
+        { "id": "a", "text": { "en": "The Rose Theatre", "he": "תיאטרון הוורד" } },
+        { "id": "b", "text": { "en": "The Globe Theatre", "he": "תיאטרון הגלוב" } },
+        { "id": "c", "text": { "en": "The Swan Theatre", "he": "תיאטרון הברבור" } },
+        { "id": "d", "text": { "en": "The Curtain Theatre", "he": "תיאטרון הווילון" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "The Globe Theatre, built in London in 1599 by Shakespeare's own company, was the home of most of his greatest works. It was an open-air theatre that could hold up to 3,000 audience members.", "he": "תיאטרון הגלוב, שנבנה בלונדון בשנת 1599 על ידי להקתו של שייקספיר עצמו, היה ביתם של רוב יצירותיו הגדולות. זה היה תיאטרון בחוץ שיכול היה להכיל עד 3,000 חברי קהל." }
+    },
+    {
+      "id": "q-m16-08",
+      "question": { "en": "What happened to Mary Queen of Scots?", "he": "מה קרה למרי מלכת סקוטים?" },
+      "choices": [
+        { "id": "a", "text": { "en": "She became queen of England after Elizabeth I", "he": "היא הפכה למלכת אנגליה אחרי אליזבת הראשונה" } },
+        { "id": "b", "text": { "en": "She escaped to France and lived there", "he": "היא ברחה לצרפת וחיה שם" } },
+        { "id": "c", "text": { "en": "She was imprisoned by Elizabeth I and eventually executed in 1587", "he": "היא נכלאה על ידי אליזבת הראשונה והוצאה להורג בסופו של דבר בשנת 1587" } },
+        { "id": "d", "text": { "en": "She retired to a convent in Scotland", "he": "היא פרשה למנזר בסקוטלנד" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "After fleeing to England, Mary Queen of Scots was kept as a prisoner by Elizabeth I for nearly 20 years. When evidence of a plot to make Mary queen by assassinating Elizabeth was discovered, Elizabeth reluctantly ordered Mary's execution in 1587.", "he": "לאחר שברחה לאנגליה, מרי מלכת סקוטים הוחזקה כאסירה על ידי אליזבת הראשונה כמעט 20 שנה. כאשר נתגלו ראיות לקנוניה להפוך את מרי למלכה על ידי התנקשות באליזבת, הורתה אליזבת בחוסר רצון על הוצאתה להורג של מרי בשנת 1587." }
+    },
+    {
+      "id": "q-m16-09",
+      "question": { "en": "What famous book did Thomas More write imagining a perfect society?", "he": "איזה ספר מפורסם כתב תומאס מור ובו דמיין חברה מושלמת?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Leviathan", "he": "לוויתן" } },
+        { "id": "b", "text": { "en": "The Prince", "he": "הנסיך" } },
+        { "id": "c", "text": { "en": "Utopia", "he": "יוטופיה" } },
+        { "id": "d", "text": { "en": "The Canterbury Tales", "he": "סיפורי קנטרברי" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Thomas More wrote Utopia in 1516, describing an imaginary island society with near-perfect qualities. The word utopia, from the Greek for no-place, has come to mean any idealized perfect society. More was later executed by Henry VIII for refusing to accept him as head of the Church of England.", "he": "תומאס מור כתב את יוטופיה בשנת 1516, ובה תיאר חברת אי דמיונית עם תכונות כמעט מושלמות. המילה יוטופיה, מהיוונית שפירושה אין-מקום, הפכה לציין כל חברה אידיאלית מושלמת. מור הוצא לאחר מכן להורג על ידי הנרי השמיני על סירובו לקבל אותו כראש כנסיית אנגליה." }
+    },
+    {
+      "id": "q-m16-10",
+      "question": { "en": "Which of these is a famous play written by Shakespeare?", "he": "מי מאלה הוא מחזה מפורסם שכתב שייקספיר?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Don Quixote", "he": "דון קישוט" } },
+        { "id": "b", "text": { "en": "Hamlet", "he": "המלט" } },
+        { "id": "c", "text": { "en": "Gulliver's Travels", "he": "מסעות גוליבר" } },
+        { "id": "d", "text": { "en": "Robinson Crusoe", "he": "רובינסון קרוזו" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Hamlet is one of Shakespeare's most famous tragedies, telling the story of Prince Hamlet of Denmark who seeks revenge for his father's murder. Don Quixote was written by Cervantes, Gulliver's Travels by Jonathan Swift, and Robinson Crusoe by Daniel Defoe.", "he": "המלט הוא אחת הטרגדיות המפורסמות ביותר של שייקספיר, המספרת את סיפורו של הנסיך המלט מדנמרק המבקש נקמה על רצח אביו. דון קישוט נכתב על ידי סרוונטס, מסעות גוליבר על ידי ג'ונתן סוויפט, ורובינסון קרוזו על ידי דניאל דפו." }
+    }
+  ]
+}

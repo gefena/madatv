@@ -1,0 +1,273 @@
+{
+  "id": "m05-first-empires",
+  "episodeNumber": 5,
+  "youtubeId": "wLXH02zqtNw",
+  "videoSources": [],
+  "title": { "en": "The First Empires", "he": "הקיסרות הראשונה" },
+  "summary": {
+    "en": "From the Bronze Age to the Hellenistic era, the ancient world saw the rise and fall of mighty empires. The Assyrians built a fearsome military empire, conquering vast territories through ruthless tactics. Then came the Persians under Cyrus the Great, who created the largest empire the world had yet seen, stretching from Egypt to India. The Persian Empire was remarkable for tolerating the customs and religions of conquered peoples. Finally, Alexander the Great of Macedonia swept across the known world in a lightning campaign, defeating the Persians and reaching the borders of India, spreading Greek culture across three continents in one of history's most breathtaking conquests.",
+    "he": "מתקופת הברונזה ועד לתקופה ההלניסטית, ראה העולם העתיק את עלייתן ונפילתן של אימפריות עצומות. האשורים בנו אימפריה צבאית מאיימת, וכבשו שטחים עצומים באמצעות טקטיקות אכזריות. לאחר מכן הגיעו הפרסים תחת כורש הגדול, שיצר את האימפריה הגדולה ביותר שהעולם ראה עד כה, המשתרעת ממצרים ועד להודו. האימפריה הפרסית הייתה בולטת בסובלנותה למנהגים ולדתות של העמים שנכבשו. לבסוף, אלכסנדר הגדול ממקדוניה סחף את העולם הידוע בקמפיין ברק, הביס את הפרסים והגיע לגבולות הודו, ופיזר את התרבות היוונית על פני שלושה יבשות באחת מכיבושי ההיסטוריה המרהיבים ביותר."
+  },
+  "thumbnail": "https://img.youtube.com/vi/wLXH02zqtNw/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": ["Assyrian Empire", "Persian Empire", "Alexander the Great", "Ancient Empires"],
+  "terminology": [
+    {
+      "id": "t-m05-01",
+      "term": { "en": "Empire", "he": "אימפריה" },
+      "definition": {
+        "en": "A large territory or group of nations ruled by a single ruler (emperor or empress) or government. Empires are usually created by military conquest. Ancient empires like Assyria, Persia, and the empire of Alexander the Great controlled vast territories across multiple regions.",
+        "he": "שטח גדול או קבוצת אומות שנשלטת על ידי שליט יחיד (קיסר או קיסרית) או ממשלה. אימפריות נוצרות בדרך כלל על ידי כיבוש צבאי. אימפריות עתיקות כמו אשור, פרס ואימפריית אלכסנדר הגדול שלטו על שטחים עצומים על פני אזורים מרובים."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m05-02",
+      "term": { "en": "Assyrian Empire", "he": "האימפריה האשורית" },
+      "definition": {
+        "en": "One of the first great empires of the ancient world, based in northern Mesopotamia (modern Iraq). The Assyrians were renowned for their powerful army and brutal military tactics. At its peak, the Assyrian Empire stretched from Egypt to Persia and controlled much of the ancient Middle East.",
+        "he": "אחת האימפריות הגדולות הראשונות של העולם העתיק, שמרכזה בצפון מסופוטמיה (עיראק המודרנית). האשורים היו ידועים בצבאם החזק ובטקטיקות הצבאיות האכזריות שלהם. בשיאה, האימפריה האשורית השתרעה ממצרים ועד לפרס ושלטה על חלק גדול מהמזרח התיכון העתיק."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m05-03",
+      "term": { "en": "Cyrus the Great", "he": "כורש הגדול" },
+      "definition": {
+        "en": "The founder of the Persian Achaemenid Empire, who ruled from around 559 to 530 BCE. Cyrus conquered vast territories from Persia to Egypt and India, creating the largest empire the world had seen. He was famous for his policy of tolerance — allowing conquered peoples to keep their customs and religions.",
+        "he": "מייסד האימפריה הפרסית האכמנית, ששלט מסביב 559 עד 530 לפנה\"ס. כורש כבש שטחים עצומים מפרס ועד מצרים ולהודו, ויצר את האימפריה הגדולה ביותר שהעולם ראה. הוא היה מפורסם במדיניות הסובלנות שלו — אפשר לעמים שנכבשו לשמור על מנהגיהם ודתותיהם."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m05-04",
+      "term": { "en": "Persian Empire", "he": "האימפריה הפרסית" },
+      "definition": {
+        "en": "The empire founded by Cyrus the Great in the 6th century BCE, which became the largest empire in the ancient world. It stretched from modern-day Greece and Egypt in the west to India in the east. The Persians were known for their efficient administration and tolerance of different cultures.",
+        "he": "האימפריה שייסד כורש הגדול במאה השישית לפנה\"ס, שהפכה לאימפריה הגדולה ביותר בעולם העתיק. היא השתרעה מיוון ומצרים של ימינו במערב ועד להודו במזרח. הפרסים היו ידועים בניהולם היעיל ובסובלנותם לתרבויות שונות."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m05-05",
+      "term": { "en": "Alexander the Great", "he": "אלכסנדר הגדול" },
+      "definition": {
+        "en": "King of the ancient Greek kingdom of Macedonia (356–323 BCE), considered one of history's greatest military commanders. By the age of 30, he had created one of the largest empires in history, stretching from Greece to northwestern India. He spread Greek culture across the ancient world.",
+        "he": "מלך ממלכת מקדוניה היוונית העתיקה (356–323 לפנה\"ס), הנחשב לאחד מגדולי המפקדים הצבאיים בהיסטוריה. בגיל 30, הוא יצר אחת האימפריות הגדולות בהיסטוריה, המשתרעת מיוון ועד לצפון-מערב הודו. הוא פיזר את התרבות היוונית ברחבי העולם העתיק."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m05-06",
+      "term": { "en": "Hellenistic Period", "he": "התקופה ההלניסטית" },
+      "definition": {
+        "en": "The era following Alexander the Great's conquests, from 323 BCE to 31 BCE, characterized by the spread of Greek (Hellenic) culture, language, and ideas throughout the eastern Mediterranean and Middle East. It ended with the Roman conquest of Egypt.",
+        "he": "התקופה שבאה לאחר כיבושי אלכסנדר הגדול, מ-323 לפנה\"ס עד 31 לפנה\"ס, המאופיינת בהתפשטות התרבות, השפה והרעיונות היווניים (הלניים) ברחבי הים התיכון המזרחי והמזרח התיכון. היא הסתיימה עם כיבוש רומא את מצרים."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m05-07",
+      "term": { "en": "Satrapy", "he": "סאטרפיה" },
+      "definition": {
+        "en": "A province of the Persian Empire, governed by an appointed official called a satrap. The Persian Empire was divided into about 20 satrapies, each responsible for collecting taxes and maintaining order. This system of administration helped manage the vast empire efficiently.",
+        "he": "מחוז של האימפריה הפרסית, שנשלט על ידי פקיד ממונה הנקרא סאטרפ. האימפריה הפרסית חולקה לכ-20 סאטרפיות, שכל אחת אחראית לגביית מיסים ולשמירת הסדר. מערכת ניהול זו עזרה לנהל את האימפריה העצומה בצורה יעילה."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m05-08",
+      "term": { "en": "Babylon", "he": "בבל" },
+      "definition": {
+        "en": "One of the greatest cities of the ancient world, located on the Euphrates river in modern-day Iraq. Babylon was the capital of the Babylonian Empire and home to the famous Hanging Gardens, one of the Seven Wonders of the Ancient World. The city was conquered by Cyrus the Great in 539 BCE.",
+        "he": "אחת מהערים הגדולות ביותר של העולם העתיק, הממוקמת על נהר הפרת בעיראק של ימינו. בבל הייתה בירת האימפריה הבבלית ובית גני בבל התלויים המפורסמים, אחד משבעת פלאי העולם העתיק. העיר נכבשה על ידי כורש הגדול בשנת 539 לפנה\"ס."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m05-09",
+      "term": { "en": "Hanging Gardens of Babylon", "he": "גני בבל התלויים" },
+      "definition": {
+        "en": "One of the Seven Wonders of the Ancient World, said to be a magnificent series of terraced gardens built in ancient Babylon. According to legend, they were built by King Nebuchadnezzar II for his wife who missed the green hills of her homeland. Some historians debate whether they actually existed.",
+        "he": "אחד משבעת פלאי העולם העתיק, שנאמר שהם סדרה מפוארת של גנים מדורגים שנבנו בבבל העתיקה. על פי האגדה, הם נבנו על ידי המלך נבוכדנאצר השני לאשתו שגעגעה לגבעות הירוקות של ארץ מולדתה. כמה היסטוריונים חולקים על שאלת קיומם בפועל."
+      },
+      "category": "culture"
+    },
+    {
+      "id": "t-m05-10",
+      "term": { "en": "Macedonia", "he": "מקדוניה" },
+      "definition": {
+        "en": "An ancient kingdom in northern Greece, which became the most powerful state in the Greek world under King Philip II and his son Alexander the Great. Macedonia's military innovations, especially the phalanx formation, enabled their stunning conquests.",
+        "he": "ממלכה עתיקה בצפון יוון, שהפכה למדינה החזקה ביותר בעולם היווני תחת המלך פיליפוס השני ובנו אלכסנדר הגדול. חידושים צבאיים של מקדוניה, במיוחד מערך הפלנקס, אפשרו את כיבושיהם המדהימים."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m05-11",
+      "term": { "en": "Phalanx", "he": "פלנקס" },
+      "definition": {
+        "en": "A military formation used by ancient Greek and Macedonian armies, consisting of rows of soldiers standing close together with overlapping shields and long spears called sarissas pointing forward. The phalanx was nearly unstoppable in open battle and was key to Alexander the Great's victories.",
+        "he": "מערך צבאי ששימש את הצבאות היווניים והמקדוניים העתיקים, המורכב משורות חיילים העומדים צמוד זה לזה עם מגנים חופפים וחניתות ארוכות הנקראות סריסות המצביעות קדימה. הפלנקס היה כמעט בלתי ניתן לעצירה בקרב פתוח והיה מפתח לניצחונותיו של אלכסנדר הגדול."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m05-12",
+      "term": { "en": "Alexandria", "he": "אלכסנדריה" },
+      "definition": {
+        "en": "A city in northern Egypt founded by Alexander the Great in 331 BCE. It became one of the greatest cities of the ancient world and a center of learning and culture. The Library of Alexandria was the largest library in the ancient world, housing hundreds of thousands of scrolls.",
+        "he": "עיר בצפון מצרים שנוסדה על ידי אלכסנדר הגדול בשנת 331 לפנה\"ס. היא הפכה לאחת הערים הגדולות ביותר של העולם העתיק ולמרכז לימוד ותרבות. ספריית אלכסנדריה הייתה הספרייה הגדולה ביותר בעולם העתיק, שבה כלואים מאות אלפי גלילות."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m05-13",
+      "term": { "en": "Darius III", "he": "דריווש השלישי" },
+      "definition": {
+        "en": "The last king of the Persian Achaemenid Empire, who was defeated by Alexander the Great in two major battles — at Issus (333 BCE) and Gaugamela (331 BCE). After his defeat, he was killed by his own generals, ending the Persian Empire.",
+        "he": "המלך האחרון של האימפריה הפרסית האכמנית, שהובס על ידי אלכסנדר הגדול בשתי קרבות גדולות — בעיסוס (333 לפנה\"ס) ובגאוגמלה (331 לפנה\"ס). לאחר תבוסתו, הוא נהרג על ידי גנרליו, ובכך הסתיימה האימפריה הפרסית."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m05-14",
+      "term": { "en": "Nebuchadnezzar II", "he": "נבוכדנאצר השני" },
+      "definition": {
+        "en": "The greatest king of the Neo-Babylonian Empire, who ruled from 605 to 562 BCE. He conquered Jerusalem and destroyed Solomon's Temple in 586 BCE, sending the Jewish people into exile in Babylon. He also built the famous Hanging Gardens of Babylon.",
+        "he": "המלך הגדול ביותר של האימפריה הבבלונית החדשה, ששלט מ-605 עד 562 לפנה\"ס. הוא כבש את ירושלים והחריב את בית המקדש של שלמה בשנת 586 לפנה\"ס, ושלח את העם היהודי לגלות בבבל. הוא גם בנה את גני בבל התלויים המפורסמים."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m05-15",
+      "term": { "en": "Zoroastrianism", "he": "זרתוסטריאניזם" },
+      "definition": {
+        "en": "One of the world's oldest religions, founded in ancient Persia by the prophet Zoroaster. It was the official religion of the Persian Empire and teaches the belief in one supreme god, Ahura Mazda, and the eternal struggle between good and evil.",
+        "he": "אחת הדתות הוותיקות בעולם, שנוסדה בפרס העתיקה על ידי הנביא זרתוסטרא. היא הייתה הדת הרשמית של האימפריה הפרסית ומלמדת אמונה באל עליון אחד, אהורה מזדא, ואת המאבק הנצחי בין טוב לרע."
+      },
+      "category": "religion"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q-m05-01",
+      "question": { "en": "Who founded the Persian Empire?", "he": "מי ייסד את האימפריה הפרסית?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Darius the Great", "he": "דריווש הגדול" } },
+        { "id": "b", "text": { "en": "Xerxes", "he": "קסרקסס" } },
+        { "id": "c", "text": { "en": "Cyrus the Great", "he": "כורש הגדול" } },
+        { "id": "d", "text": { "en": "Nebuchadnezzar", "he": "נבוכדנאצר" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Cyrus the Great founded the Persian Achaemenid Empire around 559 BCE. He was famous not only for his military conquests but also for his policy of tolerance toward conquered peoples, allowing them to keep their customs, languages, and religions.", "he": "כורש הגדול ייסד את האימפריה הפרסית האכמנית סביב 559 לפנה\"ס. הוא היה מפורסם לא רק בשל כיבושיו הצבאיים, אלא גם בשל מדיניות הסובלנות שלו כלפי העמים שנכבשו, שאפשרה להם לשמור על מנהגיהם, שפותיהם ודתותיהם." }
+    },
+    {
+      "id": "q-m05-02",
+      "question": { "en": "At what age had Alexander the Great created one of the largest empires in history?", "he": "באיזה גיל יצר אלכסנדר הגדול אחת האימפריות הגדולות בהיסטוריה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Age 20", "he": "גיל 20" } },
+        { "id": "b", "text": { "en": "Age 30", "he": "גיל 30" } },
+        { "id": "c", "text": { "en": "Age 40", "he": "גיל 40" } },
+        { "id": "d", "text": { "en": "Age 50", "he": "גיל 50" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "By the age of 30, Alexander the Great had created one of the largest empires in history, stretching from Greece all the way to northwestern India. He died at just 32 years old in 323 BCE.", "he": "בגיל 30, אלכסנדר הגדול יצר אחת האימפריות הגדולות בהיסטוריה, המשתרעת מיוון ועד לצפון-מערב הודו. הוא מת בגיל 32 בלבד בשנת 323 לפנה\"ס." }
+    },
+    {
+      "id": "q-m05-03",
+      "question": { "en": "What was the Hanging Gardens of Babylon?", "he": "מה היו גני בבל התלויים?" },
+      "choices": [
+        { "id": "a", "text": { "en": "A royal palace decorated with flowers", "he": "ארמון מלכותי מקושט בפרחים" } },
+        { "id": "b", "text": { "en": "One of the Seven Wonders of the Ancient World — magnificent terraced gardens", "he": "אחד משבעת פלאי העולם העתיק — גנים מדורגים מפוארים" } },
+        { "id": "c", "text": { "en": "A public park for the citizens of Babylon", "he": "פארק ציבורי לאזרחי בבל" } },
+        { "id": "d", "text": { "en": "A religious grove dedicated to Babylonian gods", "he": "חורשה דתית המוקדשת לאלי בבל" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "The Hanging Gardens of Babylon were one of the Seven Wonders of the Ancient World — said to be magnificent terraced gardens built by King Nebuchadnezzar II for his wife. They are one of the most famous monuments of the ancient world.", "he": "גני בבל התלויים היו אחד משבעת פלאי העולם העתיק — נאמר שהם גנים מדורגים מפוארים שנבנו על ידי המלך נבוכדנאצר השני לאשתו. הם אחד מהאנדרטות המפורסמות ביותר של העולם העתיק." }
+    },
+    {
+      "id": "q-m05-04",
+      "question": { "en": "What was the phalanx?", "he": "מה היה הפלנקס?" },
+      "choices": [
+        { "id": "a", "text": { "en": "A type of Persian cavalry", "he": "סוג של פרשים פרסיים" } },
+        { "id": "b", "text": { "en": "A Greek warship", "he": "ספינת מלחמה יוונית" } },
+        { "id": "c", "text": { "en": "A military formation with rows of soldiers with overlapping shields and long spears", "he": "מערך צבאי עם שורות חיילים עם מגנים חופפים וחניתות ארוכות" } },
+        { "id": "d", "text": { "en": "A type of siege weapon", "he": "סוג של נשק מצור" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "The phalanx was a military formation used by Greek and Macedonian armies where rows of soldiers stood close together with overlapping shields and long spears. This nearly unstoppable formation was key to Alexander the Great's military victories.", "he": "הפלנקס היה מערך צבאי ששימש את הצבאות היווניים והמקדוניים שבו שורות חיילים עמדו צמוד זה לזה עם מגנים חופפים וחניתות ארוכות. מערך כמעט בלתי ניתן לעצירה זה היה מפתח לניצחונות הצבאיים של אלכסנדר הגדול." }
+    },
+    {
+      "id": "q-m05-05",
+      "question": { "en": "What was the Persian system of 'satrapies'?", "he": "מה הייתה מערכת ה'סאטרפיות' הפרסית?" },
+      "choices": [
+        { "id": "a", "text": { "en": "A system of religious temples", "he": "מערכת מקדשים דתיים" } },
+        { "id": "b", "text": { "en": "A tax collection method using caravans", "he": "שיטת גביית מיסים באמצעות שיירות" } },
+        { "id": "c", "text": { "en": "Provinces of the Persian Empire governed by appointed officials", "he": "מחוזות האימפריה הפרסית שנשלטו על ידי פקידים ממונים" } },
+        { "id": "d", "text": { "en": "A military unit of 1,000 soldiers", "he": "יחידה צבאית של 1,000 חיילים" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "The Persian Empire was divided into provinces called satrapies, each governed by an appointed official called a satrap. This administrative system helped the Persians manage their enormous empire, which stretched from Egypt to India.", "he": "האימפריה הפרסית חולקה למחוזות הנקראים סאטרפיות, שכל אחד נשלט על ידי פקיד ממונה הנקרא סאטרפ. מערכת ניהולית זו עזרה לפרסים לנהל את האימפריה העצומה שלהם, שהשתרעה ממצרים ועד להודו." }
+    },
+    {
+      "id": "q-m05-06",
+      "question": { "en": "Which city did Alexander the Great found in Egypt in 331 BCE?", "he": "איזו עיר ייסד אלכסנדר הגדול במצרים בשנת 331 לפנה\"ס?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Cairo", "he": "קהיר" } },
+        { "id": "b", "text": { "en": "Memphis", "he": "ממפיס" } },
+        { "id": "c", "text": { "en": "Alexandria", "he": "אלכסנדריה" } },
+        { "id": "d", "text": { "en": "Thebes", "he": "תבאי" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Alexander the Great founded Alexandria in Egypt in 331 BCE, naming it after himself. It became one of the greatest cities of the ancient world and home to the famous Library of Alexandria, the largest library of the ancient world.", "he": "אלכסנדר הגדול ייסד את אלכסנדריה במצרים בשנת 331 לפנה\"ס, וקרא לה על שמו. היא הפכה לאחת הערים הגדולות ביותר של העולם העתיק ולבית ספריית אלכסנדריה המפורסמת, הספרייה הגדולה ביותר של העולם העתיק." }
+    },
+    {
+      "id": "q-m05-07",
+      "question": { "en": "What was Nebuchadnezzar II famous for in relation to the Jewish people?", "he": "במה היה נבוכדנאצר השני מפורסם ביחס לעם היהודי?" },
+      "choices": [
+        { "id": "a", "text": { "en": "He allowed the Jews to return to their homeland", "he": "הוא אפשר ליהודים לשוב לארצם" } },
+        { "id": "b", "text": { "en": "He conquered Jerusalem and destroyed Solomon's Temple, exiling the Jews to Babylon", "he": "הוא כבש את ירושלים והחריב את בית המקדש של שלמה, ושלח את היהודים לגלות בבבל" } },
+        { "id": "c", "text": { "en": "He converted to Judaism", "he": "הוא התגייר ליהדות" } },
+        { "id": "d", "text": { "en": "He helped the Jews build the Second Temple", "he": "הוא עזר ליהודים לבנות את בית המקדש השני" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Nebuchadnezzar II conquered Jerusalem in 586 BCE, destroyed Solomon's Temple, and sent the Jewish people into exile in Babylon — an event known as the Babylonian Captivity or Babylonian Exile in Jewish history.", "he": "נבוכדנאצר השני כבש את ירושלים בשנת 586 לפנה\"ס, החריב את בית המקדש של שלמה ושלח את העם היהודי לגלות בבבל — אירוע הידוע כשבי בבל או גלות בבל בהיסטוריה היהודית." }
+    },
+    {
+      "id": "q-m05-08",
+      "question": { "en": "What was the Hellenistic Period?", "he": "מהי התקופה ההלניסטית?" },
+      "choices": [
+        { "id": "a", "text": { "en": "The period of ancient Greek democracy in Athens", "he": "תקופת הדמוקרטיה היוונית העתיקה באתונה" } },
+        { "id": "b", "text": { "en": "The era following Alexander's conquests when Greek culture spread across the known world", "he": "התקופה שלאחר כיבושי אלכסנדר שבה התפשטה התרבות היוונית ברחבי העולם הידוע" } },
+        { "id": "c", "text": { "en": "The period of Roman rule over Greece", "he": "תקופת השלטון הרומאי על יוון" } },
+        { "id": "d", "text": { "en": "The first period of Greek civilization", "he": "התקופה הראשונה של הציביליזציה היוונית" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "The Hellenistic Period (323–31 BCE) followed Alexander the Great's conquests and was characterized by the spread of Greek culture, language, and ideas throughout the eastern Mediterranean and Middle East. It ended when Rome conquered Egypt.", "he": "התקופה ההלניסטית (323–31 לפנה\"ס) באה לאחר כיבושי אלכסנדר הגדול והתאפיינה בהתפשטות התרבות, השפה והרעיונות היווניים ברחבי הים התיכון המזרחי והמזרח התיכון. היא הסתיימה כאשר רומא כבשה את מצרים." }
+    },
+    {
+      "id": "q-m05-09",
+      "question": { "en": "What was Cyrus the Great famous for besides his military conquests?", "he": "במה היה כורש הגדול מפורסם מלבד כיבושיו הצבאיים?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Building the tallest pyramid in the world", "he": "בניית הפירמידה הגבוהה ביותר בעולם" } },
+        { "id": "b", "text": { "en": "His policy of tolerance toward conquered peoples", "he": "מדיניות הסובלנות שלו כלפי העמים שנכבשו" } },
+        { "id": "c", "text": { "en": "Inventing the Persian alphabet", "he": "המצאת האלפבית הפרסי" } },
+        { "id": "d", "text": { "en": "Defeating Alexander the Great in battle", "he": "הביסו את אלכסנדר הגדול בקרב" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Cyrus the Great was famous for his policy of tolerance — allowing conquered peoples to keep their customs, languages, and religions. He even allowed the Jewish people exiled in Babylon to return to their homeland and rebuild their temple.", "he": "כורש הגדול היה מפורסם במדיניות הסובלנות שלו — אפשר לעמים שנכבשו לשמור על מנהגיהם, שפותיהם ודתותיהם. הוא אפילו אפשר לעם היהודי בגלות בבבל לשוב לארצם ולבנות מחדש את מקדשם." }
+    },
+    {
+      "id": "q-m05-10",
+      "question": { "en": "What was the official religion of the Persian Empire?", "he": "מהי הדת הרשמית של האימפריה הפרסית?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Islam", "he": "אסלאם" } },
+        { "id": "b", "text": { "en": "Zoroastrianism", "he": "זרתוסטריאניזם" } },
+        { "id": "c", "text": { "en": "Buddhism", "he": "בודהיזם" } },
+        { "id": "d", "text": { "en": "Greek paganism", "he": "פגניזם יווני" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Zoroastrianism was the official religion of the Persian Empire. Founded by the prophet Zoroaster, it teaches belief in one supreme god, Ahura Mazda, and the eternal struggle between good and evil. It is one of the world's oldest monotheistic religions.", "he": "זרתוסטריאניזם הייתה הדת הרשמית של האימפריה הפרסית. שנוסדה על ידי הנביא זרתוסטרא, היא מלמדת אמונה באל עליון אחד, אהורה מזדא, ואת המאבק הנצחי בין טוב לרע. זוהי אחת הדתות המונותאיסטיות הוותיקות ביותר בעולם." }
+    }
+  ]
+}

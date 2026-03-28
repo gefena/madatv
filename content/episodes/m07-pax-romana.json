@@ -1,0 +1,273 @@
+{
+  "id": "m07-pax-romana",
+  "episodeNumber": 7,
+  "youtubeId": "UzD9IeGNFKw",
+  "videoSources": [],
+  "title": { "en": "Pax Romana", "he": "שלום נוסח רומי" },
+  "summary": {
+    "en": "From a small village on seven hills, Rome grew to become the greatest empire the Western world had ever seen. Starting as a republic governed by its Senate, Rome conquered Italy, then Carthage, then all the Mediterranean world. Julius Caesar rose to supreme power only to be assassinated on the Ides of March. His adopted son Augustus became the first Emperor, ushering in two centuries of peace known as the Pax Romana — Roman Peace. Roman engineers built roads, aqueducts, and magnificent cities across Europe, the Middle East, and North Africa. But the empire's very size eventually became its weakness, and the Roman world slowly began to crack under pressure from within and from Germanic tribes pressing on its borders.",
+    "he": "מכפר קטן על שבעה גבעות, גדלה רומא להפוך לאימפריה הגדולה ביותר שהעולם המערבי ראה מעולם. החל כרפובליקה שנשלטה על ידי הסנאט שלה, כבשה רומא את איטליה, ואז את קרתגו, ואז את כל עולם הים התיכון. יוליוס קיסר עלה לשלטון עליון רק כדי להיות מוצא להורג ביד ה'אידוס' של מרץ. בנו המאומץ אוגוסטוס הפך לקיסר הראשון, ופתח מאתיים שנה של שלום הידועות כ'פאקס רומנה' — שלום רומאי. מהנדסים רומאים בנו כבישים, אקוודוקטים וערים מפוארות ברחבי אירופה, המזרח התיכון וצפון אפריקה. אך גודלה העצום של האימפריה הפך בסופו של דבר לחולשתה, והעולם הרומאי החל לסדוק לאט תחת לחץ מבפנים ומשבטים גרמניים הלוחצים על גבולותיה."
+  },
+  "thumbnail": "https://img.youtube.com/vi/UzD9IeGNFKw/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": ["Roman Republic", "Julius Caesar", "Roman Empire", "Pax Romana"],
+  "terminology": [
+    {
+      "id": "t-m07-01",
+      "term": { "en": "Roman Republic", "he": "הרפובליקה הרומאית" },
+      "definition": {
+        "en": "The system of government in ancient Rome from 509 BCE to 27 BCE, in which the city was governed by elected officials called consuls and a Senate. The Republic ended when Augustus Caesar became the first Roman Emperor.",
+        "he": "מערכת הממשל ברומא העתיקה מ-509 לפנה\"ס עד 27 לפנה\"ס, שבה העיר נשלטה על ידי פקידים נבחרים הנקראים קונסולים וסנאט. הרפובליקה הסתיימה כאשר אוגוסטוס קיסר הפך לקיסר הרומאי הראשון."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m07-02",
+      "term": { "en": "Julius Caesar", "he": "יוליוס קיסר" },
+      "definition": {
+        "en": "The greatest general and statesman of the late Roman Republic (100–44 BCE). Caesar conquered Gaul (modern France), crossed the Rubicon to seize power in Rome, and became dictator for life. He was assassinated by senators on the Ides of March (March 15), 44 BCE.",
+        "he": "הגנרל והמדינאי הגדול ביותר של הרפובליקה הרומאית המאוחרת (100–44 לפנה\"ס). קיסר כבש את גאליה (צרפת המודרנית), חצה את הרוביקון כדי לתפוס שלטון ברומא, והפך לדיקטטור לצמיתות. הוא נרצח על ידי סנאטורים בשידות מרץ (15 במרץ), 44 לפנה\"ס."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m07-03",
+      "term": { "en": "Augustus", "he": "אוגוסטוס" },
+      "definition": {
+        "en": "The first Roman Emperor (27 BCE – 14 CE), originally named Gaius Octavius. He was the adopted son of Julius Caesar and defeated his rivals Mark Antony and Cleopatra to become sole ruler of Rome. His reign began the Pax Romana — two centuries of relative peace and prosperity.",
+        "he": "הקיסר הרומאי הראשון (27 לפנה\"ס – 14 לספירה), בשמו המקורי גאיוס אוקטוויוס. הוא היה בנו המאומץ של יוליוס קיסר והביס את יריביו מרקוס אנטוניוס וקלאופטרה כדי להפוך לשליט היחיד של רומא. שלטונו החל את הפאקס רומנה — שני מאות שנים של שלום ושגשוג יחסי."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m07-04",
+      "term": { "en": "Pax Romana", "he": "פאקס רומנה" },
+      "definition": {
+        "en": "Latin for 'Roman Peace,' a period of approximately 200 years (27 BCE – 180 CE) of relative peace and stability across the Roman Empire. During this era, trade flourished, cities were built, and Roman civilization reached its height under emperors like Augustus, Trajan, and Marcus Aurelius.",
+        "he": "לטינית ל'שלום רומאי', תקופה של כ-200 שנה (27 לפנה\"ס – 180 לספירה) של שלום ויציבות יחסיים ברחבי האימפריה הרומאית. בתקופה זו, הסחר פרח, ערים נבנו, והציביליזציה הרומאית הגיעה לשיאה תחת קיסרים כמו אוגוסטוס, טראיאנוס ומרקוס אורליוס."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m07-05",
+      "term": { "en": "Senate", "he": "הסנאט" },
+      "definition": {
+        "en": "The most powerful governing body of the Roman Republic, composed of senior Roman citizens called senators. The Senate controlled finances, foreign policy, and the military. Although it continued during the Empire, it gradually lost power to the emperors.",
+        "he": "הגוף השלטוני החזק ביותר של הרפובליקה הרומאית, המורכב מאזרחים רומאים בכירים הנקראים סנאטורים. הסנאט שלט על כספים, מדיניות חוץ והצבא. למרות שהמשיך בימי האימפריה, הוא איבד בהדרגה כוח לקיסרים."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m07-06",
+      "term": { "en": "Aqueduct", "he": "אקוודוקט" },
+      "definition": {
+        "en": "A Roman engineering marvel — a channel or bridge built to carry fresh water over long distances from mountain springs to cities. Roman aqueducts were so well built that some are still standing today after 2,000 years. They provided cities with clean running water for baths, fountains, and homes.",
+        "he": "פלא הנדסי רומאי — תעלה או גשר שנבנו כדי להוביל מים מתוקים על פני מרחקים ארוכים ממעיינות הרים לערים. האקוודוקטים הרומאיים נבנו כה טוב שחלקם עדיין עומדים היום לאחר 2,000 שנה. הם סיפקו לערים מים זורמים נקיים לאמבטיות, מזרקות ובתים."
+      },
+      "category": "architecture"
+    },
+    {
+      "id": "t-m07-07",
+      "term": { "en": "Colosseum", "he": "קולוסיאום" },
+      "definition": {
+        "en": "The largest amphitheatre ever built, located in Rome and completed in 80 CE. It could hold up to 80,000 spectators who came to watch gladiatorial contests, animal hunts, and public executions. The Colosseum is one of the greatest architectural achievements of the ancient world.",
+        "he": "האמפיתיאטרון הגדול ביותר שנבנה אי פעם, הממוקם ברומא והושלם בשנת 80 לספירה. הוא יכול היה להכיל עד 80,000 צופים שבאו לצפות בקרבות גלדיאטורים, ציד חיות וביצועי מוות פומביים. הקולוסיאום הוא אחד מהישגי הבנייה הגדולים ביותר של העולם העתיק."
+      },
+      "category": "architecture"
+    },
+    {
+      "id": "t-m07-08",
+      "term": { "en": "Gladiator", "he": "גלדיאטור" },
+      "definition": {
+        "en": "An armed fighter in ancient Rome who performed in spectacles in arenas called amphitheatres. Gladiators were usually slaves, prisoners of war, or convicted criminals who fought each other or wild animals for the entertainment of the public. Gladiatorial contests were enormously popular in Roman culture.",
+        "he": "לוחם חמוש ברומא העתיקה שהופיע בתצוגות בזירות הנקראות אמפיתיאטרונים. גלדיאטורים היו בדרך כלל עבדים, שבויי מלחמה או עברייני פשע שנלחמו זה בזה או בחיות בר לבידורו של הציבור. קרבות הגלדיאטורים היו פופולריים ביותר בתרבות הרומאית."
+      },
+      "category": "culture"
+    },
+    {
+      "id": "t-m07-09",
+      "term": { "en": "Carthage", "he": "קרתגו" },
+      "definition": {
+        "en": "A powerful ancient city-state on the coast of North Africa (in modern-day Tunisia), founded by Phoenician settlers. Carthage was Rome's greatest rival and the two fought three devastating Punic Wars. After the Third Punic War, Rome completely destroyed Carthage in 146 BCE.",
+        "he": "מדינת-עיר עתיקה חזקה על חוף צפון אפריקה (בתוניסיה של ימינו), שנוסדה על ידי מתיישבים פניקים. קרתגו הייתה היריבה הגדולה ביותר של רומא ושתיהן נלחמו בשלוש מלחמות פוניות הרסניות. לאחר מלחמת פוני השלישית, רומא הרסה לחלוטין את קרתגו בשנת 146 לפנה\"ס."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m07-10",
+      "term": { "en": "Hannibal", "he": "חניבעל" },
+      "definition": {
+        "en": "The greatest general of ancient Carthage (247–183 BCE), famous for leading an army including war elephants across the Alps into Italy to attack Rome during the Second Punic War. He won stunning victories against Rome but ultimately failed to capture the city itself.",
+        "he": "הגנרל הגדול ביותר של קרתגו העתיקה (247–183 לפנה\"ס), המפורסם בהובלת צבא הכולל פילי מלחמה מעבר להרי האלפים לתוך איטליה כדי לתקוף את רומא במלחמת פוני השנייה. הוא זכה בניצחונות מדהימים נגד רומא אך בסופו של דבר נכשל בכיבוש העיר עצמה."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m07-11",
+      "term": { "en": "Roman Roads", "he": "הכבישים הרומאיים" },
+      "definition": {
+        "en": "The extensive network of roads built by the Romans, stretching over 400,000 km across the empire. Roman roads were engineered to last — built with multiple layers of stone, gravel, and sand. They connected cities and allowed Roman armies and traders to travel quickly. Some Roman roads are still in use today.",
+        "he": "רשת הכבישים הנרחבת שנבנתה על ידי הרומאים, המשתרעת על פני יותר מ-400,000 ק\"מ ברחבי האימפריה. כבישים רומאיים הונדסו לעמוד לאורך זמן — נבנו עם שכבות מרובות של אבן, חצץ וחול. הם חיברו ערים ואיפשרו לצבאות ולסוחרים הרומאיים לנסוע במהירות. כמה כבישים רומאיים עדיין בשימוש היום."
+      },
+      "category": "architecture"
+    },
+    {
+      "id": "t-m07-12",
+      "term": { "en": "Roman Legion", "he": "לגיון רומאי" },
+      "definition": {
+        "en": "The basic unit of the Roman army, typically consisting of about 5,000 professional soldiers called legionaries. Roman legions were the most disciplined and effective fighting force of the ancient world. Their tactics, training, and equipment made Rome unconquerable for centuries.",
+        "he": "היחידה הבסיסית של הצבא הרומאי, המורכבת בדרך כלל מכ-5,000 חיילים מקצועיים הנקראים לגיונרים. הלגיונות הרומאיים היו כוח הלחימה המשומעת והיעיל ביותר של העולם העתיק. הטקטיקות, האימון והציוד שלהם הפכו את רומא לבלתי כיבוש במשך מאות שנים."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m07-13",
+      "term": { "en": "Latin", "he": "לטינית" },
+      "definition": {
+        "en": "The language of the ancient Romans, which spread throughout the Roman Empire and became the ancestor of the modern Romance languages including Spanish, French, Italian, Portuguese, and Romanian. Latin remained the language of science, law, and the Catholic Church for over a thousand years after the fall of Rome.",
+        "he": "שפת הרומאים העתיקים, שהתפשטה ברחבי האימפריה הרומאית והפכה לאב הקדמון של שפות הרומנס המודרניות כולל ספרדית, צרפתית, איטלקית, פורטוגזית ורומנית. הלטינית נשארה שפת המדע, החוק והכנסייה הקתולית במשך יותר מאלף שנה לאחר נפילת רומא."
+      },
+      "category": "culture"
+    },
+    {
+      "id": "t-m07-14",
+      "term": { "en": "Cleopatra", "he": "קלאופטרה" },
+      "definition": {
+        "en": "The last ruler of ancient Egypt (51–30 BCE), famous for her alliances with Roman leaders Julius Caesar and Mark Antony. After the defeat of Antony and Cleopatra by Augustus, she took her own life, and Egypt became a Roman province. She was the last of the Ptolemaic dynasty founded by one of Alexander the Great's generals.",
+        "he": "השליטה האחרונה של מצרים העתיקה (51–30 לפנה\"ס), המפורסמת בבריתותיה עם מנהיגים רומאיים יוליוס קיסר ומרקוס אנטוניוס. לאחר תבוסת אנטוניוס וקלאופטרה על ידי אוגוסטוס, היא שמה קץ לחייה, ומצרים הפכה למחוז רומאי. היא הייתה האחרונה משושלת פתולמאיוס שנוסדה על ידי אחד מגנרלי אלכסנדר הגדול."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m07-15",
+      "term": { "en": "Forum", "he": "פורום" },
+      "definition": {
+        "en": "The central public square of a Roman city, used for markets, public speeches, elections, and religious ceremonies. The Roman Forum in Rome was the heart of the ancient city and surrounded by important government buildings, temples, and monuments. In English, 'forum' still means a place for public discussion.",
+        "he": "הכיכר הציבורית המרכזית של עיר רומאית, ששימשה לשווקים, נאומים ציבוריים, בחירות וטקסים דתיים. הפורום הרומאי ברומא היה לבה של העיר העתיקה ומוקף בבניינים ממשלתיים חשובים, מקדשים ואנדרטות. באנגלית, 'פורום' עדיין אומר מקום לדיון ציבורי."
+      },
+      "category": "architecture"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q-m07-01",
+      "question": { "en": "What does 'Pax Romana' mean?", "he": "מה פירוש 'פאקס רומנה'?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Roman War", "he": "מלחמה רומאית" } },
+        { "id": "b", "text": { "en": "Roman Peace", "he": "שלום רומאי" } },
+        { "id": "c", "text": { "en": "Roman Power", "he": "כוח רומאי" } },
+        { "id": "d", "text": { "en": "Roman Roads", "he": "כבישים רומאיים" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Pax Romana is Latin for 'Roman Peace,' referring to the approximately 200-year period (27 BCE – 180 CE) of relative peace and stability across the Roman Empire. During this time trade flourished and Roman civilization reached its height.", "he": "פאקס רומנה היא לטינית ל'שלום רומאי', המתייחסת לתקופה של כ-200 שנה (27 לפנה\"ס – 180 לספירה) של שלום ויציבות יחסיים ברחבי האימפריה הרומאית. בזמן זה הסחר פרח והציביליזציה הרומאית הגיעה לשיאה." }
+    },
+    {
+      "id": "q-m07-02",
+      "question": { "en": "On what date was Julius Caesar assassinated?", "he": "באיזו תאריך נרצח יוליוס קיסר?" },
+      "choices": [
+        { "id": "a", "text": { "en": "January 1, 44 BCE", "he": "1 בינואר 44 לפנה\"ס" } },
+        { "id": "b", "text": { "en": "The Ides of March (March 15), 44 BCE", "he": "שידות מרץ (15 במרץ) 44 לפנה\"ס" } },
+        { "id": "c", "text": { "en": "July 4, 44 BCE", "he": "4 ביולי 44 לפנה\"ס" } },
+        { "id": "d", "text": { "en": "December 25, 44 BCE", "he": "25 בדצמבר 44 לפנה\"ס" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Julius Caesar was assassinated on the Ides of March — March 15, 44 BCE — by a group of Roman senators who feared he had become too powerful. The phrase 'Beware the Ides of March' became famous from Shakespeare's play about Caesar.", "he": "יוליוס קיסר נרצח בשידות מרץ — 15 במרץ 44 לפנה\"ס — על ידי קבוצת סנאטורים רומאיים שחששו שהפך לחזק מדי. הביטוי 'היזהר משידות מרץ' הפך מפורסם ממחזהו של שייקספיר על קיסר." }
+    },
+    {
+      "id": "q-m07-03",
+      "question": { "en": "Who became the first Roman Emperor?", "he": "מי הפך לקיסר הרומאי הראשון?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Julius Caesar", "he": "יוליוס קיסר" } },
+        { "id": "b", "text": { "en": "Mark Antony", "he": "מרקוס אנטוניוס" } },
+        { "id": "c", "text": { "en": "Augustus", "he": "אוגוסטוס" } },
+        { "id": "d", "text": { "en": "Nero", "he": "נרון" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Augustus (originally Gaius Octavius) became the first Roman Emperor in 27 BCE. He was Julius Caesar's adopted son and defeated his rivals to become sole ruler of Rome. His reign began the Pax Romana — two centuries of peace.", "he": "אוגוסטוס (במקור גאיוס אוקטוויוס) הפך לקיסר הרומאי הראשון בשנת 27 לפנה\"ס. הוא היה בנו המאומץ של יוליוס קיסר והביס את יריביו כדי להפוך לשליט היחיד של רומא. שלטונו החל את הפאקס רומנה — שני מאות שנים של שלום." }
+    },
+    {
+      "id": "q-m07-04",
+      "question": { "en": "What was special about Roman aqueducts?", "he": "מה היה מיוחד באקוודוקטים הרומאיים?" },
+      "choices": [
+        { "id": "a", "text": { "en": "They were used as military bridges", "he": "הם שימשו כגשרים צבאיים" } },
+        { "id": "b", "text": { "en": "They carried fresh water over long distances to cities", "he": "הם הוביל מים מתוקים על פני מרחקים ארוכים לערים" } },
+        { "id": "c", "text": { "en": "They were trade routes between cities", "he": "הם היו מסלולי סחר בין ערים" } },
+        { "id": "d", "text": { "en": "They were canals for transporting goods by boat", "he": "הם היו תעלות להובלת סחורות בסירה" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Roman aqueducts were engineering marvels that carried fresh water from mountain springs over long distances to cities. They provided clean water for public baths, fountains, and homes. Some Roman aqueducts are still standing after 2,000 years.", "he": "האקוודוקטים הרומאיים היו פלאי הנדסה שהובילו מים מתוקים ממעיינות הרים על פני מרחקים ארוכים לערים. הם סיפקו מים נקיים לאמבטיות ציבוריות, מזרקות ובתים. כמה אקוודוקטים רומאיים עדיין עומדים לאחר 2,000 שנה." }
+    },
+    {
+      "id": "q-m07-05",
+      "question": { "en": "What was Hannibal famous for?", "he": "במה היה חניבעל מפורסם?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Building the Colosseum in Rome", "he": "בניית הקולוסיאום ברומא" } },
+        { "id": "b", "text": { "en": "Leading an army with war elephants across the Alps to attack Rome", "he": "הובלת צבא עם פילי מלחמה מעבר להרי האלפים לתקוף את רומא" } },
+        { "id": "c", "text": { "en": "Founding the city of Carthage", "he": "ייסוד העיר קרתגו" } },
+        { "id": "d", "text": { "en": "Defeating Julius Caesar in battle", "he": "הביסו את יוליוס קיסר בקרב" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Hannibal of Carthage was famous for his daring campaign during the Second Punic War, when he led an army that included war elephants on an extraordinary march across the Alps into Italy. He won several stunning victories against Rome but ultimately failed to capture the city.", "he": "חניבעל מקרתגו היה מפורסם בקמפיין הנועז שלו במהלך מלחמת פוני השנייה, כשהוביל צבא שכלל פילי מלחמה במסע יוצא דופן מעבר להרי האלפים לתוך איטליה. הוא זכה בכמה ניצחונות מדהימים נגד רומא אך בסופו של דבר נכשל בכיבוש העיר." }
+    },
+    {
+      "id": "q-m07-06",
+      "question": { "en": "How many spectators could the Colosseum hold?", "he": "כמה צופים יכל הקולוסיאום להכיל?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Up to 10,000", "he": "עד 10,000" } },
+        { "id": "b", "text": { "en": "Up to 30,000", "he": "עד 30,000" } },
+        { "id": "c", "text": { "en": "Up to 80,000", "he": "עד 80,000" } },
+        { "id": "d", "text": { "en": "Up to 200,000", "he": "עד 200,000" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "The Colosseum in Rome could hold up to 80,000 spectators. Completed in 80 CE, it was the largest amphitheatre ever built and hosted gladiatorial contests, animal hunts, and other public spectacles.", "he": "הקולוסיאום ברומא יכול היה להכיל עד 80,000 צופים. הושלם ב-80 לספירה, הוא היה האמפיתיאטרון הגדול ביותר שנבנה אי פעם ואירח קרבות גלדיאטורים, ציד חיות ותצוגות ציבוריות אחרות." }
+    },
+    {
+      "id": "q-m07-07",
+      "question": { "en": "What happened to Cleopatra after being defeated by Augustus?", "he": "מה קרה לקלאופטרה לאחר שהובסה על ידי אוגוסטוס?" },
+      "choices": [
+        { "id": "a", "text": { "en": "She was taken prisoner to Rome", "he": "היא נלקחה לשבי לרומא" } },
+        { "id": "b", "text": { "en": "She fled to India", "he": "היא ברחה להודו" } },
+        { "id": "c", "text": { "en": "She took her own life", "he": "היא שמה קץ לחייה" } },
+        { "id": "d", "text": { "en": "She became a Roman citizen", "he": "היא הפכה לאזרחית רומאית" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "After the defeat of Mark Antony and Cleopatra by Augustus in 30 BCE, Cleopatra took her own life rather than be paraded through Rome as a captive. Her death ended the Ptolemaic dynasty, and Egypt became a Roman province.", "he": "לאחר תבוסת מרקוס אנטוניוס וקלאופטרה על ידי אוגוסטוס בשנת 30 לפנה\"ס, קלאופטרה שמה קץ לחייה ולא הסכימה לעבור ברחובות רומא כשבויה. מותה הסתיים שושלת פתולמאיוס, ומצרים הפכה למחוז רומאי." }
+    },
+    {
+      "id": "q-m07-08",
+      "question": { "en": "Which modern languages descended from Latin?", "he": "אילו שפות מודרניות ירדו מהלטינית?" },
+      "choices": [
+        { "id": "a", "text": { "en": "English and German", "he": "אנגלית וגרמנית" } },
+        { "id": "b", "text": { "en": "Spanish, French, Italian, Portuguese, and Romanian", "he": "ספרדית, צרפתית, איטלקית, פורטוגזית ורומנית" } },
+        { "id": "c", "text": { "en": "Arabic and Hebrew", "he": "ערבית ועברית" } },
+        { "id": "d", "text": { "en": "Chinese and Japanese", "he": "סינית ויפנית" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "The modern Romance languages — Spanish, French, Italian, Portuguese, and Romanian — all descended from Latin, the language of the Roman Empire. Latin also heavily influenced English and is still used in science, law, and the Catholic Church.", "he": "שפות הרומנס המודרניות — ספרדית, צרפתית, איטלקית, פורטוגזית ורומנית — כולן ירדו מהלטינית, שפת האימפריה הרומאית. הלטינית גם השפיעה רבות על האנגלית ועדיין משמשת במדע, בחוק ובכנסייה הקתולית." }
+    },
+    {
+      "id": "q-m07-09",
+      "question": { "en": "How many soldiers were in a typical Roman legion?", "he": "כמה חיילים היו בלגיון רומאי אופייני?" },
+      "choices": [
+        { "id": "a", "text": { "en": "About 500", "he": "כ-500" } },
+        { "id": "b", "text": { "en": "About 5,000", "he": "כ-5,000" } },
+        { "id": "c", "text": { "en": "About 50,000", "he": "כ-50,000" } },
+        { "id": "d", "text": { "en": "About 100,000", "he": "כ-100,000" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "A typical Roman legion consisted of about 5,000 professional soldiers called legionaries. Roman legions were the most disciplined fighting force of the ancient world, and their tactics and training made Rome's army nearly unbeatable for centuries.", "he": "לגיון רומאי אופייני כלל כ-5,000 חיילים מקצועיים הנקראים לגיונרים. הלגיונות הרומאיים היו כוח הלחימה המשומעת ביותר של העולם העתיק, והטקטיקות והאימון שלהם הפכו את צבאה של רומא לכמעט בלתי מנוצח במשך מאות שנים." }
+    },
+    {
+      "id": "q-m07-10",
+      "question": { "en": "What was the Roman Forum used for?", "he": "למה שימש הפורום הרומאי?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Gladiatorial combat", "he": "קרבות גלדיאטורים" } },
+        { "id": "b", "text": { "en": "Public baths and swimming", "he": "אמבטיות ציבוריות ושחייה" } },
+        { "id": "c", "text": { "en": "Markets, public speeches, elections, and ceremonies", "he": "שווקים, נאומים ציבוריים, בחירות וטקסים" } },
+        { "id": "d", "text": { "en": "Military training and exercises", "he": "אימונים צבאיים ותרגילים" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "The Forum was the central public square of a Roman city, used for markets, public speeches, elections, and religious ceremonies. The Roman Forum in Rome was surrounded by important temples, government buildings, and monuments, making it the heart of ancient Roman public life.", "he": "הפורום היה הכיכר הציבורית המרכזית של עיר רומאית, ששימשה לשווקים, נאומים ציבוריים, בחירות וטקסים דתיים. הפורום הרומאי ברומא הוקף על ידי מקדשים חשובים, בניינים ממשלתיים ואנדרטות, מה שהפך אותו ללב חיי הציבור הרומאיים העתיקים." }
+    }
+  ]
+}

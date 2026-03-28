@@ -1,0 +1,273 @@
+{
+  "id": "m24-belle-epoque",
+  "episodeNumber": 24,
+  "youtubeId": "3SkkcJnThxI",
+  "videoSources": [],
+  "title": { "en": "The Belle Époque", "he": "התקופה היפה בצרפת" },
+  "summary": {
+    "en": "The Belle Époque, which means beautiful era in French, was a time from the 1870s to 1914 when science and technology brought amazing new inventions including electricity, the telephone, the automobile, and cinema. The Eiffel Tower was built in Paris in 1889 as a symbol of this proud new age, and European powers competed to build great empires by colonizing Africa and Asia. However, this golden age was shattered when a young student assassinated Archduke Franz Ferdinand of Austria in 1914, triggering a chain of events that started World War I. The trenches of the Western Front became scenes of unimaginable horror, with millions of soldiers dying in muddy fields, and poison gas used as a weapon for the first time. The Russian Revolution of 1917 brought down the Tsar and brought Lenin and the Bolsheviks to power, transforming Russia forever.",
+    "he": "הבל אפוק, שפירושה תקופה יפה בצרפתית, הייתה תקופה משנות ה-1870 עד 1914 שבה מדע וטכנולוגיה הביאו המצאות מדהימות חדשות כולל חשמל, טלפון, מכונית וקולנוע. מגדל אייפל נבנה בפריז ב-1889 כסמל לעידן החדש המפואר הזה, ומעצמות אירופה התחרו בבניית אימפריות גדולות על ידי כיבוש אפריקה ואסיה. אולם, תקופת הזהב הזו נופצה כאשר סטודנט צעיר רצח את הארכידוק פרנץ פרדיננד מאוסטריה ב-1914, וגרם לשרשרת אירועים שהתחילה את מלחמת העולם הראשונה. התעלות של החזית המערבית הפכו לזירות של זוועות בלתי נתפסות, כשמיליוני חיילים מתים בשדות בוציים וגז רעל משמש כנשק לראשונה. המהפכה הרוסית של 1917 הפילה את הצאר והביאה את לנין והבולשביקים לשלטון, ושינתה את רוסיה לנצח."
+  },
+  "thumbnail": "https://img.youtube.com/vi/3SkkcJnThxI/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": ["Belle Époque", "Eiffel Tower", "World War I", "colonialism", "Russian Revolution", "Lenin", "trench warfare"],
+  "terminology": [
+    {
+      "id": "t-m24-01",
+      "term": { "en": "Belle Époque", "he": "בל אפוק" },
+      "definition": {
+        "en": "Belle Époque means beautiful era in French and refers to the period from the 1870s to 1914. It was a time of peace, optimism, and technological progress in Europe, especially in France.",
+        "he": "בל אפוק פירושה תקופה יפה בצרפתית ומתייחסת לתקופה משנות ה-1870 עד 1914. הייתה זו תקופה של שלום, אופטימיות ופרוגרס טכנולוגי באירופה, ובמיוחד בצרפת."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m24-02",
+      "term": { "en": "Eiffel Tower", "he": "מגדל אייפל" },
+      "definition": {
+        "en": "The Eiffel Tower is an iron tower built in Paris in 1889 for the World Exhibition. Designed by engineer Gustave Eiffel, it was the tallest structure in the world at the time and became the iconic symbol of Paris and France.",
+        "he": "מגדל אייפל הוא מגדל ברזל שנבנה בפריז ב-1889 לתערוכה העולמית. מעוצב על ידי המהנדס גוסטב אייפל, הוא היה המבנה הגבוה ביותר בעולם באותה עת והפך לסמל האיקוני של פריז וצרפת."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m24-03",
+      "term": { "en": "Electricity", "he": "חשמל" },
+      "definition": {
+        "en": "Electricity is the flow of electric charge that can power machines, lights, and devices. During the Belle Époque, inventors like Thomas Edison and Nikola Tesla made electric lighting and power widely available, transforming daily life.",
+        "he": "חשמל הוא זרימת מטען חשמלי שיכולה להניע מכונות, אורות ומכשירים. במהלך הבל אפוק, ממציאים כמו תומס אדיסון וניקולה טסלה הפכו את התאורה החשמלית והחשמל לנגישים באופן נרחב, ושינו את החיים היומיומיים."
+      },
+      "category": "science"
+    },
+    {
+      "id": "t-m24-04",
+      "term": { "en": "Automobile", "he": "מכונית" },
+      "definition": {
+        "en": "The automobile is a self-propelled vehicle powered by a gasoline or steam engine. The first practical cars were developed in the 1880s by inventors like Karl Benz, and they began to replace horses for transportation.",
+        "he": "המכונית היא כלי רכב עצמאי המונע על ידי מנוע בנזין או קיטור. המכוניות המעשיות הראשונות פותחו בשנות ה-1880 על ידי ממציאים כמו קארל בנץ, והן החלו להחליף סוסים לתחבורה."
+      },
+      "category": "science"
+    },
+    {
+      "id": "t-m24-05",
+      "term": { "en": "Cinema", "he": "קולנוע" },
+      "definition": {
+        "en": "Cinema is the art of making and showing moving pictures (films). The Lumiere brothers in France gave the first public film screening in 1895, astonishing audiences who had never seen moving images before.",
+        "he": "קולנוע הוא אמנות יצירת והקרנת תמונות נעות (סרטים). האחים לומייר בצרפת ערכו את הקרנת הסרטים הציבורית הראשונה ב-1895, שהדהימה קהלים שמעולם לא ראו תמונות נעות קודם לכן."
+      },
+      "category": "science"
+    },
+    {
+      "id": "t-m24-06",
+      "term": { "en": "Imperialism", "he": "אימפריאליזם" },
+      "definition": {
+        "en": "Imperialism is the practice of one powerful country extending its control over weaker countries or territories. During the Belle Époque, European powers competed to colonize Africa and Asia, exploiting their resources and peoples.",
+        "he": "אימפריאליזם הוא הנוהג של מדינה חזקה להרחיב את שליטתה על מדינות או טריטוריות חלשות יותר. במהלך הבל אפוק, מעצמות אירופה התחרו לכבוש את אפריקה ואסיה, תוך ניצול משאביהן ועמיהן."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m24-07",
+      "term": { "en": "Archduke Franz Ferdinand", "he": "ארכידוק פרנץ פרדיננד" },
+      "definition": {
+        "en": "Archduke Franz Ferdinand was the heir to the Austro-Hungarian throne. His assassination in Sarajevo on June 28, 1914 by a Serbian nationalist triggered a chain of alliances that led to the outbreak of World War I.",
+        "he": "הארכידוק פרנץ פרדיננד היה יורש כס המלוכה האוסטרו-הונגרי. רצח בסרייבו ב-28 ביוני 1914 על ידי לאומני סרבי הפעיל שרשרת בריתות שהובילה לפרוץ מלחמת העולם הראשונה."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m24-08",
+      "term": { "en": "World War I", "he": "מלחמת העולם הראשונה" },
+      "definition": {
+        "en": "World War I was a global conflict fought from 1914 to 1918, mainly in Europe. It involved most of the great powers and resulted in the deaths of millions of soldiers and civilians, ending four great empires.",
+        "he": "מלחמת העולם הראשונה הייתה סכסוך גלובלי שהתנהל מ-1914 עד 1918, בעיקר באירופה. היא כרכה את רוב המעצמות הגדולות וגרמה למותם של מיליוני חיילים ואזרחים, וסיימה ארבע אימפריות גדולות."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m24-09",
+      "term": { "en": "Trench Warfare", "he": "מלחמת תעלות" },
+      "definition": {
+        "en": "Trench warfare is a type of fighting where soldiers dig long ditches (trenches) in the ground to protect themselves from enemy fire. In World War I, both sides dug thousands of kilometers of trenches and the front lines barely moved for years.",
+        "he": "מלחמת תעלות היא סוג של לחימה שבה חיילים חופרים תעלות ארוכות באדמה להגנה מאש האויב. במלחמת העולם הראשונה, שני הצדדים חפרו אלפי קילומטרים של תעלות וקוי החזית כמעט לא זזו במשך שנים."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m24-10",
+      "term": { "en": "Poison Gas", "he": "גז רעל" },
+      "definition": {
+        "en": "Poison gas was a deadly chemical weapon used for the first time on a large scale during World War I. Chlorine and mustard gas caused terrible suffering to soldiers, and its use was later banned by international agreements.",
+        "he": "גז רעל היה נשק כימי קטלני שנעשה בו שימוש לראשונה בקנה מידה גדול במהלך מלחמת העולם הראשונה. כלור וגז חרדל גרמו לסבל נורא לחיילים, ושימושו נאסר לאחר מכן בהסכמים בינלאומיים."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m24-11",
+      "term": { "en": "Russian Revolution", "he": "המהפכה הרוסית" },
+      "definition": {
+        "en": "The Russian Revolution of 1917 overthrew Tsar Nicholas II and eventually brought the Bolshevik party, led by Lenin, to power. Russia became the world's first communist state, and the revolution had a huge impact on world history.",
+        "he": "המהפכה הרוסית של 1917 הפילה את הצאר ניקולאי השני והביאה בסופו של דבר את מפלגת הבולשביקים, בהנהגת לנין, לשלטון. רוסיה הפכה למדינה הקומוניסטית הראשונה בעולם, והמהפכה השפיעה השפעה עצומה על ההיסטוריה העולמית."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m24-12",
+      "term": { "en": "Lenin", "he": "לנין" },
+      "definition": {
+        "en": "Vladimir Lenin was the leader of the Bolshevik party who led the Russian Revolution in 1917. He became the first leader of the Soviet Union and created a communist government based on the ideas of Karl Marx.",
+        "he": "ולדימיר לנין היה מנהיג מפלגת הבולשביקים שהוביל את המהפכה הרוסית ב-1917. הוא הפך למנהיג הראשון של ברית המועצות ויצר ממשלה קומוניסטית על בסיס רעיונותיו של קרל מרקס."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m24-13",
+      "term": { "en": "Telephone", "he": "טלפון" },
+      "definition": {
+        "en": "The telephone is a device that transmits voice over long distances using electrical signals. Invented by Alexander Graham Bell in 1876, it revolutionized communication and allowed people to speak to each other across cities and countries.",
+        "he": "הטלפון הוא מכשיר המשדר קול על מרחקים גדולים באמצעות אותות חשמליים. הומצא על ידי אלכסנדר גרהאם בל ב-1876, הוא חולל מהפכה בתקשורת ואפשר לאנשים לדבר זה עם זה בין ערים ומדינות."
+      },
+      "category": "science"
+    },
+    {
+      "id": "t-m24-14",
+      "term": { "en": "Colonialism", "he": "קולוניאליזם" },
+      "definition": {
+        "en": "Colonialism is when a powerful country takes control of another territory and its people, exploiting its resources and imposing its culture. By 1914, European powers controlled most of Africa and large parts of Asia.",
+        "he": "קולוניאליזם הוא כאשר מדינה חזקה לוקחת שליטה על טריטוריה אחרת ועמה, מנצלת את משאביה ומטילה את תרבותה. עד 1914, מעצמות אירופה שלטו ברוב אפריקה ובחלקים גדולים מאסיה."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m24-15",
+      "term": { "en": "Tsar", "he": "צאר" },
+      "definition": {
+        "en": "Tsar was the title of the emperors of Russia. The last Tsar, Nicholas II, ruled Russia until the Revolution of 1917, when he was forced to abdicate. He and his family were later executed by the Bolsheviks.",
+        "he": "צאר היה תוארם של קיסרי רוסיה. הצאר האחרון, ניקולאי השני, שלט ברוסיה עד למהפכה של 1917, כאשר נאלץ לוותר על כס המלוכה. הוא ומשפחתו הוצאו להורג לאחר מכן על ידי הבולשביקים."
+      },
+      "category": "history"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q-m24-01",
+      "question": { "en": "What does Belle Époque mean?", "he": "מה פירוש בל אפוק?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Beautiful era", "he": "תקופה יפה" } },
+        { "id": "b", "text": { "en": "Great war", "he": "מלחמה גדולה" } },
+        { "id": "c", "text": { "en": "New century", "he": "מאה חדשה" } },
+        { "id": "d", "text": { "en": "Old France", "he": "צרפת הישנה" } }
+      ],
+      "correctChoice": "a",
+      "explanation": { "en": "Belle Époque is French for beautiful era, describing the optimistic and prosperous period in Europe from the 1870s to 1914.", "he": "בל אפוק בצרפתית פירושה תקופה יפה, ומתאר את התקופה האופטימית והמשגשגת באירופה משנות ה-1870 עד 1914." }
+    },
+    {
+      "id": "q-m24-02",
+      "question": { "en": "In what year was the Eiffel Tower built?", "he": "באיזו שנה נבנה מגדל אייפל?" },
+      "choices": [
+        { "id": "a", "text": { "en": "1876", "he": "1876" } },
+        { "id": "b", "text": { "en": "1889", "he": "1889" } },
+        { "id": "c", "text": { "en": "1900", "he": "1900" } },
+        { "id": "d", "text": { "en": "1914", "he": "1914" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "The Eiffel Tower was built in 1889 by engineer Gustave Eiffel for the World Exhibition in Paris, and it was the tallest structure in the world at that time.", "he": "מגדל אייפל נבנה ב-1889 על ידי המהנדס גוסטב אייפל לתערוכה העולמית בפריז, והיה המבנה הגבוה ביותר בעולם באותה עת." }
+    },
+    {
+      "id": "q-m24-03",
+      "question": { "en": "Who was assassinated in 1914, triggering World War I?", "he": "מי נרצח ב-1914 ועורר את מלחמת העולם הראשונה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Tsar Nicholas II", "he": "הצאר ניקולאי השני" } },
+        { "id": "b", "text": { "en": "Kaiser Wilhelm II", "he": "קיסר וילהלם השני" } },
+        { "id": "c", "text": { "en": "Archduke Franz Ferdinand", "he": "ארכידוק פרנץ פרדיננד" } },
+        { "id": "d", "text": { "en": "Lenin", "he": "לנין" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Archduke Franz Ferdinand, heir to the Austro-Hungarian throne, was assassinated in Sarajevo on June 28, 1914, triggering the chain of events that started World War I.", "he": "הארכידוק פרנץ פרדיננד, יורש כס המלוכה האוסטרו-הונגרי, נרצח בסרייבו ב-28 ביוני 1914, ועורר את שרשרת האירועים שהתחילה את מלחמת העולם הראשונה." }
+    },
+    {
+      "id": "q-m24-04",
+      "question": { "en": "What were trenches in World War I?", "he": "מה היו תעלות במלחמת העולם הראשונה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Water channels for farming", "he": "תעלות מים לחקלאות" } },
+        { "id": "b", "text": { "en": "Underground railways", "he": "מסילות תת-קרקעיות" } },
+        { "id": "c", "text": { "en": "Protective ditches dug by soldiers", "he": "תעלות הגנה שחפרו חיילים" } },
+        { "id": "d", "text": { "en": "Communication lines", "he": "קוי תקשורת" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Trenches were long ditches dug by soldiers to protect themselves from enemy fire. Both sides dug thousands of kilometers of trenches along the Western Front.", "he": "תעלות היו תעלות ארוכות שחפרו חיילים להגנה מאש האויב. שני הצדדים חפרו אלפי קילומטרים של תעלות לאורך החזית המערבית." }
+    },
+    {
+      "id": "q-m24-05",
+      "question": { "en": "Who led the Russian Revolution in 1917?", "he": "מי הוביל את המהפכה הרוסית ב-1917?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Tsar Nicholas II", "he": "הצאר ניקולאי השני" } },
+        { "id": "b", "text": { "en": "Lenin", "he": "לנין" } },
+        { "id": "c", "text": { "en": "Karl Marx", "he": "קרל מרקס" } },
+        { "id": "d", "text": { "en": "Napoleon III", "he": "נפוליאון השלישי" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Lenin led the Bolshevik party to power in the Russian Revolution of 1917 and became the first leader of the Soviet Union.", "he": "לנין הוביל את מפלגת הבולשביקים לשלטון במהפכה הרוסית של 1917 והפך למנהיג הראשון של ברית המועצות." }
+    },
+    {
+      "id": "q-m24-06",
+      "question": { "en": "Which invention allowed people to speak to each other across long distances?", "he": "איזו המצאה אפשרה לאנשים לדבר זה עם זה על מרחקים גדולים?" },
+      "choices": [
+        { "id": "a", "text": { "en": "The steam engine", "he": "מנוע הקיטור" } },
+        { "id": "b", "text": { "en": "The guillotine", "he": "הגיליוטינה" } },
+        { "id": "c", "text": { "en": "The railway", "he": "מסילת הברזל" } },
+        { "id": "d", "text": { "en": "The telephone", "he": "הטלפון" } }
+      ],
+      "correctChoice": "d",
+      "explanation": { "en": "The telephone, invented by Alexander Graham Bell in 1876, allowed people to speak across cities and countries using electrical signals for the first time.", "he": "הטלפון, שהומצא על ידי אלכסנדר גרהאם בל ב-1876, אפשר לאנשים לדבר בין ערים ומדינות באמצעות אותות חשמליים לראשונה." }
+    },
+    {
+      "id": "q-m24-07",
+      "question": { "en": "What was a new and terrible weapon used in World War I?", "he": "מה היה נשק חדש ונורא שנעשה בו שימוש במלחמת העולם הראשונה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Cannon", "he": "תותח" } },
+        { "id": "b", "text": { "en": "Poison gas", "he": "גז רעל" } },
+        { "id": "c", "text": { "en": "Crossbow", "he": "קשת" } },
+        { "id": "d", "text": { "en": "Catapult", "he": "מנגנון הטלה" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Poison gas, including chlorine and mustard gas, was used on a large scale for the first time in World War I and caused terrible suffering to soldiers.", "he": "גז רעל, כולל כלור וגז חרדל, נעשה בו שימוש בקנה מידה גדול לראשונה במלחמת העולם הראשונה וגרם לסבל נורא לחיילים." }
+    },
+    {
+      "id": "q-m24-08",
+      "question": { "en": "What is imperialism?", "he": "מהו אימפריאליזם?" },
+      "choices": [
+        { "id": "a", "text": { "en": "When a powerful country controls weaker territories", "he": "כאשר מדינה חזקה שולטת בטריטוריות חלשות יותר" } },
+        { "id": "b", "text": { "en": "A type of music from the Belle Époque", "he": "סוג של מוזיקה מהבל אפוק" } },
+        { "id": "c", "text": { "en": "A scientific invention", "he": "המצאה מדעית" } },
+        { "id": "d", "text": { "en": "A method of farming", "he": "שיטת חקלאות" } }
+      ],
+      "correctChoice": "a",
+      "explanation": { "en": "Imperialism is when a powerful country extends its control over weaker nations, exploiting their resources. European powers colonized most of Africa and parts of Asia during this period.", "he": "אימפריאליזם הוא כאשר מדינה חזקה מרחיבה את שליטתה על אומות חלשות יותר, תוך ניצול משאביהן. מעצמות אירופה כבשו את רוב אפריקה וחלקים מאסיה בתקופה זו." }
+    },
+    {
+      "id": "q-m24-09",
+      "question": { "en": "Who invented the first practical moving picture camera and gave public film screenings?", "he": "מי המציא את מצלמת הסרטים המעשית הראשונה וערך הקרנות ציבוריות?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Thomas Edison", "he": "תומס אדיסון" } },
+        { "id": "b", "text": { "en": "The Lumiere brothers", "he": "האחים לומייר" } },
+        { "id": "c", "text": { "en": "Gustave Eiffel", "he": "גוסטב אייפל" } },
+        { "id": "d", "text": { "en": "Karl Benz", "he": "קארל בנץ" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "The Lumiere brothers in France gave the first public film screenings in 1895, beginning the era of cinema.", "he": "האחים לומייר בצרפת ערכו את הקרנות הסרטים הציבוריות הראשונות ב-1895, ופתחו את עידן הקולנוע." }
+    },
+    {
+      "id": "q-m24-10",
+      "question": { "en": "What happened to Tsar Nicholas II during the Russian Revolution?", "he": "מה קרה לצאר ניקולאי השני במהלך המהפכה הרוסית?" },
+      "choices": [
+        { "id": "a", "text": { "en": "He became the leader of the Soviet Union", "he": "הוא הפך למנהיג ברית המועצות" } },
+        { "id": "b", "text": { "en": "He escaped to France", "he": "הוא ברח לצרפת" } },
+        { "id": "c", "text": { "en": "He was forced to abdicate and later executed", "he": "הוא נאלץ לוותר על כס המלוכה ואחר כך הוצא להורג" } },
+        { "id": "d", "text": { "en": "He won the war against the revolutionaries", "he": "הוא ניצח במלחמה נגד המהפכנים" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Tsar Nicholas II was forced to abdicate in 1917 and was later executed along with his family by the Bolsheviks in 1918.", "he": "הצאר ניקולאי השני נאלץ לוותר על כס המלוכה ב-1917 ולאחר מכן הוצא להורג יחד עם משפחתו על ידי הבולשביקים ב-1918." }
+    }
+  ]
+}

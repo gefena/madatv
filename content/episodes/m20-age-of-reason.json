@@ -1,0 +1,273 @@
+{
+  "id": "m20-age-of-reason",
+  "episodeNumber": 20,
+  "youtubeId": "T-j7_GT4TpE",
+  "videoSources": [],
+  "title": { "en": "The Age of Reason", "he": "המאה של המאורות הגדולים" },
+  "summary": {
+    "en": "The 18th century was the Age of Enlightenment — a time when bold thinkers across Europe challenged old beliefs and insisted that reason, science, and human rights should guide society. Voltaire mocked tyranny and religious intolerance. Rousseau argued that governments must serve the people. Montesquieu designed the separation of powers that shapes democracies today. The Encyclopédie project tried to gather all human knowledge in one great work. In Prussia, Frederick the Great embodied the 'enlightened despot' — a ruler who applied Enlightenment ideas to governance. The era also saw the Industrial Revolution beginning in England, transforming how people worked and lived. These revolutionary ideas would soon explode into the American and French Revolutions, reshaping the entire political world.",
+    "he": "המאה ה-18 הייתה עידן ההשכלה — תקופה שבה הוגים נועזים ברחבי אירופה ערערו על אמונות ישנות ועמדו על כך שתבונה, מדע וזכויות אדם צריכים להנחות את החברה. וולטר לעג לרוד ולחוסר סובלנות דתית. רוסו טען שממשלות חייבות לשרת את העם. מונטסקיה תכנן את הפרדת הרשויות המעצבת דמוקרטיות היום. פרויקט האנציקלופדיה ניסה לאסוף את כל הידע האנושי ביצירה גדולה אחת. בפרוסיה, פרידריך הגדול גלם את ה'דסקפוט הנאור' — שליט שיישם את רעיונות ההשכלה על הממשל. התקופה ראתה גם את המהפכה התעשייתית מתחילה באנגליה, ומשנה את אופן עבודת האנשים וחייהם. רעיונות מהפכניים אלה עמדו לפרוץ בקרוב למהפכות האמריקאית והצרפתית, ולעצב מחדש את כל העולם הפוליטי."
+  },
+  "thumbnail": "https://img.youtube.com/vi/T-j7_GT4TpE/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": ["Enlightenment", "Age of Reason", "Philosophy", "18th Century"],
+  "terminology": [
+    {
+      "id": "t-m20-01",
+      "term": { "en": "Enlightenment", "he": "ההשכלה" },
+      "definition": {
+        "en": "An intellectual and philosophical movement that dominated Europe in the 18th century, emphasizing reason, science, individual rights, and the questioning of traditional authority. The Enlightenment challenged the power of kings and the Church, and its ideas directly inspired the American and French Revolutions.",
+        "he": "תנועה אינטלקטואלית ופילוסופית שדמינה באירופה במאה ה-18, המדגישה תבונה, מדע, זכויות פרט וערעור על הסמכות המסורתית. ההשכלה ערערה על כוחם של המלכים ושל הכנסייה, ורעיונותיה השפיעו ישירות על המהפכות האמריקאית והצרפתית."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m20-02",
+      "term": { "en": "Voltaire", "he": "וולטר" },
+      "definition": {
+        "en": "A French Enlightenment writer and philosopher (1694–1778), famous for his sharp wit and criticism of tyranny and religious intolerance. His most famous work, 'Candide,' satirized the injustices of his time. Voltaire championed freedom of speech and religion and influenced thinkers across Europe and America.",
+        "he": "סופר ופילוסוף צרפתי של ההשכלה (1694–1778), מפורסם בחריפות דעתו ובביקורתו על רוד ואי-סובלנות דתית. יצירתו המפורסמת ביותר, 'קנדיד', לגלגה על אי-הצדק של תקופתו. וולטר דגל בחופש הדיבור והדת והשפיע על הוגי דעות ברחבי אירופה ואמריקה."
+      },
+      "category": "culture"
+    },
+    {
+      "id": "t-m20-03",
+      "term": { "en": "Jean-Jacques Rousseau", "he": "ז'אן-ז'ק רוסו" },
+      "definition": {
+        "en": "A French-Swiss philosopher (1712–1778) who argued that society corrupts the natural goodness of humans. His concept of the 'social contract' — that governments derive their authority from the consent of the governed — greatly influenced the American and French Revolutions and modern democratic theory.",
+        "he": "פילוסוף צרפתי-שוויצרי (1712–1778) שטען שהחברה משחיתה את הטוב הטבעי של בני האדם. קונספט 'החוזה החברתי' שלו — שממשלות שואבות את סמכותן מהסכמת הנשלטים — השפיע עמוקות על המהפכות האמריקאית והצרפתית ועל התיאוריה הדמוקרטית המודרנית."
+      },
+      "category": "culture"
+    },
+    {
+      "id": "t-m20-04",
+      "term": { "en": "Montesquieu", "he": "מונטסקיה" },
+      "definition": {
+        "en": "A French political philosopher (1689–1755) whose book 'The Spirit of the Laws' developed the concept of the separation of powers into legislative, executive, and judicial branches. This idea profoundly influenced the American Constitution and the structure of modern democratic governments.",
+        "he": "פילוסוף פוליטי צרפתי (1689–1755) שספרו 'רוח החוקים' פיתח את קונספט הפרדת הרשויות לרשות מחוקקת, מבצעת ושיפוטית. רעיון זה השפיע עמוקות על החוקה האמריקאית ועל מבנה הממשלות הדמוקרטיות המודרניות."
+      },
+      "category": "culture"
+    },
+    {
+      "id": "t-m20-05",
+      "term": { "en": "Encyclopédie", "he": "האנציקלופדיה" },
+      "definition": {
+        "en": "A massive French reference work compiled between 1751 and 1772, edited by Denis Diderot and Jean le Rond d'Alembert. It attempted to gather all human knowledge and spread Enlightenment ideas. It was considered radical because it questioned traditional religious and royal authority.",
+        "he": "יצירת עיון צרפתית מסיבית שנערכה בין 1751 ל-1772, בעריכת דני דידרו וז'אן לה רון ד'אלמבר. היא ניסתה לאסוף את כל הידע האנושי ולהפיץ את רעיונות ההשכלה. היא נחשבה לרדיקלית מפני שערערה על הסמכות הדתית והמלכותית המסורתית."
+      },
+      "category": "culture"
+    },
+    {
+      "id": "t-m20-06",
+      "term": { "en": "Frederick the Great", "he": "פרידריך הגדול" },
+      "definition": {
+        "en": "King of Prussia from 1740 to 1786, considered the best example of an 'enlightened despot.' He reformed Prussia's legal system, allowed religious freedom, promoted education, and corresponded with Voltaire. At the same time, he was an aggressive military leader who expanded Prussia through wars, making it a major European power.",
+        "he": "מלך פרוסיה מ-1740 עד 1786, הנחשב לדוגמה הטובה ביותר של 'דסקפוט נאור'. הוא רפורם את המערכת המשפטית של פרוסיה, אפשר חופש דת, קידם חינוך והתכתב עם וולטר. יחד עם זאת, הוא היה מנהיג צבאי אגרסיבי שהרחיב את פרוסיה דרך מלחמות, והפך אותה למעצמה אירופאית גדולה."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m20-07",
+      "term": { "en": "Social Contract", "he": "חוזה חברתי" },
+      "definition": {
+        "en": "A political theory, developed by Enlightenment thinkers including Rousseau and Locke, arguing that governments exist because people agree to give up some freedoms in exchange for protection and order. If a government fails to serve the people, the people have the right to overthrow it. This idea justified the American and French Revolutions.",
+        "he": "תיאוריה פוליטית, שפותחה על ידי הוגי ההשכלה כולל רוסו ולוק, הטוענת שממשלות קיימות מפני שאנשים מסכימים לוותר על חירויות מסוימות בתמורה להגנה וסדר. אם ממשלה כושלת לשרת את העם, לעם יש הזכות להפיל אותה. רעיון זה הצדיק את המהפכות האמריקאית והצרפתית."
+      },
+      "category": "culture"
+    },
+    {
+      "id": "t-m20-08",
+      "term": { "en": "Separation of Powers", "he": "הפרדת רשויות" },
+      "definition": {
+        "en": "The political concept, developed by Montesquieu, that government should be divided into three separate branches — legislative (makes laws), executive (enforces laws), and judicial (interprets laws) — to prevent any one person or group from having too much power. This principle is the foundation of most modern democratic constitutions.",
+        "he": "הקונספט הפוליטי, שפותח על ידי מונטסקיה, לפיו הממשל צריך להיות מחולק לשלוש ענפים נפרדים — מחוקק (עושה חוקים), מבצע (אוכף חוקים) ושיפוטי (מפרש חוקים) — כדי למנוע מאדם אחד או קבוצה אחת מלהחזיק ביותר מדי כוח. עיקרון זה הוא היסוד של רוב החוקות הדמוקרטיות המודרניות."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m20-09",
+      "term": { "en": "Industrial Revolution", "he": "המהפכה התעשייתית" },
+      "definition": {
+        "en": "A period of rapid industrial and economic transformation beginning in Britain in the 1760s–1840s, characterized by the introduction of steam power, factories, and mass production. It transformed society from agricultural to industrial, created the modern working class, and produced enormous wealth — but also led to harsh working conditions and urban poverty.",
+        "he": "תקופה של שינוי תעשייתי וכלכלי מהיר שהחל בבריטניה בשנות ה-1760 עד שנות ה-1840, המאופיינת בהנהגת כוח קיטור, מפעלים וייצור המוני. היא שינתה את החברה מחקלאית לתעשייתית, יצרה את מעמד הפועלים המודרני ויצרה עושר עצום — אך גם הובילה לתנאי עבודה קשים ועוני עירוני."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m20-10",
+      "term": { "en": "Enlightened Despot", "he": "דסקפוט נאור" },
+      "definition": {
+        "en": "A ruler who holds absolute power but uses it in accordance with Enlightenment ideals — promoting education, religious tolerance, economic reform, and legal improvements, while still maintaining autocratic control. Examples include Frederick the Great of Prussia, Catherine the Great of Russia, and Joseph II of Austria.",
+        "he": "שליט המחזיק בשלטון מוחלט אך משתמש בו בהתאם לאידיאלים של ההשכלה — מקדם חינוך, סובלנות דתית, רפורמה כלכלית ושיפורים משפטיים, תוך שמירה על שליטה אוטוקרטית. דוגמאות כוללות את פרידריך הגדול מפרוסיה, קתרינה הגדולה מרוסיה ויוסף השני מאוסטריה."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m20-11",
+      "term": { "en": "John Locke", "he": "ג'ון לוק" },
+      "definition": {
+        "en": "An English philosopher (1632–1704) who argued that people are born with natural rights — life, liberty, and property. He believed that governments must protect these rights and that citizens can overthrow governments that fail to do so. His ideas profoundly influenced the American Declaration of Independence.",
+        "he": "פילוסוף אנגלי (1632–1704) שטען שאנשים נולדים עם זכויות טבעיות — חיים, חירות ורכוש. הוא האמין שממשלות חייבות להגן על זכויות אלה ושאזרחים יכולים להפיל ממשלות שנכשלות לעשות זאת. רעיונותיו השפיעו עמוקות על הצהרת העצמאות האמריקאית."
+      },
+      "category": "culture"
+    },
+    {
+      "id": "t-m20-12",
+      "term": { "en": "Steam Engine", "he": "מנוע קיטור" },
+      "definition": {
+        "en": "A machine that converts steam pressure into mechanical work, perfected by James Watt in the 1760s–70s. The steam engine powered the Industrial Revolution, driving factories, pumping water from mines, and eventually powering railways and ships. It was one of the most transformative inventions in human history.",
+        "he": "מכונה שממירה לחץ קיטור לעבודה מכנית, שושלמה על ידי ג'יימס ווט בשנות ה-1760 עד 70. מנוע הקיטור הניע את המהפכה התעשייתית, הפעיל מפעלים, שאב מים ממכרות, ובסופו של דבר הניע רכבות וספינות. זה היה אחד ההמצאות המשנות ביותר בתולדות האנושות."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m20-13",
+      "term": { "en": "Natural Rights", "he": "זכויות טבעיות" },
+      "definition": {
+        "en": "The Enlightenment idea that all human beings are born with certain fundamental rights that cannot be taken away by any government. Philosophers like John Locke identified these as life, liberty, and property. Thomas Jefferson famously restated them in the American Declaration of Independence as 'life, liberty, and the pursuit of happiness.'",
+        "he": "רעיון ההשכלה לפיו כל בני האדם נולדים עם זכויות יסוד מסוימות שאף ממשלה לא יכולה לשלול. פילוסופים כמו ג'ון לוק זיהו אלה כחיים, חירות ורכוש. תומס ג'פרסון ניסח אותן מחדש בצורה מפורסמת בהצהרת העצמאות האמריקאית כ'חיים, חירות ורדיפת האושר'."
+      },
+      "category": "culture"
+    },
+    {
+      "id": "t-m20-14",
+      "term": { "en": "Salon", "he": "סאלון" },
+      "definition": {
+        "en": "Social gatherings in 18th-century France, typically hosted by aristocratic or wealthy women, where philosophers, writers, scientists, and educated people met to discuss new ideas. Salons were crucial to spreading Enlightenment ideas across French society. Notable salon hostesses included Madame de Staël and Marie-Thérèse Rodet Geoffrin.",
+        "he": "מפגשים חברתיים בצרפת של המאה ה-18, שנערכו בדרך כלל על ידי נשים אריסטוקרטיות או עשירות, שבהם פגשו פילוסופים, סופרים, מדענים ואנשים משכילים כדי לדון ברעיונות חדשים. הסאלונים היו חיוניים להפצת רעיונות ההשכלה ברחבי החברה הצרפתית."
+      },
+      "category": "culture"
+    },
+    {
+      "id": "t-m20-15",
+      "term": { "en": "Denis Diderot", "he": "דני דידרו" },
+      "definition": {
+        "en": "A French philosopher and writer (1713–1784) who was the main editor of the Encyclopédie, the great 18th-century project to compile all human knowledge. The Encyclopédie promoted Enlightenment ideals and challenged traditional religious and royal authority. Diderot was one of the leading figures of the French Enlightenment.",
+        "he": "פילוסוף וסופר צרפתי (1713–1784) שהיה העורך הראשי של האנציקלופדיה, הפרויקט הגדול של המאה ה-18 לאסוף את כל הידע האנושי. האנציקלופדיה קידמה את האידיאלים של ההשכלה וערערה על הסמכות הדתית והמלכותית המסורתית. דידרו היה אחד הדמויות המובילות של ההשכלה הצרפתית."
+      },
+      "category": "culture"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q-m20-01",
+      "question": { "en": "What was the Enlightenment?", "he": "מהי ההשכלה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "A religious revival movement across Europe", "he": "תנועת התעוררות דתית ברחבי אירופה" } },
+        { "id": "b", "text": { "en": "An intellectual movement emphasizing reason, science, and individual rights", "he": "תנועה אינטלקטואלית המדגישה תבונה, מדע וזכויות פרט" } },
+        { "id": "c", "text": { "en": "The invention of electric lighting in the 18th century", "he": "המצאת התאורה החשמלית במאה ה-18" } },
+        { "id": "d", "text": { "en": "A scientific discovery about the nature of light", "he": "גילוי מדעי על טבע האור" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "The Enlightenment was an 18th-century intellectual movement that emphasized reason, science, and individual rights. Enlightenment thinkers challenged the power of kings and the Church, arguing that society should be governed by rational principles. Its ideas inspired the American and French Revolutions.", "he": "ההשכלה הייתה תנועה אינטלקטואלית של המאה ה-18 שהדגישה תבונה, מדע וזכויות פרט. הוגי ההשכלה ערערו על כוחם של המלכים ושל הכנסייה, וטענו שהחברה צריכה להיות מנוהלת על ידי עקרונות רציונליים. רעיונותיה עוררו השראה למהפכות האמריקאית והצרפתית." }
+    },
+    {
+      "id": "q-m20-02",
+      "question": { "en": "What was Montesquieu's most influential idea?", "he": "מהו הרעיון המשפיע ביותר של מונטסקיה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "That the king should have absolute power", "he": "שלמלך צריך להיות כוח מוחלט" } },
+        { "id": "b", "text": { "en": "The separation of powers into legislative, executive, and judicial branches", "he": "הפרדת רשויות לרשות מחוקקת, מבצעת ושיפוטית" } },
+        { "id": "c", "text": { "en": "That religion should be banned from public life", "he": "שיש לאסור דת מהחיים הציבוריים" } },
+        { "id": "d", "text": { "en": "That women should have equal rights to men", "he": "שלנשים צריכות להיות זכויות שוות לגברים" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Montesquieu's most influential idea was the separation of powers — dividing government into legislative, executive, and judicial branches to prevent tyranny. This concept is the foundation of the American Constitution and most modern democratic governments.", "he": "הרעיון המשפיע ביותר של מונטסקיה היה הפרדת הרשויות — חלוקת הממשל לרשות מחוקקת, מבצעת ושיפוטית כדי למנוע עריצות. קונספט זה הוא היסוד של החוקה האמריקאית ורוב הממשלות הדמוקרטיות המודרניות." }
+    },
+    {
+      "id": "q-m20-03",
+      "question": { "en": "What was Voltaire famous for?", "he": "במה היה וולטר מפורסם?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Designing new scientific instruments", "he": "עיצוב מכשירים מדעיים חדשים" } },
+        { "id": "b", "text": { "en": "His sharp criticism of tyranny and religious intolerance", "he": "ביקורתו החריפה על רוד ואי-סובלנות דתית" } },
+        { "id": "c", "text": { "en": "Leading the French Revolution", "he": "הובלת המהפכה הצרפתית" } },
+        { "id": "d", "text": { "en": "Inventing the steam engine", "he": "המצאת מנוע הקיטור" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Voltaire was famous for his sharp wit and criticism of tyranny and religious intolerance. Through works like 'Candide,' he satirized injustice and championed freedom of speech and religion. He was one of the most influential writers of the Enlightenment.", "he": "וולטר היה מפורסם בחריפות דעתו ובביקורתו על רוד ואי-סובלנות דתית. דרך יצירות כמו 'קנדיד', הוא לגלג על אי-צדק ודגל בחופש הדיבור והדת. הוא היה אחד הסופרים המשפיעים ביותר של ההשכלה." }
+    },
+    {
+      "id": "q-m20-04",
+      "question": { "en": "What was the Encyclopédie?", "he": "מהי האנציקלופדיה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "A secret society of Enlightenment thinkers", "he": "אגודה סודית של הוגי ההשכלה" } },
+        { "id": "b", "text": { "en": "A French project to compile all human knowledge and spread Enlightenment ideas", "he": "פרויקט צרפתי לאסוף את כל הידע האנושי ולהפיץ את רעיונות ההשכלה" } },
+        { "id": "c", "text": { "en": "A French encyclopedia that only covered science and technology", "he": "אנציקלופדיה צרפתית שכיסתה רק מדע וטכנולוגיה" } },
+        { "id": "d", "text": { "en": "A newspaper that published Enlightenment philosophy", "he": "עיתון שפרסם פילוסופיית השכלה" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "The Encyclopédie was a massive French reference work (1751–1772) edited by Denis Diderot that attempted to compile all human knowledge. It spread Enlightenment ideas and challenged traditional religious and royal authority, making it a radical publication for its time.", "he": "האנציקלופדיה הייתה יצירת עיון צרפתית מסיבית (1751–1772) בעריכת דני דידרו שניסתה לאסוף את כל הידע האנושי. היא הפיצה את רעיונות ההשכלה וערערה על הסמכות הדתית והמלכותית המסורתית, מה שהפך אותה לפרסום רדיקלי בזמנה." }
+    },
+    {
+      "id": "q-m20-05",
+      "question": { "en": "What is the 'social contract' theory?", "he": "מהי תיאוריית ה'חוזה החברתי'?" },
+      "choices": [
+        { "id": "a", "text": { "en": "That kings have a divine right to rule", "he": "שלמלכים יש זכות אלוהית לשלוט" } },
+        { "id": "b", "text": { "en": "That people give up some freedoms to government in exchange for protection, and can overthrow unjust rulers", "he": "שאנשים מוותרים על חירויות מסוימות לממשלה בתמורה להגנה, ויכולים להפיל שליטים עריצים" } },
+        { "id": "c", "text": { "en": "That people should follow religious laws above all else", "he": "שאנשים צריכים לציית לחוקים דתיים מעל הכל" } },
+        { "id": "d", "text": { "en": "That trade agreements between nations must be honored", "he": "שיש לכבד הסכמי סחר בין אומות" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "The social contract theory, developed by Rousseau and Locke, argues that people agree to give up some freedoms in exchange for government protection and order. If a government fails to serve the people, citizens have the right to overthrow it. This justified the American and French Revolutions.", "he": "תיאוריית החוזה החברתי, שפותחה על ידי רוסו ולוק, טוענת שאנשים מסכימים לוותר על חירויות מסוימות בתמורה להגנה ממשלתית וסדר. אם ממשלה כושלת לשרת את העם, לאזרחים יש הזכות להפיל אותה. זה הצדיק את המהפכות האמריקאית והצרפתית." }
+    },
+    {
+      "id": "q-m20-06",
+      "question": { "en": "What was an 'enlightened despot'?", "he": "מה היה 'דסקפוט נאור'?" },
+      "choices": [
+        { "id": "a", "text": { "en": "A king who gave up his power to the people", "he": "מלך שוויתר על כוחו לעם" } },
+        { "id": "b", "text": { "en": "A ruler who held absolute power but applied Enlightenment ideals to governance", "he": "שליט שהחזיק בשלטון מוחלט אך יישם אידיאלים של השכלה על הממשל" } },
+        { "id": "c", "text": { "en": "A philosopher who became king", "he": "פילוסוף שהפך למלך" } },
+        { "id": "d", "text": { "en": "A ruler who was educated in France", "he": "שליט שחונך בצרפת" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "An enlightened despot was a ruler who maintained absolute power but applied Enlightenment principles — promoting education, religious tolerance, and legal reform. Frederick the Great of Prussia and Catherine the Great of Russia are the best-known examples.", "he": "דסקפוט נאור היה שליט ששמר על שלטון מוחלט אך יישם עקרונות השכלה — קידם חינוך, סובלנות דתית ורפורמה משפטית. פרידריך הגדול מפרוסיה וקתרינה הגדולה מרוסיה הם הדוגמאות הידועות ביותר." }
+    },
+    {
+      "id": "q-m20-07",
+      "question": { "en": "How did Rousseau's ideas influence later revolutions?", "he": "כיצד השפיעו רעיונותיו של רוסו על מהפכות מאוחרות יותר?" },
+      "choices": [
+        { "id": "a", "text": { "en": "He argued that revolutions were always wrong", "he": "הוא טען שמהפכות תמיד טועות" } },
+        { "id": "b", "text": { "en": "His social contract theory justified overthrowing governments that failed to serve the people", "he": "תיאוריית החוזה החברתי שלו הצדיקה הפלת ממשלות שנכשלו לשרת את העם" } },
+        { "id": "c", "text": { "en": "He wrote the American Declaration of Independence", "he": "הוא כתב את הצהרת העצמאות האמריקאית" } },
+        { "id": "d", "text": { "en": "He advocated for monarchies over democracies", "he": "הוא דגל במונרכיות על פני דמוקרטיות" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Rousseau's social contract theory — that governments derive authority from the consent of the governed and can be overthrown if they fail the people — directly inspired the American Revolution (1776) and French Revolution (1789), both of which cited these principles.", "he": "תיאוריית החוזה החברתי של רוסו — שממשלות שואבות סמכות מהסכמת הנשלטים ויכולות להיות מופלות אם הן כושלות את העם — עוררה ישירות השראה למהפכה האמריקאית (1776) ולמהפכה הצרפתית (1789), ששתיהן ציינו עקרונות אלה." }
+    },
+    {
+      "id": "q-m20-08",
+      "question": { "en": "What did John Locke identify as natural rights?", "he": "אילו זכויות טבעיות זיהה ג'ון לוק?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Faith, hope, and charity", "he": "אמונה, תקווה וצדקה" } },
+        { "id": "b", "text": { "en": "Life, liberty, and property", "he": "חיים, חירות ורכוש" } },
+        { "id": "c", "text": { "en": "Wealth, power, and fame", "he": "עושר, כוח ותהילה" } },
+        { "id": "d", "text": { "en": "Peace, justice, and equality", "he": "שלום, צדק ושוויון" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "John Locke argued that all people are born with natural rights: life, liberty, and property. He believed that governments must protect these rights. His ideas influenced Thomas Jefferson, who rewrote them as 'life, liberty, and the pursuit of happiness' in the American Declaration of Independence.", "he": "ג'ון לוק טען שכל האנשים נולדים עם זכויות טבעיות: חיים, חירות ורכוש. הוא האמין שממשלות חייבות להגן על זכויות אלה. רעיונותיו השפיעו על תומס ג'פרסון, שניסח אותם מחדש כ'חיים, חירות ורדיפת האושר' בהצהרת העצמאות האמריקאית." }
+    },
+    {
+      "id": "q-m20-09",
+      "question": { "en": "Where did the Industrial Revolution begin?", "he": "היכן החלה המהפכה התעשייתית?" },
+      "choices": [
+        { "id": "a", "text": { "en": "France", "he": "צרפת" } },
+        { "id": "b", "text": { "en": "Germany", "he": "גרמניה" } },
+        { "id": "c", "text": { "en": "Britain", "he": "בריטניה" } },
+        { "id": "d", "text": { "en": "The United States", "he": "ארצות הברית" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "The Industrial Revolution began in Britain in the 1760s–1840s. Britain was the first to industrialize because it had coal and iron resources, a strong trading empire, and inventors like James Watt who improved the steam engine. The revolution then spread to Europe and beyond.", "he": "המהפכה התעשייתית החלה בבריטניה בשנות ה-1760 עד שנות ה-1840. בריטניה הייתה הראשונה להתמדרן מפני שהיו לה משאבי פחם וברזל, אימפריה מסחרית חזקה וממציאים כמו ג'יימס ווט ששיפר את מנוע הקיטור. המהפכה לאחר מכן התפשטה לאירופה ומעבר לה." }
+    },
+    {
+      "id": "q-m20-10",
+      "question": { "en": "What was Frederick the Great known for besides his military conquests?", "he": "במה היה פרידריך הגדול ידוע מלבד כיבושיו הצבאיים?" },
+      "choices": [
+        { "id": "a", "text": { "en": "He built the Eiffel Tower", "he": "הוא בנה את מגדל אייפל" } },
+        { "id": "b", "text": { "en": "Applying Enlightenment ideals — promoting education, religious tolerance, and legal reform", "he": "יישום אידיאלים של השכלה — קידום חינוך, סובלנות דתית ורפורמה משפטית" } },
+        { "id": "c", "text": { "en": "Writing the Encyclopédie with Diderot", "he": "כתיבת האנציקלופדיה עם דידרו" } },
+        { "id": "d", "text": { "en": "Founding the United States of America", "he": "ייסוד ארצות הברית של אמריקה" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Frederick the Great of Prussia was known as an 'enlightened despot' because besides being a brilliant military leader, he applied Enlightenment ideas to governance — allowing religious freedom, reforming Prussia's legal system, promoting education, and corresponding with philosophers like Voltaire.", "he": "פרידריך הגדול מפרוסיה היה ידוע כ'דסקפוט נאור' מפני שבנוסף להיותו מנהיג צבאי מבריק, הוא יישם את רעיונות ההשכלה על הממשל — אפשר חופש דת, רפורם את המערכת המשפטית של פרוסיה, קידם חינוך והתכתב עם פילוסופים כמו וולטר." }
+    }
+  ]
+}

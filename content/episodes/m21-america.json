@@ -1,0 +1,273 @@
+{
+  "id": "m21-america",
+  "episodeNumber": 21,
+  "youtubeId": "mWBelz9kW8A",
+  "videoSources": [],
+  "title": { "en": "America", "he": "אמריקה" },
+  "summary": {
+    "en": "In 1492, Christopher Columbus sailed across the Atlantic and reached the shores of America, a land already home to many Native American peoples with rich cultures and traditions. European colonizers soon followed, establishing settlements along the eastern coast and eventually forming thirteen colonies under British rule. The Pilgrims, seeking religious freedom, arrived on the Mayflower in 1620 and built communities based on cooperation with some Native tribes. By 1776, the colonists grew frustrated with British taxes and declared their independence, led by figures like George Washington and Thomas Jefferson, launching the American Revolution. The new United States expanded westward, but the practice of slavery created deep divisions that would eventually lead to the Civil War in 1861.",
+    "he": "בשנת 1492 הפליג כריסטופר קולומבוס מעבר לאוקיינוס האטלנטי והגיע לחופי אמריקה, ארץ שכבר הייתה ביתם של עמים ילידים רבים בעלי תרבויות ומסורות עשירות. מתיישבים אירופאים הגיעו בעקבותיו, הקימו ישובים לאורך החוף המזרחי ויצרו שלוש-עשרה מושבות תחת שלטון בריטי. הצליינים, שחיפשו חופש דת, הגיעו על ספינת מייפלאואר ב-1620 ובנו קהילות. ב-1776 הכריזו המתיישבים על עצמאותם בהנהגת ג'ורג' וושינגטון ותומס ג'פרסון, ויצאו למהפכה האמריקנית. ארצות הברית החדשה התרחבה מערבה, אך עבדות האפריקנים יצרה קרע עמוק שהוביל בסופו של דבר למלחמת האזרחים ב-1861."
+  },
+  "thumbnail": "https://img.youtube.com/vi/mWBelz9kW8A/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": ["Native Americans", "European colonization", "American Revolution", "Declaration of Independence", "slavery", "Civil War"],
+  "terminology": [
+    {
+      "id": "t-m21-01",
+      "term": { "en": "Native Americans", "he": "אמריקנים ילידים" },
+      "definition": {
+        "en": "The indigenous peoples who lived in North America long before European explorers arrived. They had many different nations, languages, and cultures, and had developed complex societies over thousands of years.",
+        "he": "העמים הילידים שחיו בצפון אמריקה הרבה לפני הגעת החוקרים האירופאים. הם כללו אומות, שפות ותרבויות שונות, ופיתחו חברות מורכבות לאורך אלפי שנים."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m21-02",
+      "term": { "en": "Columbus", "he": "קולומבוס" },
+      "definition": {
+        "en": "Christopher Columbus was an Italian explorer who sailed under the Spanish flag in 1492 and reached the Caribbean islands of America. His voyage opened the way for widespread European contact with the Americas.",
+        "he": "כריסטופר קולומבוס היה חוקר איטלקי שהפליג תחת הדגל הספרדי ב-1492 והגיע לאיי הקריביים של אמריקה. מסעו פתח את הדרך לקשר נרחב בין אירופה לאמריקה."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m21-03",
+      "term": { "en": "Colony", "he": "מושבה" },
+      "definition": {
+        "en": "A colony is a territory settled and controlled by people from another country. The thirteen American colonies were territories along the eastern coast of North America that were ruled by Britain.",
+        "he": "מושבה היא טריטוריה שנוסדה ונשלטת על ידי אנשים ממדינה אחרת. שלוש-עשרה המושבות האמריקניות היו טריטוריות לאורך החוף המזרחי של צפון אמריקה שנשלטו על ידי בריטניה."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m21-04",
+      "term": { "en": "Pilgrims", "he": "צליינים" },
+      "definition": {
+        "en": "The Pilgrims were a group of English settlers who traveled to America on the Mayflower in 1620, seeking freedom to practice their religion. They founded Plymouth Colony and celebrated the first Thanksgiving with local Native Americans.",
+        "he": "הצליינים היו קבוצת מתיישבים אנגלים שהפליגו לאמריקה על ספינת המייפלאואר ב-1620, בחיפוש אחר חופש לקיים את אמונתם. הם ייסדו את מושבת פלימות' וחגגו את ה'תודה' הראשונה עם אמריקנים ילידים מקומיים."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m21-05",
+      "term": { "en": "Mayflower", "he": "מייפלאואר" },
+      "definition": {
+        "en": "The Mayflower was the ship that carried the Pilgrims from England to Plymouth, Massachusetts in 1620. The voyage lasted about 66 days across the stormy Atlantic Ocean.",
+        "he": "המייפלאואר הייתה הספינה שהסיעה את הצליינים מאנגליה לפלימות', מסצ'וסטס, ב-1620. המסע ארך כ-66 ימים מעבר לאוקיינוס האטלנטי הסוער."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m21-06",
+      "term": { "en": "Declaration of Independence", "he": "הכרזת העצמאות" },
+      "definition": {
+        "en": "The Declaration of Independence was a document signed on July 4, 1776, in which the thirteen American colonies declared themselves free from British rule. It was mainly written by Thomas Jefferson and proclaimed that all people are created equal.",
+        "he": "הכרזת העצמאות הייתה מסמך שנחתם ב-4 ביולי 1776, שבו הכריזו שלוש-עשרה המושבות האמריקניות על עצמאותן מהשלטון הבריטי. הוא נכתב בעיקר על ידי תומס ג'פרסון והכריז שכל בני האדם נבראו שווים."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m21-07",
+      "term": { "en": "American Revolution", "he": "המהפכה האמריקנית" },
+      "definition": {
+        "en": "The American Revolution was the war fought between 1775 and 1783 in which the thirteen colonies won their independence from Britain. George Washington commanded the Continental Army to victory against the powerful British forces.",
+        "he": "המהפכה האמריקנית הייתה המלחמה שהתנהלה בין 1775 ל-1783 שבה זכו שלוש-עשרה המושבות בעצמאותן מבריטניה. ג'ורג' וושינגטון פיקד על הצבא היבשתי לקראת ניצחון על הכוחות הבריטיים החזקים."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m21-08",
+      "term": { "en": "George Washington", "he": "ג'ורג' וושינגטון" },
+      "definition": {
+        "en": "George Washington was the commander of the American forces during the Revolution and became the first President of the United States. He is often called the Father of His Country for his role in founding the nation.",
+        "he": "ג'ורג' וושינגטון היה מפקד הכוחות האמריקנים במהלך המהפכה והפך לנשיא הראשון של ארצות הברית. הוא מכונה לעתים קרובות אבי האומה בשל תפקידו בייסוד המדינה."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m21-09",
+      "term": { "en": "Thomas Jefferson", "he": "תומס ג'פרסון" },
+      "definition": {
+        "en": "Thomas Jefferson was one of the Founding Fathers of the United States and the main author of the Declaration of Independence. He later became the third President of the United States.",
+        "he": "תומס ג'פרסון היה אחד ממייסדי ארצות הברית והמחבר הראשי של הכרזת העצמאות. לאחר מכן הפך לנשיא השלישי של ארצות הברית."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m21-10",
+      "term": { "en": "Slavery", "he": "עבדות" },
+      "definition": {
+        "en": "Slavery is the practice of owning people as property and forcing them to work without pay. Hundreds of thousands of Africans were enslaved and brought to America, and the fight over slavery became one of the main causes of the Civil War.",
+        "he": "עבדות היא הנוהג של בעלות על אנשים כרכוש ואילוצם לעבוד ללא תשלום. מאות אלפי אפריקנים נלקחו לעבדות והובאו לאמריקה, והמאבק על העבדות הפך לאחד הגורמים המרכזיים למלחמת האזרחים."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m21-11",
+      "term": { "en": "Westward Expansion", "he": "ההתרחבות מערבה" },
+      "definition": {
+        "en": "Westward expansion refers to the movement of American settlers into the lands west of the original thirteen colonies throughout the 1800s. This expansion often displaced Native American peoples from their ancestral lands.",
+        "he": "ההתרחבות מערבה מתייחסת לתנועת המתיישבים האמריקנים לתוך האדמות שממערב לשלוש-עשרה המושבות המקוריות לאורך שנות ה-1800. התרחבות זו גרשה לרוב עמים אמריקנים ילידים מאדמות אבותיהם."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m21-12",
+      "term": { "en": "Civil War", "he": "מלחמת האזרחים" },
+      "definition": {
+        "en": "The American Civil War was a war fought from 1861 to 1865 between the northern states (the Union) and the southern states (the Confederacy). One of its main causes was disagreement over slavery, and it ended with the abolition of slavery.",
+        "he": "מלחמת האזרחים האמריקנית הייתה מלחמה שהתנהלה בין 1861 ל-1865 בין המדינות הצפוניות (האיחוד) למדינות הדרומיות (הקונפדרציה). אחת הסיבות המרכזיות שלה הייתה מחלוקת על העבדות, והיא הסתיימה בביטול העבדות."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m21-13",
+      "term": { "en": "William Penn", "he": "וויליאם פן" },
+      "definition": {
+        "en": "William Penn was an English Quaker who founded the colony of Pennsylvania in 1681 as a place of religious tolerance and fair treatment. He made peace treaties with Native American tribes and welcomed people of different faiths.",
+        "he": "וויליאם פן היה קוואקר אנגלי שייסד את מושבת פנסילבניה ב-1681 כמקום של סובלנות דתית ויחס הוגן. הוא כרת הסכמי שלום עם שבטים ילידים ופתח את שעריו לאנשים מאמונות שונות."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m21-14",
+      "term": { "en": "Lafayette", "he": "לה-פאיאט" },
+      "definition": {
+        "en": "The Marquis de Lafayette was a French military officer who came to America to help fight in the American Revolution. He became a close friend of George Washington and played an important role in the American victory.",
+        "he": "המרקיז דה לה-פאיאט היה קצין צבאי צרפתי שהגיע לאמריקה כדי לסייע במלחמת העצמאות האמריקנית. הוא הפך לידיד קרוב של ג'ורג' וושינגטון ומילא תפקיד חשוב בניצחון האמריקני."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m21-15",
+      "term": { "en": "Thirteen Colonies", "he": "שלוש-עשרה המושבות" },
+      "definition": {
+        "en": "The thirteen colonies were the British settlements on the eastern coast of North America that declared independence in 1776 and became the first states of the United States. They included Virginia, Massachusetts, New York, and ten others.",
+        "he": "שלוש-עשרה המושבות היו הישובים הבריטיים על החוף המזרחי של צפון אמריקה שהכריזו על עצמאותם ב-1776 והפכו למדינות הראשונות של ארצות הברית. הן כללו את וירג'יניה, מסצ'וסטס, ניו יורק ועשר נוספות."
+      },
+      "category": "history"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q-m21-01",
+      "question": { "en": "In what year did Christopher Columbus reach America?", "he": "באיזו שנה הגיע כריסטופר קולומבוס לאמריקה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "1776", "he": "1776" } },
+        { "id": "b", "text": { "en": "1492", "he": "1492" } },
+        { "id": "c", "text": { "en": "1620", "he": "1620" } },
+        { "id": "d", "text": { "en": "1066", "he": "1066" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Columbus sailed in 1492 under the Spanish flag and reached the Caribbean islands, opening the Americas to European contact.", "he": "קולומבוס הפליג ב-1492 תחת הדגל הספרדי והגיע לאיי הקריביים, ובכך פתח את אמריקה לקשר עם אירופה." }
+    },
+    {
+      "id": "q-m21-02",
+      "question": { "en": "What was the name of the ship that brought the Pilgrims to America?", "he": "מה היה שמה של הספינה שהביאה את הצליינים לאמריקה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Santa Maria", "he": "סנטה מריה" } },
+        { "id": "b", "text": { "en": "Titanic", "he": "טיטאניק" } },
+        { "id": "c", "text": { "en": "Mayflower", "he": "מייפלאואר" } },
+        { "id": "d", "text": { "en": "Victory", "he": "ויקטורי" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "The Mayflower carried the Pilgrims from England to Plymouth, Massachusetts in 1620.", "he": "המייפלאואר הסיעה את הצליינים מאנגליה לפלימות', מסצ'וסטס, ב-1620." }
+    },
+    {
+      "id": "q-m21-03",
+      "question": { "en": "Who was the main author of the Declaration of Independence?", "he": "מי היה המחבר הראשי של הכרזת העצמאות?" },
+      "choices": [
+        { "id": "a", "text": { "en": "George Washington", "he": "ג'ורג' וושינגטון" } },
+        { "id": "b", "text": { "en": "Benjamin Franklin", "he": "בנג'מין פרנקלין" } },
+        { "id": "c", "text": { "en": "Abraham Lincoln", "he": "אברהם לינקולן" } },
+        { "id": "d", "text": { "en": "Thomas Jefferson", "he": "תומס ג'פרסון" } }
+      ],
+      "correctChoice": "d",
+      "explanation": { "en": "Thomas Jefferson was the main author of the Declaration of Independence, which was signed on July 4, 1776.", "he": "תומס ג'פרסון היה המחבר הראשי של הכרזת העצמאות, שנחתמה ב-4 ביולי 1776." }
+    },
+    {
+      "id": "q-m21-04",
+      "question": { "en": "How many colonies declared independence from Britain in 1776?", "he": "כמה מושבות הכריזו על עצמאות מבריטניה ב-1776?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Thirteen", "he": "שלוש-עשרה" } },
+        { "id": "b", "text": { "en": "Seven", "he": "שבע" } },
+        { "id": "c", "text": { "en": "Twenty", "he": "עשרים" } },
+        { "id": "d", "text": { "en": "Fifty", "he": "חמישים" } }
+      ],
+      "correctChoice": "a",
+      "explanation": { "en": "The thirteen colonies along the eastern coast of North America united to declare independence and became the first states of the USA.", "he": "שלוש-עשרה המושבות לאורך החוף המזרחי של צפון אמריקה התאחדו להכריז על עצמאות והפכו למדינות הראשונות של ארה\"ב." }
+    },
+    {
+      "id": "q-m21-05",
+      "question": { "en": "Who commanded the American army during the Revolution?", "he": "מי פיקד על הצבא האמריקני במהלך המהפכה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Thomas Jefferson", "he": "תומס ג'פרסון" } },
+        { "id": "b", "text": { "en": "George Washington", "he": "ג'ורג' וושינגטון" } },
+        { "id": "c", "text": { "en": "William Penn", "he": "וויליאם פן" } },
+        { "id": "d", "text": { "en": "Lafayette", "he": "לה-פאיאט" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "George Washington commanded the Continental Army and led the colonies to victory over Britain. He later became the first President.", "he": "ג'ורג' וושינגטון פיקד על הצבא היבשתי והוביל את המושבות לניצחון על בריטניה. לאחר מכן הפך לנשיא הראשון." }
+    },
+    {
+      "id": "q-m21-06",
+      "question": { "en": "Why did the Pilgrims leave England and sail to America?", "he": "מדוע עזבו הצליינים את אנגליה והפליגו לאמריקה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "To find gold", "he": "כדי למצוא זהב" } },
+        { "id": "b", "text": { "en": "To escape a flood", "he": "כדי להימלט ממבול" } },
+        { "id": "c", "text": { "en": "To seek religious freedom", "he": "כדי לחפש חופש דת" } },
+        { "id": "d", "text": { "en": "To trade with Native Americans", "he": "כדי לסחור עם האמריקנים הילידים" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "The Pilgrims wanted freedom to worship in their own way, which was not allowed in England at the time.", "he": "הצליינים רצו חופש לסגוד בדרכם, מה שלא היה מותר באנגליה באותה תקופה." }
+    },
+    {
+      "id": "q-m21-07",
+      "question": { "en": "Which French nobleman came to help the Americans fight the British?", "he": "איזה אציל צרפתי הגיע לעזור לאמריקנים להילחם בבריטים?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Napoleon", "he": "נפוליאון" } },
+        { "id": "b", "text": { "en": "Robespierre", "he": "רובספייר" } },
+        { "id": "c", "text": { "en": "Louis XVI", "he": "לואי ה-16" } },
+        { "id": "d", "text": { "en": "Lafayette", "he": "לה-פאיאט" } }
+      ],
+      "correctChoice": "d",
+      "explanation": { "en": "The Marquis de Lafayette was a French military officer who crossed the Atlantic to help the American colonists fight for independence.", "he": "המרקיז דה לה-פאיאט היה קצין צבאי צרפתי שחצה את האטלנטי כדי לסייע למתיישבים האמריקנים להילחם לעצמאות." }
+    },
+    {
+      "id": "q-m21-08",
+      "question": { "en": "What was one of the main causes of the American Civil War?", "he": "מהי אחת הסיבות המרכזיות למלחמת האזרחים האמריקנית?" },
+      "choices": [
+        { "id": "a", "text": { "en": "A disagreement over religion", "he": "מחלוקת על דת" } },
+        { "id": "b", "text": { "en": "A disagreement over slavery", "he": "מחלוקת על עבדות" } },
+        { "id": "c", "text": { "en": "A war against Britain", "he": "מלחמה נגד בריטניה" } },
+        { "id": "d", "text": { "en": "A fight over the Mayflower", "he": "מאבק על המייפלאואר" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "The Civil War was fought largely over the question of slavery — the northern states opposed it while the southern states wanted to keep it.", "he": "מלחמת האזרחים התנהלה בעיקר סביב שאלת העבדות — המדינות הצפוניות התנגדו לה בעוד המדינות הדרומיות רצו להמשיך בה." }
+    },
+    {
+      "id": "q-m21-09",
+      "question": { "en": "Who founded the colony of Pennsylvania and promoted religious tolerance?", "he": "מי ייסד את מושבת פנסילבניה וקידם סובלנות דתית?" },
+      "choices": [
+        { "id": "a", "text": { "en": "George Washington", "he": "ג'ורג' וושינגטון" } },
+        { "id": "b", "text": { "en": "Columbus", "he": "קולומבוס" } },
+        { "id": "c", "text": { "en": "William Penn", "he": "וויליאם פן" } },
+        { "id": "d", "text": { "en": "Thomas Jefferson", "he": "תומס ג'פרסון" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "William Penn, a Quaker, founded Pennsylvania in 1681 as a colony where people of different religions could live in peace.", "he": "וויליאם פן, קוואקר, ייסד את פנסילבניה ב-1681 כמושבה שבה אנשים מדתות שונות יכולים לחיות בשלום." }
+    },
+    {
+      "id": "q-m21-10",
+      "question": { "en": "When did the American Civil War begin?", "he": "מתי החלה מלחמת האזרחים האמריקנית?" },
+      "choices": [
+        { "id": "a", "text": { "en": "1776", "he": "1776" } },
+        { "id": "b", "text": { "en": "1812", "he": "1812" } },
+        { "id": "c", "text": { "en": "1861", "he": "1861" } },
+        { "id": "d", "text": { "en": "1900", "he": "1900" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "The Civil War began in 1861 when southern states seceded from the Union over the issue of slavery and formed the Confederacy.", "he": "מלחמת האזרחים החלה ב-1861 כאשר מדינות דרומיות פרשו מהאיחוד בגלל שאלת העבדות וייסדו את הקונפדרציה." }
+    }
+  ]
+}

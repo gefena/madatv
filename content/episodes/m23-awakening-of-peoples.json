@@ -1,0 +1,273 @@
+{
+  "id": "m23-awakening-of-peoples",
+  "episodeNumber": 23,
+  "youtubeId": "kmCmBrbBfqo",
+  "videoSources": [],
+  "title": { "en": "The Awakening of the People", "he": "אביב העמים" },
+  "summary": {
+    "en": "The 19th century was a time of enormous change as the Industrial Revolution transformed how people lived and worked, with steam engines powering factories and railways connecting cities for the first time. Millions of workers left the countryside to labor in factories under difficult conditions, and thinkers like Karl Marx began to write about the rights of working people and the idea of socialism. In 1848, revolutions broke out across Europe as ordinary people demanded better conditions and national independence, in a great wave known as the Spring of Nations. Inspired by national pride, the German and Italian peoples struggled to unite their many divided states into single nations. George Stephenson built the first practical steam locomotive, changing transportation forever and shrinking the distances between people.",
+    "he": "המאה ה-19 הייתה תקופה של שינוי עצום כאשר המהפכה התעשייתית שינתה את אופן החיים והעבודה של אנשים, כשמנועי קיטור הניעו מפעלים ורכבות חיברו ערים לראשונה. מיליוני פועלים עזבו את הכפר לעבוד במפעלים בתנאים קשים, והוגים כמו קרל מרקס החלו לכתוב על זכויות הפועלים ועל רעיון הסוציאליזם. ב-1848 פרצו מהפכות ברחבי אירופה כשאנשים פשוטים דרשו תנאים טובים יותר ועצמאות לאומית, בגל גדול המכונה אביב העמים. מתוך גאווה לאומית, נאבקו העמים הגרמני והאיטלקי לאחד את מדינותיהם המפוצלות לאומות אחידות. ג'ורג' סטיבנסון בנה את הקטר המעשי הראשון, ושינה את התחבורה לנצח ושיכרר את המרחקים בין אנשים."
+  },
+  "thumbnail": "https://img.youtube.com/vi/kmCmBrbBfqo/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": ["Industrial Revolution", "steam engine", "railways", "Karl Marx", "revolutions of 1848", "German unification", "Italian unification"],
+  "terminology": [
+    {
+      "id": "t-m23-01",
+      "term": { "en": "Industrial Revolution", "he": "המהפכה התעשייתית" },
+      "definition": {
+        "en": "The Industrial Revolution was a period from the late 1700s through the 1800s when new machines and factories replaced hand labor. It began in Britain and spread across Europe, completely changing how goods were made and how people lived.",
+        "he": "המהפכה התעשייתית הייתה תקופה מסוף שנות ה-1700 דרך שנות ה-1800 שבה מכונות ומפעלים חדשים החליפו עבודת יד. היא החלה בבריטניה והתפשטה ברחבי אירופה, ושינתה לחלוטין את אופן ייצור המוצרים ואת חייהם של אנשים."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m23-02",
+      "term": { "en": "Steam Engine", "he": "מנוע קיטור" },
+      "definition": {
+        "en": "A steam engine is a machine that uses boiling water to create steam, which then powers pistons and wheels. Steam engines powered factories, ships, and locomotives and were the driving force of the Industrial Revolution.",
+        "he": "מנוע קיטור הוא מכונה המשתמשת במים רותחים ליצירת קיטור, אשר מניע בוכנות וגלגלים. מנועי קיטור הניעו מפעלים, ספינות וקטרים והיו הכוח המניע של המהפכה התעשייתית."
+      },
+      "category": "science"
+    },
+    {
+      "id": "t-m23-03",
+      "term": { "en": "Railway", "he": "מסילת ברזל" },
+      "definition": {
+        "en": "A railway is a track of iron or steel rails on which trains run. The first passenger railways opened in the 1820s and 1830s, allowing people and goods to travel faster than ever before and transforming trade and society.",
+        "he": "מסילת ברזל היא מסלול של פסי ברזל או פלדה שעליהם רצות רכבות. מסילות הנוסעים הראשונות נפתחו בשנות ה-1820 וה-1830, ואפשרו לאנשים ולסחורות לנסוע מהר יותר מאי פעם ושינו את המסחר והחברה."
+      },
+      "category": "science"
+    },
+    {
+      "id": "t-m23-04",
+      "term": { "en": "George Stephenson", "he": "ג'ורג' סטיבנסון" },
+      "definition": {
+        "en": "George Stephenson was an English engineer who built the first successful steam locomotive for use on a public railway. His Rocket locomotive, built in 1829, proved that steam trains could carry passengers reliably.",
+        "he": "ג'ורג' סטיבנסון היה מהנדס אנגלי שבנה את הקטר הקיטור המעשי הראשון לשימוש על מסילה ציבורית. קטר הרוקט שלו, שנבנה ב-1829, הוכיח שרכבות קיטור יכולות להוביל נוסעים באופן אמין."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m23-05",
+      "term": { "en": "Working Class", "he": "מעמד הפועלים" },
+      "definition": {
+        "en": "The working class refers to factory and industrial workers who earned wages for their labor. During the Industrial Revolution, many working-class people worked long hours in dangerous conditions for very little pay.",
+        "he": "מעמד הפועלים מתייחס לעובדי מפעלים ותעשייה שהרוויחו שכר עבור עבודתם. במהלך המהפכה התעשייתית, אנשים רבים ממעמד הפועלים עבדו שעות ארוכות בתנאים מסוכנים תמורת שכר נמוך מאוד."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m23-06",
+      "term": { "en": "Karl Marx", "he": "קרל מרקס" },
+      "definition": {
+        "en": "Karl Marx was a German philosopher and writer who lived in the 19th century. He wrote the Communist Manifesto and argued that workers should unite and take control of the factories and means of production from wealthy owners.",
+        "he": "קרל מרקס היה פילוסוף וסופר גרמני שחי במאה ה-19. הוא כתב את המניפסט הקומוניסטי וטען שפועלים צריכים להתאחד ולקחת שליטה על המפעלים ואמצעי הייצור מהבעלים העשירים."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m23-07",
+      "term": { "en": "Socialism", "he": "סוציאליזם" },
+      "definition": {
+        "en": "Socialism is a political idea that the wealth and resources of a society should be shared more equally among all people, rather than owned by a small number of wealthy individuals. It grew popular in the 19th century as a response to harsh factory conditions.",
+        "he": "סוציאליזם הוא רעיון פוליטי שלפיו העושר והמשאבים של חברה צריכים להיות מחולקים בצורה שוויונית יותר בין כל האנשים, ולא להיות בבעלות מספר קטן של עשירים. הוא הפך לפופולרי במאה ה-19 כתגובה לתנאי המפעל הקשים."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m23-08",
+      "term": { "en": "Revolutions of 1848", "he": "מהפכות 1848" },
+      "definition": {
+        "en": "The Revolutions of 1848 were a series of uprisings that swept across Europe, including France, Germany, Italy, and Austria. Ordinary people demanded political rights, better working conditions, and national independence, though most revolutions were eventually suppressed.",
+        "he": "מהפכות 1848 היו סדרת מרידות שסחפו את אירופה, כולל צרפת, גרמניה, איטליה ואוסטריה. אנשים פשוטים דרשו זכויות פוליטיות, תנאי עבודה טובים יותר ועצמאות לאומית, אם כי רוב המהפכות הודכאו בסופו של דבר."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m23-09",
+      "term": { "en": "Spring of Nations", "he": "אביב העמים" },
+      "definition": {
+        "en": "The Spring of Nations is another name for the Revolutions of 1848, when people across Europe rose up to demand freedom, national identity, and democracy. It was called a spring because it represented a hopeful new beginning for the people.",
+        "he": "אביב העמים הוא שם נוסף למהפכות 1848, כאשר עמים ברחבי אירופה קמו לדרוש חירות, זהות לאומית ודמוקרטיה. הוא כונה אביב משום שייצג התחלה חדשה ומלאת תקווה לעמים."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m23-10",
+      "term": { "en": "Nationalism", "he": "לאומנות" },
+      "definition": {
+        "en": "Nationalism is the belief that people who share a common language, culture, and history should live together in their own independent country. In the 19th century, nationalist movements drove the unification of Germany and Italy.",
+        "he": "לאומנות היא האמונה שאנשים החולקים שפה, תרבות והיסטוריה משותפות צריכים לחיות יחד במדינה עצמאית משלהם. במאה ה-19, תנועות לאומניות הניעו את איחוד גרמניה ואיטליה."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m23-11",
+      "term": { "en": "Unification of Germany", "he": "איחוד גרמניה" },
+      "definition": {
+        "en": "The unification of Germany in 1871 brought together dozens of separate German-speaking states into one German Empire. It was led by the Prussian statesman Otto von Bismarck and King Wilhelm I, who became the first German Emperor.",
+        "he": "איחוד גרמניה ב-1871 הביא יחד עשרות מדינות גרמניות נפרדות לאימפריה גרמנית אחת. הוא הונהג על ידי המדינאי הפרוסי אוטו פון ביסמרק והמלך וילהלם הראשון, שהפך לקיסר גרמניה הראשון."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m23-12",
+      "term": { "en": "Unification of Italy", "he": "איחוד איטליה" },
+      "definition": {
+        "en": "The unification of Italy in 1861 brought together the many separate Italian states into a single Kingdom of Italy. Key figures included Garibaldi, who led military campaigns, and Cavour, who handled the diplomacy.",
+        "he": "איחוד איטליה ב-1861 הביא יחד את המדינות האיטלקיות הנפרדות הרבות לממלכת איטליה אחת. דמויות מפתח כללו את גריבלדי, שהוביל מסעות צבאיים, וקבור, שטיפל בדיפלומטיה."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m23-13",
+      "term": { "en": "Napoleon III", "he": "נפוליאון השלישי" },
+      "definition": {
+        "en": "Napoleon III was the nephew of Napoleon Bonaparte and became the Emperor of France from 1852 to 1870. He modernized Paris and France's economy but was ultimately defeated in the Franco-Prussian War of 1870.",
+        "he": "נפוליאון השלישי היה אחיינו של נפוליאון בונפרטה והפך לקיסר צרפת מ-1852 עד 1870. הוא מודרן את פריז ואת כלכלת צרפת אך הובס בסופו של דבר במלחמת צרפת-פרוסיה של 1870."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m23-14",
+      "term": { "en": "Communist Manifesto", "he": "המניפסט הקומוניסטי" },
+      "definition": {
+        "en": "The Communist Manifesto is a famous political pamphlet written by Karl Marx and Friedrich Engels in 1848. It called on workers of all countries to unite against the wealthy class that owned the factories and exploit their labor.",
+        "he": "המניפסט הקומוניסטי הוא חוברת פוליטית מפורסמת שנכתבה על ידי קרל מרקס ופרידריך אנגלס ב-1848. הוא קרא לפועלים מכל המדינות להתאחד נגד המעמד העשיר שהחזיק במפעלים ומנצל את עבודתם."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m23-15",
+      "term": { "en": "Factory", "he": "מפעל" },
+      "definition": {
+        "en": "A factory is a large building where goods are made using machines and many workers. During the Industrial Revolution, factories replaced skilled craftsmen working at home, and cities grew rapidly as people moved from the countryside to find work.",
+        "he": "מפעל הוא בניין גדול שבו מיוצרים מוצרים תוך שימוש במכונות ופועלים רבים. במהלך המהפכה התעשייתית, מפעלים החליפו בעלי מלאכה מיומנים שעבדו בבית, וערים גדלו במהירות כשאנשים עברו מהכפר לחפש עבודה."
+      },
+      "category": "history"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q-m23-01",
+      "question": { "en": "What did the Industrial Revolution change?", "he": "מה שינתה המהפכה התעשייתית?" },
+      "choices": [
+        { "id": "a", "text": { "en": "The way people made goods and worked", "he": "את האופן שבו אנשים ייצרו מוצרים ועבדו" } },
+        { "id": "b", "text": { "en": "The way people prayed", "he": "את האופן שבו אנשים התפללו" } },
+        { "id": "c", "text": { "en": "The way people fought wars", "he": "את האופן שבו אנשים לחמו במלחמות" } },
+        { "id": "d", "text": { "en": "The way people got married", "he": "את האופן שבו אנשים התחתנו" } }
+      ],
+      "correctChoice": "a",
+      "explanation": { "en": "The Industrial Revolution replaced hand labor with machines and factories, transforming how goods were made, how people worked, and where they lived.", "he": "המהפכה התעשייתית החליפה עבודת יד במכונות ומפעלים, ושינתה את אופן ייצור המוצרים, אופן עבודתם של אנשים ומקום מגוריהם." }
+    },
+    {
+      "id": "q-m23-02",
+      "question": { "en": "Who wrote the Communist Manifesto?", "he": "מי כתב את המניפסט הקומוניסטי?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Napoleon III", "he": "נפוליאון השלישי" } },
+        { "id": "b", "text": { "en": "George Stephenson", "he": "ג'ורג' סטיבנסון" } },
+        { "id": "c", "text": { "en": "Karl Marx", "he": "קרל מרקס" } },
+        { "id": "d", "text": { "en": "Garibaldi", "he": "גריבלדי" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Karl Marx, together with Friedrich Engels, wrote the Communist Manifesto in 1848, calling for workers to unite against those who owned the factories.", "he": "קרל מרקס, יחד עם פרידריך אנגלס, כתב את המניפסט הקומוניסטי ב-1848, וקרא לפועלים להתאחד נגד בעלי המפעלים." }
+    },
+    {
+      "id": "q-m23-03",
+      "question": { "en": "What year did revolutions break out across Europe in the Spring of Nations?", "he": "באיזו שנה פרצו מהפכות ברחבי אירופה באביב העמים?" },
+      "choices": [
+        { "id": "a", "text": { "en": "1789", "he": "1789" } },
+        { "id": "b", "text": { "en": "1815", "he": "1815" } },
+        { "id": "c", "text": { "en": "1871", "he": "1871" } },
+        { "id": "d", "text": { "en": "1848", "he": "1848" } }
+      ],
+      "correctChoice": "d",
+      "explanation": { "en": "In 1848, revolutions broke out across Europe from France to Germany to Italy and Austria, in a wave known as the Spring of Nations or Revolutions of 1848.", "he": "ב-1848 פרצו מהפכות ברחבי אירופה מצרפת ועד גרמניה, איטליה ואוסטריה, בגל המכונה אביב העמים או מהפכות 1848." }
+    },
+    {
+      "id": "q-m23-04",
+      "question": { "en": "Who built the first practical steam locomotive?", "he": "מי בנה את הקטר הקיטור המעשי הראשון?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Karl Marx", "he": "קרל מרקס" } },
+        { "id": "b", "text": { "en": "George Stephenson", "he": "ג'ורג' סטיבנסון" } },
+        { "id": "c", "text": { "en": "Napoleon III", "he": "נפוליאון השלישי" } },
+        { "id": "d", "text": { "en": "Thomas Jefferson", "he": "תומס ג'פרסון" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "George Stephenson built the Rocket locomotive in 1829, which proved that steam trains could carry passengers and cargo reliably.", "he": "ג'ורג' סטיבנסון בנה את קטר הרוקט ב-1829, שהוכיח שרכבות קיטור יכולות להוביל נוסעים ומטענים באופן אמין." }
+    },
+    {
+      "id": "q-m23-05",
+      "question": { "en": "What is socialism?", "he": "מהו סוציאליזם?" },
+      "choices": [
+        { "id": "a", "text": { "en": "The belief that kings should rule everything", "he": "האמונה שמלכים צריכים לשלוט בכל" } },
+        { "id": "b", "text": { "en": "The belief that wealth should be shared equally", "he": "האמונה שעושר צריך להיות מחולק בשוויון" } },
+        { "id": "c", "text": { "en": "The belief that factories should be destroyed", "he": "האמונה שמפעלים צריכים להיהרס" } },
+        { "id": "d", "text": { "en": "The belief that only scientists should rule", "he": "האמונה שרק מדענים צריכים לשלוט" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Socialism is the idea that society's wealth and resources should be distributed more equally, so that all people — not just the rich — can live well.", "he": "סוציאליזם הוא הרעיון שעושר ומשאבים של החברה צריכים להיות מחולקים בצורה שוויונית יותר, כך שכל האנשים — ולא רק העשירים — יוכלו לחיות טוב." }
+    },
+    {
+      "id": "q-m23-06",
+      "question": { "en": "In what year was Germany unified into one empire?", "he": "באיזו שנה אוחדה גרמניה לאימפריה אחת?" },
+      "choices": [
+        { "id": "a", "text": { "en": "1848", "he": "1848" } },
+        { "id": "b", "text": { "en": "1861", "he": "1861" } },
+        { "id": "c", "text": { "en": "1871", "he": "1871" } },
+        { "id": "d", "text": { "en": "1900", "he": "1900" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Germany was unified in 1871 under the leadership of Otto von Bismarck and King Wilhelm I, who became the first German Emperor.", "he": "גרמניה אוחדה ב-1871 תחת הנהגת אוטו פון ביסמרק והמלך וילהלם הראשון, שהפך לקיסר גרמניה הראשון." }
+    },
+    {
+      "id": "q-m23-07",
+      "question": { "en": "Why did people move from the countryside to cities during the Industrial Revolution?", "he": "מדוע עברו אנשים מהכפר לערים במהלך המהפכה התעשייתית?" },
+      "choices": [
+        { "id": "a", "text": { "en": "To escape floods", "he": "כדי להימלט ממבולות" } },
+        { "id": "b", "text": { "en": "To find work in factories", "he": "כדי למצוא עבודה במפעלים" } },
+        { "id": "c", "text": { "en": "To attend university", "he": "כדי ללמוד באוניברסיטה" } },
+        { "id": "d", "text": { "en": "To join the army", "he": "כדי להצטרף לצבא" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Factories in cities offered paid work, so millions of people left farming behind and moved to cities to work in the new industrial factories.", "he": "מפעלים בערים הציעו עבודה בשכר, ולכן מיליוני אנשים עזבו את החקלאות ועברו לערים לעבוד במפעלים התעשייתיים החדשים." }
+    },
+    {
+      "id": "q-m23-08",
+      "question": { "en": "What did railways do to travel and trade?", "he": "מה עשו מסילות הברזל לנסיעות ולמסחר?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Made travel slower and more expensive", "he": "הפכו את הנסיעות לאיטיות יותר ויקרות יותר" } },
+        { "id": "b", "text": { "en": "Had no effect on travel", "he": "לא השפיעו על הנסיעות" } },
+        { "id": "c", "text": { "en": "Only helped kings travel", "he": "עזרו רק למלכים לנסוע" } },
+        { "id": "d", "text": { "en": "Made travel faster and connected distant places", "he": "הפכו את הנסיעות למהירות יותר וחיברו מקומות רחוקים" } }
+      ],
+      "correctChoice": "d",
+      "explanation": { "en": "Railways made it possible to travel and ship goods much faster than before, connecting cities and towns and greatly expanding trade and economic activity.", "he": "מסילות הברזל אפשרו לנסוע ולשנע סחורות מהר הרבה יותר מבעבר, חיברו ערים ועיירות והרחיבו מאוד את המסחר ופעילות הכלכלה." }
+    },
+    {
+      "id": "q-m23-09",
+      "question": { "en": "What is nationalism?", "he": "מהי לאומנות?" },
+      "choices": [
+        { "id": "a", "text": { "en": "The belief that all countries should unite into one", "he": "האמונה שכל המדינות צריכות להתאחד לאחת" } },
+        { "id": "b", "text": { "en": "The belief that people sharing a culture should have their own country", "he": "האמונה שאנשים החולקים תרבות צריכים להחזיק במדינה שלהם" } },
+        { "id": "c", "text": { "en": "The belief that only rich people should lead nations", "he": "האמונה שרק עשירים צריכים להוביל אומות" } },
+        { "id": "d", "text": { "en": "The belief in world government", "he": "האמונה בממשלה עולמית" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Nationalism is the belief that people who share a language, culture, and history deserve their own independent nation-state, which drove the unification of Germany and Italy.", "he": "לאומנות היא האמונה שאנשים החולקים שפה, תרבות והיסטוריה ראויים למדינת לאום עצמאית משלהם, מה שהניע את איחוד גרמניה ואיטליה." }
+    },
+    {
+      "id": "q-m23-10",
+      "question": { "en": "What was Marx's main message to workers?", "he": "מה היה המסר המרכזי של מרקס לפועלים?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Work harder and obey your employers", "he": "עבדו קשה יותר וציתו למעסיקיכם" } },
+        { "id": "b", "text": { "en": "Move to the countryside and farm", "he": "עברו לכפר ועסקו בחקלאות" } },
+        { "id": "c", "text": { "en": "Unite and take control of the means of production", "he": "התאחדו וקחו שליטה על אמצעי הייצור" } },
+        { "id": "d", "text": { "en": "Pray for better conditions", "he": "התפללו לתנאים טובים יותר" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Marx believed that workers were exploited by factory owners and called on them to unite, overthrow the ruling class, and take collective control of the means of production.", "he": "מרקס האמין שפועלים נוצלו על ידי בעלי המפעלים וקרא להם להתאחד, להפיל את המעמד השליט ולקחת שליטה קולקטיבית על אמצעי הייצור." }
+    }
+  ]
+}

@@ -1,0 +1,273 @@
+{
+  "id": "m13-hundred-years-war",
+  "episodeNumber": 13,
+  "youtubeId": "loOQIldEhFU",
+  "videoSources": [],
+  "title": { "en": "The Hundred Years' War", "he": "מלחמת מאה השנים" },
+  "summary": {
+    "en": "Between 1337 and 1453, England and France fought one of the longest and most devastating conflicts in medieval history — the Hundred Years' War. What began as a dispute over the French throne became a century of devastating raids, sieges, and battles. The English longbowmen won spectacular victories at Crécy and Agincourt. But just when France seemed lost, a young peasant girl from Lorraine named Joan of Arc claimed to hear voices from God urging her to drive out the English. In an astonishing turn of events, she led French armies to victory, helped crown the French king, but was eventually captured, tried as a witch, and burned at the stake. Her sacrifice ignited French national identity and turned the tide of war, ultimately expelling the English from France.",
+    "he": "בין 1337 ל-1453, לחמו אנגליה וצרפת באחד מהסכסוכים הארוכים וההרסניים ביותר בהיסטוריה של ימי הביניים — מלחמת מאה השנים. מה שהתחיל כמחלוקת על כס המלוכה הצרפתי הפך למאה שנים של פשיטות, מצורים וקרבות הרסניים. קשתי הקשת הארוכה האנגליים זכו בניצחונות מרהיבים בקרסי ובאז'ינקור. אך בדיוק כשצרפת נראתה אבודה, נערה איכרה צעירה מלורן בשם ז'אן ד'ארק טענה ששמעה קולות מאלוהים שדחקו בה לגרש את האנגלים. בתפנית מדהימה של אירועים, היא הובילה את הצבאות הצרפתיים לניצחון, עזרה להכתיר את המלך הצרפתי, אך בסופו של דבר נתפסה, נשפטה כמכשפה ונשרפה על המוקד. הקרבתה הצית את הזהות הלאומית הצרפתית והפכה את גלגל המלחמה, ובסופו של דבר גירשה את האנגלים מצרפת."
+  },
+  "thumbnail": "https://img.youtube.com/vi/loOQIldEhFU/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": ["Hundred Years' War", "Joan of Arc", "Medieval France", "Medieval England"],
+  "terminology": [
+    {
+      "id": "t-m13-01",
+      "term": { "en": "Hundred Years' War", "he": "מלחמת מאה השנים" },
+      "definition": {
+        "en": "A series of conflicts between England and France lasting from 1337 to 1453, fought primarily over the right to the French throne. Despite the name, it was not one continuous war but a series of conflicts and truces over 116 years. It ended with France victorious and England losing nearly all its territory in France.",
+        "he": "סדרת סכסוכים בין אנגליה לצרפת שנמשכה מ-1337 עד 1453, שנלחמה בעיקר על הזכות לכס המלוכה הצרפתי. למרות השם, זו לא הייתה מלחמה רציפה אחת אלא סדרת סכסוכים והפסקות אש על פני 116 שנה. היא הסתיימה בניצחון צרפת ואנגליה איבדה כמעט את כל שטחה בצרפת."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m13-02",
+      "term": { "en": "Joan of Arc", "he": "ז'אן ד'ארק" },
+      "definition": {
+        "en": "A peasant girl from Lorraine, France (1412–1431), who claimed to receive visions from God instructing her to support the French king and drive the English out of France. She led French armies to several important victories, but was captured by the Burgundians, sold to the English, and burned at the stake as a heretic at age 19. She was later declared a saint.",
+        "he": "ילדה איכרה מלורן, צרפת (1412–1431), שטענה שקיבלה חזיונות מאלוהים המורים לה לתמוך במלך הצרפתי ולגרש את האנגלים מצרפת. היא הובילה את הצבאות הצרפתיים לכמה ניצחונות חשובים, אך נתפסה על ידי הבורגנדים, נמכרה לאנגלים ונשרפה על המוקד כאפיקורסת בגיל 19. מאוחר יותר הוכרזה כקדושה."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m13-03",
+      "term": { "en": "Longbow", "he": "קשת ארוכה" },
+      "definition": {
+        "en": "A large bow, approximately 1.8 meters tall, used by English and Welsh archers during the Hundred Years' War. Skilled longbowmen could fire up to 12 arrows per minute with great accuracy and range. The longbow was a decisive weapon at English victories like Crécy (1346) and Agincourt (1415).",
+        "he": "קשת גדולה, גובהה כ-1.8 מטר, ששימשה קשתים אנגלים ווולשים במלחמת מאה השנים. קשתים מיומנים יכלו לירות עד 12 חצים בדקה בדייקנות ובטווח גדול. הקשת הארוכה הייתה נשק מכריע בניצחונות אנגלים כמו קרסי (1346) ואז'ינקור (1415)."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m13-04",
+      "term": { "en": "Battle of Agincourt", "he": "קרב אז'ינקור" },
+      "definition": {
+        "en": "A famous English victory in 1415 during the Hundred Years' War, in which King Henry V of England defeated a much larger French army. English longbowmen decimated the French knights, who were weighed down by their heavy armor in muddy conditions. The battle is the subject of Shakespeare's play Henry V.",
+        "he": "ניצחון אנגלי מפורסם בשנת 1415 במהלך מלחמת מאה השנים, שבו מלך אנגליה הנרי החמישי הביס צבא צרפתי גדול בהרבה. קשתי הקשת הארוכה האנגליים הכחידו את האבירים הצרפתיים, שהיו עמוסים בשריון הכבד שלהם בתנאי בוץ. הקרב הוא הנושא של מחזה שייקספיר הנרי החמישי."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m13-05",
+      "term": { "en": "Knight", "he": "אביר" },
+      "definition": {
+        "en": "A mounted warrior of the medieval nobility, armored in plate or chainmail and trained from childhood in combat skills. Knights were bound by a code of conduct called chivalry, which emphasized honor, loyalty, and the protection of the weak. They formed the elite fighting force of medieval European armies.",
+        "he": "לוחם רכוב מהאצולה של ימי הביניים, חמוש בשריון לוחות או שריון שלשלת ומאומן מילדות במיומנויות קרב. אבירים היו כפופים לקוד התנהגות הנקרא אבירות, שהדגיש כבוד, נאמנות והגנה על החלשים. הם היוו את כוח הלחימה העילי של צבאות אירופה של ימי הביניים."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m13-06",
+      "term": { "en": "Black Death", "he": "המוות השחור" },
+      "definition": {
+        "en": "The devastating plague that swept through Europe from 1347 to 1351, killing an estimated 30–60% of Europe's population. Caused by the bacterium Yersinia pestis and spread by fleas on rats, the Black Death transformed European society and struck during the Hundred Years' War, adding to the suffering of the period.",
+        "he": "המגפה ההרסנית שפקדה את אירופה מ-1347 עד 1351, והרגה כ-30–60% מאוכלוסיית אירופה. נגרמת על ידי חיידק Yersinia pestis ומופצת על ידי פרעושים על עכברושים, המוות השחור שינה את החברה האירופית ופגע במהלך מלחמת מאה השנים, והוסיף לסבל התקופה."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m13-07",
+      "term": { "en": "Siege", "he": "מצור" },
+      "definition": {
+        "en": "A military strategy where an army surrounds a castle or city and cuts off its supplies, waiting for the defenders to surrender from starvation or attacking its walls with siege weapons like catapults and battering rams. Sieges were a central feature of medieval warfare and could last months or even years.",
+        "he": "אסטרטגיה צבאית שבה צבא מקיף טירה או עיר וחוצץ את אספקתה, ממתין שהמגנים ייכנעו מרעב או תוקף את חומותיה בנשקי מצור כמו קטפולטות ואילי ניפוץ. מצורים היו מאפיין מרכזי של לחימת ימי הביניים ויכלו להימשך חודשים ואפילו שנים."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m13-08",
+      "term": { "en": "Feudalism", "he": "פיאודליזם" },
+      "definition": {
+        "en": "The social and political system of medieval Europe, in which a king granted land to nobles (lords) in exchange for military service, and lords in turn granted land to knights, while peasants (serfs) worked the land in exchange for protection. Feudalism structured medieval society into clear hierarchies.",
+        "he": "המערכת החברתית והפוליטית של אירופה של ימי הביניים, שבה מלך העניק אדמה לאצולה (אדונים) בתמורה לשירות צבאי, ואדונים בתורם העניקו אדמה לאבירים, בעוד איכרים (צמיתים) עיבדו את האדמה בתמורה להגנה. הפיאודליזם מיקם את חברת ימי הביניים בהיררכיות ברורות."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m13-09",
+      "term": { "en": "Chivalry", "he": "אבירות" },
+      "definition": {
+        "en": "The medieval code of conduct for knights, emphasizing bravery in battle, loyalty to one's lord, honor, generosity, and the protection of women and the weak. Chivalry was idealized in medieval literature and songs about heroic knights. The concept influenced European culture for centuries.",
+        "he": "קוד ההתנהגות של ימי הביניים לאבירים, המדגיש אומץ בקרב, נאמנות לאדון שלו, כבוד, נדיבות והגנה על נשים ועל החלשים. האבירות אוידאלה בספרות ובשירים של ימי הביניים על אבירים גיבורים. הקונספט השפיע על התרבות האירופית במשך מאות שנים."
+      },
+      "category": "culture"
+    },
+    {
+      "id": "t-m13-10",
+      "term": { "en": "Dauphin", "he": "דופן" },
+      "definition": {
+        "en": "The title given to the heir to the French throne. Joan of Arc helped the uncrowned Dauphin Charles (later King Charles VII) to be crowned King of France at Reims Cathedral in 1429, a key moment that boosted French morale and legitimacy during the Hundred Years' War.",
+        "he": "התואר שניתן ליורש כס המלוכה הצרפתי. ז'אן ד'ארק עזרה לדופן שארל שלא הוכתר (המלך שארל השביעי מאוחר יותר) להיות מוכתר למלך צרפת בקתדרל רמס בשנת 1429, רגע מפתח שהגביר את המורל והלגיטימיות הצרפתיים במהלך מלחמת מאה השנים."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m13-11",
+      "term": { "en": "Armagnacs and Burgundians", "he": "ארמניאקים ובורגנדים" },
+      "definition": {
+        "en": "The two opposing French factions that fought a civil war within France during the Hundred Years' War. The Burgundians allied with England against the Armagnacs who supported the French crown. This division of France helped England win major victories. Joan of Arc was captured by the Burgundians and handed to the English.",
+        "he": "שתי הסיעות הצרפתיות המנוגדות שלחמו במלחמת אזרחים בתוך צרפת במהלך מלחמת מאה השנים. הבורגנדים התחברו עם אנגליה נגד הארמניאקים שתמכו בכתר הצרפתי. חלוקה זו של צרפת עזרה לאנגליה לזכות בניצחונות גדולים. ז'אן ד'ארק נתפסה על ידי הבורגנדים ונמסרה לאנגלים."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m13-12",
+      "term": { "en": "Battle of Crécy", "he": "קרב קרסי" },
+      "definition": {
+        "en": "A major English victory in 1346 during the Hundred Years' War, where King Edward III of England and his son the Black Prince defeated a much larger French army. It was one of the first major battles where the English longbow proved decisive, foreshadowing the decline of heavily armored knights.",
+        "he": "ניצחון אנגלי גדול בשנת 1346 במהלך מלחמת מאה השנים, שבו מלך אנגליה אדוארד השלישי ובנו הנסיך השחור הביסו צבא צרפתי גדול בהרבה. זה היה אחד הקרבות הגדולים הראשונים שבהם הוכיחה הקשת הארוכה האנגלית את חשיבותה המכרעת, ובישר את הדעיכה של האבירים בשריון כבד."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m13-13",
+      "term": { "en": "Heresy", "he": "כפירה" },
+      "definition": {
+        "en": "Religious belief or practice considered incorrect or unacceptable by the official Church. In medieval Europe, being declared a heretic was extremely dangerous — it could result in excommunication, imprisonment, or death by burning. Joan of Arc was condemned as a heretic by an English-controlled Church court.",
+        "he": "אמונה או פרקטיקה דתית הנחשבת שגויה או בלתי מקובלת על ידי הכנסייה הרשמית. באירופה של ימי הביניים, להיות מוכרז כאפיקורס היה מסוכן ביותר — יכול היה לגרום לנידוי, כלא או מוות בשריפה. ז'אן ד'ארק הורשעה כאפיקורסת על ידי בית משפט של הכנסייה שנשלט על ידי האנגלים."
+      },
+      "category": "religion"
+    },
+    {
+      "id": "t-m13-14",
+      "term": { "en": "Treaty of Troyes", "he": "אמנת טרואה" },
+      "definition": {
+        "en": "A 1420 peace treaty between England and France in which the French king agreed that the English king Henry V would inherit the French throne after his death, disinheriting the French Dauphin. This treaty, forced by the Burgundians, was overturned after French victories inspired by Joan of Arc.",
+        "he": "אמנת שלום משנת 1420 בין אנגליה לצרפת שבה הסכים המלך הצרפתי שמלך אנגליה הנרי החמישי יירש את כס המלוכה הצרפתי לאחר מותו, ובכך ירש את הדופן הצרפתי. אמנה זו, שנכפתה על ידי הבורגנדים, בוטלה לאחר הניצחונות הצרפתיים שנדלקו על ידי ז'אן ד'ארק."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m13-15",
+      "term": { "en": "Orleans", "he": "אורלאן" },
+      "definition": {
+        "en": "A key French city on the Loire River whose lifting of the English siege in 1429 by Joan of Arc was a turning point in the Hundred Years' War. After the Siege of Orleans was broken, France began winning back its territory, and Joan became known as the 'Maid of Orleans.'",
+        "he": "עיר צרפתית מפתח על נהר הלואר שהרמת המצור האנגלי עליה בשנת 1429 על ידי ז'אן ד'ארק הייתה נקודת מפנה במלחמת מאה השנים. לאחר שבירת מצור אורלאן, החלה צרפת לכבוש בחזרה את שטחה, וז'אן הפכה לידועה בכינוי 'הבתולה מאורלאן'."
+      },
+      "category": "history"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q-m13-01",
+      "question": { "en": "How long did the Hundred Years' War actually last?", "he": "כמה זמן נמשכה מלחמת מאה השנים בפועל?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Exactly 100 years", "he": "בדיוק 100 שנה" } },
+        { "id": "b", "text": { "en": "116 years (1337–1453)", "he": "116 שנה (1337–1453)" } },
+        { "id": "c", "text": { "en": "75 years", "he": "75 שנה" } },
+        { "id": "d", "text": { "en": "200 years", "he": "200 שנה" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Despite being called the 'Hundred Years' War,' the conflict actually lasted 116 years, from 1337 to 1453. It was not one continuous war but a series of conflicts and truces between England and France over the right to the French throne.", "he": "למרות שנקראת 'מלחמת מאה השנים', הסכסוך נמשך בפועל 116 שנה, מ-1337 עד 1453. זו לא הייתה מלחמה רציפה אחת אלא סדרת סכסוכים והפסקות אש בין אנגליה לצרפת על הזכות לכס המלוכה הצרפתי." }
+    },
+    {
+      "id": "q-m13-02",
+      "question": { "en": "Who was Joan of Arc?", "he": "מי הייתה ז'אן ד'ארק?" },
+      "choices": [
+        { "id": "a", "text": { "en": "A French princess who commanded armies", "he": "נסיכה צרפתית שפיקדה על צבאות" } },
+        { "id": "b", "text": { "en": "A peasant girl who claimed divine visions and led France to victory", "he": "ילדה איכרה שטענה לחזיונות אלוהיים והובילה את צרפת לניצחון" } },
+        { "id": "c", "text": { "en": "An English spy who helped France", "he": "מרגלת אנגלית שעזרה לצרפת" } },
+        { "id": "d", "text": { "en": "The wife of the French king", "he": "אשת המלך הצרפתי" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Joan of Arc was a peasant girl from Lorraine who claimed to hear voices from God instructing her to help the French king. She led French armies to important victories, helped crown the Dauphin as King Charles VII, but was captured and burned at the stake at age 19.", "he": "ז'אן ד'ארק הייתה ילדה איכרה מלורן שטענה לשמוע קולות מאלוהים המורים לה לעזור למלך הצרפתי. היא הובילה את הצבאות הצרפתיים לניצחונות חשובים, עזרה להכתיר את הדופן למלך שארל השביעי, אך נתפסה ונשרפה על המוקד בגיל 19." }
+    },
+    {
+      "id": "q-m13-03",
+      "question": { "en": "What made the English longbow so effective in the Hundred Years' War?", "he": "מה הפך את הקשת הארוכה האנגלית לכה יעילה במלחמת מאה השנים?" },
+      "choices": [
+        { "id": "a", "text": { "en": "It could shoot fire arrows", "he": "היא יכלה לירות חצים בוערים" } },
+        { "id": "b", "text": { "en": "It could fire up to 12 arrows per minute with great accuracy and range", "he": "היא יכלה לירות עד 12 חצים בדקה בדייקנות ובטווח גדול" } },
+        { "id": "c", "text": { "en": "It was silent, so the enemy didn't know they were being attacked", "he": "היא הייתה שקטה, כך שהאויב לא ידע שהוא מותקף" } },
+        { "id": "d", "text": { "en": "Its arrows could penetrate any castle wall", "he": "חציה יכלו לחדור כל חומת טירה" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Skilled English longbowmen could fire up to 12 arrows per minute with great accuracy over long distances. At battles like Crécy and Agincourt, volleys of longbow arrows decimated the French knights before they could get close enough to fight.", "he": "קשתים מיומנים של קשת ארוכה אנגלית יכלו לירות עד 12 חצים בדקה בדייקנות על פני מרחקים ארוכים. בקרבות כמו קרסי ואז'ינקור, מטחים של חצי קשת ארוכה הכחידו את האבירים הצרפתיים לפני שיכלו להתקרב מספיק כדי להילחם." }
+    },
+    {
+      "id": "q-m13-04",
+      "question": { "en": "What happened to Joan of Arc after being captured?", "he": "מה קרה לז'אן ד'ארק לאחר שנתפסה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "She was released after a ransom was paid", "he": "היא שוחררה לאחר שנפדתה" } },
+        { "id": "b", "text": { "en": "She was exiled to England", "he": "היא גורשה לאנגליה" } },
+        { "id": "c", "text": { "en": "She was tried as a heretic and burned at the stake", "he": "היא נשפטה כאפיקורסת ונשרפה על המוקד" } },
+        { "id": "d", "text": { "en": "She was imprisoned for life", "he": "היא נכלאה לכל החיים" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Joan of Arc was captured by the Burgundians, who sold her to the English. She was tried by an English-controlled Church court, found guilty of heresy, and burned at the stake at Rouen in 1431 at just 19 years old. She was declared a saint in 1920.", "he": "ז'אן ד'ארק נתפסה על ידי הבורגנדים, שמכרו אותה לאנגלים. היא נשפטה על ידי בית משפט של כנסייה שנשלט על ידי אנגליה, נמצאה אשמה בכפירה ונשרפה על המוקד ברואן בשנת 1431 בגיל 19 בלבד. היא הוכרזה כקדושה בשנת 1920." }
+    },
+    {
+      "id": "q-m13-05",
+      "question": { "en": "What was the Black Death?", "he": "מה היה המוות השחור?" },
+      "choices": [
+        { "id": "a", "text": { "en": "A type of gunpowder weapon used in the war", "he": "סוג של נשק אבק שריפה ששימש במלחמה" } },
+        { "id": "b", "text": { "en": "A devastating plague that killed 30–60% of Europe's population", "he": "מגפה הרסנית שהרגה 30–60% מאוכלוסיית אירופה" } },
+        { "id": "c", "text": { "en": "The English army's name for their black-armored knights", "he": "שם הצבא האנגלי לאבירים בשריון שחור שלהם" } },
+        { "id": "d", "text": { "en": "A total solar eclipse that frightened medieval people", "he": "ליקוי חמה מלא שהפחיד אנשים של ימי הביניים" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "The Black Death was a devastating plague caused by the bacterium Yersinia pestis that swept Europe from 1347 to 1351, killing an estimated 30–60% of the European population. It struck during the Hundred Years' War, adding to the misery of the period.", "he": "המוות השחור היה מגפה הרסנית שנגרמת על ידי חיידק Yersinia pestis שפקדה את אירופה מ-1347 עד 1351, והרגה כ-30–60% מאוכלוסיית אירופה. היא פגעה במהלך מלחמת מאה השנים, והוסיפה לסבל התקופה." }
+    },
+    {
+      "id": "q-m13-06",
+      "question": { "en": "What was feudalism?", "he": "מה היה פיאודליזם?" },
+      "choices": [
+        { "id": "a", "text": { "en": "A medieval religious movement", "he": "תנועה דתית של ימי הביניים" } },
+        { "id": "b", "text": { "en": "The medieval social system where land was exchanged for military service", "he": "המערכת החברתית של ימי הביניים שבה אדמה הוחלפה בשירות צבאי" } },
+        { "id": "c", "text": { "en": "The French government during the Hundred Years' War", "he": "הממשלה הצרפתית במהלך מלחמת מאה השנים" } },
+        { "id": "d", "text": { "en": "A system of trading guilds in medieval cities", "he": "מערכת גילדות מסחר בערי ימי הביניים" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Feudalism was the social and political system of medieval Europe where a king granted land to nobles in exchange for military service, lords granted land to knights, and peasants worked the land in exchange for protection. It structured medieval society into clear hierarchies.", "he": "פיאודליזם היה המערכת החברתית והפוליטית של אירופה של ימי הביניים שבה מלך העניק אדמה לאצולה בתמורה לשירות צבאי, אדונים העניקו אדמה לאבירים, ואיכרים עיבדו את האדמה בתמורה להגנה. הוא מיקם את חברת ימי הביניים בהיררכיות ברורות." }
+    },
+    {
+      "id": "q-m13-07",
+      "question": { "en": "Who did Joan of Arc help crown as King of France?", "he": "את מי עזרה ז'אן ד'ארק להכתיר כמלך צרפת?" },
+      "choices": [
+        { "id": "a", "text": { "en": "King Henry VI of England", "he": "מלך אנגליה הנרי השישי" } },
+        { "id": "b", "text": { "en": "Charles VII of France", "he": "שארל השביעי של צרפת" } },
+        { "id": "c", "text": { "en": "Philip the Good of Burgundy", "he": "פיליפ הטוב של בורגון" } },
+        { "id": "d", "text": { "en": "Louis XI of France", "he": "לואי האחד-עשר של צרפת" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Joan of Arc helped the uncrowned Dauphin Charles be crowned as King Charles VII of France at Reims Cathedral in 1429. This coronation was a major boost to French morale and legitimacy, helping turn the tide of the war against England.", "he": "ז'אן ד'ארק עזרה לדופן שארל שלא הוכתר להיות מוכתר למלך שארל השביעי של צרפת בקתדרל רמס בשנת 1429. כתרה זו הייתה עלייה גדולה במורל ובלגיטימיות הצרפתיים, ועזרה להפוך את גלגל המלחמה נגד אנגליה." }
+    },
+    {
+      "id": "q-m13-08",
+      "question": { "en": "Which city's liberation by Joan of Arc was a turning point in the war?", "he": "שחרורה של איזו עיר על ידי ז'אן ד'ארק היה נקודת מפנה במלחמה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Paris", "he": "פריז" } },
+        { "id": "b", "text": { "en": "Reims", "he": "רמס" } },
+        { "id": "c", "text": { "en": "Orleans", "he": "אורלאן" } },
+        { "id": "d", "text": { "en": "Bordeaux", "he": "בורדו" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "The lifting of the English siege of Orleans in 1429 by Joan of Arc was a turning point in the Hundred Years' War. After this victory, France began winning back its territory, and Joan became known as the 'Maid of Orleans.'", "he": "הרמת המצור האנגלי על אורלאן בשנת 1429 על ידי ז'אן ד'ארק הייתה נקודת מפנה במלחמת מאה השנים. לאחר ניצחון זה, החלה צרפת לכבוש בחזרה את שטחה, וז'אן הפכה לידועה בכינוי 'הבתולה מאורלאן'." }
+    },
+    {
+      "id": "q-m13-09",
+      "question": { "en": "What was the code of conduct for medieval knights called?", "he": "כיצד נקרא קוד ההתנהגות של אבירי ימי הביניים?" },
+      "choices": [
+        { "id": "a", "text": { "en": "The Feudal Code", "he": "הקוד הפיאודלי" } },
+        { "id": "b", "text": { "en": "Chivalry", "he": "אבירות" } },
+        { "id": "c", "text": { "en": "The Crusader Code", "he": "קוד הצלבנים" } },
+        { "id": "d", "text": { "en": "Knighthood", "he": "אבירות" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Chivalry was the code of conduct for medieval knights, emphasizing bravery in battle, loyalty to one's lord, honor, generosity, and the protection of women and the weak. It was idealized in medieval literature and shaped European culture for centuries.", "he": "אבירות הייתה קוד ההתנהגות של אבירי ימי הביניים, המדגיש אומץ בקרב, נאמנות לאדון שלו, כבוד, נדיבות והגנה על נשים ועל החלשים. היא אוידאלה בספרות של ימי הביניים ועיצבה את התרבות האירופית במשך מאות שנים." }
+    },
+    {
+      "id": "q-m13-10",
+      "question": { "en": "How did the Hundred Years' War end?", "he": "כיצד הסתיימה מלחמת מאה השנים?" },
+      "choices": [
+        { "id": "a", "text": { "en": "England conquered all of France", "he": "אנגליה כבשה את כל צרפת" } },
+        { "id": "b", "text": { "en": "France won, expelling England from nearly all French territory", "he": "צרפת ניצחה, וגירשה את אנגליה מכמעט כל השטח הצרפתי" } },
+        { "id": "c", "text": { "en": "Both countries agreed to split France in half", "he": "שתי המדינות הסכימו לחצות את צרפת לשניים" } },
+        { "id": "d", "text": { "en": "The Pope forced both sides to sign a peace treaty", "he": "האפיפיור אילץ את שני הצדדים לחתום על אמנת שלום" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "The Hundred Years' War ended in 1453 with France victorious. England lost nearly all its territory in France, retaining only the port of Calais. The war helped forge French national identity and established France as a unified kingdom.", "he": "מלחמת מאה השנים הסתיימה בשנת 1453 בניצחון צרפת. אנגליה איבדה כמעט את כל שטחה בצרפת, ושמרה רק על נמל קאלה. המלחמה עזרה לכונן את הזהות הלאומית הצרפתית וביססה את צרפת כממלכה מאוחדת." }
+    }
+  ]
+}

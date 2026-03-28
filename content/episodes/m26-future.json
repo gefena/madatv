@@ -1,0 +1,273 @@
+{
+  "id": "m26-future",
+  "episodeNumber": 26,
+  "youtubeId": "gus6Zhsk-kA",
+  "videoSources": [],
+  "title": { "en": "Once Upon a Time… the Earth", "he": "היה יהיה..." },
+  "summary": {
+    "en": "After the devastation of World War II, the nations of the world came together to create the United Nations in 1945, hoping to prevent future wars and protect human rights for all people. But a new rivalry quickly emerged between the United States and the Soviet Union — the Cold War — where both superpowers competed for world influence and built terrifying stockpiles of nuclear weapons. The greatest achievement of the Cold War era was the space race, culminating in the moon landing of 1969 when Neil Armstrong became the first human to walk on the moon. Around the world, colonized peoples in Africa and Asia fought for and won their independence, reshaping the map of the world. The episode ends with a hopeful vision of tomorrow, where computers and science point the way toward a better future, and children of today are called to be the builders of that world.",
+    "he": "לאחר ההרס של מלחמת העולם השנייה, אומות העולם התאחדו ליצור את האומות המאוחדות ב-1945, בתקווה למנוע מלחמות עתידיות ולהגן על זכויות האדם לכולם. אולם יריבות חדשה התגלתה במהרה בין ארצות הברית לברית המועצות — המלחמה הקרה — שבה שתי המעצמות התחרו על השפעה עולמית ובנו מאגרים מפחידים של נשק גרעיני. ההישג הגדול ביותר של עידן המלחמה הקרה היה מירוץ החלל, שהגיע לשיאו בנחיתה על הירח ב-1969 כאשר ניל ארמסטרונג הפך לאדם הראשון שהלך על הירח. ברחבי העולם, עמים כבושים באפריקה ובאסיה נאבקו על עצמאותם וזכו בה, ועיצבו מחדש את מפת העולם. הפרק מסתיים בחזון מלא תקווה של המחר, שבו מחשבים ומדע מצביעים לעבר עתיד טוב יותר, וילדי היום מוזמנים להיות בוניו של העולם הזה."
+  },
+  "thumbnail": "https://img.youtube.com/vi/gus6Zhsk-kA/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": ["United Nations", "Cold War", "space race", "moon landing", "decolonization", "computer revolution", "environmental awareness"],
+  "terminology": [
+    {
+      "id": "t-m26-01",
+      "term": { "en": "United Nations", "he": "האומות המאוחדות" },
+      "definition": {
+        "en": "The United Nations is an international organization founded in 1945 after World War II. Its goals are to maintain world peace, protect human rights, and encourage cooperation between nations. Today it includes almost every country in the world.",
+        "he": "האומות המאוחדות הן ארגון בינלאומי שנוסד ב-1945 לאחר מלחמת העולם השנייה. מטרותיו הן שמירת שלום עולמי, הגנה על זכויות האדם ועידוד שיתוף פעולה בין מדינות. כיום הוא כולל כמעט כל מדינה בעולם."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m26-02",
+      "term": { "en": "Cold War", "he": "המלחמה הקרה" },
+      "definition": {
+        "en": "The Cold War was the period of intense political and military rivalry between the United States and the Soviet Union from 1947 to 1991. It was called cold because the two superpowers never fought each other directly, but competed through alliances, arms build-up, and proxy conflicts.",
+        "he": "המלחמה הקרה הייתה תקופה של יריבות פוליטית וצבאית עזה בין ארצות הברית לברית המועצות מ-1947 עד 1991. היא כונתה קרה כי שתי המעצמות מעולם לא נלחמו זו בזו ישירות, אלא התחרו דרך בריתות, בניית נשק וסכסוכי נציגים."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m26-03",
+      "term": { "en": "Space Race", "he": "מירוץ החלל" },
+      "definition": {
+        "en": "The Space Race was a competition between the United States and the Soviet Union in the 1950s and 1960s to achieve milestones in space exploration. Key events included the Soviet launch of Sputnik (1957) and the American moon landing (1969).",
+        "he": "מירוץ החלל היה תחרות בין ארצות הברית לברית המועצות בשנות ה-1950 וה-1960 להשגת אבני דרך בחקר החלל. אירועי מפתח כללו שיגור ספוטניק הסובייטי (1957) ונחיתת האמריקנים על הירח (1969)."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m26-04",
+      "term": { "en": "Moon Landing", "he": "נחיתה על הירח" },
+      "definition": {
+        "en": "The moon landing refers to the Apollo 11 mission on July 20, 1969 when astronauts Neil Armstrong and Buzz Aldrin became the first humans to walk on the moon. Armstrong's first words — one small step for man, one giant leap for mankind — were heard by millions around the world.",
+        "he": "נחיתה על הירח מתייחסת למשימת אפולו 11 ב-20 ביולי 1969 כאשר האסטרונאוטים ניל ארמסטרונג ובאז אולדרין הפכו לבני האדם הראשונים שהלכו על הירח. מילותיו הראשונות של ארמסטרונג — צעד קטן לאדם, קפיצה גדולה לאנושות — נשמעו על ידי מיליונים ברחבי העולם."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m26-05",
+      "term": { "en": "Decolonization", "he": "דה-קולוניזציה" },
+      "definition": {
+        "en": "Decolonization is the process by which colonized peoples gained independence from European empires after World War II. Dozens of new nations in Africa and Asia declared independence throughout the 1950s, 1960s, and 1970s.",
+        "he": "דה-קולוניזציה הוא התהליך שבו עמים כבושים זכו בעצמאות מהאימפריות האירופאיות לאחר מלחמת העולם השנייה. עשרות מדינות חדשות באפריקה ובאסיה הכריזו על עצמאות לאורך שנות ה-1950, ה-1960 וה-1970."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m26-06",
+      "term": { "en": "Nuclear Weapons", "he": "נשק גרעיני" },
+      "definition": {
+        "en": "Nuclear weapons are extremely destructive weapons powered by nuclear reactions. During the Cold War, both the USA and the USSR built thousands of nuclear warheads, creating the terrifying possibility of total world destruction.",
+        "he": "נשק גרעיני הוא נשק הרסני ביותר המופעל על ידי תגובות גרעיניות. במהלך המלחמה הקרה, גם ארה\"ב וגם ברית המועצות בנו אלפי ראשי נפץ גרעיניים, ויצרו את האפשרות המפחידה של הרס עולמי מוחלט."
+      },
+      "category": "science"
+    },
+    {
+      "id": "t-m26-07",
+      "term": { "en": "Computer", "he": "מחשב" },
+      "definition": {
+        "en": "A computer is an electronic device that processes information according to a set of instructions. The first large computers were built in the 1940s, and by the 1970s smaller personal computers began to change how people work, communicate, and learn.",
+        "he": "מחשב הוא מכשיר אלקטרוני המעבד מידע לפי קבוצה של הוראות. המחשבים הגדולים הראשונים נבנו בשנות ה-1940, ועד שנות ה-1970 מחשבים אישיים קטנים יותר החלו לשנות את אופן עבודתם, תקשורתם ולמידתם של אנשים."
+      },
+      "category": "science"
+    },
+    {
+      "id": "t-m26-08",
+      "term": { "en": "Environmental Awareness", "he": "מודעות סביבתית" },
+      "definition": {
+        "en": "Environmental awareness is the understanding that human activities can damage the natural world and that people must take care to protect the environment. In the 1960s and 1970s, growing concern about pollution and nature led to the birth of the environmental movement.",
+        "he": "מודעות סביבתית היא ההבנה שפעילויות אנושיות עלולות לפגוע בעולם הטבעי ושאנשים חייבים לדאוג להגנה על הסביבה. בשנות ה-1960 וה-1970, דאגה גוברת לזיהום ולטבע הובילה להולדת התנועה הסביבתית."
+      },
+      "category": "science"
+    },
+    {
+      "id": "t-m26-09",
+      "term": { "en": "Superpower", "he": "מעצמה-על" },
+      "definition": {
+        "en": "A superpower is a country with extraordinary military, economic, and political power that can influence events worldwide. After World War II, the United States and the Soviet Union were the two superpowers whose rivalry shaped world politics.",
+        "he": "מעצמה-על היא מדינה בעלת כוח צבאי, כלכלי ופוליטי יוצא דופן שיכולה להשפיע על אירועים ברחבי העולם. לאחר מלחמת העולם השנייה, ארצות הברית וברית המועצות היו שתי המעצמות-על שיריבותן עיצבה את הפוליטיקה העולמית."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m26-10",
+      "term": { "en": "Neil Armstrong", "he": "ניל ארמסטרונג" },
+      "definition": {
+        "en": "Neil Armstrong was an American astronaut who became the first human being to walk on the moon on July 20, 1969. As he stepped onto the lunar surface, he spoke the famous words: one small step for man, one giant leap for mankind.",
+        "he": "ניל ארמסטרונג היה אסטרונאוט אמריקני שהפך לבן האדם הראשון שהלך על הירח ב-20 ביולי 1969. כאשר הצעיד על פני הירח, הוא אמר את המילים המפורסמות: צעד קטן לאדם, קפיצה גדולה לאנושות."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m26-11",
+      "term": { "en": "Sputnik", "he": "ספוטניק" },
+      "definition": {
+        "en": "Sputnik was the first artificial satellite to orbit the Earth, launched by the Soviet Union on October 4, 1957. It shocked the Western world and kicked off the Space Race between the USA and the USSR.",
+        "he": "ספוטניק היה הלוויין המלאכותי הראשון להקיף את כדור הארץ, שוגר על ידי ברית המועצות ב-4 באוקטובר 1957. הוא הדהים את העולם המערבי והתחיל את מירוץ החלל בין ארה\"ב לברית המועצות."
+      },
+      "category": "science"
+    },
+    {
+      "id": "t-m26-12",
+      "term": { "en": "Human Rights", "he": "זכויות אדם" },
+      "definition": {
+        "en": "Human rights are the basic rights and freedoms that all people are entitled to, regardless of their nationality, gender, or background. After the horrors of World War II, the United Nations declared the Universal Declaration of Human Rights in 1948.",
+        "he": "זכויות אדם הן הזכויות וחירויות הבסיסיות שלכל אדם מגיעות, ללא קשר ללאומיותו, מינו או רקעו. לאחר זוועות מלחמת העולם השנייה, האומות המאוחדות הכריזו על הכרזת זכויות האדם הכלל-עולמית ב-1948."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m26-13",
+      "term": { "en": "Apollo 11", "he": "אפולו 11" },
+      "definition": {
+        "en": "Apollo 11 was the NASA space mission that landed the first humans on the moon in July 1969. The crew consisted of Neil Armstrong, Buzz Aldrin, and Michael Collins, and the mission was watched live on television by hundreds of millions of people.",
+        "he": "אפולו 11 הייתה משימת החלל של נאס\"א שנחתה עם בני האדם הראשונים על הירח ביולי 1969. הצוות כלל את ניל ארמסטרונג, באז אולדרין ומייקל קולינס, והמשימה צפתה בה בשידור חי בטלוויזיה מאות מיליוני אנשים."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m26-14",
+      "term": { "en": "Independence", "he": "עצמאות" },
+      "definition": {
+        "en": "Independence means the freedom of a country or people to govern themselves without being controlled by another power. After World War II, many African and Asian nations that had been colonized by Europeans won their independence.",
+        "he": "עצמאות פירושה חירות של מדינה או עם לנהל את עצמם ללא שליטה על ידי כוח אחר. לאחר מלחמת העולם השנייה, מדינות אפריקניות ואסיאתיות רבות שנכבשו על ידי אירופאים זכו בעצמאותן."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m26-15",
+      "term": { "en": "Future", "he": "עתיד" },
+      "definition": {
+        "en": "The future is the time that has not yet come. The series Once Upon a Time Man ends with hope for the future, reminding children that they are the ones who will shape tomorrow's world through their choices, ideas, and actions.",
+        "he": "עתיד הוא הזמן שעדיין לא הגיע. הסדרה היה היה... האדם מסתיימת בתקווה לעתיד, ומזכירה לילדים שהם אלה שיעצבו את עולם המחר דרך הבחירות, הרעיונות והמעשים שלהם."
+      },
+      "category": "history"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q-m26-01",
+      "question": { "en": "In what year was the United Nations founded?", "he": "באיזו שנה נוסדו האומות המאוחדות?" },
+      "choices": [
+        { "id": "a", "text": { "en": "1939", "he": "1939" } },
+        { "id": "b", "text": { "en": "1945", "he": "1945" } },
+        { "id": "c", "text": { "en": "1950", "he": "1950" } },
+        { "id": "d", "text": { "en": "1969", "he": "1969" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "The United Nations was founded in 1945 after World War II to maintain world peace and protect human rights.", "he": "האומות המאוחדות נוסדו ב-1945 לאחר מלחמת העולם השנייה כדי לשמור על שלום עולמי ולהגן על זכויות האדם." }
+    },
+    {
+      "id": "q-m26-02",
+      "question": { "en": "What was the Cold War?", "he": "מהי המלחמה הקרה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "A war fought in the Arctic", "he": "מלחמה שנלחמה בארקטי" } },
+        { "id": "b", "text": { "en": "The rivalry between the USA and Soviet Union", "he": "היריבות בין ארה\"ב לברית המועצות" } },
+        { "id": "c", "text": { "en": "A very cold winter during World War II", "he": "חורף קר מאוד במהלך מלחמת העולם השנייה" } },
+        { "id": "d", "text": { "en": "A war between France and Britain", "he": "מלחמה בין צרפת לבריטניה" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "The Cold War was the political and military rivalry between the United States and the Soviet Union from 1947 to 1991, without direct warfare between them.", "he": "המלחמה הקרה הייתה היריבות הפוליטית והצבאית בין ארצות הברית לברית המועצות מ-1947 עד 1991, ללא לחימה ישירה ביניהן." }
+    },
+    {
+      "id": "q-m26-03",
+      "question": { "en": "Who was the first person to walk on the moon?", "he": "מי היה האדם הראשון שהלך על הירח?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Buzz Aldrin", "he": "באז אולדרין" } },
+        { "id": "b", "text": { "en": "Yuri Gagarin", "he": "יורי גגרין" } },
+        { "id": "c", "text": { "en": "Neil Armstrong", "he": "ניל ארמסטרונג" } },
+        { "id": "d", "text": { "en": "Michael Collins", "he": "מייקל קולינס" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Neil Armstrong became the first human to walk on the moon on July 20, 1969 during the Apollo 11 mission.", "he": "ניל ארמסטרונג הפך לאדם הראשון שהלך על הירח ב-20 ביולי 1969 במהלך משימת אפולו 11." }
+    },
+    {
+      "id": "q-m26-04",
+      "question": { "en": "What was Sputnik?", "he": "מה היה ספוטניק?" },
+      "choices": [
+        { "id": "a", "text": { "en": "The first rocket to reach the moon", "he": "הטיל הראשון שהגיע לירח" } },
+        { "id": "b", "text": { "en": "A Soviet leader", "he": "מנהיג סובייטי" } },
+        { "id": "c", "text": { "en": "The first artificial satellite to orbit Earth", "he": "הלוויין המלאכותי הראשון להקיף את כדור הארץ" } },
+        { "id": "d", "text": { "en": "An American space shuttle", "he": "מעבורת חלל אמריקנית" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Sputnik, launched by the Soviet Union in 1957, was the world's first artificial satellite and the event that kicked off the Space Race.", "he": "ספוטניק, שוגר על ידי ברית המועצות ב-1957, היה הלוויין המלאכותי הראשון בעולם והאירוע שהתחיל את מירוץ החלל." }
+    },
+    {
+      "id": "q-m26-05",
+      "question": { "en": "What is decolonization?", "he": "מהי דה-קולוניזציה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "When colonies expand and grow", "he": "כאשר מושבות מתרחבות וצומחות" } },
+        { "id": "b", "text": { "en": "When colonized peoples gain independence", "he": "כאשר עמים כבושים זוכים בעצמאות" } },
+        { "id": "c", "text": { "en": "The building of new colonies in space", "he": "בניית מושבות חדשות בחלל" } },
+        { "id": "d", "text": { "en": "The colonization of Antarctica", "he": "כיבוש אנטארקטיקה" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Decolonization refers to the process by which countries in Africa and Asia gained independence from European colonial rule after World War II.", "he": "דה-קולוניזציה מתייחסת לתהליך שבו מדינות באפריקה ובאסיה זכו בעצמאות מהשלטון הקולוניאלי האירופאי לאחר מלחמת העולם השנייה." }
+    },
+    {
+      "id": "q-m26-06",
+      "question": { "en": "What mission first landed humans on the moon?", "he": "איזו משימה נחתה לראשונה עם בני אדם על הירח?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Apollo 13", "he": "אפולו 13" } },
+        { "id": "b", "text": { "en": "Sputnik 2", "he": "ספוטניק 2" } },
+        { "id": "c", "text": { "en": "Apollo 11", "he": "אפולו 11" } },
+        { "id": "d", "text": { "en": "Gemini 7", "he": "ג'מיני 7" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Apollo 11 was the NASA mission that landed Neil Armstrong and Buzz Aldrin on the moon in July 1969.", "he": "אפולו 11 הייתה משימת נאס\"א שנחתה עם ניל ארמסטרונג ובאז אולדרין על הירח ביולי 1969." }
+    },
+    {
+      "id": "q-m26-07",
+      "question": { "en": "What were the two superpowers of the Cold War?", "he": "מהן שתי המעצמות-על של המלחמה הקרה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "USA and France", "he": "ארה\"ב וצרפת" } },
+        { "id": "b", "text": { "en": "Britain and Germany", "he": "בריטניה וגרמניה" } },
+        { "id": "c", "text": { "en": "China and Japan", "he": "סין ויפן" } },
+        { "id": "d", "text": { "en": "USA and Soviet Union", "he": "ארה\"ב וברית המועצות" } }
+      ],
+      "correctChoice": "d",
+      "explanation": { "en": "The Cold War was primarily a rivalry between the United States and the Soviet Union (USSR), the two dominant superpowers after World War II.", "he": "המלחמה הקרה הייתה בעיקר יריבות בין ארצות הברית לברית המועצות (ברה\"מ), שתי המעצמות-על השולטות לאחר מלחמת העולם השנייה." }
+    },
+    {
+      "id": "q-m26-08",
+      "question": { "en": "When did environmental awareness become a major concern?", "he": "מתי הפכה המודעות הסביבתית לדאגה מרכזית?" },
+      "choices": [
+        { "id": "a", "text": { "en": "In the 1920s", "he": "בשנות ה-1920" } },
+        { "id": "b", "text": { "en": "In the 1960s and 1970s", "he": "בשנות ה-1960 וה-1970" } },
+        { "id": "c", "text": { "en": "During World War II", "he": "במהלך מלחמת העולם השנייה" } },
+        { "id": "d", "text": { "en": "During the French Revolution", "he": "במהלך המהפכה הצרפתית" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "In the 1960s and 1970s, growing awareness of pollution, deforestation, and damage to nature led to the birth of the environmental movement.", "he": "בשנות ה-1960 וה-1970, מודעות גוברת לזיהום, כריתת יערות ופגיעה בטבע הובילה להולדת התנועה הסביבתית." }
+    },
+    {
+      "id": "q-m26-09",
+      "question": { "en": "What did computers begin to change from the 1970s onward?", "he": "מה החלו המחשבים לשנות החל משנות ה-1970?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Only military operations", "he": "רק פעולות צבאיות" } },
+        { "id": "b", "text": { "en": "The way people work, communicate, and learn", "he": "האופן שבו אנשים עובדים, מתקשרים ולומדים" } },
+        { "id": "c", "text": { "en": "Only the printing of books", "he": "רק הדפסת ספרים" } },
+        { "id": "d", "text": { "en": "Only banking and finance", "he": "רק בנקאות ופיננסים" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "From the 1970s, personal computers began to transform many aspects of daily life — how people work, how they communicate, and how they access information and learning.", "he": "משנות ה-1970, מחשבים אישיים החלו לשנות היבטים רבים של חיי היומיום — כיצד אנשים עובדים, כיצד הם מתקשרים וכיצד הם ניגשים למידע וללמידה." }
+    },
+    {
+      "id": "q-m26-10",
+      "question": { "en": "What is the hopeful message at the end of the series?", "he": "מה המסר המלא תקווה בסוף הסדרה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "That history always repeats itself", "he": "שההיסטוריה תמיד חוזרת על עצמה" } },
+        { "id": "b", "text": { "en": "That only scientists can change the world", "he": "שרק מדענים יכולים לשנות את העולם" } },
+        { "id": "c", "text": { "en": "That today's children will shape a better future", "he": "שילדי היום יעצבו עתיד טוב יותר" } },
+        { "id": "d", "text": { "en": "That the world will never change", "he": "שהעולם לא ישתנה לעולם" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "The series ends with a hopeful vision that children of today have the power to shape a better world tomorrow, through their curiosity, compassion, and ideas.", "he": "הסדרה מסתיימת בחזון מלא תקווה שלילדי היום יש את הכוח לעצב עולם טוב יותר מחר, דרך הסקרנות, האמפתיה והרעיונות שלהם." }
+    }
+  ]
+}

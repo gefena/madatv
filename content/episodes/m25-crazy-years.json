@@ -1,0 +1,273 @@
+{
+  "id": "m25-crazy-years",
+  "episodeNumber": 25,
+  "youtubeId": "qW7mSaoKLlw",
+  "videoSources": [],
+  "title": { "en": "The Crazy Years", "he": "השנים העליזות" },
+  "summary": {
+    "en": "After the horrors of World War I, the 1920s roared to life with jazz music, dancing, and a joyful celebration of being alive — a time known as the Roaring Twenties or the Crazy Years. But this happiness was shattered by the Great Depression of 1929, when the stock market crashed and millions of people lost their jobs and savings around the world. Out of this economic misery rose dangerous leaders: Hitler in Germany and Mussolini in Italy, who promised their nations greatness but built regimes based on hatred, violence, and war. World War II began in 1939 as Germany blitzed across Europe, and during this war the Nazis carried out the Holocaust — the systematic murder of six million Jewish people. The war only ended in 1945 after the United States dropped two atomic bombs on Japan, creating weapons of unimaginable destructive power.",
+    "he": "אחרי הזוועות של מלחמת העולם הראשונה, שנות ה-1920 פרצו לחיים עם מוזיקת ג'אז, ריקוד וחגיגת שמחת החיים — תקופה המכונה שנות העשרים הסוערות או השנים העליזות. אולם השמחה הזו נופצה על ידי השפל הגדול של 1929, כאשר שוק המניות קרס ומיליוני אנשים איבדו את עבודתם וחסכונותיהם ברחבי העולם. מתוך הסבל הכלכלי הזה עלו מנהיגים מסוכנים: היטלר בגרמניה ומוסוליני באיטליה, שהבטיחו לאומיהם גדולה אך בנו משטרים המבוססים על שנאה, אלימות ומלחמה. מלחמת העולם השנייה החלה ב-1939 כשגרמניה הבריקה ברחבי אירופה, ובמהלך המלחמה הזו ביצעו הנאצים את השואה — הרצח השיטתי של שישה מיליון יהודים. המלחמה הסתיימה רק ב-1945 לאחר שארצות הברית הפילה שתי פצצות אטום על יפן, ויצרה נשק בעל כוח הרסני בלתי נתפס."
+  },
+  "thumbnail": "https://img.youtube.com/vi/qW7mSaoKLlw/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": ["Roaring Twenties", "Great Depression", "Hitler", "Mussolini", "World War II", "Holocaust", "atomic bomb"],
+  "terminology": [
+    {
+      "id": "t-m25-01",
+      "term": { "en": "Roaring Twenties", "he": "שנות העשרים הסוערות" },
+      "definition": {
+        "en": "The Roaring Twenties refers to the 1920s, a decade of economic prosperity, jazz music, new dances, and social change following the end of World War I. People celebrated being alive after the terrible war, and new fashions and technologies spread rapidly.",
+        "he": "שנות העשרים הסוערות מתייחסות לשנות ה-1920, עשור של שגשוג כלכלי, מוזיקת ג'אז, ריקודים חדשים ושינויים חברתיים לאחר סוף מלחמת העולם הראשונה. אנשים חגגו את שמחת החיים לאחר המלחמה הנוראה, ואופנות וטכנולוגיות חדשות התפשטו במהירות."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m25-02",
+      "term": { "en": "Jazz", "he": "ג'אז" },
+      "definition": {
+        "en": "Jazz is a style of music that developed in the United States, especially among African American communities in New Orleans. It features improvisation, syncopated rhythms, and lively energy, and it became extremely popular worldwide in the 1920s.",
+        "he": "ג'אז הוא סגנון מוזיקה שהתפתח בארצות הברית, במיוחד בקרב קהילות אפריקניות-אמריקניות בניו אורלינס. הוא כולל אלתור, קצבים סינקופטיים ואנרגיה עליזה, והפך לפופולרי מאוד ברחבי העולם בשנות ה-1920."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m25-03",
+      "term": { "en": "Stock Market Crash", "he": "קריסת שוק המניות" },
+      "definition": {
+        "en": "The Stock Market Crash of 1929 happened when share prices on the New York Stock Exchange collapsed suddenly in October, wiping out the savings of millions of people. It triggered the Great Depression, the worst economic crisis in modern history.",
+        "he": "קריסת שוק המניות של 1929 התרחשה כאשר מחירי המניות בבורסת ניו יורק קרסו בפתאומיות באוקטובר, ומחקו את חסכונותיהם של מיליוני אנשים. היא הפעילה את השפל הגדול, משבר הכלכלי הגרוע ביותר בהיסטוריה המודרנית."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m25-04",
+      "term": { "en": "Great Depression", "he": "השפל הגדול" },
+      "definition": {
+        "en": "The Great Depression was a severe worldwide economic crisis that began in 1929 and lasted through most of the 1930s. Millions of people lost their jobs, businesses closed, and many families struggled to afford food and housing.",
+        "he": "השפל הגדול היה משבר כלכלי עולמי חמור שהחל ב-1929 ונמשך לאורך רוב שנות ה-1930. מיליוני אנשים איבדו את עבודתם, עסקים נסגרו, ומשפחות רבות התקשו להרשות לעצמן מזון ומגורים."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m25-05",
+      "term": { "en": "Fascism", "he": "פשיזם" },
+      "definition": {
+        "en": "Fascism is an extreme political ideology that glorifies the nation or race above all else, rejects democracy, and relies on a powerful dictator, propaganda, and violence to maintain control. It emerged in Italy under Mussolini and Germany under Hitler.",
+        "he": "פשיזם הוא אידיאולוגיה פוליטית קיצונית המפארת את האומה או הגזע מעל לכל, דוחה דמוקרטיה, ומסתמכת על דיקטטור חזק, תעמולה ואלימות לשמירת שליטה. הוא התעורר באיטליה תחת מוסוליני ובגרמניה תחת היטלר."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m25-06",
+      "term": { "en": "Hitler", "he": "היטלר" },
+      "definition": {
+        "en": "Adolf Hitler was the leader of the Nazi Party who became dictator of Germany in 1933. He built a regime based on extreme nationalism and antisemitism, launched World War II, and was responsible for the Holocaust.",
+        "he": "אדולף היטלר היה מנהיג מפלגת הנאצים שהפך לדיקטטור גרמניה ב-1933. הוא בנה משטר המבוסס על לאומנות קיצונית ואנטישמיות, פתח את מלחמת העולם השנייה והיה אחראי לשואה."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m25-07",
+      "term": { "en": "Mussolini", "he": "מוסוליני" },
+      "definition": {
+        "en": "Benito Mussolini was the fascist dictator of Italy from 1922 to 1943. He was one of the founders of fascism, allied with Hitler during World War II, and was eventually captured and executed by Italian partisans.",
+        "he": "בניטו מוסוליני היה הדיקטטור הפשיסטי של איטליה מ-1922 עד 1943. הוא היה אחד ממייסדי הפשיזם, התברית עם היטלר במהלך מלחמת העולם השנייה, ולבסוף נתפס והוצא להורג על ידי פרטיזנים איטלקים."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m25-08",
+      "term": { "en": "Holocaust", "he": "שואה" },
+      "definition": {
+        "en": "The Holocaust was the systematic, state-organized murder of six million Jewish people by the Nazi regime during World War II. Millions of others, including Roma, disabled people, and political prisoners, were also killed.",
+        "he": "השואה הייתה הרצח השיטתי המאורגן על ידי המדינה של שישה מיליון יהודים על ידי המשטר הנאצי במהלך מלחמת העולם השנייה. מיליונים נוספים, כולל רומא, אנשים עם מוגבלויות ואסירים פוליטיים, נרצחו גם הם."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m25-09",
+      "term": { "en": "Blitzkrieg", "he": "בליצקריג" },
+      "definition": {
+        "en": "Blitzkrieg means lightning war in German and was a fast, overwhelming military tactic used by Germany in World War II. It combined tanks, aircraft, and motorized infantry to quickly break through enemy lines before they could react.",
+        "he": "בליצקריג פירושו מלחמת ברק בגרמנית והיה טקטיקה צבאית מהירה ומוחצת שבה השתמשה גרמניה במלחמת העולם השנייה. הוא שילב טנקים, כלי טיס וחי\"ר ממונע כדי לפרוץ במהירות דרך קוי האויב לפני שיכלו להגיב."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m25-10",
+      "term": { "en": "D-Day / Normandy", "he": "יום הכניסה / נורמנדי" },
+      "definition": {
+        "en": "D-Day on June 6, 1944 was the massive Allied invasion of the beaches of Normandy in France during World War II. It was the largest seaborne invasion in history and marked the beginning of the liberation of Western Europe from Nazi occupation.",
+        "he": "יום הכניסה ב-6 ביוני 1944 היה הפלישה האדירה של בנות הברית לחופי נורמנדי בצרפת במהלך מלחמת העולם השנייה. הייתה זו הפלישה הימית הגדולה ביותר בהיסטוריה וסימנה את תחילת שחרור מערב אירופה מהכיבוש הנאצי."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m25-11",
+      "term": { "en": "Atomic Bomb", "he": "פצצת האטום" },
+      "definition": {
+        "en": "An atomic bomb is an incredibly powerful weapon that uses nuclear fission to release enormous energy. In August 1945, the United States dropped two atomic bombs on the Japanese cities of Hiroshima and Nagasaki, killing hundreds of thousands of people and ending World War II.",
+        "he": "פצצת האטום הוא נשק בעל עוצמה בלתי נתפסת המשתמש בביקוע גרעיני לשחרור אנרגיה עצומה. באוגוסט 1945, ארצות הברית הפילה שתי פצצות אטום על הערים היפניות הירושימה ונגסאקי, הרגה מאות אלפי אנשים וסיימה את מלחמת העולם השנייה."
+      },
+      "category": "science"
+    },
+    {
+      "id": "t-m25-12",
+      "term": { "en": "Spanish Civil War", "he": "מלחמת האזרחים הספרדית" },
+      "definition": {
+        "en": "The Spanish Civil War was fought from 1936 to 1939 between the elected Republican government and fascist Nationalist forces led by General Francisco Franco. It became a testing ground for the weapons and tactics later used in World War II.",
+        "he": "מלחמת האזרחים הספרדית התנהלה מ-1936 עד 1939 בין הממשלה הרפובליקנית הנבחרת לכוחות הלאומנים הפשיסטים בהנהגת הגנרל פרנסיסקו פרנקו. היא הפכה לשטח ניסוי לנשק ולטקטיקות שנעשה בהם שימוש מאוחר יותר במלחמת העולם השנייה."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m25-13",
+      "term": { "en": "Propaganda", "he": "תעמולה" },
+      "definition": {
+        "en": "Propaganda is information, often misleading or one-sided, that is spread to promote a political cause or leader. Nazi Germany used propaganda films, posters, and rallies to spread hatred and build support for Hitler.",
+        "he": "תעמולה היא מידע, לעתים קרובות מטעה או חד-צדדי, המופץ לקידום עניין פוליטי או מנהיג. גרמניה הנאצית השתמשה בסרטי תעמולה, פוסטרים ועצרות להפצת שנאה ולבניית תמיכה בהיטלר."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m25-14",
+      "term": { "en": "World War II", "he": "מלחמת העולם השנייה" },
+      "definition": {
+        "en": "World War II was the deadliest conflict in human history, fought from 1939 to 1945. It involved most of the world's nations divided into two opposing alliances and resulted in the deaths of over 70 million people, including both soldiers and civilians.",
+        "he": "מלחמת העולם השנייה הייתה הסכסוך ההרסני ביותר בהיסטוריה האנושית, שהתנהל מ-1939 עד 1945. היא כרכה את רוב אומות העולם שנחלקו לשתי ברית מנוגדות וגרמה למותם של יותר מ-70 מיליון איש, כולל חיילים ואזרחים."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m25-15",
+      "term": { "en": "Dictator", "he": "דיקטטור" },
+      "definition": {
+        "en": "A dictator is a leader who holds complete, uncontrolled power over a country, ruling without free elections or legal limits. Hitler and Mussolini were both dictators who used fear, propaganda, and violence to stay in power.",
+        "he": "דיקטטור הוא מנהיג המחזיק בכוח מלא ובלתי מוגבל על מדינה, השולט ללא בחירות חופשיות או מגבלות משפטיות. היטלר ומוסוליני היו שניהם דיקטטורים שהשתמשו בפחד, תעמולה ואלימות לשמירת שלטונם."
+      },
+      "category": "history"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q-m25-01",
+      "question": { "en": "What was the spirit of the Roaring Twenties?", "he": "מה היה רוחן של שנות העשרים הסוערות?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Sadness and mourning for the war", "he": "עצב ואבל על המלחמה" } },
+        { "id": "b", "text": { "en": "Fear of new technology", "he": "פחד מטכנולוגיה חדשה" } },
+        { "id": "c", "text": { "en": "Joy, jazz music, and celebration of life", "he": "שמחה, מוזיקת ג'אז וחגיגת החיים" } },
+        { "id": "d", "text": { "en": "Revolution and political upheaval", "he": "מהפכה ותסיסה פוליטית" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "The Roaring Twenties were a time of joy and celebration after World War I, characterized by jazz music, new dances, prosperity, and excitement about the modern age.", "he": "שנות העשרים הסוערות היו תקופה של שמחה וחגיגה לאחר מלחמת העולם הראשונה, שאפיינה אותן מוזיקת ג'אז, ריקודים חדשים, שגשוג והתרגשות מהעידן המודרני." }
+    },
+    {
+      "id": "q-m25-02",
+      "question": { "en": "What happened to the stock market in 1929?", "he": "מה קרה לשוק המניות ב-1929?" },
+      "choices": [
+        { "id": "a", "text": { "en": "It reached record high prices", "he": "הוא הגיע לשיאי מחיר" } },
+        { "id": "b", "text": { "en": "It crashed, causing the Great Depression", "he": "הוא קרס, וגרם לשפל הגדול" } },
+        { "id": "c", "text": { "en": "It was taken over by the government", "he": "הוא נלקח על ידי הממשלה" } },
+        { "id": "d", "text": { "en": "It was unaffected by world events", "he": "הוא לא הושפע מאירועי העולם" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "In October 1929, the stock market crashed dramatically, destroying the savings of millions and triggering the Great Depression — the worst economic crisis of the 20th century.", "he": "באוקטובר 1929, שוק המניות קרס בצורה דרמטית, השמיד את חסכונות המיליונים והפעיל את השפל הגדול — המשבר הכלכלי הגרוע ביותר של המאה ה-20." }
+    },
+    {
+      "id": "q-m25-03",
+      "question": { "en": "Who was the fascist dictator of Germany?", "he": "מי היה הדיקטטור הפשיסטי של גרמניה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Mussolini", "he": "מוסוליני" } },
+        { "id": "b", "text": { "en": "Stalin", "he": "סטלין" } },
+        { "id": "c", "text": { "en": "Hitler", "he": "היטלר" } },
+        { "id": "d", "text": { "en": "Franco", "he": "פרנקו" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Adolf Hitler became dictator of Germany in 1933, founded the Nazi regime, launched World War II, and was responsible for the Holocaust.", "he": "אדולף היטלר הפך לדיקטטור גרמניה ב-1933, ייסד את המשטר הנאצי, פתח את מלחמת העולם השנייה והיה אחראי לשואה." }
+    },
+    {
+      "id": "q-m25-04",
+      "question": { "en": "What was the Holocaust?", "he": "מהי השואה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "A battle during World War I", "he": "קרב במהלך מלחמת העולם הראשונה" } },
+        { "id": "b", "text": { "en": "The stock market crash of 1929", "he": "קריסת שוק המניות של 1929" } },
+        { "id": "c", "text": { "en": "The Nazi murder of six million Jewish people", "he": "הרצח הנאצי של שישה מיליון יהודים" } },
+        { "id": "d", "text": { "en": "The Allied invasion of Normandy", "he": "פלישת בנות הברית לנורמנדי" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "The Holocaust was the systematic genocide of six million Jewish people carried out by the Nazi regime during World War II, one of the greatest crimes in human history.", "he": "השואה הייתה רצח העם השיטתי של שישה מיליון יהודים שבוצע על ידי המשטר הנאצי במהלך מלחמת העולם השנייה, אחד הפשעים הגדולים ביותר בהיסטוריה האנושית." }
+    },
+    {
+      "id": "q-m25-05",
+      "question": { "en": "What does Blitzkrieg mean?", "he": "מה פירוש בליצקריג?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Iron fist", "he": "אגרוף ברזל" } },
+        { "id": "b", "text": { "en": "Lightning war", "he": "מלחמת ברק" } },
+        { "id": "c", "text": { "en": "Great battle", "he": "קרב גדול" } },
+        { "id": "d", "text": { "en": "Siege warfare", "he": "מלחמת מצור" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Blitzkrieg means lightning war in German and described Germany's fast, surprise military tactics that used tanks and aircraft to overwhelm enemies quickly.", "he": "בליצקריג פירושו מלחמת ברק בגרמנית ותיאר את הטקטיקות הצבאיות המהירות והמפתיעות של גרמניה שהשתמשו בטנקים וכלי טיס כדי להכריע אויבים במהירות." }
+    },
+    {
+      "id": "q-m25-06",
+      "question": { "en": "When did the Allies land on the beaches of Normandy?", "he": "מתי נחתו בנות הברית על חופי נורמנדי?" },
+      "choices": [
+        { "id": "a", "text": { "en": "June 6, 1944", "he": "6 ביוני 1944" } },
+        { "id": "b", "text": { "en": "September 1, 1939", "he": "1 בספטמבר 1939" } },
+        { "id": "c", "text": { "en": "August 6, 1945", "he": "6 באוגוסט 1945" } },
+        { "id": "d", "text": { "en": "November 11, 1918", "he": "11 בנובמבר 1918" } }
+      ],
+      "correctChoice": "a",
+      "explanation": { "en": "On June 6, 1944 — known as D-Day — Allied forces landed on the beaches of Normandy in the largest seaborne invasion in history, beginning the liberation of Western Europe.", "he": "ב-6 ביוני 1944 — המכונה יום הכניסה — כוחות הברית נחתו על חופי נורמנדי בפלישה הימית הגדולה ביותר בהיסטוריה, ופתחו את שחרור מערב אירופה." }
+    },
+    {
+      "id": "q-m25-07",
+      "question": { "en": "How did World War II end in the Pacific?", "he": "כיצד הסתיימה מלחמת העולם השנייה בפסיפיק?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Japan surrendered after a long siege", "he": "יפן נכנעה לאחר מצור ממושך" } },
+        { "id": "b", "text": { "en": "The US dropped atomic bombs on Japan", "he": "ארה\"ב הפילה פצצות אטום על יפן" } },
+        { "id": "c", "text": { "en": "A peace treaty was signed in Paris", "he": "הסכם שלום נחתם בפריז" } },
+        { "id": "d", "text": { "en": "The Soviet Union invaded Japan", "he": "ברית המועצות פלשה ליפן" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "In August 1945, the United States dropped atomic bombs on Hiroshima and Nagasaki in Japan, leading Japan to surrender and ending World War II.", "he": "באוגוסט 1945, ארצות הברית הפילה פצצות אטום על הירושימה ונגסאקי ביפן, מה שהוביל את יפן להיכנע וסיים את מלחמת העולם השנייה." }
+    },
+    {
+      "id": "q-m25-08",
+      "question": { "en": "Who was the fascist leader of Italy during World War II?", "he": "מי היה המנהיג הפשיסטי של איטליה במהלך מלחמת העולם השנייה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Hitler", "he": "היטלר" } },
+        { "id": "b", "text": { "en": "Mussolini", "he": "מוסוליני" } },
+        { "id": "c", "text": { "en": "Franco", "he": "פרנקו" } },
+        { "id": "d", "text": { "en": "Stalin", "he": "סטלין" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Benito Mussolini was the fascist dictator of Italy who allied with Hitler during World War II. He was captured and executed in 1945.", "he": "בניטו מוסוליני היה הדיקטטור הפשיסטי של איטליה שהתברית עם היטלר במהלך מלחמת העולם השנייה. הוא נתפס והוצא להורג ב-1945." }
+    },
+    {
+      "id": "q-m25-09",
+      "question": { "en": "What caused the Great Depression?", "he": "מה גרם לשפל הגדול?" },
+      "choices": [
+        { "id": "a", "text": { "en": "The start of World War I", "he": "תחילת מלחמת העולם הראשונה" } },
+        { "id": "b", "text": { "en": "A terrible drought across Europe", "he": "בצורת נוראה ברחבי אירופה" } },
+        { "id": "c", "text": { "en": "The collapse of the stock market in 1929", "he": "קריסת שוק המניות ב-1929" } },
+        { "id": "d", "text": { "en": "The Russian Revolution", "he": "המהפכה הרוסית" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "The Great Depression was triggered by the stock market crash of October 1929, which caused banks and businesses to fail and sent unemployment soaring around the world.", "he": "השפל הגדול הופעל על ידי קריסת שוק המניות של אוקטובר 1929, שגרמה לכישלון בנקים ועסקים ולעלייה חדה באבטלה ברחבי העולם." }
+    },
+    {
+      "id": "q-m25-10",
+      "question": { "en": "In what year did World War II begin?", "he": "באיזו שנה החלה מלחמת העולם השנייה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "1933", "he": "1933" } },
+        { "id": "b", "text": { "en": "1935", "he": "1935" } },
+        { "id": "c", "text": { "en": "1941", "he": "1941" } },
+        { "id": "d", "text": { "en": "1939", "he": "1939" } }
+      ],
+      "correctChoice": "d",
+      "explanation": { "en": "World War II began on September 1, 1939 when Germany invaded Poland, causing Britain and France to declare war on Germany.", "he": "מלחמת העולם השנייה החלה ב-1 בספטמבר 1939 כאשר גרמניה פלשה לפולין, מה שגרם לבריטניה ולצרפת להכריז מלחמה על גרמניה." }
+    }
+  ]
+}

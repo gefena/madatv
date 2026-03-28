@@ -1,0 +1,273 @@
+{
+  "id": "m19-peter-the-great",
+  "episodeNumber": 19,
+  "youtubeId": "UVF_Gqr7Skw",
+  "videoSources": [],
+  "title": { "en": "Peter the Great", "he": "תקופתו של פטר הגדול" },
+  "summary": {
+    "en": "Russia in the late 17th century was a vast but backward country, isolated from the great advances taking place in Western Europe. All that changed when the giant young tsar Peter I came to power. Convinced that Russia must modernize or perish, Peter traveled incognito across Europe studying shipbuilding, engineering, and the sciences. He returned determined to drag Russia into the modern age — building a navy, founding the magnificent new capital of Saint Petersburg on the Baltic Sea, forcing the nobility to shave their beards, and adopting Western customs. His brutal wars against Sweden established Russia as a great European power. This episode shows how one man's iron will transformed a sleeping giant into a major force in world history.",
+    "he": "רוסיה בסוף המאה ה-17 הייתה מדינה עצומה אך נחשלת, מבודדת מההתקדמויות הגדולות שהתרחשו במערב אירופה. כל זה השתנה כשהצאר הצעיר הענק פיוטר הראשון עלה לשלטון. משוכנע שרוסיה חייבת להתמדרן או להכחד, פיוטר נסע בסתר ברחבי אירופה ולמד בניית ספינות, הנדסה ומדעים. הוא שב נחוש לגרור את רוסיה לעידן המודרני — בונה ציי מלחמה, ייסד את בירתה המפוארת החדשה של סנט פטרסבורג על חוף הבלטי, אילץ את האצולה לגלח את זקנם, ואימץ מנהגים מערביים. מלחמותיו האכזריות נגד שוודיה ביססו את רוסיה כמעצמה אירופאית גדולה. פרק זה מראה כיצד רצונו הברזלי של אדם אחד הפך ענק ישן למעצמה מרכזית בהיסטוריה העולמית."
+  },
+  "thumbnail": "https://img.youtube.com/vi/UVF_Gqr7Skw/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": ["Peter the Great", "Russian Empire", "Modernization", "18th Century"],
+  "terminology": [
+    {
+      "id": "t-m19-01",
+      "term": { "en": "Tsar", "he": "צאר" },
+      "definition": {
+        "en": "The title used by the rulers of Russia from the 16th to early 20th centuries, equivalent to Emperor. The word comes from the Latin 'Caesar.' Tsars held absolute power over Russia. The last Russian tsar was Nicholas II, who was overthrown in the 1917 Revolution.",
+        "he": "התואר ששימש שליטי רוסיה מהמאה ה-16 ועד תחילת המאה ה-20, שווה ערך לקיסר. המילה מגיעה מהלטינית 'קיסר'. צארים החזיקו בשלטון מוחלט על רוסיה. הצאר הרוסי האחרון היה ניקולאי השני, שהודח במהפכת 1917."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m19-02",
+      "term": { "en": "Peter the Great", "he": "פטר הגדול" },
+      "definition": {
+        "en": "Tsar of Russia from 1682 to 1725, who transformed Russia from a medieval state into a major European power. Standing 2 meters (6 ft 7 in) tall, he was a physically imposing man who worked to modernize Russia by adopting Western technology, culture, and military methods. He founded Saint Petersburg and built Russia's first navy.",
+        "he": "צאר רוסיה מ-1682 עד 1725, שהפך את רוסיה ממדינה מימי הביניים למעצמה אירופאית גדולה. בגובה 2 מטר (6 רגל 7 אינץ'), הוא היה אדם מרשים פיזית שעבד לייסד מחדש את רוסיה על ידי אימוץ טכנולוגיה, תרבות ושיטות צבאיות מערביות. הוא ייסד את סנט פטרסבורג ובנה את הצי הרוסי הראשון."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m19-03",
+      "term": { "en": "Saint Petersburg", "he": "סנט פטרסבורג" },
+      "definition": {
+        "en": "A magnificent city founded by Peter the Great in 1703 on the Baltic Sea in northwestern Russia. Peter built it as Russia's 'window to Europe' — a modern Western-style capital that would help Russia engage with the rest of Europe. The city was built by tens of thousands of forced laborers and named after Peter's patron saint.",
+        "he": "עיר מפוארת שייסד פטר הגדול בשנת 1703 על חוף הבלטי בצפון-מערב רוסיה. פטר בנה אותה כ'חלון של רוסיה לאירופה' — בירה מודרנית בסגנון מערבי שתעזור לרוסיה להתחבר לשאר אירופה. העיר נבנתה על ידי עשרות אלפי פועלים כפויים ונקראה על שמו של קדוש החסות של פטר."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m19-04",
+      "term": { "en": "Great Northern War", "he": "מלחמת הצפון הגדולה" },
+      "definition": {
+        "en": "A conflict from 1700 to 1721 in which Russia, led by Peter the Great, fought Sweden for control of the Baltic region. Peter's victory ended Sweden's dominance in northern Europe and established Russia as a major European power. The war included the decisive Battle of Poltava in 1709.",
+        "he": "סכסוך מ-1700 עד 1721 שבו רוסיה, בהנהגת פטר הגדול, נלחמה בשוודיה על שליטה באזור הבלטי. ניצחונו של פטר הסתיים את הדומיננטיות של שוודיה בצפון אירופה וביסס את רוסיה כמעצמה אירופאית גדולה. המלחמה כללה את קרב פולטווה המכריע בשנת 1709."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m19-05",
+      "term": { "en": "Grand Embassy", "he": "השגרירות הגדולה" },
+      "definition": {
+        "en": "A diplomatic mission from 1697 to 1698 in which Peter the Great traveled incognito across Western Europe, working in shipyards, studying military technology, and observing Western culture. This 18-month journey convinced Peter of the need to modernize Russia along Western lines and transformed his vision for his country.",
+        "he": "משלחת דיפלומטית מ-1697 עד 1698 שבה נסע פטר הגדול בסתר ברחבי מערב אירופה, עבד במספנות, למד טכנולוגיה צבאית וצפה בתרבות המערבית. מסע בן 18 חודשים זה שכנע את פטר בצורך לחדש את רוסיה על קווים מערביים ושינה את חזונו למדינתו."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m19-06",
+      "term": { "en": "Absolutism", "he": "אבסולוטיזם" },
+      "definition": {
+        "en": "A form of government in which the ruler has complete and unlimited power. In the 17th and 18th centuries, many European monarchs including Peter the Great, Louis XIV of France, and Frederick the Great of Prussia ruled as absolute monarchs, claiming their authority came from God. Absolutism began to be challenged during the Enlightenment.",
+        "he": "צורת ממשל שבה לשליט יש כוח מלא ובלתי מוגבל. במאות ה-17 וה-18, מונרכים אירופאיים רבים כולל פטר הגדול, לואי הארבע-עשר מצרפת ופרידריך הגדול מפרוסיה שלטו כמונרכים מוחלטים, וטענו שסמכותם מגיעה מאלוהים. האבסולוטיזם החל להיות מאותגר במהלך ההשכלה."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m19-07",
+      "term": { "en": "Boyars", "he": "בויארים" },
+      "definition": {
+        "en": "The hereditary nobility of Russia who held great power and wealth before Peter the Great's reforms. Peter forced the boyars to modernize by shaving their traditional beards, wearing Western clothes, and adopting Western customs. He reduced their political power and created a new nobility based on state service rather than birth.",
+        "he": "האצולה הצאצאית של רוסיה שהחזיקה בכוח ועושר גדולים לפני הרפורמות של פטר הגדול. פטר אילץ את הבויארים להתמדרן על ידי גילוח זקניהם המסורתיים, לבישת בגדים מערביים ואימוץ מנהגים מערביים. הוא צמצם את כוחם הפוליטי ויצר אצולה חדשה המבוססת על שירות מדינה ולא על ייחוס."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m19-08",
+      "term": { "en": "Baltic Sea", "he": "ים הבלטי" },
+      "definition": {
+        "en": "A sea in northern Europe connected to the North Sea through the Danish straits. Access to the Baltic was crucial for Russia because it would allow trade with Western Europe. Peter the Great fought Sweden in the Great Northern War largely to gain access to the Baltic coast, where he founded Saint Petersburg.",
+        "he": "ים בצפון אירופה המחובר לים הצפוני דרך המצרים הדניים. גישה לבלטי הייתה קריטית לרוסיה מכיוון שהיא תאפשר סחר עם מערב אירופה. פטר הגדול נלחם בשוודיה במלחמת הצפון הגדולה ברובה כדי להשיג גישה לחוף הבלטי, שבו ייסד את סנט פטרסבורג."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m19-09",
+      "term": { "en": "Westernization", "he": "מערביזציה" },
+      "definition": {
+        "en": "The process of adopting Western European culture, values, technology, and practices. Peter the Great deliberately westernized Russia by introducing European-style education, government, military organization, and culture. He forced Russian nobles to wear Western clothes, shave their beards, and learn Western languages.",
+        "he": "התהליך של אימוץ תרבות, ערכים, טכנולוגיה ופרקטיקות מערב-אירופאיות. פטר הגדול ממדרן בכוונה את רוסיה על ידי הנהגת חינוך, ממשל, ארגון צבאי ותרבות בסגנון אירופאי. הוא אילץ את האצולה הרוסית ללבוש בגדים מערביים, לגלח את זקניהם וללמוד שפות מערביות."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m19-10",
+      "term": { "en": "Charles XII of Sweden", "he": "קארל השניים-עשר של שוודיה" },
+      "definition": {
+        "en": "The King of Sweden (1682–1718) who was Peter the Great's main military opponent in the Great Northern War. Charles was a brilliant military commander who won many impressive victories, but was ultimately defeated by Peter at the Battle of Poltava in 1709, ending Sweden's era as a great power.",
+        "he": "מלך שוודיה (1682–1718) שהיה יריבו הצבאי הראשי של פטר הגדול במלחמת הצפון הגדולה. קארל היה מפקד צבאי מבריק שזכה בניצחונות רבים ומרשימים, אך בסופו של דבר הובס על ידי פטר בקרב פולטווה בשנת 1709, ובכך הסתיים עידן שוודיה כמעצמה גדולה."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m19-11",
+      "term": { "en": "Russian Orthodox Church", "he": "הכנסייה האורתודוקסית הרוסית" },
+      "definition": {
+        "en": "The branch of Christianity that has been dominant in Russia since the 10th century. The Russian Orthodox Church was deeply intertwined with Russian culture and identity. Peter the Great reduced the Church's power by abolishing the position of Patriarch and placing the Church under state control through the Holy Synod.",
+        "he": "ענף הנצרות שהיה דומיננטי ברוסיה מאז המאה ה-10. הכנסייה האורתודוקסית הרוסית הייתה שזורה עמוקות בתרבות ובזהות הרוסית. פטר הגדול צמצם את כוח הכנסייה על ידי ביטול תפקיד הפטריארך והכפיף את הכנסייה לשליטת המדינה דרך הסינוד הקדוש."
+      },
+      "category": "religion"
+    },
+    {
+      "id": "t-m19-12",
+      "term": { "en": "Modernization", "he": "מודרניזציה" },
+      "definition": {
+        "en": "The process of transforming a society to adopt modern technology, education, government, and social structures. Peter the Great's modernization of Russia included building a modern military, creating a professional navy, establishing schools and academies, reforming the calendar and alphabet, and encouraging trade with the West.",
+        "he": "התהליך של שינוי חברה לאימוץ טכנולוגיה מודרנית, חינוך, ממשל ומבנים חברתיים. מודרניזציה של רוסיה על ידי פטר הגדול כללה בניית צבא מודרני, יצירת ציי ים מקצועי, הקמת בתי ספר ואקדמיות, רפורמה בלוח ובאלפבית ועידוד סחר עם המערב."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m19-13",
+      "term": { "en": "Streltsy", "he": "סטרלצי" },
+      "definition": {
+        "en": "The traditional Russian military units that served as the main force before Peter the Great's reforms. Peter dissolved the streltsy after they rebelled against his reforms and replaced them with a modern European-style army. Their suppression in 1698 was one of Peter's first major acts as absolute ruler.",
+        "he": "יחידות הצבא הרוסיות המסורתיות ששימשו ככוח הראשי לפני הרפורמות של פטר הגדול. פטר פירק את הסטרלצי לאחר שמרדו נגד הרפורמות שלו והחליפם בצבא מודרני בסגנון אירופאי. דיכויים בשנת 1698 היה אחד ממעשיו הגדולים הראשונים של פטר כשליט מוחלט."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m19-14",
+      "term": { "en": "Table of Ranks", "he": "טבלת הדרגות" },
+      "definition": {
+        "en": "A system introduced by Peter the Great in 1722 that classified all military, state, and court positions into 14 grades. It allowed people to rise through the social hierarchy based on merit and service to the state rather than birth. This was a revolutionary concept in the traditionally rigid Russian society.",
+        "he": "מערכת שהנהיג פטר הגדול בשנת 1722 שסיווגה את כל התפקידים הצבאיים, המדינתיים ובחצר למ-14 דרגות. היא אפשרה לאנשים להתקדם בהיררכיה החברתית על בסיס כישרון ושירות למדינה ולא על בסיס ייחוס. זה היה קונספט מהפכני בחברה הרוסית הנוקשה מסורתית."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m19-15",
+      "term": { "en": "Battle of Poltava", "he": "קרב פולטווה" },
+      "definition": {
+        "en": "A decisive Russian victory over Sweden in 1709 during the Great Northern War. Peter the Great's army defeated King Charles XII's Swedish forces in present-day Ukraine. This victory ended Sweden's dominance in northern Europe and marked Russia's emergence as a major European power.",
+        "he": "ניצחון רוסי מכריע על שוודיה בשנת 1709 במהלך מלחמת הצפון הגדולה. צבאו של פטר הגדול הביס את כוחות השוודים של המלך קארל השניים-עשר באוקראינה של ימינו. ניצחון זה הסתיים את הדומיננטיות של שוודיה בצפון אירופה וסימן את הופעתה של רוסיה כמעצמה אירופאית גדולה."
+      },
+      "category": "history"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q-m19-01",
+      "question": { "en": "What was unusual about how Peter the Great traveled through Europe?", "he": "מה היה יוצא דופן בנסיעת פטר הגדול ברחבי אירופה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "He traveled with an army of 10,000 soldiers", "he": "הוא נסע עם צבא של 10,000 חיילים" } },
+        { "id": "b", "text": { "en": "He traveled incognito, disguising himself to study Western industry and technology", "he": "הוא נסע בסתר, התחפש כדי לחקור תעשייה וטכנולוגיה מערבית" } },
+        { "id": "c", "text": { "en": "He refused to speak to any foreign leaders", "he": "הוא סירב לדבר עם כל מנהיגים זרים" } },
+        { "id": "d", "text": { "en": "He only traveled to churches and monasteries", "he": "הוא נסע רק לכנסיות ולמנזרים" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Peter the Great traveled incognito across Western Europe in the Grand Embassy (1697–1698), disguising himself to work in shipyards, study manufacturing, and observe Western culture firsthand. This unusual approach allowed him to learn practical skills that he brought back to modernize Russia.", "he": "פטר הגדול נסע בסתר ברחבי מערב אירופה בשגרירות הגדולה (1697–1698), התחפש כדי לעבוד במספנות, ללמוד ייצור ולצפות בתרבות המערבית מקרוב. גישה חריגה זו אפשרה לו ללמוד מיומנויות מעשיות שהביא בחזרה לחדש את רוסיה." }
+    },
+    {
+      "id": "q-m19-02",
+      "question": { "en": "What city did Peter the Great build as Russia's 'window to Europe'?", "he": "איזו עיר בנה פטר הגדול כ'חלון של רוסיה לאירופה'?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Moscow", "he": "מוסקווה" } },
+        { "id": "b", "text": { "en": "Saint Petersburg", "he": "סנט פטרסבורג" } },
+        { "id": "c", "text": { "en": "Kiev", "he": "קייב" } },
+        { "id": "d", "text": { "en": "Novgorod", "he": "נובגורוד" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Peter the Great founded Saint Petersburg in 1703 on the Baltic Sea, calling it Russia's 'window to Europe.' This magnificent new capital was built in Western European style and gave Russia access to the Baltic Sea, enabling direct trade and communication with Western Europe.", "he": "פטר הגדול ייסד את סנט פטרסבורג בשנת 1703 על חוף הבלטי, וקרא לה 'חלון של רוסיה לאירופה'. הבירה החדשה המפוארת הזו נבנתה בסגנון אירופה המערבית ונתנה לרוסיה גישה לים הבלטי, ואפשרה סחר ותקשורת ישירה עם מערב אירופה." }
+    },
+    {
+      "id": "q-m19-03",
+      "question": { "en": "What did Peter the Great force Russian nobles to do as part of his modernization?", "he": "מה אילץ פטר הגדול את האצילים הרוסיים לעשות כחלק ממדרניזציה שלו?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Convert to Catholicism", "he": "להתגייר לקתוליות" } },
+        { "id": "b", "text": { "en": "Shave their beards and adopt Western clothes and customs", "he": "לגלח את זקנם ולאמץ בגדים ומנהגים מערביים" } },
+        { "id": "c", "text": { "en": "Learn to speak French only", "he": "ללמוד לדבר צרפתית בלבד" } },
+        { "id": "d", "text": { "en": "Move to Saint Petersburg", "he": "לעבור לסנט פטרסבורג" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Peter the Great forced Russian nobles (boyars) to shave their traditional beards and adopt Western-style clothing and customs as part of his modernization campaign. He even personally cut the beards of some nobles who refused. Those who kept their beards had to pay a special tax.", "he": "פטר הגדול אילץ את האצילים הרוסיים (בויארים) לגלח את זקניהם המסורתיים ולאמץ לבוש ומנהגים בסגנון מערבי כחלק מקמפיין המודרניזציה שלו. הוא אפילו חתך אישית את זקניהם של כמה אצילים שסירבו. אלה ששמרו על זקנם נאלצו לשלם מס מיוחד." }
+    },
+    {
+      "id": "q-m19-04",
+      "question": { "en": "What was the significance of the Battle of Poltava in 1709?", "he": "מה הייתה חשיבות קרב פולטווה בשנת 1709?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Russia was defeated and lost territory to Sweden", "he": "רוסיה הובסה ואיבדה שטח לשוודיה" } },
+        { "id": "b", "text": { "en": "Russia defeated Sweden, establishing Russia as a major European power", "he": "רוסיה הביסה את שוודיה, וביססה את רוסיה כמעצמה אירופאית גדולה" } },
+        { "id": "c", "text": { "en": "Sweden conquered Russia's new capital Saint Petersburg", "he": "שוודיה כבשה את בירתה החדשה של רוסיה סנט פטרסבורג" } },
+        { "id": "d", "text": { "en": "Peter the Great was killed in battle", "he": "פטר הגדול נהרג בקרב" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "The Battle of Poltava in 1709 was a decisive Russian victory over Sweden's King Charles XII. It ended Sweden's status as the dominant power in northern Europe and established Russia as a major European power, transforming the balance of power on the continent.", "he": "קרב פולטווה בשנת 1709 היה ניצחון רוסי מכריע על המלך קארל השניים-עשר של שוודיה. הוא הסתיים את מעמדה של שוודיה כמעצמה הדומיננטית בצפון אירופה וביסס את רוסיה כמעצמה אירופאית גדולה, ושינה את מאזן הכוחות ביבשת." }
+    },
+    {
+      "id": "q-m19-05",
+      "question": { "en": "What was the Grand Embassy?", "he": "מה הייתה השגרירות הגדולה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "A palace Peter built in Saint Petersburg", "he": "ארמון שפטר בנה בסנט פטרסבורג" } },
+        { "id": "b", "text": { "en": "Russia's first embassy in Western Europe", "he": "השגרירות הרוסית הראשונה במערב אירופה" } },
+        { "id": "c", "text": { "en": "Peter's incognito tour of Western Europe to study modern technology and culture", "he": "סיור הסתרים של פטר ברחבי מערב אירופה ללמוד טכנולוגיה ותרבות מודרניות" } },
+        { "id": "d", "text": { "en": "A peace conference Peter organized with Sweden", "he": "ועידת שלום שארגן פטר עם שוודיה" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "The Grand Embassy (1697–1698) was Peter's 18-month incognito tour of Western Europe, where he worked in shipyards in Holland and England, studied military technology, and observed Western culture. This journey transformed his vision for Russia's modernization.", "he": "השגרירות הגדולה (1697–1698) הייתה סיור הסתרים של פטר בן 18 חודשים ברחבי מערב אירופה, שבה עבד במספנות בהולנד ובאנגליה, למד טכנולוגיה צבאית וצפה בתרבות המערבית. מסע זה שינה את חזונו למודרניזציה של רוסיה." }
+    },
+    {
+      "id": "q-m19-06",
+      "question": { "en": "What does the title 'Tsar' come from?", "he": "מאיפה מגיע התואר 'צאר'?" },
+      "choices": [
+        { "id": "a", "text": { "en": "From the Russian word for 'emperor'", "he": "מהמילה הרוסית ל'קיסר'" } },
+        { "id": "b", "text": { "en": "From the Latin word 'Caesar'", "he": "מהמילה הלטינית 'קיסר'" } },
+        { "id": "c", "text": { "en": "From the name of the first Russian ruler", "he": "משמו של השליט הרוסי הראשון" } },
+        { "id": "d", "text": { "en": "From the Greek word for 'power'", "he": "מהמילה היוונית ל'כוח'" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "The title 'Tsar' (also spelled 'Czar') comes from the Latin word 'Caesar,' the title of the Roman emperors. Russian rulers adopted this title to emphasize their claim to imperial authority comparable to that of the Roman emperors.", "he": "התואר 'צאר' (הנכתב גם 'חאר') מגיע מהמילה הלטינית 'קיסר', תואר הקיסרים הרומאיים. שליטים רוסיים אימצו תואר זה כדי להדגיש את טענתם לסמכות קיסרית הדומה לזו של הקיסרים הרומאיים." }
+    },
+    {
+      "id": "q-m19-07",
+      "question": { "en": "Why was access to the Baltic Sea so important for Russia?", "he": "מדוע הייתה גישה לים הבלטי כה חשובה לרוסיה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "It was warmer than Russia's other coastlines", "he": "היה חם יותר מחופי רוסיה האחרים" } },
+        { "id": "b", "text": { "en": "It allowed Russia to trade directly with Western Europe", "he": "הוא אפשר לרוסיה לסחור ישירות עם מערב אירופה" } },
+        { "id": "c", "text": { "en": "It had rich fishing grounds", "he": "היו לו שדות דייג עשירים" } },
+        { "id": "d", "text": { "en": "It was closer to Asia for trading", "he": "הוא היה קרוב יותר לאסיה לסחר" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Access to the Baltic Sea was crucial for Russia because it would allow Russia to trade directly with Western Europe without going through other countries. This is why Peter the Great fought Sweden for decades to gain Baltic coastline, founding Saint Petersburg there.", "he": "גישה לים הבלטי הייתה קריטית לרוסיה מכיוון שהיא תאפשר לרוסיה לסחור ישירות עם מערב אירופה מבלי לעבור דרך מדינות אחרות. זו הסיבה שפטר הגדול נלחם בשוודיה עשרות שנים כדי לקבל חוף בלטי, ושם ייסד את סנט פטרסבורג." }
+    },
+    {
+      "id": "q-m19-08",
+      "question": { "en": "Who was Peter the Great's main military opponent?", "he": "מי היה יריבו הצבאי הראשי של פטר הגדול?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Louis XIV of France", "he": "לואי הארבע-עשר מצרפת" } },
+        { "id": "b", "text": { "en": "Frederick the Great of Prussia", "he": "פרידריך הגדול מפרוסיה" } },
+        { "id": "c", "text": { "en": "Charles XII of Sweden", "he": "קארל השניים-עשר של שוודיה" } },
+        { "id": "d", "text": { "en": "Emperor Leopold I of Austria", "he": "הקיסר לאופולד הראשון מאוסטריה" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Peter the Great's main military opponent was King Charles XII of Sweden. The two clashed in the Great Northern War (1700–1721). Although Charles won several early battles, Peter ultimately defeated him at the Battle of Poltava in 1709.", "he": "יריבו הצבאי הראשי של פטר הגדול היה מלך שוודיה קארל השניים-עשר. השניים התנגשו במלחמת הצפון הגדולה (1700–1721). למרות שקארל זכה בכמה קרבות מוקדמים, פטר הביסו בסופו של דבר בקרב פולטווה בשנת 1709." }
+    },
+    {
+      "id": "q-m19-09",
+      "question": { "en": "What were the 'boyars' in Russia?", "he": "מה היו ה'בויארים' ברוסיה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Russian peasant farmers", "he": "חקלאים איכרים רוסיים" } },
+        { "id": "b", "text": { "en": "Russian Orthodox Church priests", "he": "כהני הכנסייה האורתודוקסית הרוסית" } },
+        { "id": "c", "text": { "en": "The hereditary nobility of Russia", "he": "האצולה הצאצאית של רוסיה" } },
+        { "id": "d", "text": { "en": "Peter's personal bodyguards", "he": "משמר האישי של פטר" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "The boyars were the hereditary nobility of Russia who held great power and wealth. Peter the Great clashed with them because they resisted his modernization reforms. He forced them to adopt Western customs and reduced their political power, creating a new nobility based on state service.", "he": "הבויארים היו האצולה הצאצאית של רוסיה שהחזיקה בכוח ועושר גדולים. פטר הגדול התנגש עמם מכיוון שהתנגדו לרפורמות המודרניזציה שלו. הוא אילץ אותם לאמץ מנהגים מערביים וצמצם את כוחם הפוליטי, ויצר אצולה חדשה המבוססת על שירות מדינה." }
+    },
+    {
+      "id": "q-m19-10",
+      "question": { "en": "How did Peter the Great change the Russian Orthodox Church?", "he": "כיצד שינה פטר הגדול את הכנסייה האורתודוקסית הרוסית?" },
+      "choices": [
+        { "id": "a", "text": { "en": "He banned the Russian Orthodox Church completely", "he": "הוא אסר לחלוטין על הכנסייה האורתודוקסית הרוסית" } },
+        { "id": "b", "text": { "en": "He abolished the Patriarch position and placed the Church under state control", "he": "הוא ביטל את תפקיד הפטריארך והכפיף את הכנסייה לשליטת המדינה" } },
+        { "id": "c", "text": { "en": "He converted Russia to Catholicism", "he": "הוא גייר את רוסיה לקתוליות" } },
+        { "id": "d", "text": { "en": "He gave the Church more power than it ever had before", "he": "הוא נתן לכנסייה יותר כוח מאי פעם" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Peter the Great reduced the power of the Russian Orthodox Church by abolishing the position of Patriarch and replacing it with the Holy Synod, a government committee that controlled the Church. This made the Church subordinate to the state rather than an independent power.", "he": "פטר הגדול צמצם את כוח הכנסייה האורתודוקסית הרוסית על ידי ביטול תפקיד הפטריארך והחלפתו בסינוד הקדוש, ועדה ממשלתית ששלטה בכנסייה. זה הפך את הכנסייה לכפופה למדינה ולא למעצמה עצמאית." }
+    }
+  ]
+}

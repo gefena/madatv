@@ -1,0 +1,341 @@
+{
+  "id": "m03-cro-magnon",
+  "episodeNumber": 3,
+  "youtubeId": "CCigOFZOsSk",
+  "title": {
+    "en": "Cro-Magnon Man",
+    "he": "הקרו-מניון"
+  },
+  "summary": {
+    "en": "About 45,000 years ago, a new kind of human arrived in Europe — Cro-Magnon people, the earliest modern humans on the continent, who were every bit as intelligent as people today. This episode explores how Cro-Magnon people transformed human life through breathtaking cave paintings like those found at Lascaux in France, sophisticated tools crafted from bone and antler, and the development of spoken language and music. We discover that Cro-Magnon people decorated their bodies, sewed clothing, and expressed complex ideas through art — activities that set them apart from all earlier humans. The episode also examines how Cro-Magnon people gradually replaced the Neanderthals, ultimately becoming the ancestors of all modern Europeans.",
+    "he": "לפני כ-45,000 שנה הגיע לאירופה סוג חדש של אדם — אנשי קרו-מניון, בני האדם המודרניים הקדומים ביותר ביבשת, שהיו בדיוק כמו בני האדם של היום. פרק זה חוקר כיצד שינו אנשי הקרו-מניון את החיים האנושיים דרך ציורי מערות מרהיבים כגון אלה שנמצאו בלאסקו שבצרפת, כלים מתוחכמים עשויים עצם וצבי, ופיתוח שפה מדוברת ומוזיקה. אנו מגלים שאנשי קרו-מניון קישטו את גופותיהם, תפרו בגדים והביעו רעיונות מורכבים דרך אמנות — פעילויות שהבדילו אותם מכל בני האדם הקדומים שבאו לפניהם. הפרק גם בוחן כיצד אנשי הקרו-מניון החליפו בהדרגה את הניאנדרטלים, ובסופו של דבר הפכו לאבות אבותיהם של כל האירופאים המודרניים."
+  },
+  "thumbnail": "https://img.youtube.com/vi/CCigOFZOsSk/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": [
+    "Cro-Magnon and early modern humans in Europe",
+    "Lascaux cave paintings and prehistoric art",
+    "language, music, and symbolic thinking",
+    "advanced tools and clothing",
+    "replacing Neanderthals"
+  ],
+  "terminology": [
+    {
+      "id": "t-m03-01",
+      "term": { "en": "Cro-Magnon", "he": "קרו-מניון" },
+      "definition": {
+        "en": "Cro-Magnon is the name given to the earliest modern humans who lived in Europe from about 45,000 years ago. They were anatomically identical to people alive today and are named after the Cro-Magnon rock shelter in France where their bones were first found in 1868. Cro-Magnon people brought with them new tools, art, and ways of thinking that changed human history.",
+        "he": "קרו-מניון הוא השם שניתן לבני האדם המודרניים הקדומים ביותר שחיו באירופה מלפני כ-45,000 שנה. הם היו זהים מבחינה אנטומית לאנשים החיים כיום ונקראים על שם מחסה הסלע קרו-מניון שבצרפת, שבו נמצאו עצמותיהם לראשונה בשנת 1868. אנשי קרו-מניון הביאו עמם כלים חדשים, אמנות ודרכי חשיבה שגרמו לשינוי בהיסטוריה האנושית."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m03-02",
+      "term": { "en": "Cave Painting", "he": "ציור מערות" },
+      "definition": {
+        "en": "Cave paintings are artworks created on the walls and ceilings of caves by prehistoric humans using natural pigments like ochre, charcoal, and manganese oxide. They often depict animals such as horses, bison, aurochs, and deer, but also hands and abstract symbols. The paintings at Lascaux, France, created about 17,000 years ago, are among the most famous and beautiful prehistoric artworks in the world.",
+        "he": "ציורי מערות הם יצירות אמנות שנוצרו על קירות ותקרות של מערות על ידי בני אדם פרהיסטוריים תוך שימוש בצבענים טבעיים כמו אוכרה, פחם ומנגן אוקסיד. הם מתארים לרוב בעלי חיים כמו סוסים, ביזונים, אורוקסים וצבאים, אך גם ידיים וסמלים מופשטים. הציורים בלאסקו, צרפת, שנוצרו לפני כ-17,000 שנה, הם מיצירות האמנות הפרהיסטוריות המפורסמות והיפות ביותר בעולם."
+      },
+      "category": "culture"
+    },
+    {
+      "id": "t-m03-03",
+      "term": { "en": "Lascaux", "he": "לאסקו" },
+      "definition": {
+        "en": "Lascaux is a cave complex in the Dordogne region of southwestern France, famous for its extraordinary Paleolithic cave paintings. The paintings, discovered in 1940, are about 17,000 years old and show hundreds of images of animals, humans, and abstract symbols. They are considered among the finest examples of prehistoric art and tell us a great deal about how Cro-Magnon people saw the world.",
+        "he": "לאסקו הוא מתחם מערות בחבל דורדוניה שבדרום-מערב צרפת, המפורסם בציורי מערות הפאליאוליתיים המרהיבים שלו. הציורים, שהתגלו בשנת 1940, הם בני כ-17,000 שנה ומציגים מאות תמונות של בעלי חיים, בני אדם וסמלים מופשטים. הם נחשבים לאחד הדוגמאות הטובות ביותר לאמנות פרהיסטורית ומספרים לנו רבות על האופן שבו ראו אנשי קרו-מניון את העולם."
+      },
+      "category": "culture"
+    },
+    {
+      "id": "t-m03-04",
+      "term": { "en": "Ochre", "he": "אוכרה" },
+      "definition": {
+        "en": "Ochre is a natural earth pigment made from clay containing iron oxide, ranging in colour from yellow to deep red-brown. Prehistoric people ground ochre into powder and mixed it with animal fat or water to make paint for cave walls and body decoration. Ochre is one of the oldest substances used by humans — evidence of its use dates back over 100,000 years.",
+        "he": "אוכרה היא צבען אדמה טבעי העשוי מחרס המכיל תחמוצת ברזל, שצבעו נע מצהוב עד חום-אדום עמוק. אנשים פרהיסטוריים טחנו אוכרה לאבקה וערבבו אותה עם שומן בעלי חיים או מים כדי להכין צבע לקירות מערות וקישוט הגוף. האוכרה היא אחד החומרים הקדומים ביותר שבהם השתמשו בני האדם — עדות לשימוש בה מתוארכת ליותר מ-100,000 שנה."
+      },
+      "category": "culture"
+    },
+    {
+      "id": "t-m03-05",
+      "term": { "en": "Language", "he": "שפה" },
+      "definition": {
+        "en": "Language is a system of communication using words, sounds, and grammar to express ideas, feelings, and information. The development of complex spoken language is one of the most important things that makes modern humans unique. Cro-Magnon people are believed to have had fully developed spoken language, which allowed them to plan hunts, share knowledge, tell stories, and pass information across generations.",
+        "he": "שפה היא מערכת תקשורת המשתמשת במילים, צלילים ודקדוק כדי להביע רעיונות, רגשות ומידע. פיתוח השפה המדוברת המורכבת הוא אחד הדברים החשובים ביותר שהופכים בני אדם מודרניים לייחודיים. מאמינים שלאנשי קרו-מניון הייתה שפה מדוברת מפותחת לגמרי, שאפשרה להם לתכנן ציד, לשתף ידע, לספר סיפורים ולהעביר מידע בין הדורות."
+      },
+      "category": "culture"
+    },
+    {
+      "id": "t-m03-06",
+      "term": { "en": "Bone Tool", "he": "כלי עצם" },
+      "definition": {
+        "en": "Bone tools are implements made by shaping animal bones, antlers, or ivory into needles, fishhooks, harpoons, and other useful objects. Cro-Magnon people advanced beyond stone tools to create a wide variety of bone and antler tools that were lighter, more precise, and better suited to specific tasks. Bone needles allowed them to sew fitted clothing, which was a major improvement for surviving cold winters.",
+        "he": "כלי עצם הם כלים הנוצרים על ידי עיצוב עצמות בעלי חיים, קרניים או שנהב למחטים, ווי דיג, הרפונים ועוד. אנשי קרו-מניון התקדמו מעבר לכלי אבן ויצרו מגוון רחב של כלי עצם וקרן שהיו קלים יותר, מדויקים יותר ומתאימים יותר למשימות ספציפיות. מחטי עצם אפשרו להם לתפור בגדים מותאמים, שהיה שיפור משמעותי לשרידות בחורפים קרים."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m03-07",
+      "term": { "en": "Symbolic Thinking", "he": "חשיבה סמלית" },
+      "definition": {
+        "en": "Symbolic thinking is the ability to represent ideas, objects, or experiences using symbols — such as drawings, sounds, words, or rituals — rather than just reacting directly to the world. It is a hallmark of modern human intelligence. Cro-Magnon people showed clear evidence of symbolic thinking through cave art, personal ornaments, musical instruments, and burial ceremonies.",
+        "he": "חשיבה סמלית היא היכולת לייצג רעיונות, עצמים או חוויות באמצעות סמלים — כגון ציורים, צלילים, מילים או טקסים — במקום רק להגיב ישירות לעולם. זהו סימן ההיכר של האינטליגנציה האנושית המודרנית. אנשי קרו-מניון הראו עדויות ברורות לחשיבה סמלית דרך אמנות מערות, תכשיטים אישיים, כלי נגינה וטקסי קבורה."
+      },
+      "category": "culture"
+    },
+    {
+      "id": "t-m03-08",
+      "term": { "en": "Atlatl", "he": "אטלאטל" },
+      "definition": {
+        "en": "An atlatl is a spear-throwing tool — a stick with a hook at the end that acts as an extension of the arm, allowing hunters to hurl spears with much greater force and distance than by hand alone. Cro-Magnon people used atlatls to hunt large animals from a safer distance. This invention made hunting more effective and less dangerous.",
+        "he": "אטלאטל הוא כלי לזריקת חניתות — מקל עם וו בקצהו שפועל כהארכה של הזרוע, המאפשרת לציידים לזרוק חניתות בכוח ובמרחק גדולים בהרבה מאשר ביד בלבד. אנשי קרו-מניון השתמשו באטלאטל לציד בעלי חיים גדולים ממרחק בטוח יותר. המצאה זו הפכה את הציד ליעיל יותר ומסוכן פחות."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m03-09",
+      "term": { "en": "Pigment", "he": "צבען" },
+      "definition": {
+        "en": "A pigment is a substance that gives colour. Prehistoric artists used natural pigments found in the earth, including red and yellow ochre, black charcoal, and white calcite to paint their cave images. They ground these materials into fine powder and mixed them with water, animal fat, or plant juices to make paints that have lasted thousands of years.",
+        "he": "צבען הוא חומר הנותן צבע. אמנים פרהיסטוריים השתמשו בצבענים טבעיים שנמצאו באדמה, כולל אוכרה אדומה וצהובה, פחם שחור וקלציט לבן, כדי לצייר את תמונות המערה שלהם. הם טחנו חומרים אלה לאבקה דקה וערבבו אותם עם מים, שומן בעלי חיים או מיצי צמחים להכנת צבעים שנמשכו אלפי שנים."
+      },
+      "category": "culture"
+    },
+    {
+      "id": "t-m03-10",
+      "term": { "en": "Migration", "he": "הגירה" },
+      "definition": {
+        "en": "Migration is the movement of people or animals from one place to another, often in search of food, warmth, or new opportunities. Modern humans (Homo sapiens) migrated out of Africa starting about 70,000 years ago, gradually spreading across the Middle East, Asia, Europe, and eventually the Americas and Australia. This migration replaced or mixed with earlier human populations like the Neanderthals.",
+        "he": "הגירה היא תנועה של אנשים או בעלי חיים ממקום למקום, לעתים קרובות בחיפוש אחר מזון, חמימות או הזדמנויות חדשות. בני האדם המודרניים (הומו סאפיינס) החלו להגר מאפריקה לפני כ-70,000 שנה, והתפשטו בהדרגה לרחבי המזרח התיכון, אסיה, אירופה ובסופו של דבר אמריקה ואוסטרליה. הגירה זו החליפה אוכלוסיות אדם קדומות יותר כמו הניאנדרטלים או התמזגה עמן."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m03-11",
+      "term": { "en": "Flute", "he": "חליל" },
+      "definition": {
+        "en": "A flute is a wind instrument that produces musical sounds when a player blows air across a hole. The oldest known musical instruments are flutes made from bird bones and mammoth ivory, created by Cro-Magnon people over 40,000 years ago, found in caves in Germany. Music is believed to have played an important role in early human social life, celebrations, and rituals.",
+        "he": "חליל הוא כלי נשיפה המייצר צלילים מוזיקליים כאשר הנגן נושף אוויר מעל חור. כלי הנגינה הקדומים ביותר הידועים הם חלילים עשויים מעצמות ציפורים ושנהב ממותה, שנוצרו על ידי אנשי קרו-מניון לפני יותר מ-40,000 שנה ונמצאו במערות בגרמניה. מאמינים שהמוזיקה מילאה תפקיד חשוב בחיים החברתיים, בחגיגות ובטקסים של בני האדם הקדומים."
+      },
+      "category": "culture"
+    },
+    {
+      "id": "t-m03-12",
+      "term": { "en": "Bison", "he": "ביזון" },
+      "definition": {
+        "en": "A bison is a large, heavy-bodied animal related to cattle, with a large head and hump on its shoulders. Bison were one of the most commonly hunted animals by Cro-Magnon people in Europe and are depicted frequently in cave paintings like those at Lascaux and Altamira. Whole communities depended on bison herds for meat, hides for clothing, and bones for tools.",
+        "he": "ביזון הוא בעל חיים גדול בעל גוף כבד הקרוב לבקר, עם ראש גדול ודבשת על כתפיו. ביזונים היו אחד מבעלי החיים שצוידו לרוב על ידי אנשי קרו-מניון באירופה ומתוארים לעתים קרובות בציורי מערות כמו אלה בלאסקו ואלטמירה. קהילות שלמות התפרנסו מעדרי ביזונים לצורך בשר, עורות לבגדים ועצמות לכלים."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m03-13",
+      "term": { "en": "Ritual", "he": "טקס" },
+      "definition": {
+        "en": "A ritual is a set of actions performed in a particular way, often for religious or symbolic purposes. Evidence of rituals — like decorated burials, cave ceremonies, and carved figurines — shows that Cro-Magnon people believed in a world beyond what they could see. Rituals helped hold communities together and give meaning to birth, death, the hunt, and the changing of seasons.",
+        "he": "טקס הוא קבוצת פעולות המבוצעות בדרך מסוימת, לרוב למטרות דתיות או סמליות. עדויות לטקסים — כמו קבורות מקושטות, טקסי מערות ופסלוני גילוף — מראות שאנשי קרו-מניון האמינו בעולם מעבר למה שיכלו לראות. טקסים עזרו לאחד קהילות ולתת משמעות ללידה, למוות, לציד ולחילוף העונות."
+      },
+      "category": "culture"
+    },
+    {
+      "id": "t-m03-14",
+      "term": { "en": "Sewing", "he": "תפירה" },
+      "definition": {
+        "en": "Sewing is the craft of joining pieces of material together using a needle and thread. Cro-Magnon people invented bone needles and likely used animal sinew or plant fibres as thread to stitch together animal hides, creating fitted clothing that kept them warm in cold European winters. This was a revolutionary step — tailored clothing allowed humans to survive in much harsher environments.",
+        "he": "תפירה היא המלאכה של חיבור חתיכות של חומר יחד באמצעות מחט וחוט. אנשי קרו-מניון המציאו מחטי עצם וכנראה השתמשו בגידי בעלי חיים או בסיבי צמחים כחוט כדי לתפור יחד עורות בעלי חיים, ויצרו בגדים מותאמים ששמרו עליהם חמים בחורפי אירופה הקרים. זה היה צעד מהפכני — בגדים מחויטים אפשרו לבני האדם לשרוד בסביבות קשות בהרבה."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m03-15",
+      "term": { "en": "Venus Figurine", "he": "פסלון ונוס" },
+      "definition": {
+        "en": "Venus figurines are small prehistoric statuettes of women, often with exaggerated features, carved from stone, bone, or ivory by Cro-Magnon and other Paleolithic people. They are among the oldest known sculptures in the world, dating back 25,000 to 35,000 years. Archaeologists think they may have been used in fertility rituals or as symbols of abundance and protection.",
+        "he": "פסלוני ונוס הם פסלונים פרהיסטוריים קטנים של נשים, לעתים קרובות עם תכונות מוגזמות, שנגולפו מאבן, עצם או שנהב על ידי אנשי קרו-מניון ועמים פאליאוליתיים אחרים. הם מבין הפסלים הידועים הקדומים ביותר בעולם, ומתוארכים לפני 25,000 עד 35,000 שנה. ארכיאולוגים חושבים שאולי שימשו בטקסי פריון או כסמלי שפע והגנה."
+      },
+      "category": "culture"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q-m03-01",
+      "question": {
+        "en": "Where were the famous Lascaux cave paintings discovered?",
+        "he": "היכן התגלו ציורי המערות המפורסמים בלאסקו?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Spain", "he": "ספרד" } },
+        { "id": "b", "text": { "en": "Germany", "he": "גרמניה" } },
+        { "id": "c", "text": { "en": "France", "he": "צרפת" } },
+        { "id": "d", "text": { "en": "Italy", "he": "איטליה" } }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "The Lascaux cave paintings are located in the Dordogne region of southwestern France. Discovered in 1940 by a group of teenagers, they contain over 600 paintings and nearly 1,500 engravings dating back about 17,000 years.",
+        "he": "ציורי המערות של לאסקו ממוקמים בחבל דורדוניה שבדרום-מערב צרפת. הם התגלו בשנת 1940 על ידי קבוצת נערים, ומכילים למעלה מ-600 ציורים וכמעט 1,500 חריטות המתוארכות לכ-17,000 שנה."
+      }
+    },
+    {
+      "id": "q-m03-02",
+      "question": {
+        "en": "What new type of tool material did Cro-Magnon people use that Neanderthals rarely did?",
+        "he": "איזה חומר חדש לכלים השתמשו בו אנשי קרו-מניון שניאנדרטלים השתמשו בו לעתים רחוקות?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Gold and silver", "he": "זהב וכסף" } },
+        { "id": "b", "text": { "en": "Bone and antler", "he": "עצם וצבי" } },
+        { "id": "c", "text": { "en": "Clay and pottery", "he": "חרס וקדרות" } },
+        { "id": "d", "text": { "en": "Iron and bronze", "he": "ברזל וברונזה" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Cro-Magnon people made extensive use of bone, antler, and ivory to craft tools like needles, harpoons, and fishhooks — materials that could be shaped into more precise and varied forms than stone alone. This allowed them to create specialised tools for specific tasks.",
+        "he": "אנשי קרו-מניון השתמשו רבות בעצם, בצבי ובשנהב ליצירת כלים כמו מחטים, הרפונים וווי דיג — חומרים שניתן היה לעצב לצורות מדויקות ומגוונות יותר מאבן בלבד. הדבר אפשר להם ליצור כלים מתמחים למשימות ספציפיות."
+      }
+    },
+    {
+      "id": "q-m03-03",
+      "question": {
+        "en": "What were Cro-Magnon people anatomically identical to?",
+        "he": "במה היו אנשי קרו-מניון זהים מבחינה אנטומית?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Neanderthals", "he": "ניאנדרטלים" } },
+        { "id": "b", "text": { "en": "Homo erectus", "he": "הומו ארקטוס" } },
+        { "id": "c", "text": { "en": "Modern humans alive today", "he": "בני האדם המודרניים החיים כיום" } },
+        { "id": "d", "text": { "en": "Chimpanzees", "he": "שימפנזות" } }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Cro-Magnon people were anatomically modern humans — if one of them were alive today, dressed in modern clothes, you would not be able to tell them apart from any other person. They had the same brain size, body structure, and capabilities as people alive today.",
+        "he": "אנשי קרו-מניון היו בני אדם מודרניים מבחינה אנטומית — אם אחד מהם היה חי כיום, לבוש בבגדים מודרניים, לא היית יכול להבחין בינו לבין כל אדם אחר. היה להם אותו גודל מוח, מבנה גוף ויכולות כמו לאנשים החיים כיום."
+      }
+    },
+    {
+      "id": "q-m03-04",
+      "question": {
+        "en": "What is the oldest known type of musical instrument?",
+        "he": "מהו סוג כלי הנגינה הקדום ביותר הידוע?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Drum", "he": "תוף" } },
+        { "id": "b", "text": { "en": "Flute", "he": "חליל" } },
+        { "id": "c", "text": { "en": "Harp", "he": "נבל" } },
+        { "id": "d", "text": { "en": "Trumpet", "he": "חצוצרה" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "The oldest confirmed musical instruments are bone and ivory flutes, found in caves in Germany and dating to over 40,000 years ago. They were made by early Cro-Magnon people. These flutes show that music was part of human life from our very earliest days in Europe.",
+        "he": "כלי הנגינה הקדומים ביותר המאושרים הם חלילים מעצם ושנהב, שנמצאו במערות בגרמניה ומתוארכים ליותר מ-40,000 שנה. הם נוצרו על ידי אנשי קרו-מניון הקדומים. חלילים אלה מראים שהמוזיקה הייתה חלק מהחיים האנושיים מראשית ימינו באירופה."
+      }
+    },
+    {
+      "id": "q-m03-05",
+      "question": {
+        "en": "What do Venus figurines tell us about Cro-Magnon people?",
+        "he": "מה מספרים לנו פסלוני הוונוס על אנשי קרו-מניון?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "They were excellent swimmers", "he": "הם היו שחיינים מעולים" } },
+        { "id": "b", "text": { "en": "They had symbolic and artistic thought", "he": "הייתה להם חשיבה סמלית ואמנותית" } },
+        { "id": "c", "text": { "en": "They worshipped the Sun", "he": "הם הסגידו לשמש" } },
+        { "id": "d", "text": { "en": "They could read and write", "he": "הם ידעו לקרוא ולכתוב" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Venus figurines — small carved statuettes of women — are evidence of symbolic and artistic thinking. Creating objects with meaning beyond their practical use shows that Cro-Magnon people thought about the world in abstract ways, including ideas about fertility, protection, and the spiritual world.",
+        "he": "פסלוני ונוס — פסלונים קטנים מגולפים של נשים — הם עדות לחשיבה סמלית ואמנותית. יצירת עצמים בעלי משמעות מעבר לשימושם המעשי מראה שאנשי קרו-מניון חשבו על העולם בדרכים מופשטות, כולל רעיונות על פריון, הגנה והעולם הרוחני."
+      }
+    },
+    {
+      "id": "q-m03-06",
+      "question": {
+        "en": "When did Cro-Magnon people first arrive in Europe?",
+        "he": "מתי הגיעו לראשונה אנשי קרו-מניון לאירופה?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "About 5,000 years ago", "he": "לפני כ-5,000 שנה" } },
+        { "id": "b", "text": { "en": "About 100,000 years ago", "he": "לפני כ-100,000 שנה" } },
+        { "id": "c", "text": { "en": "About 45,000 years ago", "he": "לפני כ-45,000 שנה" } },
+        { "id": "d", "text": { "en": "About 200,000 years ago", "he": "לפני כ-200,000 שנה" } }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "Modern humans — whom we call Cro-Magnon in the European context — first arrived in Europe about 45,000 years ago, having migrated from Africa and through the Middle East. Within a few thousand years, they spread across the continent.",
+        "he": "בני האדם המודרניים — אותם אנו מכנים קרו-מניון בהקשר האירופי — הגיעו לראשונה לאירופה לפני כ-45,000 שנה, לאחר שהגרו מאפריקה ודרך המזרח התיכון. תוך כמה אלפי שנים, הם התפשטו בכל רחבי היבשת."
+      }
+    },
+    {
+      "id": "q-m03-07",
+      "question": {
+        "en": "What animals are most commonly depicted in cave paintings?",
+        "he": "אילו בעלי חיים מתוארים לעתים קרובות ביותר בציורי מערות?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Fish and crocodiles", "he": "דגים ותנינים" } },
+        { "id": "b", "text": { "en": "Lions and tigers", "he": "אריות ונמרים" } },
+        { "id": "c", "text": { "en": "Horses, bison, and deer", "he": "סוסים, ביזונים וצבאים" } },
+        { "id": "d", "text": { "en": "Dogs and cats", "he": "כלבים וחתולים" } }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "The most common subjects in European cave paintings are large animals that Cro-Magnon people hunted or encountered — especially horses, bison, aurochs (wild cattle), deer, and mammoths. These animals were central to survival and therefore deeply important in the spiritual and artistic life of prehistoric people.",
+        "he": "הנושאים הנפוצים ביותר בציורי המערות האירופיים הם בעלי חיים גדולים שאנשי קרו-מניון ציידו או נתקלו בהם — במיוחד סוסים, ביזונים, אורוקסים (בקר פרא), צבאים וממותות. בעלי חיים אלה היו מרכזיים להישרדות ולכן חשובים מאוד בחיים הרוחניים והאמנותיים של האנשים הפרהיסטוריים."
+      }
+    },
+    {
+      "id": "q-m03-08",
+      "question": {
+        "en": "What important item did bone needles allow Cro-Magnon people to make?",
+        "he": "מה אפשרו מחטי עצם לאנשי קרו-מניון לייצר?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Pottery", "he": "כלי חרס" } },
+        { "id": "b", "text": { "en": "Fitted clothing from animal hides", "he": "בגדים מותאמים מעורות בעלי חיים" } },
+        { "id": "c", "text": { "en": "Fishing nets", "he": "רשתות דיג" } },
+        { "id": "d", "text": { "en": "Musical instruments", "he": "כלי נגינה" } }
+      ],
+      "correctChoice": "b",
+      "explanation": {
+        "en": "Bone needles — thin, sharp, and strong — allowed Cro-Magnon people to stitch animal hides together to create fitted clothing. Unlike a simple animal skin draped over the body, sewn clothing fitted snugly and provided much better insulation against cold, rain, and wind.",
+        "he": "מחטי עצם — דקות, חדות וחזקות — אפשרו לאנשי קרו-מניון לתפור עורות בעלי חיים יחד וליצור בגדים מותאמים. בשונה מעור בעל חיים פשוט שהוטל על הגוף, בגדים תפורים התאימו היטב וסיפקו בידוד טוב בהרבה מפני קור, גשם ורוח."
+      }
+    },
+    {
+      "id": "q-m03-09",
+      "question": {
+        "en": "From which continent did Cro-Magnon people originally migrate to Europe?",
+        "he": "מאיזו יבשת הגרו אנשי קרו-מניון במקור לאירופה?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "Asia", "he": "אסיה" } },
+        { "id": "b", "text": { "en": "Australia", "he": "אוסטרליה" } },
+        { "id": "c", "text": { "en": "South America", "he": "דרום אמריקה" } },
+        { "id": "d", "text": { "en": "Africa", "he": "אפריקה" } }
+      ],
+      "correctChoice": "d",
+      "explanation": {
+        "en": "Homo sapiens — modern humans — evolved in Africa about 300,000 years ago. They began migrating out of Africa around 70,000 years ago, passing through the Middle East before spreading into Europe, Asia, and eventually the Americas and Australia.",
+        "he": "הומו סאפיינס — בני האדם המודרניים — התפתח באפריקה לפני כ-300,000 שנה. הם החלו להגר מאפריקה לפני כ-70,000 שנה, עברו דרך המזרח התיכון לפני שהתפשטו לאירופה, אסיה ובסופו של דבר לאמריקה ואוסטרליה."
+      }
+    },
+    {
+      "id": "q-m03-10",
+      "question": {
+        "en": "What is an atlatl?",
+        "he": "מהו אטלאטל?"
+      },
+      "choices": [
+        { "id": "a", "text": { "en": "A type of cave painting technique", "he": "סוג של טכניקת ציור מערות" } },
+        { "id": "b", "text": { "en": "A storage pit for food", "he": "בור אחסון למזון" } },
+        { "id": "c", "text": { "en": "A tool for throwing spears farther and harder", "he": "כלי לזריקת חניתות למרחק רב ובעוצמה רבה יותר" } },
+        { "id": "d", "text": { "en": "A musical instrument", "he": "כלי נגינה" } }
+      ],
+      "correctChoice": "c",
+      "explanation": {
+        "en": "An atlatl is a spear-throwing device — a stick with a hook that acts as an extension of the arm, increasing the force and range of a thrown spear. Cro-Magnon hunters used atlatls to kill large dangerous animals like mammoths and bison from a safer distance.",
+        "he": "אטלאטל הוא מכשיר לזריקת חניתות — מקל עם וו הפועל כהארכה של הזרוע, המגביר את הכוח והטווח של חנית זרוקה. ציידי קרו-מניון השתמשו באטלאטל להרוג בעלי חיים גדולים ומסוכנים כמו ממותות וביזונים ממרחק בטוח יותר."
+      }
+    }
+  ]
+}

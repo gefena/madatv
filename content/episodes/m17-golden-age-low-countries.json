@@ -1,0 +1,279 @@
+{
+  "id": "m17-golden-age-low-countries",
+  "episodeNumber": 17,
+  "youtubeId": "hY9mfMx7JOE",
+  "videoSources": [],
+  "title": { "en": "The Golden Age of the Low Countries", "he": "תור הזהב במחוזות המאוחדים" },
+  "summary": {
+    "en": "This episode tells the story of how the small provinces of the Netherlands broke free from the mighty Spanish Empire during the Eighty Years' War, inspired by the ideas of the Protestant Reformation led by figures like Martin Luther and John Calvin. Despite years of brutal Spanish rule, the Dutch people fought for their independence and won, creating the Dutch Republic — one of the most prosperous and tolerant societies in all of Europe. The city of Amsterdam grew into the greatest trading center in the world, and the Dutch East India Company became the most powerful business enterprise the world had ever seen. This golden age of wealth and freedom also produced extraordinary art, with painters like Rembrandt van Rijn and Johannes Vermeer creating masterpieces that are still celebrated today.",
+    "he": "פרק זה מספר את סיפורו של כיצד המחוזות הקטנים של הולנד שחררו את עצמם מהאימפריה הספרדית האדירה במהלך מלחמת שמונים השנים, בהשראת רעיונות הרפורמציה הפרוטסטנטית שהובלה על ידי דמויות כמו מרטין לותר וז'ון קלוין. למרות שנים של שלטון ספרדי אכזרי, עם הולנד נלחם על עצמאותו ונצח, ויצר את הרפובליקה ההולנדית — אחת החברות השגשגות והסובלניות ביותר בכל אירופה. העיר אמסטרדם גדלה והפכה למרכז המסחר הגדול ביותר בעולם, וחברת הודו המזרחית ההולנדית הפכה למפעל העסקי החזק ביותר שהעולם ראה מעולם. תור הזהב הזה של עושר וחירות הפיק גם אמנות יוצאת דופן, כאשר צייר כמו רמברנדט ואן ריין ויוהנס ורמיר יצרו יצירות מופת שעדיין מוערכות היום."
+  },
+  "thumbnail": "https://img.youtube.com/vi/hY9mfMx7JOE/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": [
+    "Protestant Reformation and the ideas of Luther and Calvin",
+    "Netherlands independence from Spain — the Eighty Years' War",
+    "rise of Amsterdam as the world's greatest trading city",
+    "Dutch East India Company and global trade",
+    "Rembrandt, Vermeer, and the flowering of Dutch art"
+  ],
+  "terminology": [
+    {
+      "id": "t-m17-01",
+      "term": { "en": "Protestant Reformation", "he": "הרפורמציה הפרוטסטנטית" },
+      "definition": {
+        "en": "The Protestant Reformation was a major religious revolution in 16th-century Europe that broke the unified power of the Catholic Church. It began in 1517 when Martin Luther, a German monk, nailed his 95 Theses to a church door in Wittenberg, criticizing Church corruption and the sale of indulgences. The Reformation split Christianity into Catholic and Protestant branches and triggered decades of religious wars across Europe, fundamentally reshaping the political landscape of the continent.",
+        "he": "הרפורמציה הפרוטסטנטית הייתה מהפכה דתית מרכזית באירופה של המאה ה-16 ששברה את הכוח המאוחד של הכנסייה הקתולית. היא החלה בשנת 1517 כאשר מרטין לותר, נזיר גרמני, קבע את 95 הטזות שלו על דלת כנסייה בוויטנברג, שביקר את שחיתות הכנסייה ומכירת ה- אינדולגנציות. הרפורמציה פיצלה את הנצרות לענפים קתוליים ופרוטסטנטים וגרמה לעשרות שנים של מלחמות דתיות ברחבי אירופה, ועיצבה מחדש באופן יסודי את הנוף הפוליטי של היבשת."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m17-02",
+      "term": { "en": "Martin Luther", "he": "מרטין לותר" },
+      "definition": {
+        "en": "Martin Luther was a German monk and theologian who sparked the Protestant Reformation in 1517 by publishing his 95 Theses, criticizing practices of the Catholic Church such as the selling of indulgences. He argued that Christians could be saved by faith alone, not by Church rituals or paying for forgiveness. Luther translated the Bible into German so ordinary people could read it, and his ideas spread rapidly thanks to the newly invented printing press.",
+        "he": "מרטין לותר היה נזיר ותיאולוג גרמני שהצית את הרפורמציה הפרוטסטנטית בשנת 1517 על ידי פרסום 95 הטזות שלו, מבקר נוהגי הכנסייה הקתולית כמו מכירת האינדולגנציות. הוא טען שנוצרים יכולים להיוושע על ידי אמונה בלבד, לא על ידי טקסי הכנסייה או תשלום על סליחה. לותר תרגם את התנ"ך לגרמנית כדי שאנשים רגילים יוכלו לקרוא אותה, ורעיונותיו התפשטו במהירות בזכות מכונת הדפוס שהומצאה לאחרונה."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m17-03",
+      "term": { "en": "John Calvin", "he": "ז'ון קלוין" },
+      "definition": {
+        "en": "John Calvin was a French-born theologian who became a leading figure of the Protestant Reformation, developing a form of Protestant Christianity called Calvinism. He settled in Geneva, Switzerland, and created a strict religious community there based on his theological ideas. Calvin believed in predestination — the idea that God had already decided who would be saved. His followers, called Calvinists or the Reformed Church, were especially influential in the Netherlands, Scotland, and parts of Germany.",
+        "he": "ז'ון קלוין היה תיאולוג ממוצא צרפתי שהפך לדמות מובילה של הרפורמציה הפרוטסטנטית, ופיתח צורת נצרות פרוטסטנטית הנקראת קלוויניזם. הוא התיישב בז'נבה, שוויץ, ויצר שם קהילה דתית מחמירה המבוססת על רעיונותיו התיאולוגיים. קלוין האמין בגזירה קדומה — הרעיון שאלוהים כבר החליט מי ייוושע. חסידיו, הנקראים קלוויניסטים או הכנסייה המרפורמת, היו משפיעים במיוחד בהולנד, סקוטלנד וחלקים מגרמניה."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m17-04",
+      "term": { "en": "Eighty Years' War", "he": "מלחמת שמונים השנים" },
+      "definition": {
+        "en": "The Eighty Years' War, also called the Dutch War of Independence, was the long struggle by the seventeen provinces of the Netherlands to win independence from Spanish rule, fought between 1568 and 1648. The Dutch, led by Prince William of Orange, resisted the harsh religious and political rule of Spanish governor the Duke of Alba. After eight decades of war, Spain finally recognized Dutch independence in the Peace of Westphalia in 1648, creating the Dutch Republic.",
+        "he": "מלחמת שמונים השנים, הנקראת גם מלחמת העצמאות ההולנדית, הייתה המאבק הארוך של שבע עשרה המחוזות של הולנד לזכות עצמאות מהשלטון הספרדי, שנלחמה בין 1568 ל-1648. ההולנדים, בהנהגת הנסיך וויליאם מאורנז', התנגדו לשלטון הדתי והפוליטי הקשה של המושל הספרדי הדוכס מאלבה. לאחר שמונה עשורים של מלחמה, הכירה ספרד סוף סוף בעצמאות ההולנדית בשלום וסטפליה בשנת 1648, ויצרה את הרפובליקה ההולנדית."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m17-05",
+      "term": { "en": "Dutch East India Company", "he": "חברת הודו המזרחית ההולנדית" },
+      "definition": {
+        "en": "The Dutch East India Company, known by its Dutch initials VOC, was founded in 1602 and became the world's first multinational corporation and the most powerful trading company in history. It was granted a monopoly by the Dutch government to trade in Asia, and at its peak employed over 50,000 people and commanded a fleet of hundreds of ships. The VOC traded in spices, silk, porcelain, and other Asian goods, making the Netherlands extraordinarily wealthy.",
+        "he": "חברת הודו המזרחית ההולנדית, הידועה בראשי התיבות ההולנדיים VOC, נוסדה בשנת 1602 והפכה לתאגיד הרב-לאומי הראשון בעולם ולחברת הסחר החזקה ביותר בהיסטוריה. היא קיבלה מונופול מהממשלה ההולנדית לסחור באסיה, ובשיאה העסיקה יותר מ-50,000 איש ופיקדה על צי של מאות ספינות. ה-VOC סחרה בתבלינים, משי, פורצלן וסחורות אסיאתיות אחרות, שהפכו את הולנד לעשירה להפליא."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m17-06",
+      "term": { "en": "Amsterdam", "he": "אמסטרדם" },
+      "definition": {
+        "en": "Amsterdam is the capital city of the Netherlands, built on a network of canals at the mouth of the Amstel River. During the Dutch Golden Age of the 17th century, it grew into the most important trading city in the world, with merchants from every corner of the globe meeting there to buy and sell goods. Amsterdam was also known for its exceptional religious tolerance — people of many faiths, including Jews fleeing persecution, found a welcome home there.",
+        "he": "אמסטרדם היא עיר הבירה של הולנד, שנבנתה על רשת תעלות בפיית נהר האמסטל. בתקופת תור הזהב ההולנדי של המאה ה-17 היא גדלה והפכה לעיר הסחר החשובה ביותר בעולם, כאשר סוחרים מכל פינה בגלובוס נפגשו שם לקנות ולמכור סחורות. אמסטרדם הייתה ידועה גם בסובלנות הדתית יוצאת הדופן שלה — אנשים מאמונות רבות, כולל יהודים שברחו מרדיפות, מצאו שם בית מקבל."
+      },
+      "category": "geography"
+    },
+    {
+      "id": "t-m17-07",
+      "term": { "en": "Rembrandt van Rijn", "he": "רמברנדט ואן ריין" },
+      "definition": {
+        "en": "Rembrandt van Rijn was a Dutch master painter and etcher who lived from 1606 to 1669 and is considered one of the greatest visual artists in history. Famous for his mastery of light and shadow, he painted extraordinary portraits, biblical scenes, and self-portraits that capture the full range of human emotion. His masterpieces include The Night Watch, a large group portrait of Amsterdam city guards, and many deeply moving paintings of biblical subjects.",
+        "he": "רמברנדט ואן ריין היה צייר הולנדי ואמן חריטה שחי מ-1606 עד 1669 ונחשב לאחד האמנים החזותיים הגדולים ביותר בהיסטוריה. מפורסם בשליטתו באור ובצל, צייר דיוקנאות יוצאי דופן, סצנות מקראיות ודיוקנאות עצמיים שלוכדים את מלוא הרגשות האנושיים. יצירות המופת שלו כוללות את משמר הלילה, דיוקן קבוצתי גדול של שומרי העיר אמסטרדם, וציורים עמוקים רבים של נושאים מקראיים."
+      },
+      "category": "culture"
+    },
+    {
+      "id": "t-m17-08",
+      "term": { "en": "Johannes Vermeer", "he": "יוהנס ורמיר" },
+      "definition": {
+        "en": "Johannes Vermeer was a Dutch master painter who lived from 1632 to 1675 and is celebrated for his breathtaking portrayals of everyday domestic life bathed in soft, golden light. He painted small, intimate scenes of ordinary people — women reading letters, playing music, or going about household tasks — with extraordinary attention to light, color, and texture. His most famous work, Girl with a Pearl Earring, is often called the Mona Lisa of the North.",
+        "he": "יוהנס ורמיר היה צייר הולנדי שחי מ-1632 עד 1675 ומוערך בזכות תיאוריו המדהימים של חיי היומיום הביתיים הרחוצים באור רך וזהוב. הוא צייר סצנות קטנות ואינטימיות של אנשים רגילים — נשים קוראות מכתבים, מנגנות מוזיקה או עוסקות במשימות בית — עם תשומת לב יוצאת דופן לאור, צבע ומרקם. יצירתו המפורסמת ביותר, ילדה עם עגיל פנינה, מכונה לעיתים קרובות מונה ליזה של הצפון."
+      },
+      "category": "culture"
+    },
+    {
+      "id": "t-m17-09",
+      "term": { "en": "William of Orange", "he": "וויליאם מאורנז'" },
+      "definition": {
+        "en": "William of Orange, also known as William the Silent, was the leader of the Dutch revolt against Spanish rule and is considered the father of the Dutch nation. He organized resistance against the brutal Spanish governor the Duke of Alba and united the Dutch provinces in the fight for independence. Although William was assassinated in 1584, his work laid the foundations for the Dutch Republic that would eventually achieve full independence in 1648.",
+        "he": "וויליאם מאורנז', המוכר גם כוויליאם השקט, היה מנהיג המרד ההולנדי נגד השלטון הספרדי ונחשב לאבי האומה ההולנדית. הוא ארגן התנגדות נגד המושל הספרדי האכזרי הדוכס מאלבה ואיחד את המחוזות ההולנדיים במאבק לעצמאות. אף על פי שוויליאם נרצח בשנת 1584, עבודתו הניחה את היסודות לרפובליקה ההולנדית שתשיג עצמאות מלאה בסופו של דבר בשנת 1648."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m17-10",
+      "term": { "en": "Calvinism", "he": "קלוויניזם" },
+      "definition": {
+        "en": "Calvinism is a form of Protestant Christianity developed by John Calvin in the 16th century, emphasizing the absolute sovereignty of God and the doctrine of predestination — that God has already determined who will be saved and who will not. Calvinists believed in living a disciplined, hard-working, and morally strict life. This Protestant faith became dominant in the Netherlands and provided much of the religious and moral framework for Dutch society during its Golden Age.",
+        "he": "קלוויניזם הוא צורת נצרות פרוטסטנטית שפותחה על ידי ז'ון קלוין במאה ה-16, המדגישה את ריבונותו המוחלטת של אלוהים ואת תורת הגזירה הקדומה — שאלוהים כבר קבע מי ייוושע ומי לא. הקלוויניסטים האמינו בחיים ממושמעים, עמלים ומחמירים מוסרית. אמונה פרוטסטנטית זו הפכה לדומיננטית בהולנד וסיפקה חלק גדול מהמסגרת הדתית והמוסרית של החברה ההולנדית בתקופת תור הזהב שלה."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m17-11",
+      "term": { "en": "Indulgences", "he": "אינדולגנציות" },
+      "definition": {
+        "en": "Indulgences were documents sold by the Catholic Church in the Middle Ages and Renaissance that were believed to reduce the punishment for sins. People could buy indulgences for themselves or deceased relatives to reduce the time they or their loved ones would spend in Purgatory. Martin Luther's fierce criticism of the sale of indulgences became one of the key triggers of the Protestant Reformation, as many people felt this practice was corrupt and unscriptural.",
+        "he": "אינדולגנציות היו מסמכים שנמכרו על ידי הכנסייה הקתולית בימי הביניים ובתקופת הרנסנס שהאמינו שיפחיתו את העונש על עוונות. אנשים יכלו לקנות אינדולגנציות לעצמם או לקרוביהם המנוחים כדי להפחית את הזמן שהם או יקיריהם יבלו בפורגטוריו. ביקורתו החריפה של מרטין לותר על מכירת האינדולגנציות הפכה לאחד הגורמים המרכזיים של הרפורמציה הפרוטסטנטית, שכן אנשים רבים הרגישו שנוהג זה הוא שחיתות ואינו מתאים לכתוב."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m17-12",
+      "term": { "en": "The Dutch Republic", "he": "הרפובליקה ההולנדית" },
+      "definition": {
+        "en": "The Dutch Republic, formally known as the Republic of the Seven United Netherlands, was the state formed after the northern Netherlands provinces declared independence from Spain in 1581. Unlike the monarchies that ruled most of Europe, the Dutch Republic was governed by elected representatives from its merchant class. It became the most prosperous and one of the most free nations in Europe during the 17th century, a period known as the Dutch Golden Age.",
+        "he": "הרפובליקה ההולנדית, הידועה רשמית כרפובליקת שבעת המחוזות המאוחדים של הולנד, הייתה המדינה שנוצרה לאחר שמחוזות הולנד הצפוניים הכריזו על עצמאות מספרד בשנת 1581. בניגוד למלוכות ששלטו ברוב אירופה, הרפובליקה ההולנדית נשלטה על ידי נציגים נבחרים ממעמד הסוחרים שלה. היא הפכה לאומה השגשגת ביותר ולאחת החופשיות ביותר באירופה במאה ה-17, תקופה המכונה תור הזהב ההולנדי."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m17-13",
+      "term": { "en": "Spice Trade", "he": "סחר התבלינים" },
+      "definition": {
+        "en": "The spice trade was the commerce in valuable spices such as pepper, cinnamon, cloves, nutmeg, and ginger that were grown in Asia and sold for enormous profits in Europe. In the Middle Ages, spices were so valuable they were sometimes used as currency. Control of the spice trade was one of the main reasons European powers built overseas empires, and the Dutch East India Company eventually came to dominate this enormously profitable trade.",
+        "he": "סחר התבלינים היה המסחר בתבלינים יקרי ערך כמו פלפל, קינמון, ציפורן, אגוז מוסקט וג'ינג'ר שגדלו באסיה ונמכרו ברווחים עצומים באירופה. בימי הביניים היו תבלינים כל כך יקרי ערך שלעיתים שימשו כמטבע. השליטה בסחר התבלינים הייתה אחת הסיבות העיקריות לכך שמעצמות אירופה בנו אימפריות מחוץ לגבולותיהן, וחברת הודו המזרחית ההולנדית שלטה בסופו של דבר בסחר הרווחי מאוד הזה."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m17-14",
+      "term": { "en": "Printing Press", "he": "מכונת הדפוס" },
+      "definition": {
+        "en": "The printing press, invented by Johannes Gutenberg around 1440, was a machine that could produce many identical copies of a text quickly and cheaply using movable metal type. Before the printing press, books were copied by hand and extremely expensive. The printing press made books affordable, allowed ideas to spread rapidly across Europe, and was essential to the success of the Protestant Reformation — Luther's ideas spread to thousands of people almost overnight through printed pamphlets.",
+        "he": "מכונת הדפוס, שהומצאה על ידי יוהנס גוטנברג בסביבות שנת 1440, הייתה מכונה שיכלה לייצר עותקים זהים רבים של טקסט במהירות ובזול תוך שימוש באותיות מתכת ניידות. לפני מכונת הדפוס, ספרים הועתקו ביד והיו יקרים ביותר. מכונת הדפוס הפכה את הספרים לנגישים, אפשרה לרעיונות להתפשט במהירות ברחבי אירופה, והייתה חיונית להצלחת הרפורמציה הפרוטסטנטית — רעיונותיו של לותר הגיעו לאלפי אנשים כמעט בן לילה דרך חוברות מודפסות."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m17-15",
+      "term": { "en": "Religious Tolerance", "he": "סובלנות דתית" },
+      "definition": {
+        "en": "Religious tolerance means allowing people of different faiths to practice their religion freely without persecution or punishment. The Dutch Republic was remarkable in the 17th century for its policy of relatively high religious tolerance compared to the rest of Europe, welcoming Protestant refugees from France, Jewish communities fleeing persecution in Spain and Portugal, and even allowing Catholics to worship privately. This openness attracted talented people from across Europe and helped make Amsterdam a center of trade, science, and culture.",
+        "he": "סובלנות דתית פירושה מתן אפשרות לאנשים מאמונות שונות לקיים את דתם בחופשיות ללא רדיפה או ענישה. הרפובליקה ההולנדית הייתה יוצאת דופן במאה ה-17 בגלל מדיניות הסובלנות הדתית הגבוהה יחסית שלה בהשוואה לשאר אירופה, שקיבלה פליטים פרוטסטנטים מצרפת, קהילות יהודיות שברחו מרדיפות בספרד ובפורטוגל, ואפילו אפשרה לקתולים להתפלל בפרטיות. פתיחות זו משכה אנשים מוכשרים מרחבי אירופה ועזרה להפוך את אמסטרדם למרכז מסחר, מדע ותרבות."
+      },
+      "category": "history"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q-m17-01",
+      "question": { "en": "Who started the Protestant Reformation by criticizing the Catholic Church in 1517?", "he": "מי התחיל את הרפורמציה הפרוטסטנטית על ידי ביקורת על הכנסייה הקתולית בשנת 1517?" },
+      "choices": [
+        { "id": "a", "text": { "en": "John Calvin", "he": "ז'ון קלוין" } },
+        { "id": "b", "text": { "en": "Martin Luther", "he": "מרטין לותר" } },
+        { "id": "c", "text": { "en": "William of Orange", "he": "וויליאם מאורנז'" } },
+        { "id": "d", "text": { "en": "Rembrandt", "he": "רמברנדט" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Martin Luther, a German monk, published his 95 Theses in 1517, criticizing the Catholic Church's sale of indulgences and other corrupt practices. His ideas spread rapidly thanks to the printing press and sparked the Protestant Reformation.", "he": "מרטין לותר, נזיר גרמני, פרסם את 95 הטזות שלו בשנת 1517, מבקר מכירת האינדולגנציות של הכנסייה הקתולית ונוהגים שחיתים אחרים. רעיונותיו התפשטו במהירות בזכות מכונת הדפוס והצית את הרפורמציה הפרוטסטנטית." }
+    },
+    {
+      "id": "q-m17-02",
+      "question": { "en": "What was the Dutch East India Company famous for?", "he": "במה הייתה חברת הודו המזרחית ההולנדית מפורסמת?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Building the city of Amsterdam", "he": "בניית עיר אמסטרדם" } },
+        { "id": "b", "text": { "en": "Creating the first newspaper", "he": "יצירת העיתון הראשון" } },
+        { "id": "c", "text": { "en": "Being the world's most powerful trading company", "he": "היותה חברת הסחר החזקה ביותר בעולם" } },
+        { "id": "d", "text": { "en": "Painting the famous Dutch Golden Age artworks", "he": "ציור יצירות האמנות המפורסמות של תור הזהב ההולנדי" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "The Dutch East India Company (VOC), founded in 1602, became the world's first multinational corporation and the most powerful trading company in history. It controlled trade in Asia and at its peak employed over 50,000 people and hundreds of ships.", "he": "חברת הודו המזרחית ההולנדית (VOC), שנוסדה בשנת 1602, הפכה לתאגיד הרב-לאומי הראשון בעולם ולחברת הסחר החזקה ביותר בהיסטוריה. היא שלטה בסחר באסיה ובשיאה העסיקה יותר מ-50,000 איש ומאות ספינות." }
+    },
+    {
+      "id": "q-m17-03",
+      "question": { "en": "How long did the Dutch war of independence against Spain last?", "he": "כמה זמן נמשכה מלחמת העצמאות ההולנדית נגד ספרד?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Twenty years", "he": "עשרים שנה" } },
+        { "id": "b", "text": { "en": "Forty years", "he": "ארבעים שנה" } },
+        { "id": "c", "text": { "en": "Eighty years", "he": "שמונים שנה" } },
+        { "id": "d", "text": { "en": "One hundred years", "he": "מאה שנה" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "The Eighty Years' War lasted from 1568 to 1648. The Dutch provinces fought Spain for eighty years before winning their full independence, recognized in the Peace of Westphalia in 1648.", "he": "מלחמת שמונים השנים נמשכה מ-1568 עד 1648. המחוזות ההולנדיים נלחמו בספרד שמונים שנה לפני שזכו בעצמאותם המלאה, שהוכרה בשלום וסטפליה בשנת 1648." }
+    },
+    {
+      "id": "q-m17-04",
+      "question": { "en": "Which Dutch painter created The Night Watch?", "he": "איזה צייר הולנדי יצר את משמר הלילה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Johannes Vermeer", "he": "יוהנס ורמיר" } },
+        { "id": "b", "text": { "en": "Jan Steen", "he": "יאן סטן" } },
+        { "id": "c", "text": { "en": "Frans Hals", "he": "פרנס האלס" } },
+        { "id": "d", "text": { "en": "Rembrandt van Rijn", "he": "רמברנדט ואן ריין" } }
+      ],
+      "correctChoice": "d",
+      "explanation": { "en": "The Night Watch is a monumental group portrait painted by Rembrandt van Rijn in 1642, showing a company of Amsterdam city guards. It is famous for its dramatic use of light and shadow and is considered one of the greatest Dutch Golden Age paintings.", "he": "משמר הלילה הוא דיוקן קבוצתי מונומנטלי שצוייר על ידי רמברנדט ואן ריין בשנת 1642, המציג חברה של שומרי העיר אמסטרדם. הוא מפורסם בשימושו הדרמטי באור ובצל ונחשב לאחד הציורים הגדולים ביותר של תור הזהב ההולנדי." }
+    },
+    {
+      "id": "q-m17-05",
+      "question": { "en": "What was Vermeer's most famous painting often called?", "he": "כיצד כונה לעיתים קרובות ציורו המפורסם ביותר של ורמיר?" },
+      "choices": [
+        { "id": "a", "text": { "en": "The Mona Lisa of the North", "he": "מונה ליזה של הצפון" } },
+        { "id": "b", "text": { "en": "The Queen of Dutch Paintings", "he": "מלכת הציורים ההולנדיים" } },
+        { "id": "c", "text": { "en": "The Jewel of Amsterdam", "he": "תכשיט אמסטרדם" } },
+        { "id": "d", "text": { "en": "The Light of the Golden Age", "he": "אור תור הזהב" } }
+      ],
+      "correctChoice": "a",
+      "explanation": { "en": "Girl with a Pearl Earring by Johannes Vermeer is often called the Mona Lisa of the North. Like the Mona Lisa, it is a mysterious portrait of a young woman with an enigmatic expression, and it is one of the most recognized paintings in the world.", "he": "ילדה עם עגיל פנינה מאת יוהנס ורמיר מכונה לעיתים קרובות מונה ליזה של הצפון. כמו מונה ליזה, זהו דיוקן מסתורי של אישה צעירה עם הבעה חידתית, והוא אחד הציורים המוכרים ביותר בעולם." }
+    },
+    {
+      "id": "q-m17-06",
+      "question": { "en": "What were indulgences that Luther criticized?", "he": "מה היו האינדולגנציות שלותר ביקר?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Special prayers to saints", "he": "תפילות מיוחדות לקדושים" } },
+        { "id": "b", "text": { "en": "Certificates sold by the Church to reduce punishment for sins", "he": "תעודות שנמכרו על ידי הכנסייה להפחתת העונש על עוונות" } },
+        { "id": "c", "text": { "en": "Festivals held by the Church", "he": "חגיגות שנערכו על ידי הכנסייה" } },
+        { "id": "d", "text": { "en": "A type of church tax", "he": "סוג של מס כנסייה" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Indulgences were documents sold by the Catholic Church that people believed would reduce punishment for their sins or those of deceased relatives. Luther argued this practice was corrupt and unscriptural, and his criticism of it was one of the key causes of the Reformation.", "he": "אינדולגנציות היו מסמכים שנמכרו על ידי הכנסייה הקתולית שאנשים האמינו שיפחיתו את העונש על עוונותיהם או של קרוביהם המנוחים. לותר טען שנוהג זה הוא שחיתות ואינו מתאים לכתוב, וביקורתו עליו הייתה אחת הסיבות המרכזיות לרפורמציה." }
+    },
+    {
+      "id": "q-m17-07",
+      "question": { "en": "Who was William of Orange and what is he remembered for?", "he": "מי היה וויליאם מאורנז' ובמה הוא נזכר?" },
+      "choices": [
+        { "id": "a", "text": { "en": "A Spanish king who ruled the Netherlands", "he": "מלך ספרדי ששלט בהולנד" } },
+        { "id": "b", "text": { "en": "A famous Dutch painter of the Golden Age", "he": "צייר הולנדי מפורסם של תור הזהב" } },
+        { "id": "c", "text": { "en": "The leader of the Dutch revolt against Spain, called the father of the Dutch nation", "he": "מנהיג המרד ההולנדי נגד ספרד, המכונה אבי האומה ההולנדית" } },
+        { "id": "d", "text": { "en": "The founder of the Dutch East India Company", "he": "מייסד חברת הודו המזרחית ההולנדית" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "William of Orange, known as William the Silent, led the Dutch revolt against Spain and organized the resistance against the brutal Duke of Alba. He is remembered as the father of the Dutch nation. He was assassinated in 1584 but his work paved the way for Dutch independence.", "he": "וויליאם מאורנז', הידוע כוויליאם השקט, הוביל את המרד ההולנדי נגד ספרד וארגן את ההתנגדות נגד הדוכס האכזרי מאלבה. הוא נזכר כאבי האומה ההולנדית. הוא נרצח בשנת 1584 אך עבודתו סללה את הדרך לעצמאות ההולנדית." }
+    },
+    {
+      "id": "q-m17-08",
+      "question": { "en": "Why was Amsterdam such an important city during the Dutch Golden Age?", "he": "מדוע הייתה אמסטרדם עיר כל כך חשובה בתקופת תור הזהב ההולנדי?" },
+      "choices": [
+        { "id": "a", "text": { "en": "It was the largest city in Europe by population", "he": "היא הייתה העיר הגדולה ביותר באירופה מבחינת אוכלוסייה" } },
+        { "id": "b", "text": { "en": "It was the most important trading city in the world and known for religious tolerance", "he": "היא הייתה עיר הסחר החשובה ביותר בעולם וידועה בסובלנות דתית" } },
+        { "id": "c", "text": { "en": "It was the center of Catholic Christianity", "he": "היא הייתה מרכז הנצרות הקתולית" } },
+        { "id": "d", "text": { "en": "It was the birthplace of Rembrandt and Vermeer", "he": "היא הייתה מקום הולדתם של רמברנדט ורמיר" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Amsterdam became the most important trading city in the world during the 17th century, with merchants from every corner of the globe meeting there. It was also famous for religious tolerance, welcoming Jews, Protestants, and others who faced persecution elsewhere in Europe.", "he": "אמסטרדם הפכה לעיר הסחר החשובה ביותר בעולם במהלך המאה ה-17, כאשר סוחרים מכל פינה בגלובוס נפגשו שם. היא הייתה ידועה גם בסובלנות דתית, שקיבלה יהודים, פרוטסטנטים ואחרים שעמדו בפני רדיפות במקומות אחרים באירופה." }
+    },
+    {
+      "id": "q-m17-09",
+      "question": { "en": "Which Asian goods did the Dutch East India Company mainly trade in?", "he": "באילו סחורות אסיאתיות סחרה בעיקר חברת הודו המזרחית ההולנדית?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Cotton and wool", "he": "כותנה וצמר" } },
+        { "id": "b", "text": { "en": "Gold and diamonds", "he": "זהב ויהלומים" } },
+        { "id": "c", "text": { "en": "Timber and iron", "he": "עצים וברזל" } },
+        { "id": "d", "text": { "en": "Spices, silk, and porcelain", "he": "תבלינים, משי ופורצלן" } }
+      ],
+      "correctChoice": "d",
+      "explanation": { "en": "The Dutch East India Company mainly traded in valuable Asian goods including spices such as pepper, nutmeg, cloves, and cinnamon, as well as silk, porcelain, and tea. These goods were in high demand in Europe and brought enormous profits.", "he": "חברת הודו המזרחית ההולנדית סחרה בעיקר בסחורות אסיאתיות יקרות כולל תבלינים כמו פלפל, אגוז מוסקט, ציפורן וקינמון, כמו גם משי, פורצלן ותה. סחורות אלה היו מבוקשות מאוד באירופה והביאו רווחים עצומים." }
+    },
+    {
+      "id": "q-m17-10",
+      "question": { "en": "What great invention helped spread the ideas of the Protestant Reformation across Europe?", "he": "איזו המצאה גדולה עזרה להפיץ את רעיונות הרפורמציה הפרוטסטנטית ברחבי אירופה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "The compass", "he": "המצפן" } },
+        { "id": "b", "text": { "en": "The telescope", "he": "הטלסקופ" } },
+        { "id": "c", "text": { "en": "The printing press", "he": "מכונת הדפוס" } },
+        { "id": "d", "text": { "en": "The steam engine", "he": "מנוע הקיטור" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "The printing press, invented by Gutenberg around 1440, allowed Luther's ideas to spread across Europe almost overnight through printed pamphlets and books. Without the printing press, the Reformation might never have succeeded in challenging the Church's authority.", "he": "מכונת הדפוס, שהומצאה על ידי גוטנברג בסביבות שנת 1440, אפשרה לרעיונותיו של לותר להתפשט ברחבי אירופה כמעט בן לילה דרך חוברות וספרים מודפסים. ללא מכונת הדפוס, ייתכן שהרפורמציה מעולם לא הייתה מצליחה לאתגר את סמכות הכנסייה." }
+    }
+  ]
+}

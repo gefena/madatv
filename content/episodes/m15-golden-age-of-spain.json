@@ -1,0 +1,279 @@
+{
+  "id": "m15-golden-age-of-spain",
+  "episodeNumber": 15,
+  "youtubeId": "GmW5b9p7_tM",
+  "videoSources": [],
+  "title": { "en": "The Golden Age of Spain", "he": "תור הזהב של ספרד" },
+  "summary": {
+    "en": "In the late 1400s, Spain became one of the most powerful nations on Earth under the rule of King Ferdinand II and Queen Isabella I. In 1492, Christopher Columbus sailed west across the Atlantic and reached the Americas, opening up a whole new world to European exploration. Spanish conquistadors like Hernan Cortez then conquered the mighty Aztec and Inca empires, bringing back enormous treasures of gold and silver to Spain. These riches helped Spain build a great empire, but the conquest came at a terrible cost to the millions of indigenous people who were defeated, enslaved, and killed. The reign of Emperor Charles V cemented Spain's position as the greatest power in Europe, commanding vast territories across Europe and the Americas.",
+    "he": "בסוף שנות ה-1400, הפכה ספרד לאחת האומות החזקות בעולם תחת שלטונם של המלך פרדיננד השני והמלכה איזבלה הראשונה. בשנת 1492 הפליג כריסטופר קולומבוס מערבה דרך האוקיינוס האטלנטי והגיע לאמריקה, ופתח עולם חדש לגמרי לחקירה האירופית. כובשים ספרדים כמו הרנן קורטז כבשו לאחר מכן את האימפריות האצטקית והאינקאית העצומות, והביאו לספרד אוצרות עצומים של זהב וכסף. העושר הזה עזר לספרד לבנות אימפריה גדולה, אך הכיבוש בא במחיר נורא עבור מיליוני אנשים ילידיים שנוצחו, שועבדו ונהרגו. שלטונו של הקיסר קרלוס החמישי ביסס את מעמדה של ספרד כמעצמה הגדולה ביותר באירופה, ששלטה בשטחים עצומים ברחבי אירופה ואמריקה."
+  },
+  "thumbnail": "https://img.youtube.com/vi/GmW5b9p7_tM/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": [
+    "Columbus and the discovery of America",
+    "Spanish conquests of Aztec and Inca empires",
+    "Ferdinand II, Isabella I, and the Spanish monarchy",
+    "treasure fleets and the wealth of the New World",
+    "treatment of indigenous peoples under Spanish rule"
+  ],
+  "terminology": [
+    {
+      "id": "t-m15-01",
+      "term": { "en": "Conquistador", "he": "קונקיסטדור" },
+      "definition": {
+        "en": "Conquistadors were Spanish soldiers and explorers who led military expeditions to conquer lands in the Americas, Africa, and Asia during the 15th and 16th centuries. Armed with guns, steel weapons, and horses — all unknown in the New World — they were able to defeat much larger armies. Their conquests brought tremendous wealth to Spain but caused the destruction of many indigenous civilizations.",
+        "he": "קונקיסטדורים היו חיילים וחוקרים ספרדים שהובילו מסעות צבאיים לכיבוש ארצות באמריקה, אפריקה ואסיה במאות ה-15 וה-16. מצוידים בנשק חם, כלי נשק מפלדה וסוסים — שכולם לא היו מוכרים בעולם החדש — הצליחו לנצח צבאות גדולים בהרבה. כיבושיהם הביאו עושר עצום לספרד אך גרמו להרס ציביליזציות ילידיות רבות."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m15-02",
+      "term": { "en": "Christopher Columbus", "he": "כריסטופר קולומבוס" },
+      "definition": {
+        "en": "Christopher Columbus was an Italian explorer sailing under the Spanish flag who in 1492 became the first European to reach the Caribbean islands of the Americas, opening the way for Spanish colonization. He believed he had reached Asia, so he called the native people Indians. His four voyages between 1492 and 1504 marked the beginning of lasting European contact with the Americas.",
+        "he": "כריסטופר קולומבוס היה חוקר איטלקי שהפליג תחת הדגל הספרדי ובשנת 1492 הפך לאירופאי הראשון שהגיע לאיי הקריביים של אמריקה, ופתח את הדרך לקולוניזציה הספרדית. הוא האמין שהגיע לאסיה, לכן קרא לתושבים הילידים אינדיאנים. ארבעת מסעותיו בין 1492 ל-1504 סימנו את תחילת הקשר האירופי המתמשך עם אמריקה."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m15-03",
+      "term": { "en": "Isabella I of Castile", "he": "איזבלה הראשונה" },
+      "definition": {
+        "en": "Isabella I was the powerful Queen of Castile who, together with her husband Ferdinand II of Aragon, unified Spain under one crown. She sponsored Columbus's voyage to the Americas in 1492 and was a devout Catholic who supported the Spanish Inquisition. Her reign helped transform Spain into a major European power with a growing overseas empire.",
+        "he": "איזבלה הראשונה הייתה מלכת קסטיליה החזקה שיחד עם בעלה פרדיננד השני מארגון איחדה את ספרד תחת כתר אחד. היא ממנה את מסע קולומבוס לאמריקה בשנת 1492 והייתה קתולית אדוקה שתמכה באינקוויזיציה הספרדית. שלטונה עזר להפוך את ספרד למעצמה אירופית מרכזית עם אימפריה מתפשטת בחו"ל."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m15-04",
+      "term": { "en": "Ferdinand II of Aragon", "he": "פרדיננד השני מארגון" },
+      "definition": {
+        "en": "Ferdinand II was King of Aragon who married Isabella I of Castile to unite the two most powerful Spanish kingdoms. Together they completed the Reconquista — the Christian reconquest of Spain from the Moors — in 1492, the same year Columbus sailed. Ferdinand was a skilled politician who expanded Spanish power across the Mediterranean and into the New World.",
+        "he": "פרדיננד השני היה מלך ארגון שנישא לאיזבלה הראשונה מקסטיליה כדי לאחד את שתי הממלכות הספרדיות החזקות ביותר. יחד השלימו את הרקונקיסטה — הכיבוש הנוצרי מחדש של ספרד מידי המורים — בשנת 1492, אותה שנה שבה הפליג קולומבוס. פרדיננד היה פוליטיקאי מיומן שהרחיב את הכוח הספרדי ברחבי הים התיכון ואל העולם החדש."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m15-05",
+      "term": { "en": "Hernan Cortez", "he": "הרנן קורטז" },
+      "definition": {
+        "en": "Hernan Cortez was a Spanish conquistador who conquered the Aztec Empire in Mexico between 1519 and 1521 with a small army of Spanish soldiers and thousands of indigenous allies who opposed Aztec rule. He defeated Emperor Montezuma and destroyed the great Aztec capital Tenochtitlan, building Mexico City on its ruins. His conquest brought vast wealth to Spain and ended one of the most sophisticated civilizations in the Americas.",
+        "he": "הרנן קורטז היה קונקיסטדור ספרדי שכבש את האימפריה האצטקית במקסיקו בין 1519 ל-1521 עם צבא קטן של חיילים ספרדים ואלפי בעלי ברית ילידים שהתנגדו לשלטון האצטקי. הוא הביס את הקיסר מונטסומה והרס את בירת האצטקים הגדולה, טנוצ'טיטלן, ובנה את מקסיקו סיטי על חורבותיה. כיבושו הביא עושר עצום לספרד וסיים אחת הציביליזציות המתוחכמות ביותר באמריקה."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m15-06",
+      "term": { "en": "Aztec Empire", "he": "האימפריה האצטקית" },
+      "definition": {
+        "en": "The Aztec Empire was a powerful civilization in central Mexico that at its height ruled over millions of people and controlled a vast trade network. Their capital city Tenochtitlan, built on an island in a lake, was one of the largest cities in the world with magnificent temples, markets, and canals. The Aztecs were known for their advanced calendar, architecture, and agricultural techniques, but were conquered by Spanish forces in 1521.",
+        "he": "האימפריה האצטקית הייתה ציביליזציה חזקה במרכז מקסיקו שבשיאה שלטה על מיליוני אנשים ושלטה ברשת סחר עצומה. בירתם טנוצ'טיטלן, שנבנתה על אי באגם, הייתה אחת הערים הגדולות בעולם עם מקדשים מפוארים, שווקים וסואים. האצטקים נודעו ביכולות הלוח שנה, האדריכלות וטכניקות החקלאות המתקדמות שלהם, אך נכבשו על ידי הכוחות הספרדים בשנת 1521."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m15-07",
+      "term": { "en": "Inca Empire", "he": "האימפריה האינקאית" },
+      "definition": {
+        "en": "The Inca Empire was the largest empire in pre-Columbian America, stretching along the entire western coast of South America through the Andes Mountains. The Incas built thousands of miles of roads, impressive cities like Machu Picchu, and a complex system of government without a written language. Spanish conquistador Francisco Pizarro conquered the Inca Empire between 1532 and 1572, ending this remarkable civilization.",
+        "he": "האימפריה האינקאית הייתה האימפריה הגדולה ביותר באמריקה הטרום-קולומביאנית, שהשתרעה לאורך כל החוף המערבי של אמריקה הדרומית דרך הרי האנדים. האינקים בנו אלפי קילומטרים של כבישים, ערים מרשימות כמו מאצ'ו פיצ'ו ומערכת ממשל מורכבת ללא שפה כתובה. הקונקיסטדור הספרדי פרנסיסקו פיסארו כבש את האימפריה האינקאית בין 1532 ל-1572, וסיים ציביליזציה מרשימה זו."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m15-08",
+      "term": { "en": "Charles V", "he": "קרלוס החמישי" },
+      "definition": {
+        "en": "Charles V was the most powerful European ruler of the 16th century, serving as both Holy Roman Emperor and King of Spain. He inherited a vast empire that included Spain, the Netherlands, large parts of Italy, and the rapidly growing Spanish colonies in the Americas. His reign saw Spain reach the height of its power, but he also faced constant challenges from Protestant reformers, Ottoman Turks, and rival French kings.",
+        "he": "קרלוס החמישי היה השליט האירופי החזק ביותר של המאה ה-16, שכיהן גם כקיסר האימפריה הרומית הקדושה וגם כמלך ספרד. הוא ירש אימפריה עצומה שכללה את ספרד, את הולנד, חלקים גדולים מאיטליה ואת המושבות הספרדיות שגדלו במהירות באמריקה. בשלטונו הגיעה ספרד לשיא כוחה, אך הוא גם עמד בפני אתגרים מתמידים מצד המתקנים הפרוטסטנטים, העות'מאנים ומלכי צרפת המתחרים."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m15-09",
+      "term": { "en": "Treasure Fleet", "he": "צי האוצר" },
+      "definition": {
+        "en": "The Spanish treasure fleets were convoys of ships that sailed from the Americas to Spain loaded with gold, silver, and other precious goods taken from conquered territories. These fleets, which made the journey twice a year, brought enormous wealth to Spain and made the Spanish monarchy the richest in Europe. The treasure ships were frequently attacked by pirates and the navies of rival nations like England and France.",
+        "he": "ציי האוצר הספרדיים היו שיירות של ספינות שהפליגו מאמריקה לספרד עמוסות זהב, כסף וסחורות יקרות אחרות שנלקחו מהשטחים הכבושים. ציים אלה, שעשו את המסע פעמיים בשנה, הביאו עושר עצום לספרד והפכו את המלוכה הספרדית לעשירה ביותר באירופה. ספינות האוצר הותקפו לעיתים קרובות על ידי פיראטים ו חיל הים של מדינות מתחרות כמו אנגליה וצרפת."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m15-10",
+      "term": { "en": "Reconquista", "he": "הרקונקיסטה" },
+      "definition": {
+        "en": "The Reconquista was the centuries-long process by which Christian kingdoms in northern Spain gradually reconquered the Iberian Peninsula from Muslim Moorish rulers. Beginning in the 8th century and ending in 1492 when Ferdinand and Isabella captured Granada, the last Moorish kingdom, the Reconquista shaped Spanish culture, religion, and military tradition. The completion of the Reconquista gave Ferdinand and Isabella the resources and motivation to fund Columbus's voyage.",
+        "he": "הרקונקיסטה הייתה התהליך הרב-מאות שנים שבו ממלכות נוצריות בצפון ספרד כבשו מחדש בהדרגה את חצי האי האיברי משליטיהם המורים המוסלמים. החל מהמאה ה-8 וכלה בשנת 1492 אז לכדו פרדיננד ואיזבלה את גרנדה, הממלכה המורית האחרונה, עיצבה הרקונקיסטה את התרבות, הדת והמסורת הצבאית הספרדית. השלמת הרקונקיסטה נתנה לפרדיננד ואיזבלה את המשאבים והמוטיבציה לממן את מסעו של קולומבוס."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m15-11",
+      "term": { "en": "Indigenous Peoples", "he": "עמים ילידיים" },
+      "definition": {
+        "en": "Indigenous peoples are the original inhabitants of a land before colonizers arrived from elsewhere. In the Americas, millions of indigenous people had built complex civilizations, languages, and cultures over thousands of years before Europeans arrived. The Spanish conquest brought disease, forced labor, and violence that killed the vast majority of the indigenous population — a catastrophe that changed the Americas forever.",
+        "he": "עמים ילידיים הם התושבים המקוריים של ארץ לפני הגעת מתיישבים ממקומות אחרים. באמריקה בנו מיליוני אנשים ילידיים ציביליזציות, שפות ותרבויות מורכבות על פני אלפי שנים לפני הגעת האירופאים. הכיבוש הספרדי הביא מחלות, עבודת כפייה ואלימות שהרגו את הרוב המכריע של האוכלוסייה הילידית — אסון ששינה את אמריקה לנצח."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m15-12",
+      "term": { "en": "Spanish Inquisition", "he": "האינקוויזיציה הספרדית" },
+      "definition": {
+        "en": "The Spanish Inquisition was a powerful court established by Ferdinand and Isabella in 1478 to enforce Catholic religious conformity in Spain. It investigated and punished people suspected of secretly practicing Judaism or Islam, or holding other beliefs considered heretical by the Church. The Inquisition used torture and public burnings to frighten people into religious compliance and lasted in various forms until the early 19th century.",
+        "he": "האינקוויזיציה הספרדית הייתה בית דין רב-עוצמה שהוקם על ידי פרדיננד ואיזבלה בשנת 1478 כדי לאכוף ציות דתי קתולי בספרד. היא חקרה וענשה אנשים החשודים בקיום יהדות או אסלאם בסתר, או בהחזקת אמונות אחרות שנחשבו כפירה על ידי הכנסייה. האינקוויזיציה השתמשה בעינויים ובשריפות פומביות כדי להפחיד אנשים לציות דתי ונמשכה בצורות שונות עד תחילת המאה ה-19."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m15-13",
+      "term": { "en": "Colonization", "he": "קולוניזציה" },
+      "definition": {
+        "en": "Colonization is the process by which a more powerful nation establishes control over a foreign land, settling its own people there and exploiting its resources. Spanish colonization of the Americas involved building towns and cities, introducing European languages, religion, and culture, and forcing indigenous people to work in mines and on farms. The effects of colonization — both destructive and transformative — shaped the Americas for centuries to come.",
+        "he": "קולוניזציה היא התהליך שבו אומה חזקה יותר מקימה שליטה על ארץ זרה, מתיישבת שם עם אנשיה ומנצלת את משאביה. הקולוניזציה הספרדית של אמריקה כללה בניית עיירות וערים, הכנסת שפות, דת ותרבות אירופאית, ואילוץ עמים ילידיים לעבוד במכרות ובחוות. השפעות הקולוניזציה — הרסניות וטרנספורמטיביות כאחד — עיצבו את אמריקה למאות שנים הבאות."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m15-14",
+      "term": { "en": "Atlantic Ocean", "he": "האוקיינוס האטלנטי" },
+      "definition": {
+        "en": "The Atlantic Ocean is the second-largest ocean on Earth, separating Europe and Africa from the Americas. Before Columbus's voyage in 1492, Europeans had no knowledge of the lands on its western shores. Once Columbus crossed it, the Atlantic became a highway of trade, conquest, and migration connecting the Old World and the New World, fundamentally changing the history of both.",
+        "he": "האוקיינוס האטלנטי הוא האוקיינוס השני בגודלו בכדור הארץ, המפריד בין אירופה ואפריקה לבין אמריקה. לפני מסעו של קולומבוס בשנת 1492, לאירופאים לא היה ידע על הארצות שבחופיו המערביים. לאחר שקולומבוס חצה אותו, האוקיינוס האטלנטי הפך לכביש סחר, כיבוש והגירה המחבר את העולם הישן לעולם החדש, ושינה באופן מהותי את ההיסטוריה של שניהם."
+      },
+      "category": "geography"
+    },
+    {
+      "id": "t-m15-15",
+      "term": { "en": "Tenochtitlan", "he": "טנוצ'טיטלן" },
+      "definition": {
+        "en": "Tenochtitlan was the magnificent capital city of the Aztec Empire, built on an island in Lake Texcoco in the Valley of Mexico. At the time of the Spanish arrival, it was one of the largest cities in the world with a population of perhaps 200,000 people, connected to the mainland by great causeways and supplied by a sophisticated system of canals. Cortez and his forces destroyed it in 1521 and built Mexico City on its ruins.",
+        "he": "טנוצ'טיטלן הייתה בירתה המפוארת של האימפריה האצטקית, שנבנתה על אי באגם טקסקוקו בעמק מקסיקו. בזמן הגעת הספרדים הייתה אחת הערים הגדולות בעולם עם אוכלוסייה של כ-200,000 איש, מחוברת ליבשה בגשרים גדולים ומסופקת על ידי מערכת תעלות מתוחכמת. קורטז וכוחותיו הרסו אותה בשנת 1521 ובנו את מקסיקו סיטי על חורבותיה."
+      },
+      "category": "history"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q-m15-01",
+      "question": { "en": "In what year did Christopher Columbus first reach the Americas?", "he": "באיזו שנה הגיע כריסטופר קולומבוס לראשונה לאמריקה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "1488", "he": "1488" } },
+        { "id": "b", "text": { "en": "1492", "he": "1492" } },
+        { "id": "c", "text": { "en": "1500", "he": "1500" } },
+        { "id": "d", "text": { "en": "1510", "he": "1510" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Columbus reached the Caribbean islands in 1492, sailing west from Spain under the patronage of Ferdinand and Isabella.", "he": "קולומבוס הגיע לאיי הקריביים בשנת 1492, הפליג מערבה מספרד בחסות פרדיננד ואיזבלה." }
+    },
+    {
+      "id": "q-m15-02",
+      "question": { "en": "Which conquistador conquered the Aztec Empire?", "he": "איזה קונקיסטדור כבש את האימפריה האצטקית?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Francisco Pizarro", "he": "פרנסיסקו פיסארו" } },
+        { "id": "b", "text": { "en": "Vasco da Gama", "he": "ואסקו דה גאמה" } },
+        { "id": "c", "text": { "en": "Hernan Cortez", "he": "הרנן קורטז" } },
+        { "id": "d", "text": { "en": "Juan Ponce de Leon", "he": "חואן פונסה דה ליאון" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Hernan Cortez led the Spanish conquest of the Aztec Empire between 1519 and 1521, defeating Emperor Montezuma and destroying the capital Tenochtitlan.", "he": "הרנן קורטז הוביל את הכיבוש הספרדי של האימפריה האצטקית בין 1519 ל-1521, הביס את הקיסר מונטסומה והרס את הבירה טנוצ'טיטלן." }
+    },
+    {
+      "id": "q-m15-03",
+      "question": { "en": "What was the name of the great Aztec capital city?", "he": "מה היה שמה של בירת האצטקים הגדולה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Cusco", "he": "קוסקו" } },
+        { "id": "b", "text": { "en": "Tenochtitlan", "he": "טנוצ'טיטלן" } },
+        { "id": "c", "text": { "en": "Chichen Itza", "he": "צ'יצ'ן איצה" } },
+        { "id": "d", "text": { "en": "Tikal", "he": "טיקאל" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Tenochtitlan was the magnificent island capital of the Aztec Empire, built on Lake Texcoco in the Valley of Mexico. Cortez destroyed it and built Mexico City on its ruins.", "he": "טנוצ'טיטלן הייתה בירת האי המפוארת של האימפריה האצטקית, שנבנתה על אגם טקסקוקו בעמק מקסיקו. קורטז הרס אותה ובנה את מקסיקו סיטי על חורבותיה." }
+    },
+    {
+      "id": "q-m15-04",
+      "question": { "en": "Which Spanish queen sponsored Columbus's first voyage?", "he": "איזו מלכה ספרדית מימנה את מסעו הראשון של קולומבוס?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Mary I of England", "he": "מרי הראשונה מאנגליה" } },
+        { "id": "b", "text": { "en": "Catherine of Aragon", "he": "קתרין מארגון" } },
+        { "id": "c", "text": { "en": "Eleanor of Aquitaine", "he": "אלינור מאקוויטן" } },
+        { "id": "d", "text": { "en": "Isabella I of Castile", "he": "איזבלה הראשונה מקסטיליה" } }
+      ],
+      "correctChoice": "d",
+      "explanation": { "en": "Queen Isabella I of Castile, together with her husband King Ferdinand II, agreed to fund Columbus's westward voyage to find a sea route to Asia.", "he": "המלכה איזבלה הראשונה מקסטיליה, יחד עם בעלה המלך פרדיננד השני, הסכימו לממן את מסעו המערבי של קולומבוס למציאת מסלול ימי לאסיה." }
+    },
+    {
+      "id": "q-m15-05",
+      "question": { "en": "The Inca Empire was located in which part of the Americas?", "he": "באיזה חלק של אמריקה הייתה ממוקמת האימפריה האינקאית?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Central America and Mexico", "he": "מרכז אמריקה ומקסיקו" } },
+        { "id": "b", "text": { "en": "The Caribbean islands", "he": "איי הקריביים" } },
+        { "id": "c", "text": { "en": "Along the Andes Mountains in South America", "he": "לאורך הרי האנדים באמריקה הדרומית" } },
+        { "id": "d", "text": { "en": "The eastern coast of North America", "he": "החוף המזרחי של אמריקה הצפונית" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "The Inca Empire stretched along the entire western coast of South America through the Andes Mountains. Their capital was Cusco, high in the mountains of present-day Peru.", "he": "האימפריה האינקאית השתרעה לאורך כל החוף המערבי של אמריקה הדרומית דרך הרי האנדים. בירתם הייתה קוסקו, גבוה בהרים של פרו של ימינו." }
+    },
+    {
+      "id": "q-m15-06",
+      "question": { "en": "What did Spanish treasure fleets carry back to Spain from the Americas?", "he": "מה העבירו ציי האוצר הספרדיים לספרד מאמריקה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Spices and silk", "he": "תבלינים ומשי" } },
+        { "id": "b", "text": { "en": "Cotton and tobacco only", "he": "כותנה וטבק בלבד" } },
+        { "id": "c", "text": { "en": "Timber and fish", "he": "עצים ודגים" } },
+        { "id": "d", "text": { "en": "Gold, silver, and precious goods", "he": "זהב, כסף וסחורות יקרות" } }
+      ],
+      "correctChoice": "d",
+      "explanation": { "en": "The treasure fleets carried enormous quantities of gold and silver extracted from the mines and conquered civilizations of the Americas, making Spain the wealthiest nation in Europe.", "he": "ציי האוצר העבירו כמויות עצומות של זהב וכסף שנוצאו ממכרות ומציביליזציות שנכבשו באמריקה, מה שהפך את ספרד לאומה העשירה ביותר באירופה." }
+    },
+    {
+      "id": "q-m15-07",
+      "question": { "en": "What was the Reconquista?", "he": "מה הייתה הרקונקיסטה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "The Spanish conquest of the Aztecs", "he": "הכיבוש הספרדי של האצטקים" } },
+        { "id": "b", "text": { "en": "The Christian reconquest of Spain from Muslim rulers", "he": "הכיבוש הנוצרי מחדש של ספרד משליטים מוסלמים" } },
+        { "id": "c", "text": { "en": "A Spanish trade route to Asia", "he": "מסלול סחר ספרדי לאסיה" } },
+        { "id": "d", "text": { "en": "The founding of Mexico City", "he": "ייסוד מקסיקו סיטי" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "The Reconquista was the centuries-long effort by Christian kingdoms to reclaim the Iberian Peninsula from Muslim Moorish rulers, completing in 1492 with the capture of Granada.", "he": "הרקונקיסטה הייתה המאמץ הרב-מאות שנים של ממלכות נוצריות לפדות את חצי האי האיברי משליטים מורים מוסלמים, שהושלם בשנת 1492 עם כיבוש גרנדה." }
+    },
+    {
+      "id": "q-m15-08",
+      "question": { "en": "Which ruler held both the title of King of Spain and Holy Roman Emperor?", "he": "איזה שליט החזיק גם בתואר מלך ספרד וגם בתואר קיסר האימפריה הרומית הקדושה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Ferdinand II", "he": "פרדיננד השני" } },
+        { "id": "b", "text": { "en": "Philip II", "he": "פיליפ השני" } },
+        { "id": "c", "text": { "en": "Charles V", "he": "קרלוס החמישי" } },
+        { "id": "d", "text": { "en": "Columbus", "he": "קולומבוס" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Charles V held both titles, making him the most powerful ruler in Europe. He ruled Spain, the Netherlands, parts of Italy, and the growing Spanish empire in the Americas.", "he": "קרלוס החמישי החזיק בשני התוארים, מה שהפך אותו לשליט החזק ביותר באירופה. הוא שלט בספרד, בהולנד, בחלקים מאיטליה ובאימפריה הספרדית הגדלה באמריקה." }
+    },
+    {
+      "id": "q-m15-09",
+      "question": { "en": "Why were Spanish conquistadors able to defeat much larger indigenous armies?", "he": "מדוע הצליחו הקונקיסטדורים הספרדים לנצח צבאות ילידיים גדולים בהרבה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "They had more soldiers", "he": "היו להם יותר חיילים" } },
+        { "id": "b", "text": { "en": "They had better maps", "he": "היו להם מפות טובות יותר" } },
+        { "id": "c", "text": { "en": "They had guns, steel weapons, horses, and diseases", "he": "היו להם נשק חם, כלי נשק פלדה, סוסים ומחלות" } },
+        { "id": "d", "text": { "en": "The indigenous people surrendered without fighting", "he": "העמים הילידיים נכנעו ללא קרב" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "The Spanish had powerful military advantages including firearms, steel armor and weapons, and horses — all unknown to the indigenous peoples. Diseases the Spanish carried, like smallpox, also killed huge numbers of indigenous people who had no immunity.", "he": "לספרדים היו יתרונות צבאיים חזקים כולל כלי נשק חמים, שריון ונשק פלדה וסוסים — שכולם לא היו מוכרים לעמים הילידיים. מחלות שנשאו הספרדים, כמו אבעבועות שחורות, גם הרגו מספרים עצומים של אנשים ילידיים שלא הייתה להם חסינות." }
+    },
+    {
+      "id": "q-m15-10",
+      "question": { "en": "What important event happened in Spain in the same year Columbus sailed — 1492?", "he": "איזה אירוע חשוב קרה בספרד באותה שנה שבה הפליג קולומבוס — 1492?" },
+      "choices": [
+        { "id": "a", "text": { "en": "The Spanish Armada was defeated", "he": "הארמדה הספרדית הובסה" } },
+        { "id": "b", "text": { "en": "Charles V became king", "he": "קרלוס החמישי הפך למלך" } },
+        { "id": "c", "text": { "en": "Spain conquered Portugal", "he": "ספרד כבשה את פורטוגל" } },
+        { "id": "d", "text": { "en": "Ferdinand and Isabella completed the Reconquista by capturing Granada", "he": "פרדיננד ואיזבלה השלימו את הרקונקיסטה בכיבוש גרנדה" } }
+      ],
+      "correctChoice": "d",
+      "explanation": { "en": "In 1492, the same year Columbus sailed, Ferdinand and Isabella captured Granada — the last Moorish kingdom in Spain — completing the Reconquista after nearly 800 years of Christian-Muslim conflict on the Iberian Peninsula.", "he": "בשנת 1492, אותה שנה שבה הפליג קולומבוס, לכדו פרדיננד ואיזבלה את גרנדה — הממלכה המורית האחרונה בספרד — והשלימו את הרקונקיסטה לאחר כמעט 800 שנות סכסוך נוצרי-מוסלמי בחצי האי האיברי." }
+    }
+  ]
+}

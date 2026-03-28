@@ -1,0 +1,273 @@
+{
+  "id": "m06-age-of-pericles",
+  "episodeNumber": 6,
+  "youtubeId": "bgb7dYu5WlY",
+  "videoSources": [],
+  "title": { "en": "The Age of Pericles", "he": "תקופתו של פריקלס" },
+  "summary": {
+    "en": "In ancient Greece, a remarkable new idea was born: democracy — government by the people. Under the leadership of the great statesman Pericles, Athens became the jewel of the ancient world. The Parthenon was built atop the Acropolis, philosophers like Socrates and Plato explored the nature of truth and justice, playwrights wrote the world's first dramas, and the first Olympic Games united the Greek city-states. But Greece was also a world of war — the Persians twice invaded only to be heroically repelled at Marathon and Thermopylae, and eventually the rivalry between Athens and Sparta exploded into the devastating Peloponnesian War that would bring the golden age to an end.",
+    "he": "ביוון העתיקה נולד רעיון חדש ומרשים: דמוקרטיה — שלטון העם. תחת מנהיגותו של המדינאי הגדול פריקלס, הפכה אתונה לתכשיט של העולם העתיק. הפרתנון נבנה על גבי האקרופוליס, פילוסופים כמו סוקרטס ואפלטון חקרו את טבע האמת והצדק, מחזאים כתבו את הדרמות הראשונות בעולם, ומשחקי האולימפיאדה הראשונים איחדו את מדינות-הערים היווניות. אך יוון הייתה גם עולם של מלחמה — הפרסים פלשו פעמיים רק כדי להיות מוחזרים בגבורה במרתון ובתרמופילאי, ולבסוף היריבות בין אתונה לספרטה התפוצצה למלחמת הפלופונסוס ההרסנית שהסתיים את תור הזהב."
+  },
+  "thumbnail": "https://img.youtube.com/vi/bgb7dYu5WlY/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": ["Ancient Greece", "Democracy", "Pericles", "Greek Culture"],
+  "terminology": [
+    {
+      "id": "t-m06-01",
+      "term": { "en": "Democracy", "he": "דמוקרטיה" },
+      "definition": {
+        "en": "A system of government in which citizens vote to make decisions or elect representatives. The word comes from the Greek words 'demos' (people) and 'kratos' (power). Democracy was first developed in ancient Athens around 500 BCE, though only free male citizens could vote.",
+        "he": "מערכת ממשל שבה אזרחים מצביעים לקבלת החלטות או לבחירת נציגים. המילה מגיעה ממילים יווניות 'דמוס' (עם) ו'קרטוס' (כוח). הדמוקרטיה פותחה לראשונה באתונה העתיקה סביב 500 לפנה\"ס, אם כי רק אזרחים זכרים חופשיים יכלו להצביע."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m06-02",
+      "term": { "en": "Pericles", "he": "פריקלס" },
+      "definition": {
+        "en": "The greatest statesman of ancient Athens, who led the city during its golden age from around 461 to 429 BCE. Under his leadership, Athens built the Parthenon, expanded democracy, and became the cultural and intellectual center of the Greek world. He is often called 'the first citizen of Athens.'",
+        "he": "המדינאי הגדול ביותר של אתונה העתיקה, שהוביל את העיר בתור הזהב שלה מסביב 461 עד 429 לפנה\"ס. תחת מנהיגותו, אתונה בנתה את הפרתנון, הרחיבה את הדמוקרטיה והפכה למרכז התרבותי והאינטלקטואלי של העולם היווני. הוא מכונה לעתים קרובות 'האזרח הראשון של אתונה'."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m06-03",
+      "term": { "en": "Acropolis", "he": "האקרופוליס" },
+      "definition": {
+        "en": "A rocky hill in the center of Athens upon which the ancient Athenians built their most important temples, including the Parthenon. The word means 'high city' in Greek. The Acropolis was the religious and cultural heart of ancient Athens.",
+        "he": "גבעה סלעית במרכז אתונה שעליה בנו האתונאים העתיקים את מקדשיהם החשובים ביותר, כולל הפרתנון. המילה פירושה 'העיר הגבוהה' ביוונית. האקרופוליס היה הלב הדתי והתרבותי של אתונה העתיקה."
+      },
+      "category": "architecture"
+    },
+    {
+      "id": "t-m06-04",
+      "term": { "en": "Parthenon", "he": "הפרתנון" },
+      "definition": {
+        "en": "A magnificent temple built on the Acropolis of Athens between 447 and 438 BCE, dedicated to the goddess Athena. It is considered the finest example of ancient Greek architecture and a symbol of democracy and Western civilization. Despite being 2,500 years old, it still stands today.",
+        "he": "מקדש מפואר שנבנה על האקרופוליס של אתונה בין 447 ל-438 לפנה\"ס, מוקדש לאלה אתנה. הוא נחשב לדוגמה המשובחת ביותר של האדריכלות היוונית העתיקה ולסמל של הדמוקרטיה והציביליזציה המערבית. למרות שהוא בן 2,500 שנה, הוא עדיין עומד היום."
+      },
+      "category": "architecture"
+    },
+    {
+      "id": "t-m06-05",
+      "term": { "en": "Socrates", "he": "סוקרטס" },
+      "definition": {
+        "en": "An ancient Greek philosopher (470–399 BCE) considered one of the founders of Western philosophy. He developed a method of questioning called the 'Socratic method' to explore truth and ethics. He was sentenced to death by the Athenian government for allegedly corrupting the youth and impiety.",
+        "he": "פילוסוף יווני עתיק (470–399 לפנה\"ס) הנחשב לאחד ממייסדי הפילוסופיה המערבית. הוא פיתח שיטת שאלות הנקראת 'השיטה הסוקרטית' לחקר האמת והאתיקה. הוא נידון למוות על ידי ממשלת אתונה בשל כביכול השחתת הנוער וחוסר יראת שמים."
+      },
+      "category": "culture"
+    },
+    {
+      "id": "t-m06-06",
+      "term": { "en": "Olympic Games", "he": "משחקי האולימפיאדה" },
+      "definition": {
+        "en": "Athletic competitions held every four years in ancient Olympia, Greece, beginning in 776 BCE. The games honored the god Zeus and brought together athletes from all Greek city-states. During the Olympics, wars were paused so athletes could travel safely. The modern Olympic Games are based on this ancient tradition.",
+        "he": "תחרויות אתלטיות שנערכו כל ארבע שנים בעיר אולימפיה העתיקה, יוון, החל מ-776 לפנה\"ס. המשחקים כיבדו את האל זאוס ואיחדו ספורטאים מכל מדינות-הערים היווניות. במהלך האולימפיאדה, מלחמות הושהו כדי שספורטאים יוכלו לנסוע בבטחה. משחקי האולימפיאדה המודרניים מבוססים על מסורת עתיקה זו."
+      },
+      "category": "culture"
+    },
+    {
+      "id": "t-m06-07",
+      "term": { "en": "Battle of Marathon", "he": "קרב מרתון" },
+      "definition": {
+        "en": "A famous battle in 490 BCE where a small Athenian army defeated the much larger invading Persian force on the plain of Marathon. According to legend, a messenger ran the approximately 26 miles (42 km) from Marathon to Athens to announce the victory — inspiring the modern marathon race.",
+        "he": "קרב מפורסם בשנת 490 לפנה\"ס שבו צבא אתונאי קטן הביס את הכוח הפרסי הפולש הגדול בהרבה בשדה מרתון. על פי האגדה, שליח רץ את כ-42 ק\"מ ממרתון לאתונה כדי להכריז על הניצחון — מה שהיה מקור השראה למרוץ המרתון המודרני."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m06-08",
+      "term": { "en": "Battle of Thermopylae", "he": "קרב תרמופילאי" },
+      "definition": {
+        "en": "A famous battle in 480 BCE where King Leonidas of Sparta led 300 Spartan warriors (plus thousands of Greek allies) to defend the narrow pass of Thermopylae against the enormous invading Persian army of Xerxes. Though the Greeks were ultimately defeated, their heroic stand became a symbol of courage.",
+        "he": "קרב מפורסם בשנת 480 לפנה\"ס שבו המלך לאוניידס של ספרטה הוביל 300 לוחמים ספרטנים (בתוספת אלפי בעלי ברית יוונים) להגנה על המעבר הצר של תרמופילאי נגד הצבא הפרסי הענק הפולש של קסרקסס. למרות שהיוונים הובסו בסופו של דבר, עמידתם הגיבורית הפכה לסמל של אומץ."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m06-09",
+      "term": { "en": "Sparta", "he": "ספרטה" },
+      "definition": {
+        "en": "An ancient Greek city-state known for its powerful warrior culture. Spartan boys began military training at age 7 and became full citizens only after completing years of rigorous military education. Sparta was Athens's greatest rival and the two cities fought the devastating Peloponnesian War.",
+        "he": "מדינת-עיר יוונית עתיקה הידועה בתרבות הלוחמים החזקה שלה. בנים ספרטנים החלו אימונים צבאיים בגיל 7 והפכו לאזרחים מלאים רק לאחר השלמת שנות חינוך צבאי קפדניות. ספרטה הייתה היריבה הגדולה ביותר של אתונה ושתי הערים נלחמו במלחמת הפלופונסוס ההרסנית."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m06-10",
+      "term": { "en": "Peloponnesian War", "he": "מלחמת הפלופונסוס" },
+      "definition": {
+        "en": "A devastating war fought from 431 to 404 BCE between the city-states of Athens and Sparta, along with their respective allies. The war ended with Sparta's victory and the surrender of Athens. It weakened all of Greece and made it vulnerable to conquest by Macedonia.",
+        "he": "מלחמה הרסנית שנלחמה מ-431 עד 404 לפנה\"ס בין מדינות-הערים אתונה וספרטה, יחד עם בעלות בריתן המתאימות. המלחמה הסתיימה בניצחון ספרטה ובכניעת אתונה. היא החלישה את כל יוון והפכה אותה לפגיעה לכיבוש על ידי מקדוניה."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m06-11",
+      "term": { "en": "Plato", "he": "אפלטון" },
+      "definition": {
+        "en": "An ancient Greek philosopher (428–348 BCE) and student of Socrates. Plato founded the Academy in Athens, one of the earliest institutions of higher learning. His writings, including 'The Republic,' explore justice, beauty, and equality, and have profoundly influenced Western philosophy.",
+        "he": "פילוסוף יווני עתיק (428–348 לפנה\"ס) ותלמידו של סוקרטס. אפלטון ייסד את האקדמיה באתונה, אחד ממוסדות ההשכלה הגבוהה הקדומים ביותר. כתביו, כולל 'הרפובליקה', חוקרים צדק, יופי ושוויון, והשפיעו עמוקות על הפילוסופיה המערבית."
+      },
+      "category": "culture"
+    },
+    {
+      "id": "t-m06-12",
+      "term": { "en": "Polis", "he": "פוליס" },
+      "definition": {
+        "en": "The ancient Greek word for a city-state — an independent community consisting of a city and its surrounding territory. Ancient Greece was not a unified country but a collection of hundreds of independent city-states like Athens, Sparta, Corinth, and Thebes, each with its own government and laws.",
+        "he": "המילה היוונית העתיקה למדינת-עיר — קהילה עצמאית המורכבת מעיר ושטחה הסובב. יוון העתיקה לא הייתה מדינה מאוחדת אלא אוסף של מאות מדינות-ערים עצמאיות כמו אתונה, ספרטה, קורינתוס ותבאי, שלכל אחת ממשלה וחוקים משלה."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m06-13",
+      "term": { "en": "Athena", "he": "אתנה" },
+      "definition": {
+        "en": "The Greek goddess of wisdom, warfare, and crafts, and the patron deity of the city of Athens. The city was named after her. The magnificent Parthenon temple on the Acropolis was dedicated to Athena, and a large gold and ivory statue of her stood inside.",
+        "he": "האלה היוונית של חוכמה, לחימה ומלאכת יד, ואלת החסות של העיר אתונה. העיר נקראה על שמה. מקדש הפרתנון המפואר על האקרופוליס הוקדש לאתנה, ופסל זהב ושנהב גדול שלה עמד בפנים."
+      },
+      "category": "culture"
+    },
+    {
+      "id": "t-m06-14",
+      "term": { "en": "Trireme", "he": "טריירמה" },
+      "definition": {
+        "en": "A fast ancient Greek warship powered by three banks of oars. Triremes were the most powerful warships of the ancient world and formed the backbone of the Athenian navy. The Athenian fleet of triremes was decisive in defeating the Persian navy at the Battle of Salamis in 480 BCE.",
+        "he": "ספינת מלחמה יוונית עתיקה מהירה המונעת על ידי שלוש שורות משוטים. הטריירמות היו ספינות המלחמה החזקות ביותר של העולם העתיק ויצרו את עמוד השדרה של הצי האתונאי. הצי האתונאי של טריירמות היה מכריע בהביסו את הצי הפרסי בקרב סלמיס ב-480 לפנה\"ס."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m06-15",
+      "term": { "en": "Xerxes", "he": "קסרקסס" },
+      "definition": {
+        "en": "King of the Persian Empire from 486 to 465 BCE, and son of Darius the Great. Xerxes led the second Persian invasion of Greece in 480 BCE with an enormous army, burning Athens. However, the Persian fleet was defeated at the Battle of Salamis and his army was turned back.",
+        "he": "מלך האימפריה הפרסית מ-486 עד 465 לפנה\"ס, ובנו של דריווש הגדול. קסרקסס הוביל את הפלישה הפרסית השנייה ליוון ב-480 לפנה\"ס עם צבא עצום, ושרף את אתונה. אולם, הצי הפרסי הובס בקרב סלמיס וצבאו הוחזר."
+      },
+      "category": "history"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q-m06-01",
+      "question": { "en": "What does the word 'democracy' mean in Greek?", "he": "מה פירוש המילה 'דמוקרטיה' ביוונית?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Power of the gods", "he": "כוח האלים" } },
+        { "id": "b", "text": { "en": "Rule of the wealthy", "he": "שלטון העשירים" } },
+        { "id": "c", "text": { "en": "Power of the people", "he": "כוח העם" } },
+        { "id": "d", "text": { "en": "Government by one", "he": "ממשל על ידי אחד" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Democracy comes from the Greek words 'demos' (people) and 'kratos' (power), meaning 'power of the people.' It was first developed in ancient Athens around 500 BCE, though only free male citizens could participate.", "he": "דמוקרטיה מגיעה ממילים יווניות 'דמוס' (עם) ו'קרטוס' (כוח), שפירושן 'כוח העם'. היא פותחה לראשונה באתונה העתיקה סביב 500 לפנה\"ס, אם כי רק אזרחים זכרים חופשיים יכלו להשתתף." }
+    },
+    {
+      "id": "q-m06-02",
+      "question": { "en": "What was the Parthenon?", "he": "מה היה הפרתנון?" },
+      "choices": [
+        { "id": "a", "text": { "en": "A palace for the king of Athens", "he": "ארמון למלך אתונה" } },
+        { "id": "b", "text": { "en": "A sports arena for the Olympic Games", "he": "זירת ספורט למשחקי האולימפיאדה" } },
+        { "id": "c", "text": { "en": "A temple on the Acropolis dedicated to the goddess Athena", "he": "מקדש על האקרופוליס המוקדש לאלה אתנה" } },
+        { "id": "d", "text": { "en": "The Athenian parliament building", "he": "בניין הפרלמנט האתונאי" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "The Parthenon is a magnificent temple built on the Acropolis of Athens between 447 and 438 BCE, dedicated to the goddess Athena. It is one of the finest examples of ancient Greek architecture and a symbol of the golden age of Athens.", "he": "הפרתנון הוא מקדש מפואר שנבנה על האקרופוליס של אתונה בין 447 ל-438 לפנה\"ס, מוקדש לאלה אתנה. הוא אחת הדוגמאות המשובחות ביותר של האדריכלות היוונית העתיקה וסמל לתור הזהב של אתונה." }
+    },
+    {
+      "id": "q-m06-03",
+      "question": { "en": "What happened to Socrates for his philosophical teachings?", "he": "מה קרה לסוקרטס בשל תורתו הפילוסופית?" },
+      "choices": [
+        { "id": "a", "text": { "en": "He was made the ruler of Athens", "he": "הוא הפך לשליט אתונה" } },
+        { "id": "b", "text": { "en": "He was exiled to Persia", "he": "הוא גורש לפרס" } },
+        { "id": "c", "text": { "en": "He was sentenced to death by the Athenian government", "he": "הוא נידון למוות על ידי ממשלת אתונה" } },
+        { "id": "d", "text": { "en": "He fled to Sparta", "he": "הוא ברח לספרטה" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Socrates was sentenced to death in 399 BCE by the Athenian government on charges of corrupting the youth and impiety (not respecting the gods). He was forced to drink hemlock poison. His death became one of the most famous events in the history of philosophy.", "he": "סוקרטס נידון למוות בשנת 399 לפנה\"ס על ידי ממשלת אתונה בשל האשמות של השחתת הנוער וחוסר יראת שמים (אי כיבוד האלים). הוא נאלץ לשתות רעל צוף הרוש. מותו הפך לאחד האירועים המפורסמים ביותר בתולדות הפילוסופיה." }
+    },
+    {
+      "id": "q-m06-04",
+      "question": { "en": "When did the ancient Olympic Games first begin?", "he": "מתי החלו משחקי האולימפיאדה העתיקים לראשונה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "776 BCE", "he": "776 לפנה\"ס" } },
+        { "id": "b", "text": { "en": "500 BCE", "he": "500 לפנה\"ס" } },
+        { "id": "c", "text": { "en": "1000 BCE", "he": "1000 לפנה\"ס" } },
+        { "id": "d", "text": { "en": "300 BCE", "he": "300 לפנה\"ס" } }
+      ],
+      "correctChoice": "a",
+      "explanation": { "en": "The ancient Olympic Games first began in 776 BCE in Olympia, Greece. They were held every four years in honor of the god Zeus. Wars were paused during the games so athletes could travel safely to compete.", "he": "משחקי האולימפיאדה העתיקים החלו לראשונה בשנת 776 לפנה\"ס באולימפיה, יוון. הם נערכו כל ארבע שנים לכבוד האל זאוס. מלחמות הושהו במהלך המשחקים כדי שספורטאים יוכלו לנסוע בבטחה כדי להתחרות." }
+    },
+    {
+      "id": "q-m06-05",
+      "question": { "en": "What inspired the modern marathon race?", "he": "מה היה השראה למרוץ המרתון המודרני?" },
+      "choices": [
+        { "id": "a", "text": { "en": "A training exercise invented by Pericles", "he": "תרגיל אימונים שהמציא פריקלס" } },
+        { "id": "b", "text": { "en": "A legendary messenger who ran from Marathon to Athens to announce a victory over the Persians", "he": "שליח אגדי שרץ ממרתון לאתונה כדי להכריז על ניצחון על הפרסים" } },
+        { "id": "c", "text": { "en": "A race held during the ancient Olympic Games", "he": "מרוץ שנערך במהלך משחקי האולימפיאדה העתיקים" } },
+        { "id": "d", "text": { "en": "The distance Alexander the Great marched in one day", "he": "המרחק שצעד אלכסנדר הגדול ביום אחד" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "According to legend, after the Battle of Marathon in 490 BCE where Athens defeated Persia, a messenger named Pheidippides ran approximately 42 km from the battlefield to Athens to announce the victory, then collapsed and died. This story inspired the modern marathon race.", "he": "על פי האגדה, לאחר קרב מרתון בשנת 490 לפנה\"ס שבו הביסה אתונה את פרס, שליח בשם פיידיפידס רץ כ-42 ק\"מ משדה הקרב לאתונה כדי להכריז על הניצחון, ואז קרס ומת. סיפור זה היה השראה למרוץ המרתון המודרני." }
+    },
+    {
+      "id": "q-m06-06",
+      "question": { "en": "How were Spartan boys trained?", "he": "כיצד הוכשרו ילדים ספרטנים?" },
+      "choices": [
+        { "id": "a", "text": { "en": "They were educated in philosophy and mathematics", "he": "הם חונכו בפילוסופיה ומתמטיקה" } },
+        { "id": "b", "text": { "en": "They began military training at age 7", "he": "הם החלו אימונים צבאיים בגיל 7" } },
+        { "id": "c", "text": { "en": "They were trained as merchants and sailors", "he": "הם הוכשרו כסוחרים ומלחים" } },
+        { "id": "d", "text": { "en": "They only trained in sports for the Olympic Games", "he": "הם התאמנו רק בספורט למשחקי האולימפיאדה" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "In Sparta, boys were taken from their families at age 7 to begin a rigorous military training program called the agoge. They trained for years to become elite soldiers and only became full citizens after completing this training.", "he": "בספרטה, ילדים נלקחו ממשפחותיהם בגיל 7 כדי להתחיל בתוכנית אימונים צבאית קפדנית הנקראת 'אגוגה'. הם התאמנו במשך שנים כדי להפוך לחיילים עיליים והפכו לאזרחים מלאים רק לאחר השלמת האימון הזה." }
+    },
+    {
+      "id": "q-m06-07",
+      "question": { "en": "What ended the golden age of Athens?", "he": "מה הסתיים את תור הזהב של אתונה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "A devastating earthquake", "he": "רעידת אדמה הרסנית" } },
+        { "id": "b", "text": { "en": "A Persian invasion", "he": "פלישה פרסית" } },
+        { "id": "c", "text": { "en": "The Peloponnesian War with Sparta", "he": "מלחמת הפלופונסוס עם ספרטה" } },
+        { "id": "d", "text": { "en": "A great famine", "he": "רעב גדול" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "The Peloponnesian War (431–404 BCE) between Athens and Sparta, along with their allies, devastated Greece and ended Athens's golden age. Sparta won the war and Athens was forced to surrender. The conflict weakened all of Greece.", "he": "מלחמת הפלופונסוס (431–404 לפנה\"ס) בין אתונה לספרטה, יחד עם בעלות בריתן, חרבה את יוון והסתיים את תור הזהב של אתונה. ספרטה ניצחה במלחמה ואתונה נאלצה להיכנע. הסכסוך החליש את כל יוון." }
+    },
+    {
+      "id": "q-m06-08",
+      "question": { "en": "Who was Pericles?", "he": "מי היה פריקלס?" },
+      "choices": [
+        { "id": "a", "text": { "en": "A Spartan general who defeated Athens", "he": "גנרל ספרטני שהביס את אתונה" } },
+        { "id": "b", "text": { "en": "A Persian king who invaded Greece", "he": "מלך פרסי שפלש ליוון" } },
+        { "id": "c", "text": { "en": "The greatest statesman of ancient Athens who led the city's golden age", "he": "המדינאי הגדול ביותר של אתונה העתיקה שהוביל את תור הזהב של העיר" } },
+        { "id": "d", "text": { "en": "A philosopher who taught Socrates", "he": "פילוסוף שלימד את סוקרטס" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Pericles was the greatest statesman of ancient Athens, who led the city during its golden age from around 461 to 429 BCE. Under his leadership, Athens built the Parthenon, expanded democracy, and became the cultural and intellectual capital of the Greek world.", "he": "פריקלס היה המדינאי הגדול ביותר של אתונה העתיקה, שהוביל את העיר בתור הזהב שלה מסביב 461 עד 429 לפנה\"ס. תחת מנהיגותו, אתונה בנתה את הפרתנון, הרחיבה את הדמוקרטיה והפכה לבירה התרבותית והאינטלקטואלית של העולם היווני." }
+    },
+    {
+      "id": "q-m06-09",
+      "question": { "en": "What was the Battle of Thermopylae famous for?", "he": "במה היה קרב תרמופילאי מפורסם?" },
+      "choices": [
+        { "id": "a", "text": { "en": "The Greek naval victory over Persia", "he": "הניצחון הימי היווני על פרס" } },
+        { "id": "b", "text": { "en": "King Leonidas and 300 Spartans heroically defending a narrow pass against the Persian army", "he": "המלך לאוניידס ו-300 ספרטנים שהגנו בגבורה על מעבר צר נגד הצבא הפרסי" } },
+        { "id": "c", "text": { "en": "The founding of the city of Sparta", "he": "ייסוד העיר ספרטה" } },
+        { "id": "d", "text": { "en": "Athens defeating Sparta in battle", "he": "אתונה מביסה את ספרטה בקרב" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "At the Battle of Thermopylae in 480 BCE, King Leonidas of Sparta led 300 Spartan warriors and thousands of Greek allies in a heroic last stand against Xerxes' massive Persian army at a narrow mountain pass. Though outnumbered and ultimately defeated, their bravery became legendary.", "he": "בקרב תרמופילאי ב-480 לפנה\"ס, המלך לאוניידס של ספרטה הוביל 300 לוחמים ספרטנים ואלפי בעלי ברית יוונים בעמידה אחרונה גיבורה נגד הצבא הפרסי העצום של קסרקסס במעבר הר צר. למרות שהיו מועטים במספר ובסופו של דבר הובסו, גבורתם הפכה לאגדה." }
+    },
+    {
+      "id": "q-m06-10",
+      "question": { "en": "What was a 'polis' in ancient Greece?", "he": "מה היה 'פוליס' ביוון העתיקה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "The Greek word for a temple", "he": "המילה היוונית למקדש" } },
+        { "id": "b", "text": { "en": "An independent city-state with its own government and laws", "he": "מדינת-עיר עצמאית עם ממשלה וחוקים משלה" } },
+        { "id": "c", "text": { "en": "A Greek military unit", "he": "יחידה צבאית יוונית" } },
+        { "id": "d", "text": { "en": "The Greek word for a marketplace", "he": "המילה היוונית לשוק" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "A polis was an ancient Greek city-state — an independent community with its own government, laws, and territory. Ancient Greece was not one unified country but hundreds of independent poleis (plural of polis), including Athens, Sparta, Corinth, and Thebes.", "he": "פוליס הייתה מדינת-עיר יוונית עתיקה — קהילה עצמאית עם ממשלה, חוקים ושטח משלה. יוון העתיקה לא הייתה מדינה מאוחדת אחת אלא מאות פוליסים (יחיד: פוליס) עצמאיים, כולל אתונה, ספרטה, קורינתוס ותבאי." }
+    }
+  ]
+}

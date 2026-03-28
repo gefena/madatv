@@ -1,0 +1,273 @@
+{
+  "id": "m11-cathedral-builders",
+  "episodeNumber": 11,
+  "youtubeId": "1daBlE7QN_4",
+  "videoSources": [],
+  "title": { "en": "The Cathedral Builders", "he": "בוני הקתדרלות" },
+  "summary": {
+    "en": "The High Middle Ages were a time of towering ambition — literally — as generations of craftsmen and architects raised magnificent Gothic cathedrals that still stand today, pointing their soaring spires toward the heavens as expressions of faith. Society was organized under feudalism, with knights swearing loyalty to lords who swore loyalty to kings, while the powerful Catholic Church guided everyday life from birth to death. Beginning in 1096, waves of Crusaders marched from Europe toward Jerusalem to reclaim the Holy Land, bringing together kings, nobles, and thousands of common soldiers in a series of military campaigns that would last nearly two centuries. Among the most famous figures of this era were the German Emperor Frederick Barbarossa, the legendary English crusader King Richard I (the Lionheart), and the brilliant Muslim leader Saladin, who recaptured Jerusalem in 1187. This episode shows how the medieval world was shaped by faith, warfare, and the astonishing engineering achievements of the cathedral builders.",
+    "he": "ימי הביניים הגבוהים היו תקופה של שאיפה מרוממת — ממש כך — כאשר דורות של אומנים ואדריכלים הקימו קתדרלות גותיות מפוארות שעומדות עד היום, מצביעות את מגדליהן הגבוהים לשמיים כביטוי אמונה. החברה התארגנה תחת פיאודליזם, כאשר אבירים נשבעו אמונים לאדונים שנשבעו אמונים למלכים, בעוד הכנסייה הקתולית החזקה הנחתה את החיים היומיומיים מלידה ועד מוות. החל משנת 1096, גלים של צלבנים צעדו מאירופה לכיוון ירושלים כדי לכבוש מחדש את ארץ הקודש, ומשכו יחדיו מלכים, אצילים ואלפי חיילים פשוטים בסדרה של מסעות צבאיים שנמשכו כמעט שני מאות שנה. בין הדמויות המפורסמות ביותר של תקופה זו היו הקיסר הגרמני פרידריך ברברוסה, המלך האנגלי הצלבן האגדי ריצ'רד הראשון (לב הארי), והמנהיג המוסלמי המבריק צלאח א-דין, שכבש מחדש את ירושלים בשנת 1187. פרק זה מציג כיצד העולם של ימי הביניים עוצב על ידי אמונה, מלחמה והישגים הנדסיים מדהימים של בוני הקתדרלות."
+  },
+  "thumbnail": "https://img.youtube.com/vi/1daBlE7QN_4/maxresdefault.jpg",
+  "durationMinutes": 26,
+  "topics": ["Gothic Cathedrals", "Crusades", "Medieval Feudalism", "Knighthood"],
+  "terminology": [
+    {
+      "id": "t-m11-01",
+      "term": { "en": "Gothic Cathedral", "he": "קתדרל גותי" },
+      "definition": {
+        "en": "A style of large Christian church developed in medieval Europe, characterized by pointed arches, flying buttresses, and tall stained glass windows that allowed in colored light. Gothic cathedrals could take over a century to build and were the tallest structures of the Middle Ages.",
+        "he": "סגנון של כנסייה נוצרית גדולה שהתפתחה באירופה של ימי הביניים, המאופיין בקשתות מחודדות, קשתות תומכות ועליות וחלונות ויטראז' גבוהים שאפשרו להכנסת אור צבעוני. קתדרלות גותיות יכלו לקחת יותר ממאה שנה לבנות והיו המבנים הגבוהים ביותר של ימי הביניים."
+      },
+      "category": "architecture"
+    },
+    {
+      "id": "t-m11-02",
+      "term": { "en": "Crusades", "he": "מסעות הצלב" },
+      "definition": {
+        "en": "A series of religious military campaigns launched by Christian Europe between 1096 and 1291 CE with the goal of capturing Jerusalem and the Holy Land from Muslim rule. There were eight major Crusades, and they deeply affected relations between Christians, Muslims, and Jews.",
+        "he": "סדרה של מסעות צבאיים דתיים שהשיקה אירופה הנוצרית בין 1096 ל-1291 לספירה במטרה לכבוש את ירושלים ואת ארץ הקודש משלטון מוסלמי. היו שמונה מסעות צלב עיקריים, והם השפיעו עמוקות על היחסים בין נוצרים, מוסלמים ויהודים."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m11-03",
+      "term": { "en": "Saladin", "he": "צלאח א-דין" },
+      "definition": {
+        "en": "The Sultan of Egypt and Syria who united the Muslim world and recaptured Jerusalem from the Crusaders in 1187 CE. Despite being the enemy of the Crusaders, he was widely respected even by his Christian opponents for his chivalry, courage, and fair treatment of defeated enemies.",
+        "he": "סולטן מצרים וסוריה שאיחד את העולם המוסלמי וכבש מחדש את ירושלים מהצלבנים בשנת 1187 לספירה. למרות שהיה אויב הצלבנים, הוא זכה לכבוד רב אפילו מיריביו הנוצרים על שיבלריותו, אומץ ליבו ויחסו ההוגן לאויבים שנפלו."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m11-04",
+      "term": { "en": "Richard I of England", "he": "ריצ'רד הראשון של אנגליה" },
+      "definition": {
+        "en": "King of England from 1189 to 1199, nicknamed the Lionheart for his bravery in battle. He led the Third Crusade and came close to recapturing Jerusalem, and was famous for his personal combat against Saladin's forces. He spent very little time in England, preferring life as a soldier.",
+        "he": "מלך אנגליה מ-1189 עד 1199, המכונה לב הארי בגלל אומצו בקרב. הוא הוביל את מסע הצלב השלישי וכמעט הצליח לכבוש מחדש את ירושלים, והיה מפורסם בלחימתו האישית מול כוחות צלאח א-דין. הוא בילה זמן מועט מאוד באנגליה, ומעדיף חיים כחייל."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m11-05",
+      "term": { "en": "Frederick Barbarossa", "he": "פרידריך ברברוסה" },
+      "definition": {
+        "en": "The Holy Roman Emperor from 1155 to 1190, whose nickname Barbarossa means Red Beard in Italian. He was one of the most powerful rulers of medieval Europe and led the Third Crusade, though he drowned while crossing a river in Anatolia before reaching the Holy Land.",
+        "he": "הקיסר הרומי הקדוש מ-1155 עד 1190, שכינויו ברברוסה פירושו זקן אדום באיטלקית. הוא היה אחד השליטים החזקים ביותר של אירופה בימי הביניים והוביל את מסע הצלב השלישי, אם כי טבע בעת חציית נהר באנטוליה לפני שהגיע לארץ הקודש."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m11-06",
+      "term": { "en": "Flying Buttress", "he": "קשת תומכת" },
+      "definition": {
+        "en": "An arched stone support that extends from the upper wall of a Gothic cathedral to a pier further away. It allowed cathedral walls to be built much thinner and taller, with large windows, by transferring the weight of the heavy roof outward and downward.",
+        "he": "תמך אבן קשתי המשתרע מהקיר העליון של קתדרל גותי עד לעמוד יותר רחוק. הוא אפשר לבנות קירות קתדרל הרבה יותר דקים וגבוהים, עם חלונות גדולים, על ידי העברת משקל הגג הכבד החוצה ומטה."
+      },
+      "category": "architecture"
+    },
+    {
+      "id": "t-m11-07",
+      "term": { "en": "Chivalry", "he": "שיבלריה" },
+      "definition": {
+        "en": "The code of honorable behavior followed by medieval knights. It required knights to be brave in battle, loyal to their lord, courteous to ladies, and kind to the weak. The ideals of chivalry shaped Western ideas about honorable conduct for centuries.",
+        "he": "קוד ההתנהגות המכובד שאבירי ימי הביניים נדרשו לקיים. הוא דרש מאבירים להיות אמיצים בקרב, נאמנים לאדונם, מנומסים כלפי גבירות ורחמנים כלפי החלשים. אידיאלים אלה עיצבו את הרעיונות המערביים על התנהגות מכובדת במשך מאות שנים."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m11-08",
+      "term": { "en": "Stained Glass", "he": "ויטראז'" },
+      "definition": {
+        "en": "Colorful windows made from pieces of colored glass arranged to form pictures or patterns, commonly found in Gothic cathedrals. Light passing through the brilliant colors created a magical, spiritual atmosphere inside the church and told Bible stories to people who could not read.",
+        "he": "חלונות צבעוניים העשויים מחתיכות זכוכית צבועה הערוכות לצורת תמונות או דוגמאות, שנמצאים לעתים קרובות בקתדרלות גותיות. האור העובר דרך הצבעים הבוהקים יצר אווירה קסומה ורוחנית בתוך הכנסייה ו ייסיפר סיפורי תנ'ך לאנשים שלא ידעו לקרוא."
+      },
+      "category": "architecture"
+    },
+    {
+      "id": "t-m11-09",
+      "term": { "en": "Crusader States", "he": "מדינות הצלבנים" },
+      "definition": {
+        "en": "Small Christian kingdoms and territories established in the Holy Land and surrounding regions after the First Crusade (1096-1099). The most famous was the Kingdom of Jerusalem. These states were constantly under threat from neighboring Muslim rulers and eventually fell to Saladin and later the Mamluks.",
+        "he": "ממלכות ושטחים נוצריים קטנים שהוקמו בארץ הקודש ובאזורים שמסביבה לאחר מסע הצלב הראשון (1096-1099). המפורסמת ביניהן הייתה ממלכת ירושלים. מדינות אלה היו תמיד תחת איום משליטים מוסלמים שכנים ובסופו של דבר נפלו לצלאח א-דין ומאוחר יותר לממלוכים."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m11-10",
+      "term": { "en": "Peasant", "he": "איכר" },
+      "definition": {
+        "en": "A farmer or agricultural worker who formed the lowest and most numerous class in medieval society. Peasants worked long hours farming the land and gave a portion of their crops to their lord. Despite making up most of the population, they had few rights and little power.",
+        "he": "חקלאי או פועל חקלאי שהיווה את הדרגה הנמוכה והרבה ביותר בחברה של ימי הביניים. איכרים עבדו שעות ארוכות בחקלאות ונתנו חלק מגידוליהם לאדונם. למרות שהיוו את רוב האוכלוסייה, היו להם מעט זכויות וכוח."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m11-11",
+      "term": { "en": "Jerusalem", "he": "ירושלים" },
+      "definition": {
+        "en": "A holy city sacred to three religions: Judaism, Christianity, and Islam. During the Middle Ages, it was the ultimate goal of the Crusaders who wanted to control the holy sites there. The city changed hands multiple times between Christian and Muslim rulers.",
+        "he": "עיר קדושה הנחשבת קדושה לשלוש דתות: יהדות, נצרות ואסלאם. במהלך ימי הביניים, היא הייתה המטרה הסופית של הצלבנים שרצו לשלוט באתרים הקדושים שם. העיר החליפה ידיים מספר פעמים בין שליטים נוצרים ומוסלמים."
+      },
+      "category": "religion"
+    },
+    {
+      "id": "t-m11-12",
+      "term": { "en": "Castle", "he": "טירה" },
+      "definition": {
+        "en": "A large, fortified building or complex of buildings used by a lord or king for protection and as a center of power during the Middle Ages. Castles evolved from simple wooden towers into massive stone fortresses with thick walls, towers, moats, and drawbridges.",
+        "he": "בניין מבוצר גדול או מתחם בניינים ששימש אדון או מלך להגנה ולמרכז כוח במהלך ימי הביניים. טירות התפתחו ממגדלי עץ פשוטים למבצרי אבן עצומים עם קירות עבים, מגדלים, חפירים וגשרי פחת."
+      },
+      "category": "architecture"
+    },
+    {
+      "id": "t-m11-13",
+      "term": { "en": "Pope Urban II", "he": "האפיפיור אורבן השני" },
+      "definition": {
+        "en": "The Pope who launched the First Crusade in 1095 CE with a famous speech at Clermont, France, calling on European Christians to take up arms and recapture the Holy Land. His call was met with enormous enthusiasm, with crowds shouting God wills it.",
+        "he": "האפיפיור שהשיק את מסע הצלב הראשון בשנת 1095 לספירה עם נאום מפורסם בקלרמון, צרפת, וקרא לנוצרים אירופיים לקחת נשק ולכבוש מחדש את ארץ הקודש. קריאתו נתקלה בהתלהבות עצומה, כשהמונים צועקים דייוס וולט (אלוהים חפץ בכך)."
+      },
+      "category": "history"
+    },
+    {
+      "id": "t-m11-14",
+      "term": { "en": "Moat", "he": "חפיר" },
+      "definition": {
+        "en": "A deep, wide trench surrounding a castle, often filled with water, that served as a defensive barrier against attackers. To enter or leave the castle, people used a drawbridge that could be raised to block enemies from crossing the moat.",
+        "he": "תעלה עמוקה ורחבה המקיפה טירה, הממולאת לעתים במים, ששימשה כמחסום הגנתי מפני תוקפים. כדי להיכנס לטירה או לצאת ממנה, אנשים השתמשו בגשר פחת שניתן להרים כדי לחסום מהאויבים לחצות את החפיר."
+      },
+      "category": "architecture"
+    },
+    {
+      "id": "t-m11-15",
+      "term": { "en": "Medieval Guild", "he": "גילדה של ימי הביניים" },
+      "definition": {
+        "en": "An association of craftsmen or merchants in medieval Europe who worked in the same trade. Guilds controlled the quality of goods, trained apprentices, and set prices. Cathedral builders formed guilds of stonemasons and architects who passed down their extraordinary building knowledge.",
+        "he": "איגוד של אומנים או סוחרים באירופה של ימי הביניים שעסקו באותו מקצוע. גילדות שלטו באיכות הסחורות, אימנו חניכים וקבעו מחירים. בוני הקתדרלות הקימו גילדות של קמורנים ואדריכלים שהעבירו את ידע הבנייה יוצא הדופן שלהם."
+      },
+      "category": "history"
+    }
+  ],
+  "trivia": [
+    {
+      "id": "q-m11-01",
+      "question": { "en": "What was the main goal of the Crusades?", "he": "מה הייתה המטרה העיקרית של מסעות הצלב?" },
+      "choices": [
+        { "id": "a", "text": { "en": "To spread the Latin language across Europe", "he": "להפיץ את השפה הלטינית ברחבי אירופה" } },
+        { "id": "b", "text": { "en": "To defeat the Byzantine Empire", "he": "להביס את האימפריה הביזנטית" } },
+        { "id": "c", "text": { "en": "To capture Jerusalem and the Holy Land from Muslim rule", "he": "לכבוש את ירושלים ואת ארץ הקודש משלטון מוסלמי" } },
+        { "id": "d", "text": { "en": "To explore and map the world", "he": "לחקור ולמפות את העולם" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "The Crusades were religious military campaigns launched by Christian Europe to capture Jerusalem and the Holy Land. Pope Urban II launched the First Crusade in 1095 CE with a famous speech calling Christians to arms.", "he": "מסעות הצלב היו מסעות צבאיים דתיים שהשיקה אירופה הנוצרית לכבוש את ירושלים ואת ארץ הקודש. האפיפיור אורבן השני השיק את מסע הצלב הראשון בשנת 1095 לספירה עם נאום מפורסם שקרא לנוצרים לנשק." }
+    },
+    {
+      "id": "q-m11-02",
+      "question": { "en": "Which Muslim leader recaptured Jerusalem from the Crusaders in 1187 CE?", "he": "איזה מנהיג מוסלמי כבש מחדש את ירושלים מהצלבנים בשנת 1187 לספירה?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Muhammad", "he": "מוחמד" } },
+        { "id": "b", "text": { "en": "Saladin", "he": "צלאח א-דין" } },
+        { "id": "c", "text": { "en": "Suleiman the Magnificent", "he": "סולימאן המפואר" } },
+        { "id": "d", "text": { "en": "Genghis Khan", "he": "ג'ינגיס חאן" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Saladin, the Sultan of Egypt and Syria, united the Muslim world and recaptured Jerusalem in 1187 CE. He was respected even by his Christian enemies for his honor and fair treatment of defeated opponents.", "he": "צלאח א-דין, סולטן מצרים וסוריה, איחד את העולם המוסלמי וכבש מחדש את ירושלים בשנת 1187 לספירה. הוא זכה לכבוד אפילו מיריביו הנוצרים על כבודו ויחסו ההוגן ליריבים שנפלו." }
+    },
+    {
+      "id": "q-m11-03",
+      "question": { "en": "What architectural feature allowed Gothic cathedral walls to have large windows?", "he": "איזה מאפיין אדריכלי אפשר לקירות הקתדרל הגותי לכלול חלונות גדולים?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Iron reinforcements inside the walls", "he": "חיזוקי ברזל בתוך הקירות" } },
+        { "id": "b", "text": { "en": "Special lightweight stone from France", "he": "אבן קלת משקל מיוחדת מצרפת" } },
+        { "id": "c", "text": { "en": "Flying buttresses that transferred the roof weight outward", "he": "קשתות תומכות שהעבירו את משקל הגג החוצה" } },
+        { "id": "d", "text": { "en": "Round Roman arches that supported heavier loads", "he": "קשתות עגולות רומיות שתמכו בעומסים כבדים יותר" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Flying buttresses were external stone arches that transferred the weight of the heavy roof away from the walls. This allowed cathedral walls to be thinner with large stained glass windows instead of thick, solid stone.", "he": "קשתות תומכות היו קשתות אבן חיצוניות שהעבירו את משקל הגג הכבד מהקירות. זה אפשר לקירות הקתדרל להיות דקים יותר עם חלונות ויטראז' גדולים במקום אבן עבה ומוצקה." }
+    },
+    {
+      "id": "q-m11-04",
+      "question": { "en": "What was the nickname of King Richard I of England who led the Third Crusade?", "he": "מה היה כינויו של המלך ריצ'רד הראשון של אנגליה שהוביל את מסע הצלב השלישי?" },
+      "choices": [
+        { "id": "a", "text": { "en": "The Bold", "he": "האמיץ" } },
+        { "id": "b", "text": { "en": "The Great", "he": "הגדול" } },
+        { "id": "c", "text": { "en": "The Hammer", "he": "הפטיש" } },
+        { "id": "d", "text": { "en": "The Lionheart", "he": "לב הארי" } }
+      ],
+      "correctChoice": "d",
+      "explanation": { "en": "Richard I was nicknamed the Lionheart for his renowned personal bravery in battle. He led the Third Crusade and fought directly against Saladin, coming close to recapturing Jerusalem though he never succeeded.", "he": "ריצ'רד הראשון כונה לב הארי בגלל אומצו האישי המפורסם בקרב. הוא הוביל את מסע הצלב השלישי ונלחם ישירות מול צלאח א-דין, וכמעט הצליח לכבוש מחדש את ירושלים אם כי לא הצליח." }
+    },
+    {
+      "id": "q-m11-05",
+      "question": { "en": "What was the code of honorable behavior followed by medieval knights called?", "he": "כיצד נקרא קוד ההתנהגות המכובד שאבירי ימי הביניים נדרשו לקיים?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Feudalism", "he": "פיאודליזם" } },
+        { "id": "b", "text": { "en": "Chivalry", "he": "שיבלריה" } },
+        { "id": "c", "text": { "en": "Crusading", "he": "צלבנות" } },
+        { "id": "d", "text": { "en": "Monasticism", "he": "נזירות" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Chivalry was the code of honor that medieval knights were supposed to follow. It required bravery in battle, loyalty to their lord, courtesy to women, and kindness to the weak. These ideals shaped Western culture for centuries.", "he": "שיבלריה היה קוד הכבוד שאבירי ימי הביניים אמורים היו לקיים. הוא דרש אומץ בקרב, נאמנות לאדון, נימוס כלפי נשים ורחמים כלפי החלשים. אידיאלים אלה עיצבו את התרבות המערבית במשך מאות שנים." }
+    },
+    {
+      "id": "q-m11-06",
+      "question": { "en": "What were stained glass windows in cathedrals used for, beyond decoration?", "he": "לשם מה שימשו חלונות הויטראז' בקתדרלות, מעבר לקישוט?" },
+      "choices": [
+        { "id": "a", "text": { "en": "To heat the cathedral in winter", "he": "לחמם את הקתדרל בחורף" } },
+        { "id": "b", "text": { "en": "To tell Bible stories to people who could not read", "he": "לספר סיפורי תנ'ך לאנשים שלא ידעו לקרוא" } },
+        { "id": "c", "text": { "en": "To keep enemies from shooting arrows through the walls", "he": "למנוע מאויבים לירות חצים דרך הקירות" } },
+        { "id": "d", "text": { "en": "To show which part of the church was for men and which for women", "he": "להראות איזה חלק מהכנסייה מיועד לגברים ואיזה לנשים" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Since most medieval people could not read, stained glass windows served as visual Bibles, telling stories from scripture through pictures made of colored glass. The brilliant colors also created a spiritual and awe-inspiring atmosphere.", "he": "מכיוון שרוב אנשי ימי הביניים לא ידעו לקרוא, חלונות הויטראז' שימשו כתנ'כים חזותיים, מספרים סיפורים מהכתובים דרך תמונות עשויות זכוכית צבועה. הצבעים הבוהקים יצרו גם אווירה רוחנית ומעוררת יראה." }
+    },
+    {
+      "id": "q-m11-07",
+      "question": { "en": "What was Frederick Barbarossa's nickname and what did it mean?", "he": "מה היה כינויו של פרידריך ברברוסה ומה פירושו?" },
+      "choices": [
+        { "id": "a", "text": { "en": "Barbarossa means Great Warrior in German", "he": "ברברוסה פירושו לוחם גדול בגרמנית" } },
+        { "id": "b", "text": { "en": "Barbarossa means Red Beard in Italian", "he": "ברברוסה פירושו זקן אדום באיטלקית" } },
+        { "id": "c", "text": { "en": "Barbarossa means Barbarian King in Latin", "he": "ברברוסה פירושו מלך הברברים בלטינית" } },
+        { "id": "d", "text": { "en": "Barbarossa means Holy Emperor in French", "he": "ברברוסה פירושו קיסר קדוש בצרפתית" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "Barbarossa is an Italian word meaning Red Beard, referring to the Holy Roman Emperor Frederick I's distinctive red beard. He was one of the most powerful medieval rulers and led the Third Crusade before drowning in 1190.", "he": "ברברוסה הוא מילה איטלקית שפירושה זקן אדום, המתייחסת לזקנו האדום המייחד של הקיסר הרומי הקדוש פרידריך הראשון. הוא היה אחד השליטים החזקים ביותר של ימי הביניים והוביל את מסע הצלב השלישי לפני שטבע בשנת 1190." }
+    },
+    {
+      "id": "q-m11-08",
+      "question": { "en": "What was a medieval guild?", "he": "מה הייתה גילדה של ימי הביניים?" },
+      "choices": [
+        { "id": "a", "text": { "en": "A type of musical group that performed at court", "he": "סוג של קבוצה מוסיקלית שהופיעה בחצר" } },
+        { "id": "b", "text": { "en": "A religious order of monks", "he": "מסדר דתי של נזירים" } },
+        { "id": "c", "text": { "en": "An association of craftsmen who worked in the same trade", "he": "איגוד של אומנים שעסקו באותו מקצוע" } },
+        { "id": "d", "text": { "en": "A council of nobles who advised the king", "he": "מועצה של אצילים שייעצו למלך" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Medieval guilds were associations of craftsmen or merchants working in the same trade. They trained apprentices, set quality standards, and controlled prices. Stonemasons and architects who built cathedrals formed their own prestigious guilds.", "he": "גילדות של ימי הביניים היו איגודים של אומנים או סוחרים שעסקו באותו מקצוע. הם אימנו חניכים, קבעו תקני איכות ושלטו במחירים. קמורנים ואדריכלים שבנו קתדרלות הקימו גילדות יוקרתיות משלהם." }
+    },
+    {
+      "id": "q-m11-09",
+      "question": { "en": "In what year did the First Crusade begin?", "he": "באיזו שנה החל מסע הצלב הראשון?" },
+      "choices": [
+        { "id": "a", "text": { "en": "1066 CE", "he": "1066 לספירה" } },
+        { "id": "b", "text": { "en": "1096 CE", "he": "1096 לספירה" } },
+        { "id": "c", "text": { "en": "800 CE", "he": "800 לספירה" } },
+        { "id": "d", "text": { "en": "1187 CE", "he": "1187 לספירה" } }
+      ],
+      "correctChoice": "b",
+      "explanation": { "en": "The First Crusade began in 1096 CE after Pope Urban II's famous call to arms at Clermont in 1095. The Crusaders reached Jerusalem in 1099 and captured the city, establishing the Crusader Kingdom of Jerusalem.", "he": "מסע הצלב הראשון החל בשנת 1096 לספירה לאחר קריאתו המפורסמת לנשק של האפיפיור אורבן השני בקלרמון בשנת 1095. הצלבנים הגיעו לירושלים בשנת 1099 וכבשו את העיר, וכוננו את ממלכת ירושלים הצלבנית." }
+    },
+    {
+      "id": "q-m11-10",
+      "question": { "en": "How long could it take to build a Gothic cathedral?", "he": "כמה זמן יכול היה לקחת לבנות קתדרל גותי?" },
+      "choices": [
+        { "id": "a", "text": { "en": "About 5 years", "he": "כחמש שנים" } },
+        { "id": "b", "text": { "en": "About 20 years", "he": "כעשרים שנה" } },
+        { "id": "c", "text": { "en": "More than 100 years", "he": "יותר מ-100 שנה" } },
+        { "id": "d", "text": { "en": "About 50 years", "he": "כחמישים שנה" } }
+      ],
+      "correctChoice": "c",
+      "explanation": { "en": "Many Gothic cathedrals took over a century to complete. The builders who laid the foundations often never saw the finished building, and construction passed from generation to generation. Cologne Cathedral in Germany took over 600 years to finish.", "he": "קתדרלות גותיות רבות לקחו יותר ממאה שנה להשלים. הבנאים שהניחו את היסודות לעתים קרובות מעולם לא ראו את הבניין הגמור, והבנייה עברה מדור לדור. הקתדרל של קלן בגרמניה לקח יותר מ-600 שנה לסיים." }
+    }
+  ]
+}
